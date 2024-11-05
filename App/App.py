@@ -22,7 +22,8 @@ for pdf_path in all_pdf_paths:
 print(f"Total loaded document chunks: {len(documents)}")
 
 # Set up embeddings and LLM with Google Gemini API
-GEMINI_API_KEY = "AIzaSyDFQrUxPXyeVGU66oxymNMeK9IZy_Z272U"
+from dotenv import load_dotenv
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=GEMINI_API_KEY)
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=GEMINI_API_KEY)
 
