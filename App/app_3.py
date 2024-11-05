@@ -13,6 +13,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores import FAISS
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain.schema import HumanMessage
+from dotenv import load_dotenv
 
 # KOMENTAR TEST
 
@@ -47,7 +48,8 @@ def init_recommendation():
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
         documents.extend(text_splitter.split_documents(pdf_docs))
     
-    GEMINI_API_KEY = "AIzaSyDFQrUxPXyeVGU66oxymNMeK9IZy_Z272U"  # Replace with your actual API key
+    load_dotenv()
+    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
     embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=GEMINI_API_KEY)
     llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=GEMINI_API_KEY)
     
