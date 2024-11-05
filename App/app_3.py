@@ -14,6 +14,8 @@ from langchain.vectorstores import FAISS
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain.schema import HumanMessage
 
+# KOMENTAR TEST
+
 # Initialize session state for navigation
 if 'page' not in st.session_state:
     st.session_state.page = 'Home'
