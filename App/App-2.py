@@ -1,11 +1,4 @@
 import streamlit as st
-import numpy as np
-import pandas as pd
-import tensorflow as tf
-from tensorflow.keras.models import Sequential
-from sklearn.preprocessing import MinMaxScaler
-from sklearn.model_selection import train_test_split
-from tensorflow.keras.layers import LSTM, Dense
 import os
 import glob
 from langchain.document_loaders import PyPDFLoader
@@ -20,23 +13,23 @@ if 'page' not in st.session_state:
     st.session_state.page = 'Home'
 
 # Sidebar navigation
-st.sidebar.title('Navigation')
+st.sidebar.title('HajranAI')
 
 # Navigation buttons
-if st.sidebar.button('HOME'):
+if st.sidebar.button('🏠 Home'):
     st.session_state.page = 'Home'
-if st.sidebar.button('PREDICTION'):
+if st.sidebar.button('🔍 Prediction'):
     st.session_state.page = 'Prediction'
-if st.sidebar.button('RECOMMENDATION'):
+if st.sidebar.button('💡 Recommendation'):
     st.session_state.page = 'Recommendation'
-if st.sidebar.button('About Us'):
+if st.sidebar.button('📖 About Us'):
     st.session_state.page = 'About'
 
 # Recommendation System Functions
 @st.cache_resource
 def init_recommendation():
     # Load all PDFs from the specified folder
-    pdf_folder_path = "./Data/"
+    pdf_folder_path = "../Data/"
     all_pdf_paths = glob.glob(os.path.join(pdf_folder_path, "*.pdf"))
     
     documents = []
@@ -56,35 +49,68 @@ def init_recommendation():
 
     return llm, retriever
 
-# Define RAG prompt templates for different recommendations
-def generate_treatment_prompt(query, context):
-    prompt = f"""
-    Anda adalah seorang ahli kesehatan yang membantu petugas kesehatan untuk memberikan rekomendasi pengobatan kepada pasien berdasarkan informasi yang tersedia.
+# Page Functions
+def show_home():
+    # Menggunakan HTML untuk mengatur perataan
+    st.markdown("<h1 style='text-align: center;'>Selamat Datang di Sistem Pemantauan Kesehatan</h1>", unsafe_allow_html=True)
+    st.markdown("""
+    <p style='text-align: center;'>
+    Penyakit Paru Obstruktif Kronik (PPOK) adalah penyakit paru-paru yang serius 
+    yang menghalangi aliran udara dan membuatnya sulit untuk bernapas. 
+    PPOK biasanya disebabkan oleh paparan jangka panjang terhadap iritasi paru 
+    (seperti asap rokok) dan dapat menyebabkan gejala seperti batuk, 
+    sesak napas, dan kelelahan.
+    </p>
+    """, unsafe_allow_html=True)
 
-    *Profil dan Riwayat Pasien*:
+    st.markdown("<h2 style='text-align: center;'>Fakta Menarik tentang PPOK:</h2>", unsafe_allow_html=True)
+    st.write("""
+    - Prevalensi Tinggi: Sekitar 250 juta orang di seluruh dunia menderita PPOK.
+    - Penyebab Utama: Merokok adalah penyebab utama PPOK, tetapi paparan polusi 
+      udara, debu, dan bahan kimia juga berkontribusi.
+    - Deteksi Dini: Tes fungsi paru-paru dapat membantu mendeteksi PPOK 
+      lebih awal, bahkan sebelum gejala muncul.
+    - Pengelolaan: Dengan perawatan yang tepat, orang dengan PPOK dapat 
+      menjalani hidup yang aktif dan sehat.
+    """)
+
+    st.markdown("<h2 style='text-align: center;'>Data PPOK</h2>", unsafe_allow_html=True)
+    st.write("""
+    Menurut data dari WHO, PPOK adalah penyebab kematian ketiga terbesar 
+    di dunia setelah penyakit jantung dan stroke. Pencegahan melalui 
+    penghindaran rokok dan pengelolaan lingkungan dapat mengurangi 
+    risiko pengembangan PPOK.
+    """)
+
+# Define RAG prompt templates for different recommendations
+def generate_treatment_prompt(query, context, recommendation_type):
+    prompt = f"""
+    Anda adalah seorang ahli kesehatan khususnya penyakit PPOK (penyakit paru obstruktif kronik) yang membantu petugas kesehatan untuk memberikan rekomendasi pengobatan kepada pasien berdasarkan informasi yang tersedia.
+
+    **Profil dan Riwayat Pasien**:
     {query}
 
-    *Riwayat Medis dan Keterangan Medis*:
+    **Riwayat Medis dan Keterangan Medis**:
     {context}
 
-    Berdasarkan informasi di atas, berikan rekomendasi pengobatan yang singkat namun spesifik dan jelas meliputi:
+    Berdasarkan informasi di atas, berikan rekomendasi pengobatan yang singkat namun spesifik dan jelas yang meliputi:
     1. Obat yang disarankan beserta dosisnya (jika mungkin).
     2. Metode pengobatan yang sesuai.
     3. Langkah perawatan yang harus dilakukan oleh petugas medis terhadap pasien.
     """
     return prompt
 
-def generate_lifestyle_prompt(query, context):
+def generate_lifestyle_prompt(query, context, recommendation_type):
     prompt = f"""
-    Anda adalah seorang ahli kesehatan yang membantu petugas kesehatan memberikan rekomendasi pola hidup sehat kepada pasien yang terindikasi TB atau tidak dengan informasi berikut.
+    Anda adalah seorang ahli kesehatan khususnya penyakit PPOK (penyakit paru obstruktif kronik) yang membantu petugas kesehatan memberikan rekomendasi pola hidup sehat kepada pasien yang terindikasi TB atau tidak dengan informasi berikut.
 
-    *Profil dan Riwayat Pasien*:
+    **Profil dan Riwayat Pasien**:
     {query}
 
-    *Riwayat Medis dan Keterangan Medis*:
+    **Riwayat Medis dan Keterangan Medis**:
     {context}
 
-    Berdasarkan informasi di atas, berikan rekomendasi pola hidup yang singkat namun spesifik dan jelas yang mencakup:
+    Berdasarkan informasi di atas, berikan rekomendasi pola hidup yang singkat namun spesifik yang mencakup:
     1. Aktivitas fisik yang aman dan direkomendasikan (misalnya, jenis olahraga dan frekuensinya).
     2. Pola makan dan jenis makanan yang sebaiknya dikonsumsi dan dihindari (contoh: makanan yang meningkatkan imunitas).
     3. Kebiasaan sehari-hari yang dapat membantu pemulihan, termasuk tips manajemen stres dan tidur.
@@ -92,17 +118,17 @@ def generate_lifestyle_prompt(query, context):
     """
     return prompt
 
-def generate_followup_prompt(query, context):
+def generate_followup_prompt(query, context, recommendation_type):
     prompt = f"""
-    Anda adalah seorang ahli kesehatan yang memberikan rekomendasi penanganan lanjutan bagi petugas kesehatan untuk pasien yang terindikasi TB atau tidak dengan informasi berikut.
+    Anda adalah seorang ahli kesehatan khususnya penyakit PPOK (penyakit paru obstruktif kronik) yang memberikan rekomendasi penanganan lanjutan bagi petugas kesehatan untuk pasien yang terindikasi TB atau tidak dengan informasi berikut.
 
-    *Profil dan Riwayat Pasien*:
+    **Profil dan Riwayat Pasien**:
     {query}
 
-    *Riwayat Medis dan Keterangan Medis*:
+    **Riwayat Medis dan Keterangan Medis**:
     {context}
 
-    Berdasarkan informasi di atas, berikan rekomendasi penanganan lanjutan yang singkat namun spesifik dan jelas mencakup:
+    Berdasarkan informasi di atas, berikan rekomendasi penanganan lanjutan yang singkat namun spesifik mencakup:
     1. Jadwal kontrol kesehatan atau pemeriksaan lanjutan yang disarankan.
     2. Pengujian tambahan atau pemeriksaan yang mungkin diperlukan (contoh: X-ray atau tes laboratorium).
     3. Tanda atau gejala yang perlu diwaspadai sebagai indikasi komplikasi.
@@ -110,89 +136,9 @@ def generate_followup_prompt(query, context):
     """
     return prompt
 
-# Prediction System Functions
-@st.cache_resource
-def init_prediction():
-    # Create dummy data
-    np.random.seed(42)
-    data = pd.DataFrame({
-        'age': np.random.randint(40, 80, 100),
-        'smoking_history': np.random.choice([0, 1], size=100),
-        'exposure_to_pollution': np.random.uniform(0, 100, 100),
-        'lung_function': np.random.uniform(0.6, 1.2, 100)
-    })
-    data['risk'] = np.where(data['lung_function'] < 0.8, 1, 0)
-    
-    # Preprocessing
-    scaler = MinMaxScaler()
-    data[['age', 'smoking_history', 'exposure_to_pollution', 'lung_function']] = scaler.fit_transform(
-        data[['age', 'smoking_history', 'exposure_to_pollution', 'lung_function']]
-    )
-    
-    # Train model
-    X = data[['age', 'smoking_history', 'exposure_to_pollution', 'lung_function']].values
-    y = data['risk'].values
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-    
-    X_train = X_train.reshape((X_train.shape[0], 1, X_train.shape[1]))
-    X_test = X_test.reshape((X_test.shape[0], 1, X_test.shape[1]))
-    
-    model = Sequential([
-        LSTM(50, activation='relu', input_shape=(X_train.shape[1], X_train.shape[2])),
-        Dense(1, activation='sigmoid')
-    ])
-    model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
-    model.fit(X_train, y_train, epochs=10, batch_size=4, validation_data=(X_test, y_test))
-    
-    return model, scaler
-
-def predict_risk(model, scaler, input_data):
-    input_data = scaler.transform(input_data)
-    input_data = input_data.reshape((input_data.shape[0], 1, input_data.shape[1]))
-    prediction = model.predict(input_data)
-    return prediction
-
-def get_recommendation(prediction):
-    if prediction > 0.5:
-        return "Risiko PPOK tinggi: Hindari paparan polusi, lakukan pemeriksaan fungsi paru secara berkala, pertimbangkan berhenti merokok."
-    else:
-        return "Risiko PPOK rendah: Pertahankan gaya hidup sehat dan hindari paparan polusi."
-
-# Page Functions
-def show_home():
-    st.title("Selamat Datang di Sistem Pemantauan Kesehatan")
-    st.write("""
-    Sistem ini menyediakan dua layanan utama:
-    1. Prediksi risiko PPOK berdasarkan data kesehatan Anda
-    2. Rekomendasi kesehatan personal berdasarkan profil medis Anda
-    
-    Silakan pilih menu di sidebar untuk mengakses layanan yang Anda butuhkan.
-    """)
-
 def show_prediction():
     st.title("Prediksi Risiko PPOK")
-    
-    model, scaler = init_prediction()
-    
-    age = st.number_input("Masukkan Usia:", min_value=0, max_value=120)
-    smoking_history = st.selectbox("Pernah Merokok? (1: merokok, 0: tidak merokok)", [0, 1])
-    exposure_to_pollution = st.slider("Paparan Polusi (%)", 0.0, 100.0, 50.0)
-    lung_function = st.slider("Fungsi Paru-paru", 0.6, 1.2, 0.8)
-    
-    input_data = np.array([[age, smoking_history, exposure_to_pollution, lung_function]])
-    
-    if st.button("Prediksi Risiko"):
-        risk_prediction = predict_risk(model, scaler, input_data)
-        risk_level = "Tinggi" if risk_prediction > 0.5 else "Rendah"
-        recommendation = get_recommendation(risk_prediction)
-        
-        st.write(f"Prediksi Risiko PPOK: *{risk_level}*")
-        st.write(f"Rekomendasi: {recommendation}")
-        
-        if risk_prediction > 0.5:
-            st.warning("Risiko PPOK Tinggi! Segera lakukan tindakan preventif untuk menanganinya.")
-        else:
-            st.success("Risiko PPOK Rendah, tetap jaga kesehatan!")
+    st.write("Prediction in process")
 
 def show_recommendation():
     st.title("Sistem Rekomendasi Kesehatan")
@@ -202,7 +148,7 @@ def show_recommendation():
     profil_pasien = st.text_input("Masukkan Profil Pasien (umur, jenis kelamin, dll):")
     riwayat_pasien = st.text_area("Masukkan Riwayat Pasien:")
     pola_hidup = st.text_area("Masukkan Pola Hidup Pasien:")
-    hasil_ctscan = st.selectbox("Masukkan Hasil CT Scan", ("TB", "Tidak TB"))
+    hasil_pred = st.selectbox("Masukkan Hasil Prediksi", ("PPOK", "Tidak PPOK"))
     
     recommendation_type = st.radio("Pilih Jenis Rekomendasi:",
                                  ("Rekomendasi Pengobatan",
@@ -210,7 +156,7 @@ def show_recommendation():
                                   "Rekomendasi Penanganan Lanjutan"))
     
     if st.button("Dapatkan Rekomendasi"):
-        query = f"Profil pasien: {profil_pasien}. Riwayat: {riwayat_pasien}. Pola Hidup:{pola_hidup}. Hasil CT Scan: {hasil_ctscan}."
+        query = f"Profil pasien: {profil_pasien}. Riwayat: {riwayat_pasien}. Pola Hidup: {pola_hidup}. Hasil Prediksi: {hasil_pred}."
         context = "\n".join([result.page_content for result in retriever.get_relevant_documents(query)])
         
         if recommendation_type == "Rekomendasi Pengobatan":
@@ -249,5 +195,5 @@ def main():
     elif st.session_state.page == 'About':
         show_about()
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
