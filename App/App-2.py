@@ -46,6 +46,7 @@ def init_recommendation():
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
         documents.extend(text_splitter.split_documents(pdf_docs))
     
+    load_dotenv()
     GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
     embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=GEMINI_API_KEY)
     llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=GEMINI_API_KEY)
