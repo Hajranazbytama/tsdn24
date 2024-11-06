@@ -38,7 +38,7 @@ if st.sidebar.button('About Us'):
 @st.cache_resource
 def init_recommendation():
     # Load all PDFs from the specified folder
-    pdf_folder_path = "./Data/"
+    pdf_folder_path = "../Data/"
     all_pdf_paths = glob.glob(os.path.join(pdf_folder_path, "*.pdf"))
     
     documents = []

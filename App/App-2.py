@@ -1,6 +1,9 @@
 import streamlit as st
 import os
 import glob
+import numpy as np
+import pandas as pd
+import joblib
 from langchain.document_loaders import PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores import FAISS
@@ -8,9 +11,11 @@ from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmb
 from langchain.schema import HumanMessage
 from dotenv import load_dotenv
 
-# Initialize session state for navigation
+# Initialize session state for navigation and data
 if 'page' not in st.session_state:
     st.session_state.page = 'Home'
+if 'prediction_data' not in st.session_state:
+    st.session_state.prediction_data = None
 
 # Sidebar navigation
 st.sidebar.title('HajranAI')
@@ -28,7 +33,6 @@ if st.sidebar.button('📖 About Us'):
 # Recommendation System Functions
 @st.cache_resource
 def init_recommendation():
-    # Load all PDFs from the specified folder
     pdf_folder_path = "../Data/"
     all_pdf_paths = glob.glob(os.path.join(pdf_folder_path, "*.pdf"))
     
@@ -49,41 +53,16 @@ def init_recommendation():
 
     return llm, retriever
 
-# Page Functions
-def show_home():
-    # Menggunakan HTML untuk mengatur perataan
-    st.markdown("<h1 style='text-align: center;'>Selamat Datang di Sistem Pemantauan Kesehatan</h1>", unsafe_allow_html=True)
-    st.markdown("""
-    <p style='text-align: center;'>
-    Penyakit Paru Obstruktif Kronik (PPOK) adalah penyakit paru-paru yang serius 
-    yang menghalangi aliran udara dan membuatnya sulit untuk bernapas. 
-    PPOK biasanya disebabkan oleh paparan jangka panjang terhadap iritasi paru 
-    (seperti asap rokok) dan dapat menyebabkan gejala seperti batuk, 
-    sesak napas, dan kelelahan.
-    </p>
-    """, unsafe_allow_html=True)
-
-    st.markdown("<h2 style='text-align: center;'>Fakta Menarik tentang PPOK:</h2>", unsafe_allow_html=True)
-    st.write("""
-    - Prevalensi Tinggi: Sekitar 250 juta orang di seluruh dunia menderita PPOK.
-    - Penyebab Utama: Merokok adalah penyebab utama PPOK, tetapi paparan polusi 
-      udara, debu, dan bahan kimia juga berkontribusi.
-    - Deteksi Dini: Tes fungsi paru-paru dapat membantu mendeteksi PPOK 
-      lebih awal, bahkan sebelum gejala muncul.
-    - Pengelolaan: Dengan perawatan yang tepat, orang dengan PPOK dapat 
-      menjalani hidup yang aktif dan sehat.
-    """)
-
-    st.markdown("<h2 style='text-align: center;'>Data PPOK</h2>", unsafe_allow_html=True)
-    st.write("""
-    Menurut data dari WHO, PPOK adalah penyebab kematian ketiga terbesar 
-    di dunia setelah penyakit jantung dan stroke. Pencegahan melalui 
-    penghindaran rokok dan pengelolaan lingkungan dapat mengurangi 
-    risiko pengembangan PPOK.
-    """)
+# Load Model for Prediction
+@st.cache_resource
+def load_model():
+    # Load the model using joblib
+    model_path = "../Model_Prediction/Output_Model/xgboost_model_copd.pkl"
+    model = joblib.load(model_path)
+    return model
 
 # Define RAG prompt templates for different recommendations
-def generate_treatment_prompt(query, context, recommendation_type):
+def generate_treatment_prompt(query, context):
     prompt = f"""
     Anda adalah seorang ahli kesehatan khususnya penyakit PPOK (penyakit paru obstruktif kronik) yang membantu petugas kesehatan untuk memberikan rekomendasi pengobatan kepada pasien berdasarkan informasi yang tersedia.
 
@@ -100,7 +79,7 @@ def generate_treatment_prompt(query, context, recommendation_type):
     """
     return prompt
 
-def generate_lifestyle_prompt(query, context, recommendation_type):
+def generate_lifestyle_prompt(query, context):
     prompt = f"""
     Anda adalah seorang ahli kesehatan khususnya penyakit PPOK (penyakit paru obstruktif kronik) yang membantu petugas kesehatan memberikan rekomendasi pola hidup sehat kepada pasien yang terindikasi TB atau tidak dengan informasi berikut.
 
@@ -118,7 +97,7 @@ def generate_lifestyle_prompt(query, context, recommendation_type):
     """
     return prompt
 
-def generate_followup_prompt(query, context, recommendation_type):
+def generate_followup_prompt(query, context):
     prompt = f"""
     Anda adalah seorang ahli kesehatan khususnya penyakit PPOK (penyakit paru obstruktif kronik) yang memberikan rekomendasi penanganan lanjutan bagi petugas kesehatan untuk pasien yang terindikasi TB atau tidak dengan informasi berikut.
 
@@ -136,64 +115,120 @@ def generate_followup_prompt(query, context, recommendation_type):
     """
     return prompt
 
-def show_prediction():
+# Page Functions
+def show_home():
+    st.markdown("<h1 style='text-align: center;'>Selamat Datang di Sistem Pemantauan Kesehatan</h1>", unsafe_allow_html=True)
+    st.write("""
+    Penyakit Paru Obstruktif Kronik (PPOK) adalah penyakit paru-paru yang serius 
+    yang menghalangi aliran udara dan membuatnya sulit untuk bernapas.
+    """)
+
+def show_prediction(model):
     st.title("Prediksi Risiko PPOK")
-    st.write("Prediction in process")
+
+    # Input fields for prediction
+    fev1pred = st.number_input("FEV1 PRED", min_value=0.0, max_value=150.0, step=0.1)
+    age = st.number_input("Umur", min_value=0, max_value=100, step=1)
+    mwt1best = st.number_input("MWT1 Best", min_value=120.0, max_value=800.0, step=0.1)
+    sgrq = st.number_input("SGRQ", min_value=0.0, max_value=100.0, step=0.1)
+    smoking = st.selectbox("Status Merokok", ("Perokok", "Bukan Perokok"))
+
+    # Preprocess smoking status
+    smoking_mapping = {"Perokok": 1, "Bukan Perokok": 2}
+    smoking_encoded = smoking_mapping[smoking]
+
+    # model = load_model()
+
+    if st.button("Prediksi"):
+        
+        # if model is not None:
+        # Create input data as a DataFrame with named columns
+        input_data = pd.DataFrame([[fev1pred, age, mwt1best, sgrq, smoking_encoded]], 
+                                columns=['FEV1PRED', 'AGE', 'MWT1Best', 'SGRQ', 'smoking'])
+        
+        try:
+            predicted_label = model.predict(input_data)[0]
+            hasil_prediksi = (
+                "Ringan" if predicted_label == 1 else
+                "Sedang" if predicted_label == 2 else
+                "Berat/Sangat Berat" if predicted_label == 3 else
+                "Tidak PPOK"
+            )
+            
+            st.write(f"Hasil Prediksi: {hasil_prediksi}")
+            
+            st.session_state.prediction_data = {
+                "FEV1PRED": fev1pred,
+                "AGE": age,
+                "MWT1Best": mwt1best,
+                "SGRQ": sgrq,
+                "smoking": smoking,
+                "hasil_prediksi": hasil_prediksi
+            }
+
+            if st.button("Dapatkan Rekomendasi"):
+                st.session_state.page = 'Recommendation'
+                st.experimental_rerun()
+                
+        except Exception as e:
+            st.error(f"Error during prediction: {str(e)}")
 
 def show_recommendation():
     st.title("Sistem Rekomendasi Kesehatan")
-    
-    llm, retriever = init_recommendation()
-    
-    profil_pasien = st.text_input("Masukkan Profil Pasien (umur, jenis kelamin, dll):")
-    riwayat_pasien = st.text_area("Masukkan Riwayat Pasien:")
-    pola_hidup = st.text_area("Masukkan Pola Hidup Pasien:")
-    hasil_pred = st.selectbox("Masukkan Hasil Prediksi", ("PPOK", "Tidak PPOK"))
-    
-    recommendation_type = st.radio("Pilih Jenis Rekomendasi:",
-                                 ("Rekomendasi Pengobatan",
-                                  "Rekomendasi Pola Hidup",
-                                  "Rekomendasi Penanganan Lanjutan"))
-    
-    if st.button("Dapatkan Rekomendasi"):
-        query = f"Profil pasien: {profil_pasien}. Riwayat: {riwayat_pasien}. Pola Hidup: {pola_hidup}. Hasil Prediksi: {hasil_pred}."
-        context = "\n".join([result.page_content for result in retriever.get_relevant_documents(query)])
-        
-        if recommendation_type == "Rekomendasi Pengobatan":
-            prompt = generate_treatment_prompt(query=query, context=context)
-        elif recommendation_type == "Rekomendasi Pola Hidup":
-            prompt = generate_lifestyle_prompt(query=query, context=context)
-        else:
-            prompt = generate_followup_prompt(query=query, context=context)
-        
-        messages = [HumanMessage(content=prompt)]
-        answer = llm(messages=messages)
-        st.markdown(answer.content)
+
+    if st.session_state.prediction_data:
+        llm, retriever = init_recommendation()
+
+        pred_data = st.session_state.prediction_data
+        st.write(f"FEV1 PRED: {pred_data['FEV1PRED']}")
+        st.write(f"Umur: {pred_data['AGE']}")
+        st.write(f"MWT1 Best: {pred_data['MWT1Best']}")
+        st.write(f"SGRQ: {pred_data['SGRQ']}")
+        st.write(f"Status Merokok: {pred_data['smoking']}")
+        st.write(f"Hasil Prediksi: {pred_data['hasil_prediksi']}")
+
+        additional_info = st.text_area("Informasi Tambahan")
+
+        recommendation_type = st.radio("Pilih Jenis Rekomendasi:", 
+                                     ("Rekomendasi Pengobatan", 
+                                      "Rekomendasi Pola Hidup Sehat", 
+                                      "Rekomendasi Tindak Lanjut"))
+
+        if st.button("Dapatkan Rekomendasi"):
+            if recommendation_type == "Rekomendasi Pengobatan":
+                context = additional_info
+                prompt = generate_treatment_prompt(str(pred_data), context)
+            elif recommendation_type == "Rekomendasi Pola Hidup Sehat":
+                context = additional_info
+                prompt = generate_lifestyle_prompt(str(pred_data), context)
+            else:
+                context = additional_info
+                prompt = generate_followup_prompt(str(pred_data), context)
+
+            # response = retriever.retriever(prompt)
+            # st.write(f"Rekomendasi: {response}")
+            messages = [HumanMessage(content=prompt)]
+            answer = llm(messages=messages)
+            st.markdown(answer.content)
 
 def show_about():
-    st.title("Tentang Kami")
+    st.markdown("# Tentang Kami")
     st.write("""
-    Sistem Pemantauan Kesehatan adalah platform yang menggabungkan kecerdasan buatan 
-    dan pengetahuan medis untuk membantu dalam pemantauan dan pengelolaan kesehatan.
-    
-    Tim kami terdiri dari:
-    - Pengembang Aplikasi
-    - Ahli Kesehatan
-    - Spesialis Data
-    
-    Hubungi kami di: health@example.com
+    Sistem ini dirancang untuk membantu petugas medis memberikan rekomendasi pengobatan
+    berdasarkan hasil prediksi dan data pasien, serta memberikan saran terkait pola hidup sehat.
     """)
 
-# Main App Logic
+# Display selected page
 def main():
+    model = load_model()
     if st.session_state.page == 'Home':
         show_home()
     elif st.session_state.page == 'Prediction':
-        show_prediction()
+        show_prediction(model)
     elif st.session_state.page == 'Recommendation':
         show_recommendation()
     elif st.session_state.page == 'About':
         show_about()
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

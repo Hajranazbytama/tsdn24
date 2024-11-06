@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+pypdf
+langchain_google_genai
+faiss-cpu
+numpy
+pandas
+joblib
+xgboost==1.6.2
