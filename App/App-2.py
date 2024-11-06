@@ -10,6 +10,7 @@ from langchain.vectorstores import FAISS
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain.schema import HumanMessage
 from dotenv import load_dotenv
+from sklearn.preprocessing import RobustScaler
 
 # Initialize session state for navigation and data
 if 'page' not in st.session_state:
@@ -146,13 +147,17 @@ def show_prediction(model):
         input_data = pd.DataFrame([[fev1pred, age, mwt1best, sgrq, smoking_encoded]], 
                                 columns=['FEV1PRED', 'AGE', 'MWT1Best', 'SGRQ', 'smoking'])
         
+        scaler = RobustScaler()
+        input_data_scaled = scaler.fit_transform(input_data)
+        input_data_reshaped = input_data_scaled.reshape(1, -1)
+        
         try:
-            predicted_label = model.predict(input_data)[0]
+            predicted_label = model.predict(input_data_reshaped)[0]
             hasil_prediksi = (
-                "Ringan" if predicted_label == 1 else
-                "Sedang" if predicted_label == 2 else
-                "Berat/Sangat Berat" if predicted_label == 3 else
-                "Tidak PPOK"
+                "Ringan" if predicted_label == 0 else
+                "Sedang" if predicted_label == 1 else
+                "Berat/Sangat Berat" if predicted_label == 2 else
+                "Tidak Diketahui"  # Menambahkan nilai default untuk kasus lainnya
             )
             
             st.write(f"Hasil Prediksi: {hasil_prediksi}")
