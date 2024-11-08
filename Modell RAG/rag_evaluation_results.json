@@ -1,0 +1,50 @@
+[
+    {
+        "question": "apa itu PPOK",
+        "relevancy": 1.0,
+        "faithfulness": 0.0,
+        "recall": 1.0,
+        "precision": 1.0,
+        "contextual_relevancy": 1.0
+    },
+    {
+        "question": "Apa saja terminologi pada PPOK?",
+        "relevancy": 0.18181818181818182,
+        "faithfulness": 0.0,
+        "recall": 0.18181818181818182,
+        "precision": 0.18181818181818182,
+        "contextual_relevancy": 0.18181818181818182
+    },
+    {
+        "question": "1990 PPOK  menempati urutan kematian keberapa dunia?",
+        "relevancy": 0.7692307692307693,
+        "faithfulness": 0.0,
+        "recall": 0.7692307692307693,
+        "precision": 0.7692307692307693,
+        "contextual_relevancy": 0.7692307692307693
+    },
+    {
+        "question": "pada tahun 1990 PPOK  menempati urutan kmetain keberapa di dunia",
+        "relevancy": 0.8461538461538461,
+        "faithfulness": 0.0,
+        "recall": 0.8461538461538461,
+        "precision": 0.8461538461538461,
+        "contextual_relevancy": 0.8461538461538461
+    },
+    {
+        "question": " Biaya pengobatan PPOK di Amerika Serikat pada tahun 2010 berapa?",
+        "relevancy": 0.8571428571428571,
+        "faithfulness": 0.0,
+        "recall": 0.8571428571428571,
+        "precision": 0.8571428571428571,
+        "contextual_relevancy": 0.8571428571428571
+    },
+    {
+        "question": "Tahun 2006 berapa kasus PPOK di Indoensia?",
+        "relevancy": 0.8571428571428571,
+        "faithfulness": 0.0,
+        "recall": 0.8571428571428571,
+        "precision": 0.8571428571428571,
+        "contextual_relevancy": 0.8571428571428571
+    }
+]

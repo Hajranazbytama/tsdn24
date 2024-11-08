@@ -8,3 +8,5 @@ numpy
 pandas
 joblib
 xgboost==1.6.2
+streamlit-option-menu==0.3.6
+Pillow==10.1.0

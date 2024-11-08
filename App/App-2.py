@@ -1,4 +1,5 @@
 import streamlit as st
+from streamlit_option_menu import option_menu
 import os
 import glob
 import numpy as np
@@ -12,24 +13,37 @@ from langchain.schema import HumanMessage
 from dotenv import load_dotenv
 from sklearn.preprocessing import RobustScaler
 
-# Initialize session state for navigation and data
-if 'page' not in st.session_state:
-    st.session_state.page = 'Home'
-if 'prediction_data' not in st.session_state:
-    st.session_state.prediction_data = None
+# Top navigation bar owner name
+st.markdown(
+    """
+    <style>
+    .reportview-container .main .block-container {
+        max-width: 1200px;
+        padding-top: 2rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
+        padding-bottom: 2rem;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 
-# Sidebar navigation
-st.sidebar.title('HajranAI')
-
-# Navigation buttons
-if st.sidebar.button('🏠 Home'):
-    st.session_state.page = 'Home'
-if st.sidebar.button('🔍 Prediction'):
-    st.session_state.page = 'Prediction'
-if st.sidebar.button('💡 Recommendation'):
-    st.session_state.page = 'Recommendation'
-if st.sidebar.button('📖 About Us'):
-    st.session_state.page = 'About'
+# sidebar
+with st.sidebar:
+    selected = option_menu(
+        menu_title='HajranAI',
+        options=[
+            'Home',
+            'PPOK Prediction',
+            'Diabetes Prediction',
+            'Heart Disease Prediction',
+            'Recommendation',
+            'About Us'
+        ],
+        icons=['house', 'activity', 'droplet', 'heart', 'lightbulb', 'info-circle'],
+        default_index=0
+    )
 
 # Recommendation System Functions
 @st.cache_resource
@@ -53,14 +67,6 @@ def init_recommendation():
     retriever = vector_db.as_retriever(search_type="similarity", search_kwargs={"k": 5})
 
     return llm, retriever
-
-# Load Model for Prediction
-@st.cache_resource
-def load_model():
-    # Load the model using joblib
-    model_path = "../Model_Prediction/Output_Model/xgboost_model_copd.pkl"
-    model = joblib.load(model_path)
-    return model
 
 # Define RAG prompt templates for different recommendations
 def generate_treatment_prompt(query, context):
@@ -116,70 +122,7 @@ def generate_followup_prompt(query, context):
     """
     return prompt
 
-# Page Functions
-def show_home():
-    st.markdown("<h1 style='text-align: center;'>Selamat Datang di Sistem Pemantauan Kesehatan</h1>", unsafe_allow_html=True)
-    st.write("""
-    Penyakit Paru Obstruktif Kronik (PPOK) adalah penyakit paru-paru yang serius 
-    yang menghalangi aliran udara dan membuatnya sulit untuk bernapas.
-    """)
-
-def show_prediction(model):
-    st.title("Prediksi Risiko PPOK")
-
-    # Input fields for prediction
-    fev1pred = st.number_input("FEV1 PRED", min_value=0.0, max_value=150.0, step=0.1)
-    age = st.number_input("Umur", min_value=0, max_value=100, step=1)
-    mwt1best = st.number_input("MWT1 Best", min_value=120.0, max_value=800.0, step=0.1)
-    sgrq = st.number_input("SGRQ", min_value=0.0, max_value=100.0, step=0.1)
-    smoking = st.selectbox("Status Merokok", ("Perokok", "Bukan Perokok"))
-
-    # Preprocess smoking status
-    smoking_mapping = {"Perokok": 1, "Bukan Perokok": 2}
-    smoking_encoded = smoking_mapping[smoking]
-
-    # model = load_model()
-
-    if st.button("Prediksi"):
-        
-        # if model is not None:
-        # Create input data as a DataFrame with named columns
-        input_data = pd.DataFrame([[fev1pred, age, mwt1best, sgrq, smoking_encoded]], 
-                                columns=['FEV1PRED', 'AGE', 'MWT1Best', 'SGRQ', 'smoking'])
-        
-        scaler = RobustScaler()
-        input_data_scaled = scaler.fit_transform(input_data)
-        input_data_reshaped = input_data_scaled.reshape(1, -1)
-        
-        try:
-            predicted_label = model.predict(input_data_reshaped)[0]
-            hasil_prediksi = (
-                "Ringan" if predicted_label == 0 else
-                "Sedang" if predicted_label == 1 else
-                "Berat/Sangat Berat" if predicted_label == 2 else
-                "Tidak Diketahui"  # Menambahkan nilai default untuk kasus lainnya
-            )
-            
-            st.write(f"Hasil Prediksi: {hasil_prediksi}")
-            
-            st.session_state.prediction_data = {
-                "FEV1PRED": fev1pred,
-                "AGE": age,
-                "MWT1Best": mwt1best,
-                "SGRQ": sgrq,
-                "smoking": smoking,
-                "hasil_prediksi": hasil_prediksi
-            }
-
-            if st.button("Dapatkan Rekomendasi"):
-                st.session_state.page = 'Recommendation'
-                st.experimental_rerun()
-                
-        except Exception as e:
-            st.error(f"Error during prediction: {str(e)}")
-
 def show_recommendation():
-    st.title("Sistem Rekomendasi Kesehatan")
 
     if st.session_state.prediction_data:
         llm, retriever = init_recommendation()
@@ -216,24 +159,150 @@ def show_recommendation():
             answer = llm(messages=messages)
             st.markdown(answer.content)
 
-def show_about():
-    st.markdown("# Tentang Kami")
-    st.write("""
-    Sistem ini dirancang untuk membantu petugas medis memberikan rekomendasi pengobatan
-    berdasarkan hasil prediksi dan data pasien, serta memberikan saran terkait pola hidup sehat.
-    """)
+# Load Model for PPOK Prediction
+@st.cache_resource
+def load_model():
+    model_path = "../Model_Prediction/Output_Model/xgboost_model_copd.pkl"
+    model = joblib.load(model_path)
+    return model
 
-# Display selected page
-def main():
+def show_prediction(model):
+
+    # Input fields in columns for better layout
+    col1, col2 = st.columns(2)
+    with col1:
+        fev1pred = st.number_input("FEV1 PRED", min_value=0.0, max_value=150.0, step=0.1)
+        age = st.number_input("Umur", min_value=0, max_value=100, step=1)
+    with col2:
+        mwt1best = st.number_input("MWT1 Best", min_value=120.0, max_value=800.0, step=0.1)
+        sgrq = st.number_input("SGRQ", min_value=0.0, max_value=100.0, step=0.1)
+        smoking = st.selectbox("Status Merokok", ("Perokok", "Bukan Perokok"))
+
+    # Map smoking status to numerical values
+    smoking_mapping = {"Perokok": 1, "Bukan Perokok": 2}
+    smoking_encoded = smoking_mapping[smoking]
+
+    if st.button("Prediksi"):
+        # Prepare input data for prediction
+        input_data = pd.DataFrame([[fev1pred, age, mwt1best, sgrq, smoking_encoded]], 
+                                  columns=['FEV1PRED', 'AGE', 'MWT1Best', 'SGRQ', 'smoking'])
+        
+        # Scaling the input data
+        scaler = RobustScaler()
+        input_data_scaled = scaler.fit_transform(input_data)
+        
+        try:
+            # Get prediction from the model
+            predicted_label = model.predict(input_data_scaled)[0]
+            hasil_prediksi = (
+                "Ringan" if predicted_label == 0 else
+                "Sedang" if predicted_label == 1 else
+                "Berat/Sangat Berat" if predicted_label == 2 else
+                "Tidak Diketahui"
+            )
+            # Display prediction result
+            st.success(f"Hasil Prediksi: {hasil_prediksi}")
+            st.session_state.prediction_data = {
+                "FEV1PRED": fev1pred,
+                "AGE": age,
+                "MWT1Best": mwt1best,
+                "SGRQ": sgrq,
+                "smoking": smoking,
+                "hasil_prediksi": hasil_prediksi
+            }
+            
+            # Recommendation button
+            if st.button("Dapatkan Rekomendasi"):
+                st.session_state.page = 'Recommendation'
+                st.experimental_rerun()
+                
+        except Exception as e:
+            st.error(f"Error during prediction: {str(e)}")
+
+#Multipage
+if selected == 'Home':
+    st.markdown(
+    """
+    <h1 style="text-align: center; margin-bottom: 20px;">Selamat Datang di <br> Sistem Pemantauan Kesehatan</h1>
+    """, unsafe_allow_html=True
+    )
+    st.write("Sistem ini dapat membantu Anda dalam memantau kesehatan Anda pada Penyakit Tidak Menular (PTM)")
+
+if selected == 'PPOK Prediction':
+    st.markdown(
+    """
+    <h1 style="text-align: center; margin-bottom: 20px;">Prediksi PPOK</h1>
+    """, unsafe_allow_html=True
+    )
     model = load_model()
-    if st.session_state.page == 'Home':
-        show_home()
-    elif st.session_state.page == 'Prediction':
-        show_prediction(model)
-    elif st.session_state.page == 'Recommendation':
-        show_recommendation()
-    elif st.session_state.page == 'About':
-        show_about()
+    show_prediction(model)
 
-if __name__ == '__main__':
-    main()
+if selected == 'Diabetes Prediction':
+    st.markdown(
+    """
+    <h1 style="text-align: center; margin-bottom: 20px;">Prediksi Diabetes</h1>
+    """, unsafe_allow_html=True
+    )
+
+if selected == 'Heart Disease Prediction':
+    st.markdown(
+    """
+    <h1 style="text-align: center; margin-bottom: 20px;">Prediksi Heart Disease</h1>
+    """, unsafe_allow_html=True
+    )
+
+if selected == 'Recommendation':
+    st.markdown(
+    """
+    <h1 style="text-align: center; margin-bottom: 20px;">Rekomendasi Berbasis RAG</h1>
+    """, unsafe_allow_html=True
+    )
+    show_recommendation()
+
+if selected == 'About Us':
+    st.markdown(
+    """
+    <h1 style="text-align: center; margin-bottom: 20px;">Web App Contributor</h1>
+    """, unsafe_allow_html=True
+    )
+
+    # Membuat kontainer dengan 4 anggota tim
+    st.markdown(
+    """
+    <div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+
+    <!-- Anggota Tim 1 -->
+    <div style="text-align: center;">
+        <img src="https://media.licdn.com/dms/image/v2/D4D03AQFJBMvHtumirA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1703086068686?e=1736380800&v=beta&t=WHc9g4rEcaP1M568_18EGA6-1XjLqDVMMVdadax93EI" 
+            style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px;"/>
+        <div style="font-weight: bold;">Biliarto Sastro C.</div>
+        <div>PM (Project Manager)</div>
+    </div>
+
+    <!-- Anggota Tim 2 -->
+    <div style="text-align: center;">
+        <img src="https://media.licdn.com/dms/image/v2/D5603AQEMO89szB8zUg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1703159430457?e=1736380800&v=beta&t=0xUwT4ewneeQi8p01dU7NpKoHK8oOH4jjgnykY-tFfY" 
+            style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px;"/>
+        <div style="font-weight: bold;">Hajran Azbytama W.</div>
+        <div>DA (Data Analyst)</div>
+    </div>
+
+    <!-- Anggota Tim 3 -->
+    <div style="text-align: center;">
+        <img src="https://media.licdn.com/dms/image/v2/D5603AQFWHvsYJ9voEQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1672065689708?e=1736380800&v=beta&t=ur9zQ-LEIAQpGS7nP41KzFURjKmexG3uHFfITbzgIr8" 
+            style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px;"/>
+        <div style="font-weight: bold;">Muhammad Goldy W. H.</div>
+        <div>DS (Data Scientist)</div>
+    </div>
+
+    <!-- Anggota Tim 4 -->
+    <div style="text-align: center;">
+        <img src="https://media.licdn.com/dms/image/v2/D5603AQFWHvsYJ9voEQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1672065689708?e=1736380800&v=beta&t=ur9zQ-LEIAQpGS7nP41KzFURjKmexG3uHFfITbzgIr8" 
+            style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px;"/>
+        <div style="font-weight: bold;">Rizky Anugrah</div>
+        <div>SD (Software Developer)</div>
+    </div>
+
+    </div>
+    """, unsafe_allow_html=True
+    )

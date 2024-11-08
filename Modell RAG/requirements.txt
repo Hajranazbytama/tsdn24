@@ -1,0 +1,8 @@
+langchain
+langchain-community
+pypdf
+langchain_google_genai
+faiss-cpu
+ragas
+langchain
+nltk
