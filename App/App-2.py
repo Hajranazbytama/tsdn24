@@ -157,7 +157,7 @@ def show_recommendation():
         if st.button("Dapatkan Rekomendasi"):
             # Menyusun query untuk retriever berdasarkan prediksi PPOK
             pred_data = st.session_state['ppok_prediction']
-            query = str(pred_data)
+            query = f"{pred_data} {additional_info}"
 
             # Mengambil dokumen yang relevan dengan retriever
             relevant_documents = retriever.get_relevant_documents(query)
