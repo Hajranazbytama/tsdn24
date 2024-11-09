@@ -1,0 +1,5241 @@
+﻿KONSENSUS
+PENATALAKSANAAN HIPERTENSI 2019
+
+
+
+KONSENSUS 
+
+PENATALAKSANAAN HIPERTENSI 
+
+2019 
+
+Perhimpunan Dokter Hipertensi Indonesia 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Editor 
+Antonia Anna Lukito 
+
+Eka Harmeiwaty 
+
+Ni Made Hustrini 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Jakarta 2019 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+  
+
+ii 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+DAFTAR KONTRIBUTOR 
+ 
+ 
+
+Perhimpunan Dokter Hipertensi Indonesia (PERHI)  
+
+mengucapkan terima kasih kepada para kontributor 
+
+buku  
+
+“Konsensus Penatalaksanaan Hipertensi 2019” 
+
+ 
+ 
+Adrianus Kosasih, dr., Sp.JP(K),FIHA 
+
+Divisi Kardiologi dan Kedokteran Vaskular  
+Departemen Ilmu PenyakitDalam 
+FK Universitas Trisakti 
+
+Antonia Anna Lukito, DR., dr., Sp.JP(K), FIHA 
+Departemen Kardiovaskular 
+FK Universitas Pelita Harapan 
+RS Siloam Lippo Village Tangerang 
+
+Arieska Ann Soenarta, dr., Sp.JP(K), FIHA 
+Departemen Kardiologi dan Kedokteran Vaskular 
+FK Universitas Indonesia 
+Pusat Jantung Nasional Harapan Kita 
+
+ 
+
+iii 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Amanda Tiksnadi, dr., Sp.S(K) 
+
+Departemen Neurologi 
+FK Universitas Indonesia 
+RSUPN Cipto Mangunkusumo 
+
+BRM Ario S Kuncoro, dr., Sp.JP(K), FIHA 
+Departemen Kardiologi dan Kedokteran Vaskular 
+FK Universitas Indonesia 
+Pusat Jantung Nasional Harapan Kita 
+
+Celly Anantaria, dr., Sp.JP(K), FIHA 
+Departemen Kardiologi dan Kedokteran Vaskular 
+FK Universitas Indonesia 
+Pusat Jantung Nasional Harapan Kita 
+
+Dodik Tugasworo, Dr. dr., Sp.S(K) 
+Spesialis Neurologi 
+FK Universitas Diponegoro  
+RS Kariadi  
+
+Eka Harmeiwaty, dr., Sp.S 
+Spesialis Neurologi 
+Pusat Jantung Nasional Harapan Kita 
+
+ 
+
+iv 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Erwinanto, dr., Sp.JP(K), FIHA 
+
+Departemen Kardiologi dan Kedokteran Vaskular 
+FK Universitas Padjajaran 
+RSUP Hasan Sadikin 
+
+Marihot Tambunan, dr., Sp.PD-KGH, FINASIM 
+Instalasi Penyakit Dalam 
+Ginjal – Hipertensi 
+RS PGI Cikini 
+ 
+
+Ni Made Hustrini, dr., Sp.PD-KGH 
+Divisi Ginjal Hipertensi 
+Departemen Ilmu Penyakit Dalam 
+FK Universitas Indonesia 
+RSUPN Cipto Mangunkusumo 
+
+Parlindungan Siregar, Prof.,DR., dr., Sp.PD-KGH, 
+FINASIM 
+
+Divisi Ginjal Hipertensi 
+Departemen Ilmu Penyakit Dalam 
+FK Universitas Indonesia 
+RSUPN Cipto Mangunkusumo 
+
+ 
+ 
+
+v 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Rully M.A. Roesli, Prof., dr., Sp.PD-KGH, PhD, 
+FINASIM 
+
+Pusat Studi Kesehatan dan Kebugaran Komunitas 
+FK Univ. Padjajaran 
+
+Rakhmad Hidayat, dr., Sp.S(K) 
+Departemen Neurologi 
+FK Universitas Indonesia 
+RSUPN Cipto Mangunkusumo 
+
+Siska Suridanda Danny, dr., Sp.JP, FIHA 
+Departemen Kardiologi dan Kedokteran Vaskular  
+FK Universitas Indonesia 
+Pusat jantung Nasional Harapan Kita 
+
+Suhardjono, Prof,. DR,. dr., Sp.PD-KGH, K.Ger, 
+FINASIM 
+
+Divisi Ginjal Hipertensi 
+Departemen Ilmu Penyakit Dalam 
+FK Universitas Indonesia 
+RSUPN Cipto Mangunkusumo 
+
+ 
+ 
+ 
+
+vi 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Tunggul D. Situmorang, dr., Sp.PD-KGH, FINASIM 
+
+Instalasi Penyakit dalam 
+Ginjal – Hipertensi 
+RS PGI Cikini 
+
+Yuda Turana, DR., dr., Sp.S(K) 
+Departemen Neurologi 
+FK UNIKA Atma Jaya 
+
+ 
+ 
+ 
+ 
+  
+
+vii 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+KATA PENGANTAR 
+ 
+
+Hipertensi merupakan masalah kesehatan global 
+
+berakibat peningkatan angka kesakitan dan kematian 
+
+serta beban biaya kesehatan termasuk di Indonesia. 
+
+Hipertensi merupakan faktor risiko terhadap kerusakan 
+
+organ penting seperti otak, jantung, ginjal, retina, 
+
+pembuluh darah besar (aorta) dan pembuluh darah 
+
+perifer. Riset Kesehatan Dasar (Riskesdas) tahun 2018 
+
+menunjukkan peningkatan prevalensi hipertensi di 
+
+Indonesia dengan jumlah penduduk sekitar 260 juta 
+
+adalah 34,1% dibandingkan 27,8% pada Riskesdas tahun 
+
+2013. Dalam upaya menurunkan prevalensi dan insiden 
+
+penyakit kardiovaskular akibat hipertensi dibutuhkan 
+
+tekad kuat dan komitmen bersama secara 
+
+berkesinambungan dari semua pihak terkait seperti 
+
+tenaga kesehatan, pemangku kebijakan dan juga peran 
+
+serta masyarakat. 
+
+Lebih dari dua dekade, PERHIMPUNAN DOKTER 
+
+HIPERTENSI INDONESIA (PERHI), merupakan 
+
+perhimpunan seminat yang terdiri dari 3 disiplin ilmu 
+
+yaitu kardiologi, nefrologi dan neurologi, telah berperan 
+
+aktif dalam penanggulangan masalah hipertensi di 
+
+viii 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Indonesia meliputi upaya promotif, preventif, kuratif dan 
+
+rehabilitatif yang dilaksanakan berdasarkan pedoman 
+
+berbasis bukti (Evidence Based Medicine). Selain 
+
+menyelenggarakan pertemuan ilmiah tahunan, PERHI 
+
+telah melakukan berbagai penelitian lokal dan terlibat 
+
+dalam beberapa penelitian regional dan internasional. 
+
+PERHI juga turut mendorong masyarakat untuk bersama-
+
+sama melakukan Gerakan Peduli Hipertensi (GPH) sebagai 
+
+bagian dari program GERMAS (Gerakan Masyarakat 
+
+Sehat) yang dicanangkan oleh Kementerian Kesehatan 
+
+Republik Indonesia. 
+
+Penelitian dan data tentang hipertensi terus 
+
+berkembang dan menyebabkan perubahan pedoman 
+
+penatalaksanaan hipertensi. Dua organisasi hipertensi 
+
+berpengaruh di dunia yaitu American College of 
+
+Cardiology (ACC)/American Heart Association (AHA) 
+
+mengeluarkan pedoman hipertensi terbaru pada tahun 
+
+2017, disusul oleh European Society of Cardiology 
+
+(ESC)/European Society of Hypertension (ESH) pada tahun 
+
+2018. PERHI selalu mengamati dan mengikuti 
+
+perkembangan yang terjadi, dan memutuskan untuk 
+
+membuat konsensus penanggulangan hipertensi di 
+
+Indonesia yang baru dengan membentuk tim khusus. 
+
+ix 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Konsensus baru ini merujuk kepada kedua pedoman 
+
+terbaru tersebut dengan memperhatikan faktor 
+
+demografis dan sosial ekonomi budaya lokal serta aturan 
+
+pemerintah yang berlaku. 
+
+Konsensus ini terutama menitik-beratkan kepada 
+
+pemilihan obat-obatan yang rasional dalam 
+
+penatalaksanaan hipertensi dan sistim rujukan berjenjang 
+
+yang dapat dipertanggung jawabkan secara profesional, 
+
+optimal dengan mempertimbangan biaya dan efektivitas 
+
+sesuai dengan yang dicanangkan dalam Sistim Kesehatan 
+
+Nasional (SKN). Dukungan pemerintah sangat dibutuhkan 
+
+untuk menyebarluaskan konsensus ini untuk dipakai 
+
+sebagai panduan para dokter di Indonesia. 
+
+Semoga buku “KONSENSUS PENATALAKSANAAN 
+
+HIPERTENSI 2019 DI INDONESIA” ini bermanfaat bagi 
+
+para klinisi di Indonesia. 
+
+ 
+
+Jakarta Februari 2019, 
+
+Ketua Umum Perhimpunan Dokter Hipertensi Indonesia, 
+
+ 
+
+ 
+
+Dr. Tunggul Diapari Situmorang, Sp.PD-KGH, 
+
+FINASIM 
+
+x 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+DAFTAR ISI 
+ 
+Halaman Judul ........................................................................  i 
+
+Daftar Kontributor .................................................................  iii 
+
+Kata Pengantar .......................................................................  viii 
+
+Daftar Isi ....................................................................................  xi 
+
+Daftar Tabel .............................................................................  xiv 
+
+Daftar Gambar ........................................................................  xvi 
+
+Daftar Istilah dan Singkatan ...............................................  xvii 
+
+1. Pendahuluan .................................................................  1 
+
+1.1. Prinsip Pemahaman Konsensus ...................  4 
+
+1.2. Menyikapi Berbagai Panduan Hipertensi .  6 
+
+2. Diagnosis  ......................................................................  10 
+
+2.1. Definisi dan Kriteria Hipertensi ....................  10 
+
+2.2. Pengukuran TekananDarah ...........................  11 
+
+2.3. Penapisan dan DeteksiHipertensi ...............  15 
+
+2.4. Home Blood Pressure Monitoring (HBPM)  16 
+
+2.5. Ambulatory Blood Pressure Monitoring 
+
+(ABPM) .................................................................  19 
+
+2.6. Konfirmasi Diagnosis Hipertensi .................  21 
+
+xi 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+3. Evaluasi Klinis ................................................................  22 
+
+3.1. Penilaian Risiko Penyakit Kardiovaskular .. 24 
+
+3.2. Indikasi Merujuk ke Fasilitas Kesehatan 
+
+Tingkat Lanjut (FKTL) .......................................  32 
+
+4. Penatalaksanaan Hipertensi ....................................  33 
+
+4.1. Intervensi Pola Hidup ......................................  33 
+
+4.2. Penentuan Batas Tekanan Darah untuk  
+
+Inisiasi Obat ........................................................  36 
+
+4.3. Target Pengobatan Hipertensi .....................  39 
+
+4.4. Pengobatan Hipertensi – Terapi Obat .......  41 
+
+4.5. Algoritma Terapi Obat untuk Hipertensi ..  46 
+
+4.6. Pengobatan Hipertensi dengan Metoda 
+
+Alat ........................................................................  53 
+
+5. Hipertensi Resisten .....................................................  53 
+
+5.1. Definisi Hipertensi Resisten ..........................  53 
+
+5.2. Hipertensi Resisten Palsu ...............................  54 
+
+5.3. Pengobatan Hipertensi Resisten .................  55 
+
+6. Hipertensi Sekunder ...................................................  55 
+
+7. Hipertensi Krisis (Hipertensi Emergensi dan 
+
+Urgensi) ..........................................................................  57 
+
+xii 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+8. Hipertensi dalam Kehamilan ...................................  65 
+
+8.1. Definisi dan Klasifikasi Hipertensi dalam 
+
+Kehamilan............................................................  65 
+
+8.2. Penatalaksanaan Hipertensi dalam 
+
+Kehamilan............................................................  68 
+
+9. Hipertensi Jas Putih dan Hipertensi 
+
+Terselubung ..................................................................  74 
+
+9.1. Hipertensi Jas Putih .........................................  74 
+
+9.2. HipertensiTerselubung ...................................  75 
+
+10. Hipertensi dengan Komorbiditas Spesifik ..........  77 
+
+11. Penatalaksanaan Risiko Serebro-Kardio-Reno-
+
+Vaskular Penyerta........................................................  85 
+
+11.1. Penggunaan Antiplatelet dan Statin ..........  85 
+
+12. Tindak Lanjut PasienHipertensi ..............................  87 
+
+Daftar Pustaka .........................................................................  90
+
+xiii 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+DAFTAR TABEL 
+ 
+
+1. Klasifikasi Tekanan Darah Klinik .............................  10 
+
+2. Batasan Tekanan Darah untuk Diagnosis 
+
+Hipertensi .......................................................................  20 
+
+3. Penilaian HMOD ..........................................................  23 
+
+4. Klasifikasi Risiko Hipertensi Berdasarkan Derajat 
+
+Tekanan Darah, Faktor Risiko Kardiovaskular, 
+
+HMOD, atau Komorbiditas.......................................  25 
+
+5. Faktor Risiko Kardiovaskular Pasien Hipertensi  26 
+
+6. Kategori Risiko PKV dalam 10 Tahun (SCORE 
+
+System) ............................................................................  28 
+
+7. Ambang Batas TD untuk Inisiasi Obat .................  36 
+
+8. Target TD di Klinik.......................................................  39 
+
+9. Kontraindikasi Pemberian Obat Antihipertensi  42 
+
+10. Obat Antihipertensi Oral ...........................................  43 
+
+11. Efek Samping Obat Antihipertensi ........................  45 
+
+xiv 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+12. Karakteristik Klinis yang Mengarah Hipertensi 
+
+Sekunder ........................................................................  56 
+
+13. Pemeriksaaan Umum untuk Hipertensi 
+
+Emergensi ......................................................................  59 
+
+14. Pemeriksaan Spesifik Berdasarkan Indikasi ........  60 
+
+15. Obat-Obat Hipertensi Emergensi yang Tersedia di 
+
+Indonesia ........................................................................  61 
+
+16. Kondisi Hipertensi Emergensi yang Memerlukan 
+
+Penurunan Tekanan Darah Segera dengan Obat 
+
+Intravena beserta Targetnya ....................................  62 
+
+17. Penatalaksanaan Hipertensi dalam Kehamilan .  72 
+
+18. Perbandingan antara Perbedaan Pengukuran 
+
+TD .....................................................................................  75 
+
+19. Faktor Predisposisi Hipertensi Jas Putih dan 
+
+Terselubung ..................................................................  76 
+
+  
+
+xv 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+DAFTAR GAMBAR 
+ 
+
+1. Penapisan dan Diagnosis Hipertensi ....................  16 
+
+2. Diagram SCORE ...........................................................  31 
+
+3. Alur Panduan Inisiasi Terapi Obat Sesuai dengan 
+
+Klasifikasi Hipertensi ..................................................  38 
+
+4. Strategi Penatalaksanaan Hipertensi Tanpa 
+
+Komplikasi .....................................................................  48 
+
+5. Strategi Pengobatan pada Hipertensi dan Penyakit 
+
+Arteri Koroner ...............................................................  49 
+
+6. Strategi Pengobatan pada Hipertensi dan PGK  50 
+
+7. Strategi Pengobatan Hipertensi dan Gagal   
+
+Jantung dengan Fraksi Ejeksi Menurun ...............  51 
+
+8. Strategi Pengobatan Hipertensi dan Fibrilasi 
+
+Atrial ................................................................................  52 
+
+9. Klasifikasi Hipertensi dalam Kehamilan ...............  68 
+
+  
+
+xvi 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+DAFTAR ISTILAH DAN SINGKATAN 
+ 
+ABPM Ambulatory Blood Pressure Monitoring 
+ACC American College of Cardiology 
+ACEi Angiotensin Converting Enzym Inhibitor 
+ACR Albumin to Creatinine Ratio 
+AF Atrial Fibrillation 
+AHA American Heart Association 
+ARB Angiotensin Receptor Blocker 
+CAD Coronary Artery Disease 
+CCB Calcium Channel Blocker 
+CHA2DS2-VASc Congestive heart failure (or left 
+
+ventricular systolic dysfunction), 
+Hypertension: blood pressure 
+consistently above 140/90 mmHg (or 
+treated hypertension on medication), 
+Age ≥75 years, Diabetes Mellitus, Prior 
+Stroke or TIA or thrombo-embolism, 
+Vascular disease (e.g. peripheral 
+arterydisease, myocardial infarction, 
+aortic plaque), Age 65–74 years, Sex 
+category (i.e. female sex) 
+
+CK-MB Creatine Kinase-Isoenzyme Muscle/ 
+Brain 
+
+CT Computerized Tomography 
+
+xvii 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+CVD Cardiovascular Disease 
+eGFR Estimated Glomerular Filtration Rate 
+EKG Elektrokardiogram 
+eLFG Estimasi Laju Filtrasi Glomerulus 
+ESC European Society of Cardiology 
+ESH European Society ofHypertension 
+FA Fibrilasi Atrial 
+FKTL Fasilitas Kesehatan Tingkat Lanjut 
+GERMAS Gerakan Masyarakat Sehat 
+GPH Gerakan Peduli Hipertensi 
+HBPM Home Blood Pressure Monitoring 
+HCT Hydrochlorothiazide 
+HELLP Hemolysis, Elevated Liver Enzymes, Low 
+
+Platelets Count 
+HFpEF Heart Failure with preserved Ejection 
+
+Fraction 
+HFrEF Heart Failure with reduced Ejection 
+
+Fraction 
+HMOD Hypertension-Mediated Organ Damage 
+IUGR Intrauterine Growth Restriction 
+IV Intravena 
+LDL-C Low Density Lipoprotein-Cholesterol  
+LLA Lingkar Lengan Atas 
+LPT Luas Permukaan Tubuh 
+LV Left Ventricle 
+LVH Left Ventricle Hypertrophy 
+
+xviii 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+LVMI Left Ventricle Mass Index 
+MAP Mean Arterial Pressure 
+MHT Masked Hypertension 
+MRI Magnetic Resonance Imaging 
+NT-proBNP N-Terminal Pro B-Type Natriuretic 
+
+Peptide 
+OAINS Obat Anti Inflamasi Non Steroid 
+OSA Obstructive SleepApnea 
+PCR Protein to CreatinineRatio 
+PERHI Perhimpunan Dokter Hipertensi 
+
+Indonesia 
+PGK Penyakit Ginjal Kronik 
+PJK Penyakit Jantung Koroner 
+PKV Penyakit Kardiovaskular 
+PWV Pulse Wave Velocity 
+RAS Renin AngiotensinSystem 
+RDN Renal Artery Denervation 
+Riskesdas Riset Kesehatan Dasar 
+SCORE Systematic Coronary Risk Evaluation 
+SGPT Serum Glutamic Pyruvic Transaminase 
+SKN Sistem KesehatanNasional 
+SPC Single Pill Combination 
+TD Tekanan Darah 
+TDD Tekanan Darah Diastolik 
+TDS Tekanan Darah Sistolik 
+TIA Transient Ischemic Attack 
+
+xix 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+TOD Target Organ Damage 
+USG Ultrasonografi 
+WCHT White Coat Hypertension 
+
+xx 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+1. PENDAHULUAN 
+
+Panduan penatalaksanaan hipertensi dibuat secara 
+
+berkala dengan tujuan untuk membantu klinisi yang 
+
+menangani hipertensi dalam meningkatkan upaya 
+
+pencegahan, pengobatan dan kepatuhan pasien. Panduan 
+
+hipertensi mengalami perubahan seiring perkembangan 
+
+yang biasanya diinisiasi oleh para pakar internasional 
+
+berdasarkan berbagai penelitian. Perubahan, perbaikan 
+
+serta pengkinian rekomendasi dari panduan terdahulu 
+
+senantiasa dibutuhkan dengan hasil penelitian-penelitian 
+
+berbasis bukti terbaru. 
+
+Penanganan hipertensi di negara-negara Asia sangat 
+
+penting, karena prevalensi hipertensi terus meningkat, 
+
+termasuk di Indonesia. Di sebagian besar negara Asia 
+
+Timur, penyakit kardiovaskular sebagai komplikasi 
+
+hipertensi terus meningkat. Karakteristik spesifik untuk 
+
+populasi Asia yang berbeda dengan ras lain di dunia yaitu 
+
+kejadian stroke, terutama stroke hemoragik, dan gagal 
+
+jantung non-iskemik lebih sering ditemukan sebagai 
+
+luaran dari hipertensi-terkait penyakit kadiovaskular. 
+
+Selain itu hubungan antara tekanan darah dan penyakit 
+
+1 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+kardiovaskular lebih kuat di Asia dibandingkan negara 
+
+barat, serta populasi Asia terbukti memiliki karakteristik 
+
+sensitivitas terhadap garam yang lebih tinggi (higher salt 
+
+sensitivity), bahkan dengan obesitas ringan dan asupan 
+
+garam yang lebih banyak. Saat ini beberapa negara di Asia 
+
+telah mengeluarkan pengkinian panduan penatalaksanaan 
+
+hipertensi seperti Thailand, China, Taiwan, Jepang dan 
+
+Malaysia. Meskipun beberapa panduan bidang terapi 
+
+hipertensi tidak banyak berubah, namun ada beberapa 
+
+rekomendasi baru yang patut diperhatikan. 
+
+Pada tahun 2007, Perhimpunan Dokter Hipertensi 
+
+Indonesia (PERHI) menerbitkan konsensus 
+
+penatalaksanaan hipertensi arterial untuk pertama kali, 
+
+dan kemudian diterbitkan pengkinian konsensus pada 
+
+tahun 2014. Dengan adanya panduan-panduan 
+
+penatalaksanaan hipertensi baru berdasarkan data 
+
+beberapa penelitian hipertensi yang terakhir, maka PERHI 
+
+memutuskan untuk menerbitkan Konsensus 
+
+Penatalaksanaan Hipertensi di Indonesia yang terbaru 
+
+pada tahun 2019 untuk menjadi panduan para dokter yang 
+
+terlibat dalam penanganan hipertensi di Indonesia. 
+
+ 
+
+2 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+Terdapat beberapa konsep baru dari pedoman 
+
+hipertensi 2018 dari ESC/ESH, yang diadopsi pada 
+
+konsensus ini diantaranya perluasan indikasi pengukuran 
+
+tekanan darah diluar klinik (out of office), penatalaksanaan 
+
+hipertensi, batasan dan target tekanan darah baru pada 
+
+populasi usia lanjut, anjuran penggunaan obat kombinasi 
+
+dalam satu pil, serta batasan dan target tekanan darah 
+
+baru untuk pasien hipertensi pada umumnya. 
+
+Pada Konsensus Penatalaksanaan Hipertensi di 
+
+Indonesia tahun 2019 oleh Perhimpunan Dokter Hipertensi 
+
+Indonesia ini, tidak hanya membahas mengenai diagnosis, 
+
+evaluasi klinis dan penatalaksanaan hipertensi, namun juga 
+
+memberikan panduan penanganan untuk kondisi spesifik 
+
+seperti hipertensi resisten, hipertensi sekunder, hipertensi 
+
+krisis dan kondisi atau kelainan lain yang memerlukan 
+
+penanganan khusus, dan dibagian terakhir akan dibahas 
+
+mengenai tindak lanjut pada pasien hipertensi. 
+
+3 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+1.1. PRINSIP PEMAHAMAN KONSENSUS 
+
+Istilah “konsensus, panduan (guidelines) dan position 
+
+paper (catatan posisi)” terkadang digunakan seolah-olah 
+
+mereka adalah sama dan istilah ini dapat saling 
+
+dipertukarkan. Tetapi sebenarnya tujuan dan dasar dari 
+
+pembuatan masing-masing naskah kerja tersebut 
+
+berbeda. Penggunaan  bahan referensi berbasis bukti yang 
+
+digunakan dan menjadi dasar dari suatu pernyataan  juga 
+
+dapat bervariasi kedalamannya.  
+
+Suatu panduan adalah suatu kesepakatan untuk 
+
+menentukan dan melakukan tindakan tertentu. Panduan 
+
+bertujuan untuk menyederhanakan proses-proses 
+
+tertentu, sesuai dengan kesepakatan bahwa tindakan atau 
+
+pernyataan itu adalah yang terbaik. Menurut definisi, suatu 
+
+panduan tidak mengikat, tidak wajib hukumnya  untuk 
+
+selalu mengikuti panduan tersebut. Catatan posisiadalah 
+
+pernyataan formal, dibuat oleh seorang atau suatu 
+
+kelompok, biasanya secara rinci tertulis dalam suatu 
+
+catatan (naskah), terutama mengenai suatu masalah, yang 
+
+mengartikulasikan posisi, sudut pandang, atau kebijakan 
+
+tertentu. 
+
+ 
+
+4 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+Dewan Eropa (Council of Europe), ”Konsensus Medis” 
+
+adalah kesepakatan tentang suatu aspek tertentu dari 
+
+pengetahuan medis yang umumnya ditelaah dari berbagai 
+
+artikel berbasis bukti, state-of-the-art, penelitian atau 
+
+pengetahuan dari sekelompok ahli yang kompeten dalam 
+
+masalah tersebut. Tujuan utamanya untuk memberikan 
+
+advis dan pandangan kepada dokter tentang cara terbaik 
+
+atau cara yang mungkin dan dapat diterima untuk 
+
+mengatasi pengambilan keputusan dalam membuat 
+
+diagnosis, penatalaksanaan atau pengobatan. 
+
+Terdapat berbagai cara dan algoritma dalam 
+
+membuat konsensus, tergantung pada tujuannya. Proses 
+
+pembuatan suatu konsensus adalah proses pengambilan 
+
+keputusan dari suatu kelompok yang dibentuk dengan 
+
+maksud tertentu, di mana para anggota setuju dan sepakat 
+
+untuk mendukung keputusan demi kepentingan terbaik 
+
+dari keseluruhan pilihan yang ada. Konsensus dapat 
+
+didefinisikan secara profesional sebagai resolusi yang 
+
+dapat diterima, yang bisa didukung dan disepakati 
+
+bersama, meskipun bukan pendapat "favorit" masing-
+
+masing individu. Konsensus tidak harus selalu merupakan 
+
+kebulatan suara (unanimity). Konsensus mencari solusi 
+
+5 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+“win-win”yang dapat diterima oleh semua. Jika semua 
+
+orang setuju dan sepakat mengenai suatu keputusan, 
+
+diharapkan mereka semua akan jauh lebih berkomitmen 
+
+untuk mewujudkannya. 
+
+Terdapat dua kunci dasar untuk memahami dan 
+
+menggunakan suatu konsensus sebagaimana mestinya: 
+
+- mengetahui cara membuat konsensus 
+
+- mempunyai komitmen untuk mengikuti 
+
+konsensus tersebut 
+
+Konsensus memberikan pengetahuan bagaimana 
+
+seharusnya yang dilakukan. Dengan memahami dan 
+
+menggunakan konsensus secara konsisten, dapat 
+
+menghemat waktu untuk menyelesaikan suatu masalah 
+
+karena telah dipilihkan jalan terbaik oleh para pakar. 
+
+Walaupun demikian kita masih memiliki kebebasan 
+
+berpendapat untuk setuju atau tidak setuju dengan suatu 
+
+konsensus, baik sebagian atau keseluruhannya. 
+
+ 
+
+1.2. MENYIKAPI BERBAGAI PANDUAN HIPERTENSI 
+
+Panduan penatalaksanaan klinis, termasuk hipertensi, 
+
+merupakan sumber yang diakui kegunaannya untuk 
+
+mengambil keputusan klinis maupun kesehatan 
+
+6 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+masyarakat. Panduan penatalaksanaan hipertensi yang 
+
+diterbitkan oleh Perhimpunan Dokter Hipertensi Indonesia 
+
+mengacu pada panduan internasional dan telah 
+
+dimodifikasi sesuai kondisi di Indonesia. Diantara panduan 
+
+penatalaksanaan hipertensi internasional yang diterbitkan 
+
+oleh perkumpulan profesi, panduan oleh American College 
+
+of Cardiology (ACC)/American Heart Association (AHA) 
+
+tahun 2017 dan European Society of Cardiology 
+
+(ESC)/European Society of Hypertension (ESH) tahun 2018 
+
+adalah dua panduan yang paling banyak diadopsi. Dua 
+
+panduan ini mempunyai lebih banyak persamaan daripada 
+
+perbedaannya. Adopsi panduan hipertensi internasional 
+
+secara utuh untuk diterapkan di Indonesia akan menjadi 
+
+tantangan bagi pasien, klinisi, dan sistem kesehatan. Oleh 
+
+karena itu, Konsensus Penatalaksanaan Hipertensi 
+
+Perhimpunan Dokter Hipertensi Indonesia merupakan 
+
+sintesa dari berbagai panduan internasional yang dibuat 
+
+dengan mengikutsertakan pertimbangan faktor lokal, 
+
+kebijakan pemerintah, dan kemudahan untuk diikuti.  
+
+Dua panduan hipertensi internasional di atas 
+
+menunjukkan kesepakatan dalam hal: 1) diagnosis 
+
+hipertensi yang didasari oleh pengukuran tekanan darah 
+
+7 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+yang akurat, 2) menggunakan pengukuran tekanan darah 
+
+di luar klinik untuk deteksi hipertensi jas putih dan 
+
+hipertensi terselubung, 3) melakukan terapi berdasarkan 
+
+estimasi risiko kardiovaskular, 4) tatacara pemilihan terapi 
+
+obat dan gaya hidup, 5) memulai terapi obat pada tekanan 
+
+darah yang lebih rendah dari sebelumnya, 6) 
+
+menggunakan kombinasi obat terutama dalam bentuk 
+
+kemasan tunggal (SPC, single pill combination), 7) 
+
+penggunaan hidrochlorothiazide (HCT), calcium channel 
+
+blocker (CCB), angiotensin converting enzyme inhibitor 
+
+(ACEi), angiotensin II receptor blocker (ARB) untuk sebagian 
+
+besar pasien dan penggunaan beta bloker dalam situasi 
+
+klinis tertentu, 8) target tekanan darah yang lebih rendah 
+
+dari sebelumnya, 9) menggunakan umur fungsional 
+
+daripada umur kronologis dalam penatalaksanaan 
+
+hipertensi pada usia lanjut, 10) menyadari adanya 
+
+kesenjangan bukti penelitian dalam beberapa area 
+
+penatalaksanaan. Perhimpunan Dokter Hipertensi 
+
+Indonesia mengadopsi  hal-hal di atas, dengan 
+
+penyesuaian kondisi lokal.  
+
+Mengingat adanya perbedaan antara dua panduan 
+
+internasional di atas, Perhimpunan Dokter Hipertensi 
+
+8 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Indonesia memilih untuk: 
+
+1. Tetap menggunakan tekanan darah sistolik (TDS) 
+
+≥140 mmHg dan/atau tekanan darah diastolik 
+
+(TDD) ≥90 mmHg sebagai definisi hipertensi 
+
+dengan menyadari bahwa risiko hipertensi 
+
+meningkat hampir linear dengan peningkatan 
+
+tekanan darah. 
+
+2. Melakukan pemeriksaan tekanan darah di luar 
+
+klinik, jika fasilitas tersedia, dengan ambulatory 
+
+blood pressure monitoring (ABPM) atau home blood 
+
+pressure monitoring (HBPM) untuk berapa indikasi. 
+
+3. Mencapai target tekanan darah lebih rendah dari 
+
+panduan sebelumya, tetapi tidak lebih rendah dari 
+
+120/70 mmHg,termasuk bagi mereka yang berusia 
+
+≥65 tahun. 
+
+4. Bagi individu dengan tekanan darah 130-139/80-
+
+89 mmHg direkomendasikan untuk intervensi 
+
+perubahan gaya hidup,dan penambahan terapi 
+
+obat jika terbukti adanya penyakit kardiovaskular 
+
+terutama penyakit jantung koroner, sesuai dengan 
+
+pedoman spesifik. 
+
+ 
+
+9 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+2. DIAGNOSIS 
+ 
+2.1. DEFINISI & KRITERIA HIPERTENSI 
+
+Definisi Hipertensi 
+
+Diagnosis hipertensi ditegakkan bila TDS ≥140 
+
+mmHg dan/atau TDD ≥90 mmHg pada pengukuran di 
+
+klinik atau fasilitas layanan kesehatan. 
+
+Berdasarkan pengukuran TDS dan TDD di klinik, 
+
+pasien digolongkan menjadi sesuai dengan tabel 1 berikut. 
+
+Tabel 1. Klasifikasi Tekanan Darah Klinik 
+TDS TDD 
+
+KATEGORI  
+(mmHg) (mmHg) 
+
+Optimal < 120 dan <80 
+
+Normal 120-129 dan/atau 80-84 
+
+Normal-tinggi 130-139 dan/atau 85-89 
+
+Hipertensi derajat 1 140-159 dan/atau 90-99 
+
+Hipertensi derajat 2 160-179 dan/atau 100-109 
+
+Hipertensi derajat 3 ≥ 180 dan/atau ≥ 110 
+
+Hipertensi sistolik 
+≥ 140 dan < 90 
+
+terisolasi 
+
+10 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+TDS=tekanan darah sistolik; TDD=tekanan darah diastolik. 
+Dikutip dari 2018 ESC/ESH Hypertension Guidelines. 
+
+ 
+
+Meskipun hasil pengukuran tekanan darah di klinik 
+
+merupakan standar baku utama dalam menegakkan 
+
+diagnosis hipertensi, pengukuran tekanan darah pasien 
+
+secara mandiri mulai digalakkan. Pemeriksaan ini berupa 
+
+HBPM dan ABPM. 
+
+ 
+2.2. PENGUKURAN TEKANAN DARAH 
+
+Pengukuran tekanan darah dapat dilakukan di klinik 
+
+(atau fasilitas kesehatan) atau di luar klinik (HBPM atau 
+
+ABPM). Patut menjadi perhatian, bahwa tekanan darah 
+
+diukur secara hati-hati menggunakan alat ukur yang 
+
+tervalidasi. 
+
+Persiapan Pasien 
+
+- Pasien harus tenang, tidak dalam keadaan cemas atau 
+
+gelisah, maupun kesakitan. Dianjurkan istirahat 5 menit 
+
+sebelum pemeriksaan. 
+
+- Pasien tidak mengkonsumsi kafein maupun merokok, 
+
+ataupun melakukan aktivitas olah raga minimal 30 
+
+menit sebelum pemeriksaan. 
+
+11 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+- Pasien tidak menggunakan obat-obatan yang 
+
+mengandung stimulan adrenergik seperti fenilefrin 
+
+atau pseudoefedrin (misalnya obat flu, obat tetes 
+
+mata). 
+
+- Pasien tidak sedang menahan buang air kecil maupun 
+
+buang air besar. 
+
+- Pasien tidak mengenakan pakaian ketat terutama di 
+
+bagian lengan. 
+
+- Pemeriksaan dilakukan di ruangan yang tenang dan 
+
+nyaman. 
+
+- Pasien dalam keadaan diam, tidak berbicara saat 
+
+pemeriksan  
+
+Spigmomanometer 
+
+- Pilihan spigmomanometer non air raksa: aneroid atau 
+
+digital. 
+
+- Gunakan spigmomanometer yang telah divalidasi 
+
+setiap 6-12 bulan. 
+
+- Gunakan ukuran manset yang sesuai dengan lingkar 
+
+lengan atas (LLA). Ukuran manset standar: panjang 35 
+
+cm dan lebar 12-13 cm. Gunakan ukuran yang lebih 
+
+besar untuk  LLA >32 cm, dan ukuran lebih kecil untuk 
+
+anak.  
+
+12 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+- Ukuran ideal: panjang balon manset 80-100% LLA, dan 
+
+lebar 40% LLA. 
+
+Posisi 
+
+- Posisi pasien: duduk, berdiri, atau berbaring (sesuai 
+
+kondisi klinik). 
+
+- Pada posisi duduk: 
+
+• Gunakan meja untuk menopang lengan dan kursi 
+
+bersandar  untuk meminimalisasi kontraksi otot 
+
+isometrik. 
+
+• Posisi fleksi lengan bawah dengan siku setinggi 
+
+jantung.  
+
+• Kedua kaki menyentuh lantai dan tidak disilangkan.  
+
+Prosedur 
+
+- Letakkan spigmomanometer sedemikian rupa 
+
+sehingga skala sejajar dengan mata pemeriksa, dan 
+
+tidak dapat dilihat oleh pasien. 
+
+- Gunakan ukuran manset yang sesuai.  
+
+- Pasang manset sekitar 2,5 cm di atas fossa antecubital.  
+
+- Hindari pemasangan manset di atas pakaian. 
+
+- Letakan bagian bell stetoskop di atas arteri brakialis 
+
+yang terletak tepat di batas bawah manset. Bagian 
+
+13 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+diafragma stetoskop juga dapat digunakan untuk 
+
+mengukur tekanan darah sebagai alternatif bell 
+
+stetoskop. 
+
+- Pompa manset sampai 180 mmHg atau 30 mmmHg 
+
+setelah suara nadi menghilang. Lepaskan udara dari 
+
+manset dengan kecepatan sedang (3mmHg/detik).  
+
+- Ukur tekanan darah 3 kali dengan selang waktu 1-2 
+
+menit. Lakukan pengukuran tambahan bila hasil 
+
+pengukuran pertama dan kedua berbeda >10 mmHg. 
+
+Catat rerata tekanan darah, minimal dua dari hasil 
+
+pengukuran terakhir.  
+
+Catatan 
+
+- Untuk pasien baru, ukur tekanan darah pada kedua 
+
+lengan. Gunakan sisi lengan dengan tekanan darah 
+
+yang lebih tinggi sebagai referensi. 
+
+- Lakukan juga pengukuran tekanan darah 1 menit dan 
+
+3 menit setelah berdiri untuk menyingkirkan hipotensi 
+
+ortostatik. Pemeriksaan ini juga disarankan untuk 
+
+dilakukan berkala pada pasien-pasien geriatri, pasien 
+
+diabetes, dan pasien-pasien lain yang dicurigai 
+
+memiliki hipotensi ortostatik. 
+
+14 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+- Dinyatakan hipotensi ortostatik bila terdapat 
+
+penurunan TDS  sistolik ≥20 mmHg atau TDD ≥10 
+
+mmHg dalam kondisi berdiri selama 3 menit. 
+
+- Palpasi nadi untuk menyingkirkan aritmia. 
+
+2.3. PENAPISAN DAN DETEKSI HIPERTENSI 
+
+Penapisan dan deteksi hipertensi direkomendasikan 
+
+untuk semua pasien berusia >18 tahun. 
+
+- Pada pasien berusia >50 tahun, frekuensi penapisan 
+
+hipertensi ditingkatkan sehubungan dengan 
+
+peningkatan angka prevalensi tekanan darah sistolik. 
+
+- Perbedaan TDS >15 mmHg antara kedua lengan 
+
+sugestif suatu penyakit vaskular dan berhubungan erat 
+
+dengan tingginya risiko penyakit serebro-
+
+kardiovaskular. 
+
+15 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+TD TD Normal TD Normal Hipertensi 
+
+Optimal 120-129/80- Tinggi >140/90 
+
+<120/80 84 130-139/85-89 
+
+Pengukuran 
+Pikirkan 
+
+TD di rumah 
+Hipertensi Gunakan 
+
+(ABPM atau 
+Terselubung salah satu 
+
+HBPM) untuk 
+konfirmasi 
+diagnosis 
+
+Ukur TD  Ukur TD  Kontrol Ukur TD 
+Ukur TD  
+
+setiap 5 setiap 3 ulang di rumah 
+setiap tahun 
+
+tahun tahun untuk ukur (ABPM 
+Indikasi untuk  
+
+ABPM atau HBPM 
+ (lihat Bab 2.4 dan 2.5) 
+
+ 
+
+Gambar 1. Penapisan dan Diagnosis Hipertensi 
+
+ABPM=ambulatory blood pressure monitoring; HBPM=home blood 
+
+pressure monitoring; TD=tekanan darah. 
+
+Dikutip dari 2018 ESC/ESH Hypertension Guidelines. 
+
+ 
+
+2.4. HOME BLOOD PRESSURE MONITORING (HBPM) 
+
+HBPM adalah sebuah metoda pengukuran tekanan 
+
+darah yang dilakukan sendiri oleh pasien di rumah atau di 
+
+tempat lain di luar klinik (out of office).  
+
+ 
+
+16 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Kegunaan HBPM: 
+
+- Menegakkan diagnosis hipertensi, terutama dalam 
+
+mendeteksi hipertensi jas putih dan hipertensi 
+
+terselubung (lihat Bab 9).  
+
+- Memantau tekanan darah, termasuk variabilitas 
+
+tekanan darah, pada pasien hipertensi yang mendapat 
+
+pengobatan maupun tidak. 
+
+- Menilai efektivitas pengobatan, penyesuaian dosis, 
+
+kepatuhan pasien dan mendeteksi resistensi obat.     
+
+Pengukuran tekanan darah pada HBPM dilakukan 
+
+dengan menggunakan alat osilometer yang sudah 
+
+divalidasi secara internasional dan disarankan untuk 
+
+melakukan kalibrasi alat setiap 6-12 bulan. 
+
+Pengukuran dilakukan pada posisi duduk, dengan 
+
+kaki menapak dilantai, punggung bersandar di kursi atau 
+
+dinding dan lengan diletakkan pada permukaan yang 
+
+datar (meja, setinggi letak jantung). Tekanan darah diukur 
+
+≥2 menit kemudian. Bila pasien melakukan olahraga maka 
+
+pengukuran dilakukan 30 menit setelah selesai 
+
+berolahraga. Pada saat pengukuran, pasien tidak boleh 
+
+mengobrol atau menyilangkan kedua tungkai. Tekanan 
+
+darah diperiksa pada pagi dan malam hari. Pengukuran 
+
+17 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+pada pagi hari dilakukan 1 jam setelah bangun tidur, 
+
+pasien telah buang air kecil, belum sarapan, tetapi sudah 
+
+minum obat. Pada malam hari pengukuran tekanan darah 
+
+dilakukan sebelum tidur. Pengukuran dilakukan minimal 2 
+
+kali setiap pemeriksaan dengan interval 1 menit. Hasil akhir 
+
+merupakan rerata dari minimal 2 kali pemeriksaan dalam 
+
+waktu 3 hari atau lebih (dianjurkan 7 hari) dengan 
+
+membedakan hasil pengukuran pagi dan malam hari. 
+
+Pengukuran pada hari pertama diabaikan dan tidak 
+
+dimasukkan dalam catatan. 
+
+Untuk mendapatkan hasil akurat, perlu diberikan 
+
+edukasi dan pelatihan kepada pasien tentang cara 
+
+pengukuran yang benar dan pencatatan hasil pengukuran. 
+
+Pengukuran tekanan darah yang dilakukan sendiri oleh 
+
+pasien memberi dampak positif terhadap kepatuhan 
+
+pasien dan keberhasilan penurunan tekanan darah. 
+
+ 
+ 
+ 
+ 
+ 
+
+18 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+2.5. AMBULATORY BLOOD PRESSURE MONITORING 
+
+(ABPM) 
+
+ABPM adalah suatu metoda pengukuran tekanan 
+
+darah selama 24 jam termasuk saat tidur, dan merupakan 
+
+metoda akurat dalam konfirmasi diagnosis hipertensi. 
+
+ABPM dapat dipergunakan untuk: 
+
+- Memberikan data TD dan frekuensi nadi selama 24 jam 
+
+- Memberi informasi variabilitas TD 
+
+- Memberi grafik sirkadian TD, serta efek lingkungan dan 
+
+emosi terhadap TD 
+
+- Memberi informasi tentang lonjakan TD fajar (morning 
+
+surge) dan penurunan TD malam hari (night time 
+
+dipping) 
+
+- Konfirmasi pasien dengan hipertensi resisten, dugaan 
+
+hipertensi jas putih, pasien OSA (obstructive sleep 
+
+apnea), dan  
+
+- Evaluasi efek terapi terhadap profil TD 24 jam. 
+
+Untuk menjamin validitas data ABPM, dianjurkan 
+
+menggunakan mesin ABPM yang berstandar internasional, 
+
+dan manset sesuai ukuran lengan. Pemeriksaan ABPM 
+
+hendaknya dilakukan pada hari kerja normal. Pengukuran 
+
+19 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+TD hendaknya berselang 20-30 menit selama pagi-siang 
+
+hari dan setiap 30-60 menit pada malam hari. Pemeriksaan 
+
+ABPM dianggap representatif bila terdapat minimal 70-
+
+85% hasil pengukuran TD valid untuk dapat dianalisis.  
+
+Profil hasil pengukuran ABPM hendaknya 
+
+diinterpretasikan dengan mengacu pada pola tidur dan 
+
+aktifitas pasien. Kondisi aritmia seperti fibrilasi atrial dan 
+
+gerakan atau aktifitas berlebihan menurunkan akurasi hasil 
+
+ABPM. 
+
+Rerata tekanan darah dari HBPM dan ABPM lebih 
+
+rendah dari nilai pengukuran tekanan darah di klinik, dan 
+
+batasan tekanan darah untuk diagnosis hipertensi sesuai 
+
+dengan tabel berikut. 
+
+Tabel 2. Batasan Tekanan Darah untuk Diagnosis 
+Hipertensi 
+
+TDS TDD 
+Kategori  
+
+(mmHg) (mmHg) 
+
+TD Klinik ≥140 dan/atau ≥90 
+
+ABPM    
+
+Rerata pagi-siang hari (atau 
+≥135 dan/atau ≥85 
+
+bangun) 
+
+Rerata malam hari (atau tidur) ≥120 dan/atau ≥70 
+
+20 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Rerata 24 jam ≥130 dan/atau ≥80 
+
+Rerata HBPM ≥135 dan/atau ≥85 
+
+ABPM=ambulatory blood pressure monitoring; HBPM=home blood 
+
+pressure monitoring; TD=tekanan darah; TDD=tekanan darah 
+
+diastolik;TDS=tekanan darah sistolik. 
+
+Dikutip dari 2018 ESC/ESH Hypertension Guidelines. 
+
+ 
+
+2.6. KONFIRMASI DIAGNOSIS HIPERTENSI 
+
+Konfirmasi diagnosis hipertensi tak dapat hanya 
+
+mengandalkan pada satu kali pemeriksaan, kecuali pada 
+
+pasien dengan TD yang sangat tinggi, misalnya hipertensi 
+
+derajat 3 atau terdapat bukti kerusakan target organ akibat 
+
+hipertensi (HMOD, hypertension-mediated organ damage) 
+
+misalnya retinopati hipertensif dengan eksudat dan 
+
+perdarahan, hipertrofi ventrikel kiri, atau kerusakan ginjal. 
+
+Sebagian besar pasien, pengukuran berulang di klinik 
+
+bisa menjadi strategi untuk konfirmasi peningkatan TD 
+
+persisten, juga untuk klasifikasi dan derajat hipertensi. 
+
+Jumlah kunjungan dan jarak pengukuran TD antar 
+
+kunjungan sangat bervariasi tergantung beratnya 
+
+hipertensi. Pada hipertensi derajat 1 tanpa tanda 
+
+kerusakan organ target, pengukuran tekanan darah dapat 
+
+21 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+diulang dalam beberapa bulan. Selama periode ini, dapat 
+
+dilakukan penilaian TD berulang berdasarkan beratnya 
+
+risiko kardiovaskular. 
+
+Strategi pengukuran TD di luar klinik (HBPM atau 
+
+ABPM) untuk konfirmasi diagnosis hipertensi sangat 
+
+dianjurkan bila tersedia. Pengukuran TD di rumah dapat 
+
+juga mendeteksi adanya hipertensi jas putih, hipertensi 
+
+terselubung, dan juga kasus lain. 
+
+ 
+ 
+3. EVALUASI KLINIS 
+
+Tujuan dari evaluasi klinis adalah: 
+
+- Menegakkan diagnosis dan derajat hipertensi 
+
+- Menapis kemungkinan penyebab sekunder hipertensi 
+
+- Identifikasi faktor-faktor yang berkontribusi terhadap 
+
+perkembangan hipertensi (gaya hidup, obat lain atau 
+
+riwayat keluarga) 
+
+- Identifikasi faktor risiko kardiovaskular yang lain 
+
+(termasuk gaya hidup dan riwayat keluarga) 
+
+- Identifikasi penyakit-penyakit penyerta 
+
+22 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+- Menentukan ada tidaknya HMOD atau penyakit 
+
+kardiovaskular, serebrovaskular atau ginjal yang sudah 
+
+ada sebelumnya, untuk stratifikasi risiko. 
+
+Tabel 3. Penilaian HMOD 
+
+Penapisan Dasar Indikasi dan Interpretasi 
+EKG 12-sandapan Penapisan LVH dan gangguan kardiak 
+
+lain, serta aritmia fibrilasi atrial. 
+Kriteria EKG LVH: 
+
+- Sokolow-LyonSV1+RV5 >35 mm, atau 
+R di aVL ≥11 mm;  
+
+- Cornell voltageSV3+RaVL >28 mm 
+(laki-laki), >20 mm (perempuan) 
+
+Albuminuria Protein urin kualitatif untuk deteksi 
+kerusakan ginjal 
+
+Funduskopi Deteksi retinopati hipertensi, terutama 
+pada hipertensi derajat 2-3 
+
+Ekokardiografi Deteksi kelainan struktur dan fungsi 
+kardiak, bila berdampak pada 
+tatalaksana 
+
+Ultrasonografi Mengukur intima media thickness dan 
+karotis plak karotis 
+Ultrasonografi- Evaluasi ukuran dan struktur ginjal, 
+Doppler abdomen evaluasi aneurisma atau dilatasi aorta 
+
+abdominal, evaluasi kelenjar adrenal 
+(CT/MRI jika fasilitas tersedia) 
+
+PWV  Sebagai indeks kekakuan arteri dan 
+
+23 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+Penapisan Dasar Indikasi dan Interpretasi 
+arteriosklerosis: 
+Tekanan denyut (pada usia tua) >60 
+mmHg 
+PWV karotis-femoral >10 m/detik 
+
+ABI  Penapisan terdapatnya penyakit 
+pembuluh darah tungkai (ABI<0,9) 
+
+Uji fungsi kognitif Evaluasi fungsi kognitif pada pasien 
+dengan gejala gangguan kognitif 
+
+Pencitraan otak Evaluasi terdapatnya iskemik atau 
+perdarahan otak, terutama pada pasien 
+dengan riwayat stroke atau penurunan 
+fungsi kognitif 
+
+ABI=ankle-brachial index;CT=computerized tomography; 
+
+EKG=elektrokardiogram; PWV=pulse wave velocity. 
+
+Dikutip dari 2018 ESC/ESH Hypertension Guidelines. 
+
+ 
+
+3.1. PENILAIAN RISIKO PENYAKIT KARDIOVASKULAR 
+
+Penyakit kardiovaskular (PKV) memiliki faktor risiko 
+
+multipel. Dalam kuantifikasi risiko PKV pada pasien 
+
+hipertensi, perlu diperhitungkan efek berbagai faktor risiko 
+
+lain yang dimiliki pasien. Tabel 4 di bawah dapat 
+
+memudahkan klinisi dalam klasifikasi risiko hipertensi. Bila 
+
+klasifikasi didapatkan risiko rendah atau sedang, dapat 
+
+dilanjutkan dengan stratifikasi risiko lanjutan dengan 
+
+24 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+sistem SCORE (Systematic COronary Risk Evaluation). Pada 
+
+individu dengan kategori risiko tinggi dan sangat tinggi, 
+
+hipertensi dengan komorbidnya perlu langsung diobati. 
+
+ 
+
+Tabel 4. Klasifikasi Risiko Hipertensi Berdasarkan 
+Derajat Tekanan Darah, Faktor Risiko Kardiovaskular, 
+HMOD atau Komorbiditas 
+
+Derajat Tekanan Darah (mmHg) 
+Tahapan Faktor Risiko Normal Derajat 3 
+Penyakit Lain, HMOD, Derajat 1 Derajat 2 
+
+Tinggi TDS ≥180, 
+Hipertensi atau Penyakit TDS 140-159 TDS 160-179 
+
+TDS 130-139 atau 
+TDD 90-99 TDD 100-109 
+
+TDD 85-89 TDD≥110 
+
+Tidak ada faktor Risiko Risiko Risiko Risiko 
+risiko lain rendah rendah sedang tinggi 
+
+Tahap 1 Risiko 
+1 atau 2 faktor Risiko Risiko Risiko 
+
+(tidak sedang- 
+risiko rendah sedang tinggi 
+
+berkomplikasi) tinggi 
+
+Risiko Risiko 
+Risiko 
+
+≥3 faktor risiko rendah- sedang- Risiko tinggi 
+tinggi 
+
+sedang tinggi 
+
+HMOD, PGK  
+derajat 3, atau Risiko Risiko 
+
+Tahap 2 
+DM tanpa sedang- Risiko tinggi Risiko tinggi tinggi- 
+
+(asimtomatik) 
+kerusakan tinggi sangat 
+
+organ tinggi 
+
+25 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+CVD, PGK 
+Tahap 3  derajat ≥4, atau Risiko Risiko 
+
+Risiko Risiko 
+(terdokumentasi DM dengan sangat sangat 
+
+sangat tinggi sangat tinggi 
+CVD) kerusakan tinggi tinggi 
+
+organ 
+
+CVD=cardiovascular disease; DM=diabetes melitu; 
+
+HMOD=Hypertension-mediated organ damage; PGK=penyakit 
+
+ginjal kronik; TDD=tekanan darah diastolik; TDS=tekanan darah 
+
+sistolik. 
+
+Dikutip dari 2018 ESC/ESH Hypertension Guidelines. 
+ 
+
+Tabel 5. Faktor Risiko Kardiovaskular Pasien Hipertensi 
+
+Karakteristik demografik dan parameter laboratorium 
+
+Jenis kelamina (laki-laki > perempuan) 
+
+Usiaa 
+
+Merokok (saat ini atau riwayat)a 
+
+Kolesterol totala dan HDL  
+
+Asam urat 
+
+Diabetesa 
+
+Overweight atau obesitas 
+
+Riwayat keluarga CVD dini (laki-laki usia <55 tahun dan 
+perempuan <65 tahun) 
+
+Riwayat keluarga atau orangtua dengan onset dini hipertensi 
+
+Menopause onset dini 
+
+Pola hidup inaktif (sedentary) 
+
+Faktor psikososial dan sosioekonomi 
+
+26 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+Denyut jantung (nilai istirahat >80 kali/menit) 
+
+HMOD asimtomatik 
+
+EKG LVH: 
+
+- Sokolow-Lyon SV1+RV5 >35 mm, atau R di aVL ≥11 mm;  
+
+- Cornell voltage SV3+RaVL >28 mm (laki-laki), >20 mm 
+(perempuan) 
+
+Kekakuan arteri: 
+- Tekanan nadi (pada usia tua) >60 mmHg 
+- PWV karotis-femoral >10 m/detik 
+
+Ekokardiografi LVH [LV mass index: laki-laki >50 g/m2.; 
+perempuan >47 g/m2. (tinggi dalam m2); indeks untuk LPT 
+dipakai untuk pasien berat badan normal; LV mass/LPT 
+g/m2>115 (laki-laki) dan >95 (perempuan)] 
+Mikroalbuminuria (30-300 mg/24 jam), atau peningkatan rasio 
+albumin/kreatinin (30-300 mg/g) (lebih baik urin sewaktu pagi 
+hari)b 
+PGK sedang dengan dengan eLFG>30-59 ml/menit/1,73 m2 
+(LPT) atau PGK berat eLFG<30 ml/menit/1,73 m2 b 
+
+Ankle-brachial index <0,9 
+
+Retinopati lanjut: hemoragik atau eksudat, papil edema 
+
+Adanya penyakit KV atau ginjal 
+
+Penyakit serebrovaskular: stroke iskemik, perdarahan otak, TIA 
+
+CAD: infark miokard, angina, revaskularisasi miokard 
+
+Ditemukannya plak atheroma pada pencitraan 
+
+Gagal jantung, termasuk HFpEF 
+
+Penyakit arteri perifer 
+
+27 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+Fibrilasi atrial 
+
+CAD=coronary artery disease; CVD=cardiovascular disease; 
+
+eLFG=estimasi laju filtrasi glomerulus; HFpEF=heart failure with 
+
+preserved ejection fraction; HMOD=hypertension-mediated organ 
+
+damage; KV=penyakit kardiovaskular; LPT=luas permukaan 
+
+tubuh; LV=left ventricular; LVH=left ventricular hypertrophy; 
+
+PGK=penyakit ginjal kronik; PWV=pulse wave velocity; 
+
+SCORE=Systematic Coronary Risk Evaluation; TIA=transient 
+
+ischemic attack. 
+aFaktor risiko CV dimasukkan dalam sistem SCORE. 
+bProteinuria dan eLFG merupakan faktor risiko independen. 
+
+Diadaptasi dari 2018 ESC/ESH Hypertension Guidelines. 
+
+ 
+
+Tabel 6. Kategori Risiko PKV dalam 10 tahun (SCORE 
+system) 
+Risiko sangat Individu dengan hal berikut ini: 
+tinggi PKV terdokumentasi, baik secara klinis atau 
+
+secara meyakinkan tampak pada pencitraan. 
+
+ PKV klinis meliputi infark miokard akut, 
+
+sindroma koroner akut, revaskularisasi 
+
+koroner atau arteri lain, stroke, TIA, 
+
+aneurisma aorta dan penyakit 
+
+pembuluh darah perifer. 
+
+28 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+ Secara meyakinkan tampak pada 
+
+pencitraan meliputi plak signifikan 
+
+(stenosis ≥50%) pada angiografi atau 
+
+ultrasonografi. Tidak termasuk 
+
+didalamnya penebalan intima-media 
+
+thickness (IMT) arteri karotis. 
+
+ Diabetes melitus (DM) dengan 
+
+kerusakan organ target, misalnya 
+
+proteinuria atau disertai faktor risiko 
+
+mayor misalnya hipertensi derajat 3 
+
+atau hiperkolesterolemia. 
+
+ Penyakit ginjal kronik berat (eLFG <30 
+
+mL/min/1.73m2) 
+
+ Kalkulasi SCORE 10 tahun ≥10% 
+
+Risiko tinggi Individu dengan hal berikut: 
+ Peningkatan nyata dari salah satu faktor 
+
+risiko, terutama kadar kolesterol-total 
+
+(>310 mg/dL) misalnya pada 
+
+hiperkolesterolemia familial, hipertensi 
+
+derajat 3 (TD ≥180/110 mmHg). 
+
+ Pada individu dengan DM umumnya 
+
+(kecuali pada individu muda dengan 
+
+DM tipe 1 dan tanpa faktor risiko mayor 
+
+lain termasuk risiko sedang). 
+
+Hipertrofi ventrikel kiri hipertensif. 
+
+29 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+Penyakit ginjal kronik sedang (eLFG 30-59 
+
+mL/min/1.73m2). 
+
+Kalkukasi SCORE 10 tahun 5-10%. 
+
+Risiko sedang Individu dengan: 
+ Kalkulasi SCORE 10 tahun ≥1% 
+
+hingga<5% 
+
+ Hipertensi derajat 2 
+
+ Individu berusia setengah-baya 
+
+umumnya termasuk kategori ini 
+
+Risiko rendah Individu dengan: 
+ Kalkulasi SCORE 10 tahun<1% 
+
+DM=diabetes mellitus; eLFG=estimasi laju filtrasi glomerulus; 
+IMT=intima-media thickness;PKV=penyakit kardiovaskular; 
+
+SCORE=Systematic Coronary Risk Evaluation; TIA=transient 
+ischemic attack; TD=tekanan darah. 
+
+Dikutip dari 2018 ESC/ESH Hypertension Guidelines. 
+ 
+ 
+ 
+ 
+
+30 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+31 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+Gambar 2. Diagram SCORE.  
+
+Catatan: Diagram di atas adalah diagram 
+
+SCORE untuk negara-negara risiko rendah. 
+
+Etnis Asia Timur masih dianggap memiliki 
+
+risiko lebih rendah dibanding Kaukasia, data 
+
+Asia Tenggara saat ini belum ada. 
+
+Dikutip dari: 2016 European Guidelines on 
+
+Cardiovascular Disease Prevention in Clinical 
+
+Practice. 
+
+ 
+3.2. INDIKASI MERUJUK KE FASILITAS KESEHATAN 
+
+TINGKAT LANJUT (FKTL) 
+
+Pengelolaan hipertensi umumnya dilakukan di 
+
+fasilitas kesehatan tingkat pertama (FKTP). Tetapi tidak 
+
+sedikit penderita hipertensi yang memerlukan evaluasi, 
+
+penatalaksanaan ataupun perawatan lebih lanjut di FKTL, 
+
+agar tidak berlanjut terjadi kejadian serebro-
+
+kardiovaskular dan ginjal. Indikasi merujuk ke FKTL, antara 
+
+lain: 
+
+- Pasien dengan kecurigaan hipertensi sekunder 
+
+- Pasien muda (<40 tahun) dengan hipertensi derajat 2 
+
+keatas (sudah disingkirkan kemungkinan hipertensi 
+
+sekunder) 
+
+32 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+- Pasien dengan hipertensi mendadak dengan riwayat 
+
+TD normal 
+
+- Pasien hipertensi resisten 
+
+- Pasien dengan penilaian HMOD lanjutan yang akan 
+
+mempengaruhi pengobatan 
+
+- Kondisi klinis lain dimana dokter perujuk merasa 
+
+evaluasi spesialistik diperlukan 
+
+ 
+
+4. PENATALAKSANAAN HIPERTENSI 
+
+4.1. INTERVENSI POLA HIDUP  
+
+Pola hidup sehat dapat mencegah ataupun 
+
+memperlambat awitan hipertensi dan dapat mengurangi 
+
+risiko kardiovaskular. Pola hidup sehat juga dapat 
+
+memperlambat ataupun mencegah kebutuhan terapi obat 
+
+pada hipertensi derajat 1, namun sebaiknya tidak 
+
+menunda inisiasi terapi obat pada pasien dengan HMOD 
+
+atau risiko tinggi kardiovaskular. Pola hidup sehat telah 
+
+terbukti menurunkan tekanan darah yaitu pembatasan 
+
+konsumsi garam dan alkohol, peningkatan konsumsi 
+
+sayuran dan buah, penurunan berat badan dan menjaga 
+
+33 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+berat badan ideal, aktivitas fisik teratur, serta menghindari 
+
+rokok. 
+
+Pembatasan konsumsi garam 
+
+Terdapat bukti hubungan antara konsumsi garam 
+
+dan hipertensi. Konsumsi garam berlebih terbukti 
+
+meningkatkan tekanan darah dan meningkatkan 
+
+prevalensi hipertensi. Rekomendasi penggunaan natrium 
+
+(Na) sebaiknya tidak lebih dari 2 gram/hari (setara dengan 
+
+5-6 gram NaCl perhari atau 1 sendok teh garam dapur). 
+
+Sebaiknya menghindari makanan dengan kandungan 
+
+tinggi garam. 
+
+Perubahan pola makan 
+
+Pasien hipertensi disarankan untuk konsumsi 
+
+makanan seimbang yang mengandung sayuran, kacang-
+
+kacangan, buah-buahan segar, produk susu rendah lemak, 
+
+gandum, ikan, dan asam lemak tak jenuh (terutama minyak 
+
+zaitun), serta membatasi asupan daging merah dan asam 
+
+lemak jenuh.  
+
+ 
+
+ 
+
+34 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Penurunan berat badan dan menjaga berat badan ideal 
+
+Terdapat peningkatan prevalensi obesitas dewasa di 
+
+Indonesia dari 14,8% berdasarkan data Riskesdas 2013,  
+
+menjadi 21,8% dari data Riskesdas 2018. 
+
+Tujuan pengendalian berat badan adalah mencegah 
+
+obesitas (IMT >25 kg/m2), dan menargetkan berat badan 
+
+ideal (IMT 18,5 – 22,9 kg/m2) dengan lingkar pinggang <90 
+
+cm  pada laki-laki dan <80 cm  pada perempuan. 
+
+Olahraga teratur 
+
+Olahraga aerobik teratur bermanfaat untuk 
+
+pencegahan dan pengobatan hipertensi, sekaligus 
+
+menurunkan risiko dan mortalitas kardiovaskular. 
+
+Olahraga teratur dengan intensitas dan durasi ringan 
+
+memiliki efek penurunan TD lebih kecil dibandingkan 
+
+dengan latihan intensitas sedang atau tinggi, sehingga 
+
+pasien hipertensi disarankan untuk berolahraga 
+
+setidaknya 30 menit latihan aerobik dinamik berintensitas 
+
+sedang (seperti: berjalan, joging, bersepeda, atau 
+
+berenang) 5-7 hari per minggu. 
+
+ 
+
+35 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Berhenti merokok 
+
+Merokok merupakan faktor risiko vaskular dan 
+
+kanker, sehingga status merokok harus ditanyakan pada 
+
+setiap kunjungan pasien dan penderita hipertensi yang 
+
+merokok harus diedukasi untuk berhenti merokok. 
+
+ 
+
+4.2. PENENTUAN BATAS TEKANAN DARAH UNTUK 
+
+INISIASI OBAT 
+
+Penatalaksanaan medikamentosa pada penderita 
+
+hipertensi merupakan upaya untuk menurunkan tekanan 
+
+darah secara efektif dan efisien. Meskipun demikian 
+
+pemberian obat antihipertensi bukan selalu merupakan 
+
+langkah pertama dalam penatalaksanaan hipertensi. 
+
+Tabel 7. Ambang Batas TD untuk Inisiasi Obat 
+
+TDD di 
+Ambang batas TDS di kllinik untuk inisiasi obat 
+
+klinik 
+(mmHg) 
+
+Kelompok (mmHg) 
+Usia 
+
++stroke
+Hipertensi +Diabetes +PGK +PJK  
+
+/TIA 
+
+18-65 >14
+>140 >140 >140 >140 > 90 
+
+tahun 0 
+
+36 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+TDD di 
+Ambang batas TDS di kllinik untuk inisiasi obat 
+
+klinik 
+(mmHg) 
+
+Kelompok (mmHg) 
+Usia 
+
++stroke
+Hipertensi +Diabetes +PGK +PJK  
+
+/TIA 
+
+65-79 >14
+>140 >140 >140 >140 > 90 
+
+tahun 0 
+
+>80 tahun >16
+>160 >160 >160 >160 > 90 
+
+0 
+
+TDD di 
+klinik > 90 > 90 > 90 > 90 > 90  
+(mmHg) 
+
+TD=tekanan darah; TDD=tekanan darah diastolik; TDS=tekanan 
+
+darah sistolik, PGK=penyakit ginjal kronik, PJK=penyakit jantung 
+
+koroner, TIA=transient ischemic attack 
+
+Dikutip dari 2018 ESC/ESH Hypertension Guidelines. 
+
+ 
+
+37 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+Tekanan Darah 
+Hipertensi Derajat 1 Hipertensi Derajat 2 
+
+Normal Tinggi Hipertensi Derajat 3 
+140-159/90-99 160-179/100-109 
+
+130-139/85-89 >180/110 mmHg 
+mmHg mmHg 
+
+mmHg 
+
+Intervensi Gaya Intervensi Gaya Intervensi Gaya Intervensi Gaya 
+Hidup Hidup Hidup Hidup 
+
+*Pertimbangkan Inisiasi obat segera 
+inisiasi obat pada pada pasien risiko 
+
+pasien risiko tinggi dan sangat Inisiasi obat segera  Inisiasi obat segera  
+sangat tinggi tinggi dengan PKV, pada semua pasien pada semua pasien 
+dengan PKV, penyakit ginjal atau 
+terutama PJK HMOD 
+
+Inisiasi obat segera pada pasien Kontrol TD Kontrol TD 
+risiko rendah-sedang tanpa PKV, tercapai  tercapai  
+
+penyakit ginjal atau HMOD setelah dalam 3 bulan dalam 3 bulan 
+intervensi gaya hidup dalam 3-6 
+bulan dan TD belum terkontrol 
+
+ 
+Gambar 3. Alur Panduan Inisiasi Terapi Obat Sesuai 
+
+dengan Klasifikasi Hipertensi 
+
+HMOD=hypertension-mediated organ damage; PJK=penyakit 
+
+jantung koroner; PKV=penyakit kardiovaskular; TD=tekanan 
+
+darah. 
+
+*Inisiasi terapi obat pada kelompok pasien ini disarankan untuk 
+
+dikonsultasikan kepada spesialis dengan target tatalaksana 
+
+disesuaikan dengan panduan penyakit spesifik. 
+
+Diadaptasi dari 2018 ESC/ESH Hypertension Guidelines. 
+
+38 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+4.3. TARGET PENGOBATAN HIPERTENSI 
+
+Salah satu pertimbangan untuk memulai terapi 
+
+medikamentosa adalah nilai atau ambang tekanan darah. 
+
+Pada Konsensus Penatalaksanaan Hipertensi PERHI tahun 
+
+2016, disepakati bahwa target tekanan darah adalah 
+
+<140/90 mmHg, tidak tergantung kepada jumlah penyakit 
+
+penyerta dan nilai risiko kardiovaskularnya. 
+
+Pada Konsensus Penatalaksanaan Hipertensi 2019 ini, 
+
+disepakati target tekanan darah seperti tercentum pada 
+
+tabel 8 berikut. 
+
+ 
+
+Tabel 8. Target TD di Klinik 
+
+Target 
+Target TDS(mmHg) TDD 
+
+Kelompok (mmHg) 
+usia 
+
++ +Stroke/ 
+Hipertensi + PGK + PJK  
+
+Diabetes TIA 
+
+Target Target Target Target 
+Target 
+
+<130 jika <130 jika <130 jika <130 jika 
+<140 
+
+dapat dapat dapat dapat 
+18-65 hingga 
+
+ditoleransi ditoleransi ditoleransi ditoleransi 70-79 
+tahun 130 jika 
+
+Tetapi Tetapi Tetapi Tetapi 
+dapat 
+
+tidak tidak tidak tidak 
+ditolerasi 
+
+<120 <120 <120 <120 
+
+39 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+Target 
+Target TDS(mmHg) TDD 
+
+Kelompok (mmHg) 
+usia 
+
++ +Stroke/ 
+Hipertensi + PGK + PJK  
+
+Diabetes TIA 
+
+Target  Target  Target  Target  Target  
+65-79 130-139  130-139  130-139  130-139  130-139* 
+
+70-79 
+tahun jika dapat jika dapat jika dapat jika dapat jika dapat 
+
+ditoleransi ditoleransi ditoleransi ditoleransi ditoleransi 
+
+Target  Target  Target  Target  Target  
+≥80 130-139  130-139  130-139 130-139  130-139* 
+
+70-79 
+tahun jika dapat jika dapat jika dapat jika dapat jika dapat 
+
+ditoleransi ditoleransi ditoleransi ditoleransi ditoleransi 
+
+Target 
+TDD 70-79 70-79 70-79 70-79 70-79  
+(mmHg) 
+
+PGK=penyakit ginjal kronik; PJK=penyakit jantung koroner; 
+
+TIA=transient ischemic attack; TD=tekanan darah; TDD=tekanan 
+
+darah diastolik; TDS=tekanan darah sistolik. 
+
+*Untuk stroke lakunar: target penurunan TDS 120-130 mmHg 
+
+Diadaptasi dari 2018 ESC/ESH Hypertension Guidelines. 
+
+ 
+
+40 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+4.4. PENGOBATAN HIPERTENSI – TERAPI OBAT 
+
+Strategi pengobatan yang dianjurkan pada panduan 
+
+penatalaksanaan hipertensi saat ini adalah dengan 
+
+menggunakan terapi obat kombinasi pada sebagian besar 
+
+pasien, untuk mencapai tekanan darah sesuai target. Bila 
+
+tersedia luas dan memungkinkan, maka dapat diberikan 
+
+dalam bentuk pil tunggal berkombinasi (single pill 
+
+combination), dengan tujuan untuk meningkatkan 
+
+kepatuhan pasien terhadap pengobatan.   
+
+ 
+1. Obat-obat untuk penatalaksanaan hipertensi 
+
+Lima golongan obat antihipertensi utama yang 
+
+rutin direkomendasikan yaitu: ACEi, ARB, beta bloker, 
+
+CCB dan diuretik. 
+
+Kontraindikasi pemberian obat antihipertensi 
+
+tercantum pada tabel 9. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+41 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Tabel 9. Kontraindikasi Pemberian Obat Antihipertensi 
+
+Kontraindikasi 
+Obat 
+
+Tidak dianjurkan Relatif 
+Diuretik  Gout  Sindrom metabolik 
+(tiazid/thiazide- like,  Intoleransi glukosa 
+misalnya 
+chlorthalidone dan  Kehamilan 
+
+indapamide)  Hiperkalsemia 
+ Hipokalsemia 
+
+Beta bloker  Asma  Sindrom metabolik 
+ Setiap blok sinoatrial atau  Intoleransi glukosa 
+
+atrioventrikular derajat tinggi  Atlit dan individu 
+ Bradikardi (denyut jantung yang aktif secara 
+
+<60 fisik 
+kali per menit) 
+
+Calcium Channel   Takiaritmia 
+Blocker  Gagal jantung 
+(Dihidropiridin) 
+
+(HFrEF kelas III atau 
+IV) 
+
+ Terdapat edema 
+tungkai berat 
+
+Calcium Channel  Setiap bloksinoatrial atau  Konstipasi 
+Blocker atrioventrikular derajat tinggi 
+(Non-Dihidropiridin)  Gangguan ventrikel kiri berat 
+
+(fraksi ejeksi ventrikel 
+kiri<40%) 
+
+42 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+ Bradikardia (denyut jantung 
+<60 
+kali per menit) 
+
+ACE Inhibitor  Kehamilan  Perempuan usia 
+ Riwayat angioedema subur tanpa 
+
+ kontrasepsi  
+Hiperkalemia (kalium >5,5 
+meq/L) 
+
+ Stenosis arteri renalis bilateral 
+Angiotensin  Kehamilan  Perempuan usia 
+Receptor Blocker  Hiperkalemia (kalium >5,5 subur tanpa 
+
+meq/L) kontrasepsi  
+
+ Stenosis arteri renalis bilateral 
+ACE=angiotensin converting enzyme; HFrEF= heart failure 
+reduced ejection fraction. 
+Dikutip dari ESC/ESH 2018 Hypertension Guidelines. 
+
+ 
+Tabel 10. Obat Antihipertensi Oral 
+
+Dosis Frekuensi 
+Kelas Obat 
+
+(mg/hari) per hari 
+Obat-obat Lini Utama 
+Tiazid atau Hidroklorothiazid  25 – 50  1 
+thiazide-type Indapamide 1,25 – 2,5  1 
+diuretics 
+ACE inhibitor Captopril  12,5 – 150  2 atau 3 
+
+Enalapril  5 – 40  1 atau 2 
+Lisinopril 10 – 40 1 
+Perindopril 5 – 10 1 
+Ramipril 2,5 – 10  1 atau 2 
+
+43 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+Dosis Frekuensi 
+Kelas Obat 
+
+(mg/hari) per hari 
+ARB Candesartan 8 – 32  1 
+
+Eprosartan 600 1 
+Irbesartan 150 – 300  1 
+Losartan 50 – 100  1 atau 2 
+Olmesartan 20 – 40  1 
+Telmisartan 20 – 80  1 
+Valsartan 80 – 320  1 
+
+CCB - dihidropiridin Amlodipin  2,5 – 10  1 
+Felodipin 5 – 10  1 
+Nifedipin OROS 30 – 90 1 
+Lercanidipin 10 – 20 1 
+
+CCB – Diltiazem SR 180 – 360  2 
+nondihidropiridin Diltiazem CD 100 – 200  1 
+
+Verapamil SR 120 – 480 1 atau 2 
+Obat-obat Lini Kedua 
+Diuretik loop Furosemid 20 – 80  2 
+
+Torsemid 5 – 10 1 
+Diuretik hemat Amilorid 5 – 10 1 atau 2 
+kalium Triamteren 50 – 100 1 atau 2 
+Diuretik antagonis Eplerenon  50 – 100 1 atau 2 
+aldosteron Spironolakton 25 – 100 1 
+Beta bloker - Atenolol  25 – 100 1 atau 2 
+kardioselektif Bisoprolol 2,5 – 10 1 
+
+Metoprolol 100 - 400 2 
+tartrate 
+
+Beta bloker – Nebivolol 5 – 40  1 
+kardioselektif dan 
+vasodilator 
+
+44 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+Dosis Frekuensi 
+Kelas Obat 
+
+(mg/hari) per hari 
+Beta bloker – non Propanolol IR 160 – 480   2 
+kardioselektif Propanolol LA 80 – 320  1 
+Beta bloker – Carvedilol 12,5 – 50 2 
+kombinasi reseptor 
+alfa dan beta 
+Alfa-1 bloker Doxazosin 1 – 8 1 
+
+Prazosin 2 – 20 2 atau 3 
+Terazosin 1 – 20 1 atau 2 
+
+Sentral alfa-1 Metildopa 250 – 1000 2 
+agonis dan obat Klonidin 0,1 – 0,8  2 
+sentral lainnya 
+Direct vasodilator Hidralazin 25 - 200 2 atau 3 
+
+Minoxidil 5 – 100 1 – 3  
+ACE=angiotensin-converting enzyme; ARB=angiotensin receptor 
+blocker; CCB=calcium channel blocker; OROS=osmotic-controlled 
+release oral delivery system; IR=immediate release; LA=long-
+acting; SR=sustained release. 
+Dikutip dari ACC/AHA Guideline of Hypertension 2017. 
+
+ 
+
+Tabel 11. Efek Samping Obat Antihipertensi 
+
+ACE inhibitor Batuk, hiperkalemia 
+
+Angiotensin Receptor Hiperkalemia lebih jarang terjadi 
+
+Blocker dibandingkan ACEi 
+
+Calcium Channel Blocker 
+
+Dihidropiridin Edema pedis, sakit kepala 
+
+45 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Non-Dihidropiridin Konstipasi (verapamil), sakit kepala 
+
+(diltiazem) 
+
+Diuretik Sering berkemih, hiperglikemia, 
+
+hiperlipidemia, hiperurisemia, 
+
+disfungsi seksual 
+
+Sentral alfa-agonis Sedasi, mulut kering, rebound 
+
+hypertension, disfungsi seksual 
+
+Alfa bloker Edema pedis, hipotensi ortostatik, 
+
+pusing 
+
+Beta bloker Lemas, bronkospasme, hiperglikemia, 
+
+disfungsi seksual 
+
+ACEi=angiotensin-converting enzyme-inhibitor 
+Dikutip dari Comprehensive Clinical Nephrology 2018. 
+
+ 
+4.5. ALGORITMA TERAPI OBAT UNTUK HIPERTENSI 
+
+Algoritma farmakoterapi telah dikembangkan untuk 
+
+memberikan rekomendasi praktis pengobatan hipertensi. 
+
+Beberapa rekomendasi utama, yaitu: 
+
+(1) Inisiasi pengobatan pada sebagian besar pasien 
+
+dengan kombinasi dua obat. Bila memungkinkan 
+
+dalam bentuk SPC, untuk meningkatkan kepatuhan 
+
+pasien. 
+
+(2) Kombinasi dua obat yang sering digunakan adalah 
+
+46 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+RAS blocker (Renin-angiotensin system blocker), yakni 
+
+ACEi atau ARB, dengan CCB atau diuretik. 
+
+(3) Kombinasi beta bloker dengan diuretik ataupun obat 
+
+golongan lain dianjurkan bila ada indikasi spesifik, 
+
+misalnya angina, pasca IMA, gagal jantung dan untuk 
+
+kontrol denyut jantung. 
+
+(4) Pertimbangkan monoterapi bagi pasien hipertensi 
+
+derajat 1 dengan risiko rendah (TDS <150mmHg), 
+
+pasien dengan tekanan darah normal-tinggi dan 
+
+berisiko sangat tinggi, pasien usia sangat lanjut (≥80 
+
+tahun) atau ringkih. 
+
+(5) Penggunaan kombinasi tiga obat yang terdiri dari 
+
+RAS blocker (ACEi atau ARB), CCB, dan diuretik jika TD 
+
+tidak terkontrol oleh kombinasi duaobat. 
+
+(6) Penambahan spironolakton untuk pengobatan 
+
+hipertensi resisten, kecuali ada kontraindikasi. 
+
+(7) Penambahan obat golongan lain pada kasus tertentu 
+
+bila TD belum terkendali dengan kombinasi obat 
+
+golongan di atas. 
+
+47 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+(8) Kombinasi dua penghambat RAS tidak 
+
+direkomendasikan. 
+
+Terapi initial ACEi atau ARB + CCB atau Pertimbangkan terapi 
+Kombinasi dua obat diuretik tunggal pada hipertensi 
+
+  derajat 1 risiko rendah 
+(TDS <150 mmHg, atau 
+
+Langkah II ACEi atau ARB + CCB + usia sangat tua (>80 
+Kombinasi tiga obat diuretik tahun) atau ringkih 
+
+  
+
+Langkah III Hipertensi Resisten Pertimbangkan merujuk 
+Kombinasi tiga obat Tambah Spironolakton (25-50 untuk evaluasi lebih 
+
++ spironolakton  mg 1x/hari) atau diuretik lain, lanjut 
+atau obat lain alfa bloker atau beta bloker 
+
+Beta Bloker 
+Pertimbangkan beta bloker pada setiap langkah, jika ada indikasi spesifik 
+seperti gagal jantung, angina, pasca MI, fibrilasi atrial, atau perempuan 
+
+muda dengan, atau merencanakan kehamilan 
+  
+
+Gambar 4. Strategi Penatalaksanaan Hipertensi Tanpa 
+Komplikasi 
+ACEi = angiotensin-converting enzyme inhibitor; ARB = 
+angiotensin receptor blocker; CCB = calcium channel blocker;  
+MI = myocardial infarction.  
+Adaptasi dari ESC/ESH 2018 Hypertension Guidelines. 
+
+ 
+
+ 
+
+ 
+
+48 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+ 
+ACEi/ARB + BB /CCB  Pertimbangkan terapi 
+
+Terapi initial 
+ atau CCB + diuretik/BB tunggal pada hipertensi 
+
+Kombinasi dua obat 
+atau BB + diuretik derajat 1 risiko rendah 
+
+ (TDS <150 mmHg, atau 
+sangat tua (>80 tahun) 
+
+ 
+atau ringkih 
+
+L angkah II 
+Kombinasi ketiga obat diatas 
+
+Kombinasi tiga obat 
+ 
+
+ 
+L angkah III Hipertensi Resisten 
+
+Kombinasi tiga obat + Tambah Spironolakton (25-50 Pertimbangkan merujuk 
+sp ironolakton  mg 1x/hari) atau diuretik lain, untuk evaluasi lebih lanjut 
+atau obat lain alfa bloker atau beta bloker 
+ 
+
+ 
+Gambar 5. Strategi Pengobatan pada Hipertensi dan 
+Penyakit Arteri Koroner 
+ACEi= angiotensin-converting enzyme inhibitor; ARB = angiotensin 
+receptor blocker; CCB = calcium channel blocker; CVD = 
+cardiovascular disease; MI = myocardial infarction, BB=beta bloker 
+Dikutip dari ESC/ESH 2018 Hypertension Guidelines. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+49 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+Terapi initial ACEi atau ARB + CCB  Penghambat Beta 
+Kombinasi dua obat Atau ACEi atau ARB + Pertimbangkan 
+
+diuretik (atau loop diuretic)b 
+penghambat beta pada 
+semua langkah, jika ada 
+indikasi khusus misalnya 
+
+Langkah II ACEi atau ARB + CCB + gagal jantung, angina, 
+Kombinasi tiga obat diuretik (atau loop diuretic)b pasca MI, fibrilasi atrial, 
+
+atau perempuan muda 
+dengan, atau 
+
+Langkah III merencanakan kehamilan 
+Hipertensi Resisten 
+
+Kombinasi tiga obat Tambah Spironolakton (25-50 
++ spironolaktonc mg 1x/hari) atau diuretik lain, 
+
+atau obat lain alfa bloker atau beta bloker 
+
+Penurunan eLFG dan kenaikan kreatinin serum dapat terjadi pada pasien PGKa yang 
+mendapat terapi antihipertensi, khususnya dengan ACEi atau ARB namun jika 
+
+kenaikan kreatinin serum >30%, perlu dilakukan evaluasi kemungkinan kelainan 
+pembuluh darah ginjal. 
+
+Gambar 6. Strategi Pengobatan pada Hipertensi dan 
+PGK 
+ACEi = angiotensin-converting enzyme inhibitor;  
+ARB = angiotensin receptor blocker; CCB = calcium channel 
+blocker; MI = myocardial infarction. 
+a
+PGK didefinisikan sebagai eLFG <60 ml/menit/1,72 m2 dengan 
+
+atau tanpa proteinuria. 
+b
+
+Gunakan loop diuretic jika eLFG <30/ml/menit/1,72 m2, karena 
+thiazide/thiazide-like diuretic efektivitasnya lebih rendah/tidak 
+efektif pada eLFG yang serendah ini. 
+c
+Peringatan: risiko hiperkalemia dengan spironolakton, terutama 
+
+jika eLFG <45 ml/menit/1,72 m2 atau nilai awal K+>4,5 meq/L.  
+
+50 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Dikutip dari ESC/ESH 2018 Hypertension Guidelines. 
+ 
+ 
+ Terapi initial ACEi atau ARBa + diuretikb (atau 
+
+loop diuretic) + beta bloker 
+ 
+ 
+ Langkah II ACEi atau ARBa + diuretikb (atau 
+
+loo p diuretic) + beta bloker + 
+ MRAc 
+ 
+ 
+
+Jika terapi hipertensi tak dibutuhkan dalam HFrEF, maka pengobatan 
+ diberikan sesuai panduan gagal jantung 
+
+ 
+
+Gambar 7. Strategi Pengobatan Hipertensi dan Gagal 
+Jantung dengan Fraksi Ejeksi Menurun 
+Jangan menggunakan CCB non-dihidropiridin (yaitu verapamil 
+atau diltiazem).  
+ACEi = angiotensin-converting enzyme inhibitor;  
+ARB = angiotensin receptor blocker; CCB = calcium channel 
+blocker; MRA = mineralocorticoid receptorantagonist. 
+a
+Pertimbangkan angiotensin receptor/neprilysin inhibitor daripada 
+
+ACEi atau ARB sesuai ESC Heart Failure Guidelines. 
+b
+
+Diuretik yang dimaksud adalah thiazide/thiazide-like diuretic. 
+Pertimbangkan loop diuretic sebagai obat pilihan lain pada pasien 
+edema. 
+c
+MRA (spironolakton atau eplerenon).  
+
+Dikutip dari ESC/ESH 2018 Hypertension Guidelines. 
+
+ 
+
+51 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+ACEi atau ARB + beta bloker 
+Terapi initial Atau CCB non-DHPa,  
+
+Kombinasi dua obat atau beta bloker + CCB 
+
+ACEi atau ARB + beta bloker  
+Langkah II 
+
++ CCB DHP atau diuretik 
+Kombinasi tiga obat 
+
+atau beta bloker + CCB DHP + 
+diuretik 
+
+Tambahkan antikoagulan oral jika ada indikasi sesuai skor CHA2DS2-VASc, 
+kecuali ada kontraindikasi. 
+
+aKombinasi rutin antara beta bloker dan CCB non-dihidropiridin (misalnya 
+verapamil atau diltiazem) tidak direkomendasikan karena risiko penurunan 
+
+denyut jantung yang bermakna. 
+
+Gambar 8. Strategi Pengobatan Hipertensi dan Fibrilasi 
+Atrial 
+ACEi=angiotensin-converting enzyme inhibitor; ARB=angiotensin 
+receptor blocker; CCB=calcium channel blocker; CHA2DS2-
+VASc=Cardiac failure, Hypertension, Age >75 (Doubled), Diabetes, 
+Stroke (Doubled) – Vascular disease, Age 65 – 74 and Sex category 
+(Female); DHP = dihidropiridin. 
+a
+CCB non-DHP (yaitu verapamil atau diltiazem).  
+
+Dikutip dari ESC/ESH 2018 Hypertension Guidelines. 
+
+52 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+4.6. PENGOBATAN HIPERTENSI DENGAN METODA 
+
+ALAT 
+
+Beberapa jenis terapi intervensi menggunakan alat 
+
+telah diteliti sebagai pilihan terapi hipertensi, terutama 
+
+jenis hipertensi yang resisten dengan obat, antara lain: 
+
+a. Stimulasi baroreseptor karotis (alat pacu dan 
+
+stent) 
+
+b. Denervasi ginjal 
+
+c. Pembuatan fistula arterio-vena 
+
+Penggunaan terapi intervensi alat belum 
+
+direkomendasikan sebagai modalitas terapi rutin untuk 
+
+hipertensi, kecuali pada konteks penelitian, hingga data-
+
+data yang lebih lengkap mengenai efektivitas dan 
+
+keamanan tersedia. 
+
+ 
+ 
+5. HIPERTENSI RESISTEN 
+
+5.1. DEFINISI HIPERTENSI RESISTEN 
+
+Tekanan darah yang tidak mencapai target TDS <140 
+
+mmHg dan/atauTDD <90 mmHg, walaupun sudah 
+
+mendapatkan 3 antihipertensi berbeda golongan dengan 
+
+53 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+dosis maksimal, salah satunya adalah diuretik, dan pasien 
+
+sudah menjalankan rekomendasi modifikasi gaya hidup. 
+
+Catatan: 
+
+1. Sudah dikonfirmasi dengan ABPM atau HBPM. 
+
+2. Hipertensi resisten palsu dan hipertensi sekunder 
+
+sudah disingkirkan. 
+
+ 
+5.2. HIPERTENSI RESISTEN PALSU 
+
+Hipertensi resisten palsu dapat ditemukan bila: 
+
+- Pengukuran tekanan darah kurang akurat 
+
+- Kalsifikasi berat atau arteriosklerotik arteri brakialis 
+
+- Efek jas putih 
+
+- Ketidak-patuhan pasien, akibat berbagai hal seperti 
+
+efek samping pengobatan, jadwal obat rumit, 
+
+hubungan dokter dan pasien tidak harmonis, edukasi 
+
+pasien tidak optimal, masalah daya ingat dan psikiatri 
+
+pasien, serta biaya tinggi pengobatan 
+
+- Dosis obat tidak optimal, atau kombinasi obat tidak 
+
+tepat 
+
+- Inersia dokter dalam menyesuaikan dosis regimen 
+
+obat. 
+
+54 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+5.3. PENGOBATAN HIPERTENSI RESISTEN 
+
+Penatalaksanaan efektif meliputi modifikasi gaya 
+
+hidup (khususnya mengurangi asupan natrium), 
+
+penghentian obat-obat lain yang berpotensi 
+
+meningkatkan tekanan darah, serta penambahan obat 
+
+antihipertensi lain selain tiga golongan obat antihipertensi 
+
+sebelumnya. Penggunaan spironolakton untuk hipertensi 
+
+resisten terbukti efektif, namun disarankan dibatasi pada 
+
+pasien dengan LFG >45 mL/min/1,73m2 dan konsentrasi 
+
+kalium plasma <4.5 mEq/L. Sebagai alternatif dari 
+
+spironolakton, dapat diberikan bisoprolol (5 - 10 mg/hari) 
+
+atau doxazosin (2-4 mg/hari).  
+
+ 
+
+ 
+
+6. HIPERTENSI SEKUNDER 
+
+Hipertensi sekunder didapatkan pada sekitar 5% 
+
+populasi hipertensi. Penyebab hipertensi sekunder 
+
+meliputi penyakit ginjal (parenkimal 2-3%; renovaskular 1-
+
+2%), endokrin 0,3-1% (aldosteronisme primer, 
+
+feokromositoma, sindrom Cushing, akromegali), vaskular 
+
+(koarktasio aorta, aortoarteritis non-spesifik), obat-obat 
+
+55 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+0,5% (kontrasepsi oral, OAINS, steroid, siklosporin) dan 
+
+lain-lain 0,5%. 
+
+ 
+
+Tabel 12. Karakteristik Klinis yang Mengarah 
+Hipertensi Sekunder 
+
+ Pasien usia muda (<40 tahun) dengan hipertensi 
+derajat 2 atau hipertensi dengan berbagai derajat 
+pada anak 
+
+ Perburukan dengan presentasi hipertensi akut pada 
+pasien dengan hipertensi stabil 
+
+ Hipertensi resisten  
+
+ Hipertensi berat (derajat 3) atau hipertensi 
+emergensi 
+
+ Terdapat HMOD ekstensif 
+
+ Tampilan klinis atau biokimia mengarah pada 
+gangguan endokrin atau PGK 
+
+ Kecurigaan OSA  
+
+ Gejala atau riwayat keluarga feokromositoma 
+
+HMOD=hypertension-mediated organ damage; OSA=obstructive 
+sleep apnea; PGK=penyakit ginjal kronik 
+
+Dikutip dari ESC/ESH 2018 Hypertension Guidelines. 
+
+ 
+
+56 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+7. HIPERTENSI KRISIS (HIPERTENSI EMERGENSI 
+
+DAN URGENSI) 
+
+Hipertensi emergensi adalah hipertensi derajat 3 
+
+dengan HMOD akut. Hal ini sering kali mengancam jiwa 
+
+dan memerlukan penanganan segera dan seksama. Untuk 
+
+menurunkan tekanan darah biasanya memerlukan obat 
+
+intravena. Kecepatan peningkatan dan tinggi tekanan 
+
+darah sama pentingnya dengan nilai absolut tekanan 
+
+darah dalam menentukan besarnya kerusakan organ. 
+
+Gambaran hipertensi emergensi adalah sebagai 
+
+berikut: 
+
+1. Hipertensi maligna: hipertensi berat (umumnya 
+
+derajat 3) dengan perubahan gambaran funduskopi 
+
+(perdarahan retinadan atau papiledema), 
+
+mikroangiopati dan koagulasi intravaskular 
+
+diseminasi serta ensefalopati (terjadi pada sekitar 
+
+15% kasus), gagal jantung akut, penurunan fungsi 
+
+ginjal akut. Gambaran dapat berupa nekrosis 
+
+fibrinoid arteri kecil di ginjal, retina dan otak. Makna 
+
+maligna merefleksikan prognosis buruk apabila tidak 
+
+ditangani denganbaik. 
+
+2. Hipertensi berat dengan kondisi klinis lain, dan 
+
+57 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+memerlukan penurunan tekanan darah segera, 
+
+seperti diseksi aorta akut, iskemi miokard akut atau 
+
+gagal jantung akut. 
+
+3. Hipertensi berat mendadak akibat feokromositoma, 
+
+berakibat kerusakan organ. 
+
+4. Ibu hamil dengan hipertensi berat atau preeklampsia. 
+
+Gejala emergensi tergantung kepada organ 
+
+terdampak, seperti sakit kepala, gangguan penglihatan, 
+
+nyeri dada, sesak napas, pusing kepala atau gejala defisit 
+
+neurologis. Gejala klinis ensefalopati hipertensi berupa 
+
+somnolen, letargi, kejang tonik klonik dan kebutaan 
+
+kortikal hingga gangguan kesadaran. Meskipun demikian, 
+
+lesi neurologis fokal jarang terjadi dan bila terjadi, 
+
+hendaknya dicurigai sebagai stroke. 
+
+Kejadian stroke akut terutama hemoragik dengan 
+
+hipertensi berat disebut sebagai hipertensi emergensi. 
+
+Namun demikian penurunan tekanan darah hendaknya 
+
+dilakukan dengan hati-hati. 
+
+Hipertensi urgensi merupakan hipertensi berat tanpa 
+
+bukti klinis keterlibatan organ target. Umumnya tidak 
+
+memerlukan rawat inap dan dapat diberikan obat oral 
+
+58 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+sesuai dengan algoritma penatalaksanaan hiperteni 
+
+urgensi.  
+
+Peningkatan tekanan darah mendadak dapat 
+
+diakibatkan obat-obat simpatomimetik. Keluhan nyeri 
+
+dada berat atau stres psikis berat juga dapat menimbulkan 
+
+peningkatan tekanan darah mendadak. Kondisi ini dapat 
+
+diatasi setelah keluhan membaik tanpa memerlukan 
+
+penatalaksanaan spesifik terhadap tekanandarah. 
+
+ 
+
+Tabel 13. Pemeriksaaan Umum untuk Hipertensi 
+Emergensi 
+
+Funduskopi  
+
+Elektrokardiogram 12 sandapan 
+
+Hemoglobin dan hitung trombosit 
+
+Kreatinin, eLFG, elektrolit 
+
+Rasio albumin-kreatinin urin (mikroalbuminuria), urinalisis 
+lengkap  
+
+Dipertimbangkan kemungkinan hamil pada perempuan 
+usia reproduktif 
+
+eLFG=estimasi laju filtrasi glomerulus. 
+Diadaptasi dari ESC/ESH 2018 Hypertension Guidelines. 
+
+59 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Tabel 14. Pemeriksaan Spesifik Berdasarkan Indikasi 
+
+Troponin, CK-MB atau NT-proBNP (bila ada kecurigaan 
+masalah jantung, misalnya nyeri dada akut atau gagal 
+jantung akut) 
+
+Foto toraks (bila ada kecurigaan bendungan di paru) 
+
+Ekokardiografi (bila ada kecurigaan diseksi aorta, gagal 
+jantung atau iskemi miokard) 
+
+CT angiografi toraks dan/atau abdomen( bila ada 
+kecurigaan diseksi aorta akut) 
+
+CT atau MRI otak (bila ada kecurigaan masalah sistem 
+saraf) 
+
+USG ginjal (bila ada kecurigaan gangguan ginjal atau 
+stenosis arteri renalis) 
+
+Penapisan obat dalam urin (bila ada kecurigaan 
+penggunaan metamfetamin atau kokain) 
+
+CKMB=creatine kinase-muscle/brain; CT=computerized 
+tomography; MRI=magnetic resonance imaging; NT-proBNP=N-
+terminal pro b-type natriuretic peptide; USG=ultrasonografi. 
+Diadaptasi dari ESC/ESH 2018 Hypertension Guidelines. 
+
+ 
+
+ 
+
+ 
+
+60 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Penatalaksanaan Hipertensi Emergensi  
+
+Beberapa pertimbangan strategi penatalaksanaan:  
+
+1. Konfirmasi organ target terdampak, tentukan 
+
+penatalaksanaan spesifik selain penurunan tekanan 
+
+darah. Temukan faktor pemicu lain kenaikan tekanan 
+
+darah akut, misalnya kehamilan, yang dapat 
+
+mempengaruhi strategi penatalaksanaan. 
+
+2. Tentukan kecepatan dan besaran penurunan tekanan 
+
+darah yang aman. 
+
+3. Tentukan obat antihipertensi yang diperlukan. Obat 
+
+intravena dengan waktu paruh pendek merupakan 
+
+pilihan ideal untuk titrasi tekanan darah secara hati-
+
+hati, dilakukan di fasilitas kesehatan yang mampu 
+
+melakukan pemantauan hemodinamik kontinyu 
+
+ 
+
+Tabel 15. Obat-Obat Hipertensi Emergensi yang 
+Tersedia di Indonesia 
+
+Lama Kontra- Efek 
+Nama obat Onset Dosis 
+
+kerja indikasi samping 
+
+5-15mg/jam IV kontinyu, 
+Pusing 
+
+30- mulai 5mg/jam,naikkan tiap 
+5-15 Kegagalan kepala, 
+
+Nicardipin 40 15-30 menit dengan 2,5 mg 
+menit fungsi hati refleks 
+
+menit sampai target TD, kemudian 
+takikardi  
+
+turunkan ke 3 mg/jam. 
+
+61 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+Lama Kontra- Efek 
+Nama obat Onset Dosis 
+
+kerja indikasi samping 
+
+1-5 3-5 5-200 mg/mnt,5 mg/menit 
+Nitrogliserin  Sakit kepala 
+
+menit menit naikkan tiap 5 menit. 
+
+Sedasi, 
+4-6 150-300 µg IV dalam 5-10 
+
+Klonidin 5 menit  hipertensi 
+jam menit 
+
+rebound 
+
+0,25 mg/kg IV dosis awal 
+Bradikardi 
+
+30 dalam 2 menit, dilanjutkan 
+Diltiazem 5 menit Gagal Bradikardi 
+
+menit dengan IV drip 5 mg/jam (5-
+jantung 
+
+15 mg/jam) 
+
+TD= tekanan darah; IV= intravena. 
+Diadaptasi dari ESC/ESH 2018 Hypertension Guidelines. 
+
+ 
+Tabel 16. Kondisi Hipertensi Emergensi yang 
+Memerlukan Penurunan Tekanan Darah Segera 
+dengan Obat Intravena beserta Targetnya 
+
+Penatalaksa
+Waktu dan Target 
+
+Presentasi Klinis naan Lini Alternatif 
+Penurunan TD 
+
+Pertama 
+
+Hipertensi maligna Beberapa jam 
+Nitrogliserin 
+
+dengan atau tanpa menurunkan MAP Nicardipin 
+Klonidin 
+
+gagal ginjal akut sebesar 20-25% 
+
+Segera turunkan 
+Hipertensi 
+
+MAP sebesar  Nicardipin Diltiazem 
+ensefalopati 
+
+20-25% 
+
+62 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+Penatalaksa
+Waktu dan Target 
+
+Presentasi Klinis naan Lini Alternatif 
+Penurunan TD 
+
+Pertama 
+
+Segera turunkan 
+Kejadian koroner 
+
+TDS sampai <140 Nitrogliserin  
+akut 
+
+mmHg 
+
+Segera turunkan 
+Nitrogliserin 
+
+Edema paru tekanan Darah 
+(dengan loop  
+
+kardiogenik akut sistolik sampai 
+diuretik) 
+
+<140 mmHg 
+Segera turunkan Nitrogliserin 
+
+TDS hingga <120 atau 
+Diseksi aorta akut mmHg DAN denyut Nicardipin  
+
+nadi hingga atau 
+
+<60x/mnt Diltiazem 
+
+Labetalol, 
+Eklampsia dan pre- Segera turunkan Pertimbangk
+
+Nicardipin 
+eklampsia TDS<160 mmHg an 
+
+dan 
+DAN persalinan 
+
+berat/HELLP Magnesium 
+TDD<105mmHg dipercepat 
+
+sulfat 
+HELLP=haemolysis, elevated liver enzimes, low platelet count; 
+MAP= mean arterial pressure; TD=tekanan darah; TDS=tekanan 
+darah sistolik. 
+Diadaptasi dari 2018 ESC/ESHHypertension Guidelines. 
+
+ 
+Meskipun pemberian obat secara intravena sangat 
+
+direkomendasikan, terapi oral dengan ACEi, ARB atau 
+
+betabloker kadang sangat efektif pada hipertensi maligna, 
+
+63 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+karena umumnya terjadi aktivasi sistem renin oleh iskemia 
+
+renal. Pemberian awal dimulai dengan dosis rendah karena 
+
+pasien kemungkinan sensitif terhadap pemberiannya dan 
+
+sebaiknya dilakukan di rumah sakit. 
+
+ 
+
+Prognosis dan tindak lanjut 
+
+Angka kesintasan penderita hipertensi emergensi 
+
+mengalami peningkatan dalam dekade terakhir, meskipun 
+
+demikian kelompok pasien ini tetap dalam kategori risiko 
+
+tinggi dan perlu dilakukan penapisan untuk hipertensi 
+
+sekunder. 
+
+ 
+
+Setelah tekanan darah mencapai tingkat aman dan 
+
+stabil dengan terapi oral, pasien dapat rawat jalan. Kontrol 
+
+rawat jalan dianjurkan minimal satu kali sebulan hingga 
+
+target tekanan darah optimal tercapai dan dilanjutkan 
+
+kontrol teratur jangka panjang. 
+
+ 
+ 
+ 
+ 
+ 
+
+64 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+8. HIPERTENSI DALAM KEHAMILAN 
+
+8.1. DEFINISI DAN KLASIFIKASI HIPERTENSI DALAM 
+KEHAMILAN 
+Definisi hipertensi dalam kehamilan didasarkan pada 
+
+pengukuran tekanan darah di klinik, dimana TDS >140 
+mmHg dan/atau TDD >90 mmHg. 
+
+Klasifikasi hipertensi dalam kehamilan berdasarkan 
+derajat tekanan darah yaitu:  
+
+1)  Ringan : TD 140-159/90-109mmHg 
+2)  Berat : TD >160/110mmHg 
+
+Klasifikasi hipertensi dalam kehamilan: 
+ Pre-existing hypertension (hipertensi kronik) 
+
+Onset dimulai sebelum kehamilan atau sebelum 
+
+minggu ke-20 kehamilan, dan biasanya menetap 
+
+selama lebih dari 6 minggu pasca persalinan dan 
+
+dapat disertai proteinuria. 
+
+ Hipertensi gestasional 
+
+Terjadi setelah minggu ke-20 kehamilan dan 
+
+biasanya membaik dalam 6 minggu pasca 
+
+persalinan. 
+
+ Hipertensi kronik plus superimposed hipertensi 
+
+gestasional denganproteinuria 
+
+ Pre-eklampsia 
+
+65 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+Hipertensi gestasional dengan proteinuria 
+
+bermakna (>0,3 g/24 jam atau >30 mg/mmol 
+
+ACR). 
+
+ Hipertensi antenatal yang tidak terklasifikasi 
+
+Istilah ini dipakai jika TD pertama kali diukur 
+
+setelah 20 minggu kehamilan dan tidak jelas 
+
+apakah hipertensi kronik atau bukan. Evaluasi 6 
+
+minggu pasca persalinan diperlukan untuk 
+
+membedakan apakah hipertensi kronik atau 
+
+gestasional. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+66 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+ Hipertensi dalam 
+
+Kehamilan 
+ 
+
+TD >140/90 
+ 
+ Hipertensi Pre-eklampsia  Hipertensi Kronik 
+
+Gestasional 
+ Hipertensi setelah 20 Muncul sebelum 20 
+
+Muncul setelah 20 minggu kehamilan minggu kehamilan 
+ minggu dengan satu atau dua tanpa penyebab 
+
+ kehamilan, kriteria dibawah ini: sekunder yang 
+kembali normal nyata. 
+
+ dalam 3 bulan Proteinuria: PCR >30 
+mg/mol (0,3 mg/mg); 
+
+ pasca persalinan 
+tanpa bukti atau carik celup 
+
+ kerusakan organ persisten >1 g/l (2+) Hipertensi Hipertensi Hipertensi 
+Esensial Sekunder Jas Putih 
+
+ ibu. Gangguan fungsi 
+
+ ginjal: kreatinin serum 
+>1 mg/dl  
+
+ Hipertensi 
+Gangguan fungsi hati: Memiliki Memiliki 
+
+ Gestasional Memiliki 
+SGPT >50 IU/L risiko risiko 
+
+Transien risiko 8% 
+ dan/atau nyeri 25% 25% 
+
+Muncul setelah 20 untuk 
+epigastrium/kuadran untuk untuk 
+
+ minggu terjadi 
+kanan atas hebat.  terjadi terjadi 
+
+kehamilan, pre-
+ pre-
+
+kembali normal Gejala neurologis: pre-
+eklampsia 
+
+eklampsia eklampsia 
+ dalam evaluasi kejang (eklampsia), 
+
+hiperrefleksia dengan 
+ selanjutnya. 
+
+klonus, sakit kepala 
+ hebat dengan 
+
+hiperrefleksia. 
+ Memiliki risiko 
+
+40% untuk Gangguan 
+ terjadinya pre- hematologi: 
+ eklampsia/ trombositopenia, 
+
+hipertensi 
+ hemolisis 
+
+gestasional 
+IUGR  
+
+ 
+
+67 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Gambar 9. Klasifikasi Hipertensi dalam Kehamilan  
+IUGR= intrauterine growth restriction; PCR=protein to creatinine 
+ratio; SGPT= serum glutamic pyruvic transaminase 
+Diadaptasi dari Comprehensive Clinical Nephrology 2018. 
+ 
+
+8.2. PENATALAKSANAAN HIPERTENSI DALAM  
+KEHAMILAN  
+
+ 
+Pengukuran Tekanan Darah dalam Kehamilan 
+
+Pengukuran tekanan darah saat kehamilan dilakukan 
+
+pada posisi duduk (atau miring lateral pada sisi kiri saat 
+
+melahirkan). Auskultasi manual merupakan standar baku 
+
+pengukuran karena alat otomatis cenderung lebih rendah 
+
+sehingga tidak akurat pengukurannya pada pre-eklampsia 
+
+berat.  
+
+ 
+
+Pemeriksaan Hipertensi dalam Kehamilan 
+
+Pemeriksaan laboratorium dasar meliputi urinalisis, 
+
+darah perifer, hematokrit, enzim liver, kreatinin serum, dan 
+
+asam urat (nilainya meningkat pada preeklamsia). 
+
+Hiperurisemia meningkatkan risiko luaran maternal dan 
+
+fetal. Semua ibu hamil harus diperiksa proteinuria pada 
+
+awal kehamilan untuk mendeteksi adanya kelainan ginjal 
+
+68 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+dasar, dan pada trimester kedua kehamilan untuk 
+
+penapisan pre-eklampsia. 
+
+Pemeriksaan lanjutan sesuai indikasi klinis, misalnya 
+
+USG ginjal dan adrenal, serta fractionated metanephrine 
+
+plasma atau urin pada ibu hamil dengan riwayat 
+
+kecurigaan faeokromositoma. USG Doppler pada arteri 
+
+uterina (setelah masa gestasi 20 minggu) dilakukan untuk 
+
+deteksi risiko hipertensi gestasional, preeklampsia, dan 
+
+intrauterine growth restriction (IUGR). 
+
+ 
+
+Pencegahan Hipertensi dan Pre-eklampsia 
+
+Ibu hamil dengan risiko sedang pre-eklampsia 
+
+(kehamilan pertama, berusia >40 tahun, interval kehamilan 
+
+>10 tahun, indeks masa tubuh >35 kg/m2 saat kunjungan 
+
+pertama, riwayat pre-eklampsia pada keluarga, dan 
+
+kehamilan multipel) serta risiko tinggi (hipertensi pada 
+
+kehamilan sebelumnya, gagal ginjal kronis, penyakit 
+
+autoimun, diabetes melitus tipe 1 dan 2, dan hipertensi 
+
+kronis) diberikan 100–160 mg aspirin setiap hari pada 
+
+masa 12–36 minggukehamilan. 
+
+ 
+
+ 
+
+69 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Penatalaksanaan Hipertensi dalam Kehamilan 
+
+Hipertensi ringan 
+
+Tujuan penatalaksanaan adalah untuk 
+
+menurunkan risiko maternal, dengan target 
+
+TD<140/90 mmHg. Tabel 17 menjelaskan obat yang 
+
+digunakan untuk penatalaksanaan hipertensi dalam 
+
+kehamilan. 
+
+Hipertensi berat 
+
+Tidak ada definisi baku untuk hipertensi berat, 
+
+dengan rentang nilai antara 160–180 mmHg/>110 
+
+mmHg. The 2018 ESC Task Force on Cardiovascular 
+
+Disease During Pregnancy menyatakan bahwa TDS 
+
+>170 mmHg atau TDD >110 mmHg adalah keadaan 
+
+gawat darurat pada ibu hamil sehingga harus segera 
+
+dirawat inap. Penggunaan hidralasin hanya 
+
+digunakan bila regimen lain gagal mencapai target 
+
+pengendalian tekanan darah. 
+
+Pada krisis hipertensi, yaitu pasien dengan eklampsia 
+
+atau pre-eklampsia berat, dilakukan rawat inap. Persalinan 
+
+dilakukan setelah stabilisasi kondisi maternal. Pemberian 
+
+magnesium sulfat intravena direkomendasikan untuk 
+
+70 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+mencegah eklampsia dan penatalaksanaan kejang. Target 
+
+capaian sesuai konsensus adalah <160/105 mmHg.  
+
+Nicardipin intravena terbukti aman dan efektif dalam 
+
+tatalakasana pre-eklampsia berat. Obat pilihan untuk pre-
+
+eklampsia disertai edema paru, nitrogliserin dengan dosis 
+
+5µg/menit drip intravena, dinaikkan bertahap setiap 3–5 
+
+menit hingga dosis maksimal 100µg/menit. 
+
+ 
+
+Indikasi persalinan: 
+
+1. Urgensi pada pre-eklampsia disertai gangguan 
+penglihatan atau gangguan hemostasis. 
+
+2. Pada usia kehamilan 37 minggu untuk ibu 
+asimtomatik. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+71 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Tabel 17. Penatalaksanaan Hipertensi dalam 
+Kehamilan 
+
+REKOMENDASI 
+
+Ibu dengan hipertensi gestasional, pre-existing 
+
+hypertension (hipertensi kronik) dengan superimposed 
+
+hipertensi gestational, atau dengan hipertensi dan kelainan 
+
+organ subklinis, direkomendasikan mendapatkan 
+
+pengobatan bila TDS >140 atau TDD >90 mmHg. 
+
+Pada kasus lainnya, inisiasi pengobatan dilakukan bila TDS 
+>150 atau TDD >95mmHg. 
+
+Pilihan obat meliputi metildopa, labetalol (belum tersedia 
+di Indonesia) dan CCB. 
+
+ACEi, ARB, atau penyekat renin langsung (direct renin 
+
+inhibitor) tidak direkomendasikan diberikan selama 
+
+kehamilan. 
+
+TDS >170 atau TDD >110 mmHg adalah keadaan gawat 
+
+darurat, direkomendasikan untuk rawat inap. 
+
+Pada hipertensi berat, direkomendasikan penatalaksanaan 
+
+dengan labetalol (belum tersedia di Indonesia)intravena, 
+
+metildopa oral atau nifedipin. 
+
+72 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Pada pre-eklampsia dengan edema paru, 
+
+direkomendasikan pemberian infus nitrogliserin intravena. 
+
+Hipertensi gestasional atau preeklampsia ringan, 
+persalinan direkomendasikan pada usia kehamilan 37 
+minggu. 
+
+Direkomendasikan percepatan persalinan pada ibu hamil 
+
+dengan preeklampsia disertai perburukan klinis seperti 
+
+gangguan penglihatan ataupun gangguan hemostasis. 
+
+ACEi = angiotensin-converting enzyme inhibitor; ARB = 
+angiotensin receptor blocker; CCB = calcium channel blocker; 
+
+TDD=tekanan darah diastolik; TDS=tekanan darah sistolik; 
+Diadaptasidari 2018 ESC/ESHHypertension Guidelines. 
+
+ 
+Tekanan Darah Pasca-Persalinan 
+
+Hipertensi pasca-persalinan biasanya terjadi pada 
+
+minggu pertama. Obat-obat seperti gambar di bawah ini 
+
+dapat diberikan, dengan perhatian khusus sebagai berikut: 
+
+1. Hindari pemberian metildopa karena risiko depresi 
+pasca-persalinan. 
+
+2. Perhatikan pilihan obat bila menyusui. Semua obat 
+antihipertensi diekskresikan kedalam ASI, umumnya 
+dengan konsentrasi sangat rendah kecuali 
+propranolol and nifedipin yang memiliki konsentrasi 
+
+73 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+di dalam ASI sama dengan di dalam plasma. 
+
+Ibu dengan hipertensi gestasional atau pre-
+
+eklampsia memiliki risiko tinggi stroke dan penyakit 
+
+jantung iskemik, karena itu diperlukan modifikasi gaya 
+
+hidup dan evaluasi tekanan darah rutin setiap tahun 
+
+disertai evaluasi faktor metabolik lainnya. 
+
+ 
+ 
+
+9. HIPERTENSI JAS PUTIH DAN HIPERTENSI 
+TERSELUBUNG 
+
+9.1. Hipertensi Jas Putih (White Coat Hypertension) 
+Pasien dengan hipertensi jas putih memiliki TD klinik 
+
+tinggi, tapi TD normal dengan pengukuran HBPM atau 
+
+ABPM. Hal ini sering terjadi pada pasien dengan hipertensi 
+
+derajat 1 di klinik. Namun pada pasien dengan hipertensi 
+
+derajat 2 di klinik, maka hasil HBPM atau ABPM jarang 
+
+normal. 
+
+Hipertensi jas putih tidak jinak, dengan risiko sedang 
+
+antara normotensi dan hipertensi kronik. Terapi obat rutin 
+
+tak dianjurkan, namun dibutuhkan intervensi gaya hidup. 
+
+Diperlukan evaluasi jangka panjang berkala, karena 
+
+banyak yang akan menjadi hipertensi pada HBPM atau 
+
+74 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+ABPM dan memerlukan pengobatan. 
+
+ 
+
+9.2. Hipertensi Terselubung (Masked Hypertension) 
+Hipertensi terselubung merupakan kondisi klinis 
+
+dimana tekanan darah di klinik adalah normal, tetapi TD 
+
+meningkat dengan pengukuran HBPM atau ABPM.  
+
+Prevalensi hipertensi jas putih 2,2 – 50%, sedangkan 
+
+hipertensi terselubung 9 – 48%  dari berbagai studi (Artom 
+
+et al, Italian Journal of Medicine 2016). 
+
+ 
+Tabel 18. Perbandingan antara Perbedaan Pengukuran 
+Tekanan Darah 
+
+TD  TD di Luar Klinik TD 24 jam 
+di Klinik (HBPM) (ABPM) 
+
+Normotensi Normal Normal Normal 
+
+Hipertensi Meningkat Meningkat Meningkat 
+
+Hipertensi jas putih Meningkat Normal Normal 
+
+Hipertensi terselubung Normal Meningkat Meningkat 
+
+ABPM=ambulatory blood pressure monitoring; HBPM=home 
+
+blood pressure monitoring;TD=tekanan darah. 
+
+Dikutip dari Italian Journal of Medicine. 2016 (10): 96-102. 
+
+ 
+ 
+
+75 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+Tabel 19. Faktor Predisposisi Hipertensi Jas Putih dan 
+Terselubung 
+
+Hipertensi Jas Putih Hipertensi Terselubung 
+
+Perempuan Laki-laki 
+
+Tak merokok Merokok 
+
+Kecemasan Overweight 
+
+Usia lanjut Bising malam hari 
+
+TD normal-tinggi 
+
+Diabetes 
+
+Usia muda 
+
+Dikutip dari Italian Journal of Medicine. 2016 (10): 96-102. 
+
+ 
+Hipertensi terselubung harus diidentifikasi karena 
+
+berhubungan dengan risiko penyakit kardiovaskular dan 
+
+HMOD. Pasien dengan hipertensi terselubung 
+
+menunjukkan peningkatan risiko untuk terjadi gangguan 
+
+metabolik, peningkatan indeks masa ventrikel kiri (left 
+
+ventricle mass index, LVMI) dan ketebalan tunika intima-
+
+media karotis. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+76 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+10. HIPERTENSI DENGAN KOMORDIBITAS SPESIFIK 
+
+Penyakit penyerta akan mempengaruhi strategi 
+
+penatalaksanaan hipertensi.  
+
+Beberapa rekomendasi jika terdapat penyakit 
+
+penyerta adalah: 
+
+10.1. Diabetes 
+
+- Obat antihipertensi dianjurkan pada 
+penderita diabetes denganTD diklinik 
+≥140/90 mmHg 
+
+- Pada penderita diabetes yang mendapat obat 
+antihipertensi,dianjurkan: 
+
+• Target TDS adalah130mmHg dan jika 
+dapat ditoleransi hingga<130 mmHg, 
+tetapi tidak di bawah 120 mmHg. 
+
+• Pada individu berusia lanjut ≥65 tahun, 
+target TDS adalah 130-139mmHg. 
+
+• Target TDD adalah <80mmHg, tetapi 
+tidak di bawah 70mmHg. 
+
+- Direkomendasikan untuk melakukan 
+pengobatan lini pertama dengan kombinasi 
+penghambat sistem renin-angiotensin (ACEi 
+atau ARB) dikombinasikan dengan CCB atau 
+diuretik tiazid atausejenisnya. 
+
+77 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+- Tidak dianjurkan untuk memberikan dua 
+penghambat sistem renin-angiotensin 
+sekaligus (kombinasi ACEi denganARB). 
+
+10.2. Penyakit Ginjal Kronik (PGK) 
+
+- Pada penderita PGK, dengan atau tanpa 
+diabetes, modifikasi gaya hidup dan obat 
+antihipertensi dianjurkan bila tekanan darah 
+klinik ≥140/90 mmHg. 
+
+- Pada penderita PGK dengan atau tanpa 
+diabetes: 
+
+• Dianjurkan untuk menurunkan TDS 
+sekitar 130-139mmHg 
+
+• Penatalaksanaan individual perlu 
+dipertimbangkan toleransi dan efek 
+terhadap fungsi ginjal dan elektrolit. 
+
+- Penyekat RAS lebih efektif untuk menurunkan 
+albuminuria dibandingkan obat antihipertensi 
+lain, dan direkomendasikan sebagai bagian 
+strategi penatalaksanaan hipertensi bila 
+terdapat mikroalbuminuria atauproteinuria. 
+
+- Kombinasi penyekat RAS dan CCB atau 
+diuretik tiazid dianjurkan untuk terapiawal. 
+
+- Kombinasi dari dua penyekat RAS tidak 
+dianjurkan. 
+
+78 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+10.3. Penyakit Jantung Koroner (PJK) 
+
+- Pada penderita PJK yang mendapat obat 
+antihipertensi,dianjurkan: 
+
+• Target TDS ≤130 mmHg atau lebih 
+rendah jika bias ditoleransi, tetapi tidak 
+di bawah 120 mmHg. 
+
+• Pada pasien berusia ≥65 tahun, target 
+TDS sekitar 130-140 mmHg. 
+
+• Target TDD  <80 mmHg, tetapi tidak di 
+bawah 70mmHg. 
+
+- Pada penderita hipertensi dengan riwayat 
+infark miokard, betabloker dan penghambat 
+RAS direkomendasikan sebagai bagian dari 
+penatalaksanaan. 
+
+- Pada pasien dengan angina simtomatik, 
+dapat digunakan betabloker dan CCB. 
+
+10.4. Gagal Jantung atau Hipertrofi Ventrikel Kiri 
+(LVH) 
+
+- Pasien hipertensi dengan gagal jantung, baik 
+heart failure reduced ejection fraction (HFrEF) 
+maupun heart failure preserved ejection 
+fraction (HFpEF), terapi antihipertensi harus 
+dipertimbangkan bila TD ≥140/90 mmHg. 
+
+79 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+- Pada pasien HFrEF obat antihipertensi yang 
+dianjurkan terdiri ACEi atau ARB dan 
+betabloker dan diuretik dan/atau jika 
+diperlukan ditambah antagonis reseptor 
+mineralokortikoid. 
+
+- CCB golongan dihidropiridin dapat 
+ditambahkan bila target tekanan darah belum 
+tercapai. 
+
+- Pada pasien HFpEF, nilai batas TD dimulainya 
+terapi dan target TD sama dengan HFrEF. 
+Karena belum ada obat spesifik yang 
+diketahui superior, semua golongan 
+antihipertensi utama dapatdigunakan. 
+
+- Pada semua pasien dengan LVH: 
+
+• Penatalaksanaan yang dianjurkan
+ adalah dengan penghambat
+ RAS dikombinasikan dengan CCB atau 
+diuretik. 
+
+• TDS perlu diturunkan hingga sekitar 
+120-130mmHg. 
+
+ 
+
+80 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+10.5. Stroke  
+
+Stroke akut  
+
+1. Stroke hemoragik 
+
+Peningkatan tekanan darah pada stroke 
+
+hemoragik akut dapat berakibat perluasan 
+
+hematoma, perdarahan berulang, meningkatkan 
+
+mortalitas dan meningkatkan kecacatan. 
+
+Penurunan tekanan darah hingga <140/90 mmHg 
+
+dalam 6 jam pertama terbukti aman dan 
+
+mengurangi ekspansi hematoma, dan mungkin 
+
+dapat memperbaiki luaran klinis. Jika TDS >220 
+
+mmHg, perlu diturunkan segera sebesar 15-20% 
+
+dengan menggunakan obat intravena (labetalol 
+
+dan nicardipin, dan sebagai alternatif diltiazem) 
+
+dalam 1 jam pertama. 
+
+2. Stroke iskemik akut 
+
+ Pada pasien yang akan diberikan trombolisis, 
+
+tekanan darah harus diturunkan dulu hingga 
+
+<185/<110 mmHg dan dipertahankan 
+
+<180/<105 mmHg dalam 24 jam pertama 
+
+pasca trombolisis 
+
+81 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+ Pada pasien stroke iskemik akut yang tidak 
+
+mendapatkan trombolisis dan ditemukan 
+
+komorbid lain seperti infark miokard akut, 
+
+gagal jantung akut, diseksi aorta, perdarahan 
+
+pascatrombolisis, eklampsia/pre-eklampsia, 
+
+tekanan darah harus diturunkan. Penurunan 
+
+tekanan darah tergantung pada kondisi 
+
+pasien dan bersifat individual, namun harus 
+
+diingat bahwa penurunan tekanan darah 
+
+berdampak negatif terhadap perfusi serebral. 
+
+Terapi awal dengan menurunkan tekanan 
+
+darah sebesar 15 % masih aman. 
+
+ Penurunan tekanan darah pada pasien stroke 
+
+iskemik akut yang tidak mendapat trombolisis 
+
+dan tidak ditemukan komorbid lain, bila 
+
+tekanan darah >220/120 mmHg, maka 
+
+diturunkan sebesar 15 % dalam 24 jam 
+
+pertama awitan stroke. 
+
+ Inisiasi dan konsumsi obat antihipertensi 
+
+kembali diberikan dalam perawatan pada ≥72 
+
+jambila tekanan darah >140/90 mmHg 
+
+dengan klinis neurologis stabil. 
+
+82 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+Prevensi stroke berulang  
+
+ Pemberian obat antihipertensi pada pasien 
+
+pasca stroke atau TIA dengan TD>140/90 
+
+mmHg secara bermakna mengurangi risiko 
+
+stroke berulang. 
+
+ Untuk prevensi sekunder dan mencegah 
+
+komplikasi kardiovaskular, obat antihipertensi 
+
+diberikan segera pada TIA, dan beberapa hari 
+
+(≥72 jam)pasca stroke akut bila klinis 
+
+neurologis stabil. 
+
+ Pada stroke lakunar, TDS  dapat diturunkan 
+
+hingga berkisar 120 – 130 mmHg. 
+
+ Obat antihipertensi yang direkomendasikan 
+
+untuk pencegahan stroke adalah RAS bloker 
+
+(ACEi atau ARB) ditambah CCB atau diuretik 
+
+thiazide-like diuretic (indapamide) atau 
+
+sejenisnya. 
+
+10.6. Fibrilasi Atrial (FA) 
+- Penapisan hipertensi dianjurkan pada pasien 
+
+dengan FA. 
+- Untuk kontrol laju jantung, dapat 
+
+dipertimbangkan betabloker atau CCB non-
+
+83 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+dihidropiridin sebagai bagian terapi 
+hipertensi. 
+
+- Pencegahan stroke dengan antikoagulan oral 
+perlu dipertimbangkan pada pasien FA 
+dengan hipertensi, walaupun hipertensi 
+merupakan satu-satunya faktor risiko 
+tambahanskor CHA2DS2-VASc ≥1. 
+
+- Antiko`agulan oral harus dipergunakan 
+dengan hati-hati pada pasien dengan TD 
+yang sangat tinggi (TDS ≥180 mmHg 
+dan/atau TDD ≥100 mmHg) dan diusahakan 
+menurunkan TDS hingga<140 mmHg, atau 
+hingga <130 mmHg jika memungkinkan. Jika 
+hal ini tidak mungkin, maka pasien perlu 
+memahami bahwa proteksi stroke yang 
+diperoleh dengan obat antikoagulan 
+berhubungan dengan risiko perdarahan yang 
+lebih tinggi. 
+
+10.7. Penyakit Arteri Tungkai Bawah 
+- Pengobatan antihipertensi direkomendasikan 
+
+untuk menurunkan risiko kardiovaskular. 
+- Kombinasi RAS bloker (ACEi atau ARB) 
+
+dengan CCB atau diuretik harus 
+dipertimbangkan sebagai terapi awal. 
+
+84 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+- Dirujuk ke FKTL bila target TD masih belum 
+tercapai. 
+
+ 
+ 
+11. PENATALAKSANAAN RISIKO SEREBRO-KARDIO-
+
+RENO-VASKULAR PENYERTA 
+
+11.1. Penggunaan Antiplatelet dan Statin 
+Pasien hipertensi dengan diabetes melitus tipe 2 
+
+atau sindrom metabolik seringkali memiliki dislipidemia 
+
+aterogenik yang ditandai dengan peningkatan trigliserida 
+
+dan LDL. Pemberian obat golongan statin memperbaiki 
+
+luaran jangka panjang pada kelompok pasien ini dan 
+
+penggunaannya dipandu oleh estimasi profil risiko 
+
+kardiovaskular sesuai dengan perhitungan SCORE. 
+
+- Untuk pasien hipertensi dengan penyakit 
+kardiovaskular atau memiliki estimasi risiko 
+kardiovaskular sangat tinggi, maka penggunaan 
+statin direkomendasikan untuk mencapai target LDL-
+C <70 mg/dL atau penurunan >50% jika kadar LDL-
+C awal berkisar antara 70-135mg/dL. 
+
+- Untuk pasien dengan estimasi risiko kardiovaskular 
+tinggi, statin direkomendasikan untuk mencapai 
+target LDL-C di bawah 100 mg/dL atau penurunan 
+
+85 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+>50% jika kadar LDL-C awal berkisar antara 100-
+200mg/dL. 
+
+- Untuk pasien dengan estimasi risiko kardiovaskular 
+rendah-sedang, statin sebaiknya dipertimbangkan 
+untuk mencapai kadar LDL-C <115mg/dL. 
+
+- Penggunaan statin pada pasien gagal ginjal dengan 
+eLFG <30 mL/min/1.73m2, harus memperhatikan 
+risiko toksisitas (rabdomiolisis). Pada pasien dialisis 
+kronik, statin tak terbukti bermanfaat, kecuali bila 
+sudah dalam statin sebelum dialisis, maka statin 
+boleh diteruskan. 
+
+ 
+
+Pemberian antiplatelet pada pasien hipertensi dapat 
+
+dimasukkan dalam dua kelompok indikasi: sebagai 
+
+pencegahan primer, jika belum terkena penyakit 
+
+kardiovaskular (penyakit jantung koroner, penyakit 
+
+serebrovaskular ataupun penyakit arteri perifer) dan 
+
+sebagai pencegahan sekunder jika telah terjadi penyakit 
+
+kardiovaskular. 
+
+Penggunaan antiplatelet jangka panjang memiliki 
+
+risiko perdarahan yang dapat meningkatkan morbiditas 
+
+dan mortalitas sehingga pemberiannya harus 
+
+memperhitungkan rasio risiko dan manfaat. Sehingga saat 
+
+ini pemberian antiplatelet jangka panjang, terutama 
+86 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+aspirin dosis kecil direkomendasikan hanya untuk indikasi 
+
+pencegahan sekunder pada pasien hipertensi. Pemberian 
+
+aspirin tidak direkomendasikan sebagai pencegahan 
+
+primer pada pasien hipertensi. 
+
+ 
+
+12. TINDAK LANJUT PASIEN HIPERTENSI 
+
+Tindak lanjut pasien hipertensi terdiri dari 
+
+pemantauan efektivitas pengobatan, kepatuhan dalam 
+
+berobat, serta deteksi dini HMOD. 
+
+Setelah inisiasi pengobatan hipertensi, tekanan darah 
+
+seharusnya turun dalam 1-2 minggu dan target tercapai 
+
+dalam 3 bulan. Jika tekanan darah sudah mencapai target, 
+
+frekuensi kunjungan dapat dikurangi hingga 3-6 bulan 
+
+sekali. Pada fasilitas kesehatan dengan tenaga terbatas, 
+
+kunjungan kontrol tekanan darah dapat dilakukan dengan 
+
+perawat. 
+
+Jika tekanan darah ditemukan meningkat pada saat 
+
+kontrol, perlu diidentifikasi penyebabnya. Kenaikan 
+
+tekanan darah dapat disebabkan antara lain oleh 
+
+ketidakpatuhan dalam berobat, konsumsi garam berlebih, 
+
+atau konsumsi zat dan obat-obatan yang dapat 
+
+meningkatkan tekanan darah atau mengurangi efek obat 
+
+87 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+antihipertensi (alkohol, OAINS). 
+
+Setelah berbagai kemungkinan lain disingkirkan dan 
+
+dokter meyakini bahwa kenaikan tekanan darah 
+
+diakibatkan oleh pengobatan yang tidak efektif, maka 
+
+perlu dilakukan peningkatan regimen obat-obatan sesuai 
+
+kondisi pasien. 
+
+Deteksi HMOD dilakukan pada saat pasien pertama 
+
+kali berobat dan pengobatan disesuaikan dengan kondisi 
+
+dasar pasien.  
+
+Setelah mendapatkan terapi, pasien perlu dipantau 
+
+adanya progresifitas dari HMOD yang sudah ada atau 
+
+adanya manifestasi HMOD yang baru muncul. Sebaliknya, 
+
+adanya regresi dari HMOD menunjukkan perbaikan 
+
+prognosis. 
+
+Pasien dengan hipertensi juga harus dihimbau 
+
+berkala untuk memperbaiki gaya hidup, antara lain 
+
+penurunan berat badan, diet sehat rendah garam dan 
+
+rendah lemak, peningkatan aktivitas fisik dan olahraga, 
+
+serta penurunan konsumsi tembakau. Penghentian 
+
+merokok terutama sangat bermanfaat untuk mencegah 
+
+risiko kardiovaskular. 
+
+Menurunkan dosis obat-obat antihipertensi biasanya 
+
+88 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+dapat dilakukan hanya pada pasien yang sudah 
+
+melaksanakan modifikasi gaya hidup dengan baik. 
+
+Penurunan dosis obat dilakukan secara bertahap dengan 
+
+pemantauan tekanan darah rutin untuk menentukan dosis 
+
+efektif terkecil.  
+
+89 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+DAFTAR PUSTAKA 
+1. American Heart Association (AHA). Consensus-
+
+Based Decision-Making Processes. 
+www/heart.org.id/groups/heart. Diunduh 20 
+Des 2018. 
+
+2. Aronow WS. White coat hypertension. iMedPub 
+Journals. 2015;1(1):6. 
+
+3. Artom N, Salvo F, Camardella F. White Coat 
+Hypertension and Masked Hypertension: An 
+update. Italian Journal of Medicine. 2016;10:96-
+102. 
+
+4. Burchell AE, Lobo MD, Sulke N, Sobotka PA, 
+Paton JFR. Arteriovenous anastomosis. Is this 
+the way to control hypertension? 
+Hypertension.2014;64:6-12. 
+
+5. Carey RM, Calhoun DA, Bakris GL, Brook RD, 
+Daugherty SL, Dennison-Himmelfarb CR, et al. 
+Resistant Hypertension: Detection, evaluation, 
+and management:A scientific statement from 
+the American Heart Association. Hypertension. 
+2018;72:53-90. 
+
+6. Catapano AL, Graham I, De Backer G, Wiklund 
+O, Chapman MJ, Drexel H, et al. 2016 ESC/EAS 
+Guidelines for the management of 
+dyslipidaemias. European Heart Journal. 
+
+90 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+2016;37:2999-3058. 
+7. CobosB,ZolnierekKH,HowardK.Whitecoathyper
+
+tension:improingthepatient–health care 
+practitioner relationship. Psychol Res Behav 
+Manag. 2015;8:133-41. 
+
+8. Cook J, van der Linden S, Maibach E, 
+Lewandowsky S. The Consensus Handbook. 
+DOI:10.13021/G8MM6P. 2018. 
+
+9. Council of Europe. Developing a methodology 
+for drawing up guidelines on best medical 
+practice. Recommendation Rec(2001)13 and 
+explanatory memorandum. Strasbourg: Council 
+of Europe Publishing. 2002. 
+
+10. De Boeck K, Castellani C, Elborn JS. On behalf of 
+the ECFS Board. Medical consensus, guidelines, 
+and position papers: A policy for the ECFS. 
+Journal of Cystic Fibrosis. 2014;13:495–8. 
+
+11. De Rosa, M. Resistant hypertension: Definition, 
+evaluation, and new therapeutic approaches to 
+treatment. Diseases and Disorders,1(1). 2017. 
+
+12. Grassi G. White-coat hypertension: not so 
+innocent. E-Journal of Cardiology 
+Practice.2016;14(21). 
+
+13. Grassi G, Bombelli M, Buzzi S, Volpe M, 
+Brambilla G. Neuroadrenergic disarray in 
+
+91 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+pseudo-resistant and resistant hypertension. 
+Hypertension Research, 2014; 37(6):479-83. 
+
+14. Grossman E. Ambulatory Blood Pressure 
+Monitoring in the Diagnosis and Management 
+of Hypertension. Diabetes Care. 2013; 
+36(S2):307–11. 
+
+15. Guidelines JSH 2009 Chapter 12. Secondary 
+hypertension. Hypertension Research. 
+2009;32:78–90. 
+
+16. Judd E, Calhoun D. Apparent and true resistant 
+hypertension: definition, prevalence and 
+outcomes. Journal of Human 
+Hypertension.2014; 28(8),463-8. 
+
+17. Kario K, Park S, Buranakitjaroen P, Chia YC, Chen 
+CH, Divinagracia R, et al. Guidance on home 
+blood pressure monitoring: A statement of the 
+HOPE Asia Network. J Clin Hypertens 
+(Greenwich). 2018;20(3):456-61. 
+
+18. Kario K, Chen CH, Park S, Park CG, Hoshide S, 
+Cheng HM, Huang QF, Wang JG. Consensus 
+document on improving hypertension 
+management in Asian patients, taking into 
+account Asian characteristics. Hypertension. 
+2018;71:375–382. doi: 
+10.1161/HYPERTENSIONAHA.117.10238. 
+
+92 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+19. Krum H, Schlaich MP, Sobotka PA, Bohm M, 
+Mahfoud F, Rocha-Singh K, et al. Percutaneous 
+renal denervation in patients with treatment-
+resistant hypertension: final 3-year report of the 
+Symplicity HTN-1 study. Lancet. 2014;282:622-
+9. 
+
+20. Lip GY, Felmeden DC, Dwivedi G. Antipletelet 
+agents and anticoagulant for hypertension. 
+Cochrane Database Syst Rev. 
+2011;12:CD003186. 
+
+21. Martin CA., McGrath BP. Ambulatory and home 
+blood pressure measurement in the 
+management of hypertension, white-coat 
+hypertension. Clinical and experimental 
+pharmacology anphysiology. 2014;4:22-9. 
+
+22. Messerli FH, Bangalore S. The blood pressure 
+landscape: schism among guidelines, confusion 
+among physicians, and anxiety among patients. 
+J AmColl Cardiol. 2018;72:1313-16. 
+
+23. Mihardja LK, Delima, Soetiarto F, Suhardi, 
+Kristanto AY. Penyakit tidak menular. Dalam 
+Riset Kesehatan Dasar Departemen 
+Kesehatan.2013. 
+
+24. Noubiap J, Nyaga U, Innocent F, Simeu S, Bigna 
+J, Nansseu J. The prevalence of resistant 
+
+93 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+hypertension: a global systematic review and 
+meta-analysis of data from 3.2 million treated 
+hypertensive patients. Global Heart, 
+2018;13(4):374. 
+
+25. Pan Y, Cai W, Cheng Q, Dong W, Ting An, Yan J. 
+Association between anxiety and hypertension: 
+a systematic review and meta-analysis of 
+epidemiological studies. Neuropsychiatric 
+disease and treatment. 2015,11:1121-30. 
+
+26. Papadopoulos DP., Makris TK. Masked 
+Hypertension Definition, Impact, Outcomes: A 
+Critical Review. The Journal of Clinical 
+Hypertension.2017;9(12). 
+
+27. Park S, Buranakitjaroen P, Chen CH, Chia YC, 
+Divinagracia R, Hoshide S, et al. Expert panel 
+consensus recommendations for home blood 
+pressure monitoring in Asia: the HOPE Asia 
+Network. J Hum Hypertens. 2018;32(4):249-58. 
+
+28. Piepoli MF, Hoes AW, Agewall S, Albus C, 
+Brotons C, Catapano AL, et al. 2016 European 
+guidelines on cardiovascular disease prevention 
+in clinical practice: The Sixth Joint Task Force of 
+the European Society of Cardiology and Other 
+Societies on Cardiovascular Disease Prevention 
+in Clinical Practice (constituted by 
+
+94 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+representatives of 10 societies and by invited 
+experts) developed with the special 
+contribution of the European Association for 
+Cardiovascular Prevention and Rehabilitation 
+(EACPR). Eur Heart J.2016;37(29):2315-81. 
+
+29. Sarafidis PA, Bakris GL. Resistant Hypertension: 
+an overview of evaluation and treatment. J Am 
+Coll Cardiol. 2008;52(22):1749-57. 
+
+30. Short Guide to Consensus Decision Making by 
+Seeds for Change. Seeds for Change Lancaster 
+Co-operativeLtd. 2013. 
+
+31. Whelton PK, Carey RM, AronowWS, CaseyJr DE, 
+Collins KJ, Himmelfarb CD, et al. 2017 
+ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/
+ASPC/NMA/PCNA Guideline for the Prevention, 
+Detection, Evaluation, and Management of 
+High Blood Pressure in Adults: Executive 
+Summary: A Report of the American College of 
+Cardiology/American Heart Association Task 
+Force on Clinical Practice Guidelines. 
+Hypertension.2018;71:1269-1324. 
+
+32. Whelton PK, Williams B. The 2018 European 
+Society of Cardiology/European Society of 
+Hypertension and 2017 American College of 
+Cardiology/American Heart Association Blood 
+
+95 
+
+
+
+Konsensus Penatalaksanaan Hipertensi 2019 
+ 
+
+Pressure Guidelines. More similar than different. 
+JAMA.2018;320:1749-50. 
+
+33. Williams B, Borkum M. Pharmacologic 
+treatment of hypertension. In: Feehally J, Floege 
+J, Tonelli M, Johnson RJ, editors. Comprehensive 
+Clinical Nephrology. 6th Ed. Edinburg. 
+Elsevier.2019:430-43. 
+
+34. Williams B, Mancia G, SpieringW, Agabiti RE, 
+Azizi M, Burnier M, et al; ESC Scientific 
+Document Group. 2018 ESC/ESH Guidelines for 
+the management of arterial hypertension. Eur 
+Heart J. 2018;39:3021-104. 
+
+35. Zhang J, Zhou S, Xu G. Carotid Baroreceptor 
+Stimulation: A potential solution for resistant 
+hypertension. Interv Neurol.2014;2(3):118-22. 
+
+96 
+
+
+
+ISBN 978-602-61624-3-4
+
+9 786026 162434

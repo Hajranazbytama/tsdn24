@@ -1,0 +1,2643 @@
+﻿Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+1
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+2
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+3
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+4
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+KATA PENGANTAR
+
+ Pada saat ini angka kesakitan dan kematian Penyakit Tidak 
+Menular, seperti penyakit Jantung dan Pembuluh Darah, Kanker, 
+Diabetes Melitus dan penyakit Metabolisme, penyakit Kronis dan 
+Degeneratif lainnya terus meningkat yang mempengaruhi kesehatan 
+masyarakat di Indonesia. Hal tersebut dikarenakan makin meningkat-
+nya usia harapan hidup masyarakat Indonesia dan makin tingginya 
+pajanan faktor risiko munculnya Penyakit Tidak Menular.
+
+  Pengendalian Hipertensi merupakan salah satu hal yang 
+sangat penting dalam pengendalian Penyakit Tidak Menular. 
+Keberhasilan program pengendalian Hipertensi ditentukan oleh 
+adanya kebijakan, strategi, dan komitmen nasional dalam pengendalian 
+penyakit tersebut serta kerjasama dengan berbagai pihak terkait 
+serta didukung oleh sumberdaya yang memadai.
+
+ Buku ini disusun sebagai panduan bagi petugas kesehatan 
+dalam upaya pengendalian penyakit Hipertensi di Indonesia pada 
+tingkat puskesmas dan fasilitas kesehatan lainnya. Buku ini 
+merupakan revisi dari terbitan tahun 2015 dan terus diperbaiki 
+sampai saat ini. Direktorat Pencegahan dan Pengendalian Penyakit 
+Tidak Menular menganggap perlu melakukan revisi kembali sesuai 
+dengan perkembangan penyakit dan kebijakan serta strategi yang 
+harus dilakukan dalam mengendalikan Hipertensi di Indonesia.
+
+i
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+ Semoga buku pedoman ini bermanfaat bagi semua pihak terutama 
+bagi petugas kesehatan dan pengelola program di berbagai tingkatan 
+pelayanan dalam upaya pengendalian Hipertensi di Indonesia. 
+
+Jaka  r  t a  , 30 November 2023
+Direktur P2PTM
+
+Dr. Eva Susanti, S.Kp. M.Kes
+
+ii
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+KATA SAMBUTAN
+
+ Puji dan Syukur kita panjatkan kehadirat Tuhan Yang Maha 
+Kuasa, atas Rahmat dan Karunia-Nya atas selesainya 
+penyusunan Buku Pedoman Pengendalian Hipertensi di Fasilitas 
+Kesehatan Tingkat Pertama. Buku ini merupakan revisi dari pedoman 
+yang telah ada sebelumnya, sebagai penyesuaian terhadap arus 
+globalisasi serta ilmu pengetahuan dan teknologi.
+
+  Hipertensi merupakan salah satu penyakit Kronis dan 
+Degeneratif lainnya yang menjadi bagian dari masalah kesehatan 
+masyarakat di Indonesia. Hipertensi menjadi salah satu faktor risiko 
+pintu masuk berbagai penyakit Degeneratif antara lain penyakit 
+Jantung Koroner, Stroke dan penyakit Pembuluh Darah 
+lainnya yang berakibat pada tingginya pembiayaan kesehatan dan 
+risiko kematian. Oleh karena itu diperlukan suatu buku pedoman 
+dalam pelaksanaan kegiatan pengendalian Hipertensi di masyarakat 
+meliputi upaya promosi pencegahan faktor risiko, deteksi dini, 
+serta pengelolaan Hipertensi anak dan dewasa di Fasilitas Kesehatan 
+Tingkat Pertama, dalam upaya menurunkan morbiditas, mortalitas dan 
+disabilitas akibat Hipertensi.
+
+  Diharapkan upaya pengendalian Hipertensi dapat terus 
+ditingkatkan sehingga angka kesakitan dan kematian akibat 
+penyakit ini dapat terus diturunkan. Kami mengucapkan terima 
+kasih dan penghargaan sebesar-besarnya kepada tim penyusun, 
+editor dan semua pihak yang telah berkontribusi dalam penyusunan 
+buku ini. Semoga kontribusi yang diberikan merupakan bagian dari 
+amal baik dalam upaya pengendalian Hipertensi di Indonesia.
+
+iii
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+ Demikian, semoga buku ini dapat digunakan dengan sebaik- 
+baiknya dan memberi manfaat yang sebesar-besarnya bagi semua 
+pihak.
+
+Jakarta, 30 November 2023
+Direktur Jenderal Pencegahan dan 
+Pengendalian Penyakit
+
+Dr. dr. Maxi Rondonuwu, DHSM, MARS
+
+iv
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+KATA SAMBUTAN
+
+ Puji syukur kehadirat Allah SWT, Tuhan Yang Maha Kuasa, atas 
+segala Rahmat dan Karunia-Nya kami dapat menyelesaikan buku ini. 
+Mengingat semakin tingginya angka kesakitan dan kematian akibat 
+Hipertensi, menjadi hal yang sangat penting dalam mengendalikan 
+penyakit tidak menular khususnya penyakit Jantung dan Pembuluh 
+Darah.
+
+  Hipertensi disebut the silent killer karena sering tidak 
+mengakibatkan keluhan dan gejala yang khas, sehingga penderita 
+tidak menyadari kalau dirinya telah mengidap Hipertensi. Hipertensi 
+sering diketahui ketika sudah terjadi komplikasi atau dampak jangka 
+panjangnya, misal terjadi Stroke, Serangan Jantung, dan lain-lain. 
+
+ Pengendalian Hipertensi harus dilaksanakan sedini mungkin, 
+secara terintegrasi dan berkesinambungan di sepanjang siklus hidup 
+dimulai dari tingkat masyarakat, Fasilitas Kesehatan Tingkat Pertama 
+(FKTP), Fasilitas Kesehatan Rujukan Tingkat Lanjutan (FKTRL), dan 
+kembali ke masyarakat dalam membantu kepatuhan minum obat.
+
+ Dalam rangka mendukung kebijakan dan strategi di atas maka 
+diperlukan acuan berupa pedoman dan petunjuk teknis yang disusun 
+oleh para pakar, lintas program Kementerian Kesehatan agar tujuan 
+pengendalian Hipertensi di Indonesia dapat tercapai.
+
+  Pedoman Pengendalian Hipertensi di Fasilitas Kesehatan 
+Tingkat Pertama perlu disusun untuk dapat menjadi acuan dalam 
+pelaksanaan upaya pengendalian Hipertensi bagi petugas kesehatan 
+dan penanggung jawab program kesehatan baik di Pusat maupun 
+
+v
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+di Daerah, serta menjadi acuan untuk mewujudkan tekanan darah 
+terkendali dalam rangka menurunkan angka kesakitan, disabilitas dan 
+kematian akibat Hipertensi.
+
+ Apresiasi dan terima kasih kami ucapkan kepada semua pihak yang 
+terlibat dalam penyusunan pedoman ini, semoga mendapat ridho dan 
+berkah dari Allah SWT. 
+
+Jaka  r  t a  , 30 November 2023
+Wakil Menteri Kesehatan RI
+
+Prof. dr. Dante Saksono Harbuwono, Sp.PD-KEMD
+
+vi
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+DAFTAR ISI
+
+KATA PENGANTAR .....................................................................       i
+SAMBUTAN .................................................................................      iii
+DAFTAR ISI ................................................................................      vii
+DAFTAR GAMBAR ......................................................................       x
+DAFTAR TABEL ..........................................................................      xi 
+DAFTAR SINGKATAN .................................................................      xii
+BAB I PENDAHULUAN ..............................................................      1
+
+1.1 LATAR BELAKANG ....................................................      1
+1.2  TUJUAN ...................................................................      3
+1.3  RUANG LINGKUP .....................................................      3
+1.4  SASARAN .................................................................      3
+
+BAB II DETEKSI DINI DAN DIAGNOSIS HIPERTENSI ..............      5
+2.1 DEFINISI HIPERTENSI ..............................................      5
+
+2.1.1		Definisi	dan	Kriteria	Hipertensi	.......................						5
+2.1.2  Faktor Risiko Hipertensi ..................................      7
+
+2.2  DETEKSI DINI HIPERTENSI ......................................      8
+2.2.1  Deteksi Dini Hipertensi pada Dewasa ..............      8
+2.2.2  Deteksi Dini Hipertensi pada Anak ..................      9
+2.2.3  Metode Pemeriksaan Tekanan Darah Dewasa
+
+dan Anak ........................................................     10
+2.2.4  Pengukuran Tekanan Darah pada Anak ..........  12
+
+2.3  ANAMNESIS ..............................................................   13 
+2.4  PEMERIKSAAN FISIK ................................................  16 
+2.5  DIAGNOSIS ...............................................................   16 
+2.6  PEMERIKSAAN PENUNJANG .....................................    17
+
+BAB III TATALAKSANA HIPERTENSI DEWASA DI FKTP KONSELING 
+DAN PERILAKU HIDUP SEHAT ......................................    19 
+
+vii
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+3.1 POLA MAKAN YANG SEHAT ......................................    19 
+3.2 AKTIVITAS FISIK DAN LATIHAN ................................    23 
+3.3 BERHENTI MEROKOK DAN KONSUMSI TEMBAKAU     25 
+3.4  TIDAK KONSUMSI ALKOHOL ....................................    27
+3.5  ISTIRAHAT CUKUP SESUAI DENGAN KEBUTUHAN ..    29 
+3.6 KELOLA STRES ........................................................    29
+
+BAB IV TATALAKSANA HIPERTENSI DEWASA DI FKTP TERAPI 
+FARMAKOLOGI ..............................................................    31 
+4.1 TATALAKSANA PREHIPERTENSI ...............................    31 
+4.2 TATALAKSANA HIPERTENSI .....................................    31
+
+4.2.1		Stratifikasi	Risiko	Kardiovaskular	...................				31
+4.2.2  Protokol Pengobatan/Farmakologi ...................    35 
+4.2.3  Kontraindikasi dan Efek Samping Pengobatan    38 
+
+4.3 MONITORING TATALAKSANA ....................................   39 
+4.4 KRITERIA RUJUKAN HIPERTENSI PADA DEWASA ....   40
+4.5 PERAWATAN RUJUK BALIK ......................................    42 
+4.6 KOMPLIKASI HIPERTENSI PADA DEWASA ................   43
+
+BAB V MANAJEMEN PROGRAM PENCEGAHAN DAN 
+PENGENDALIAN HIPERTENSI .......................................    45 
+5.1  PROGRAM PENGENDALIAN HIPERTENSI .................    45
+
+5.1.1  Promosi Kesehatan dan Pencegahan ................   45 
+5.1.2  Penapisan dan Deteksi Dini .............................   46 
+5.1.3  Tatalaksana Kasus ..........................................    48 
+5.1.4  Monitoring Penyakit Kronis .............................    48 
+
+5.2  PERENCANAAN PROGRAM ......................................    49 
+5.2.1  Pengumpulan Data ..........................................   49 
+5.2.2  Analisis situasi dan penetapan prioritas 
+
+   masalah ...........................................................   49 
+5.2.3  Logistik ...........................................................    49 
+5.2.4  Perhitungan kebutuhan obat ...........................   51 
+
+viii
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+5.2.5  Perhitungan kebutuhan Posbindu Kit ..............   52
+5.2.6		Perhitungan	kebutuhan	Elektrokardiografi	
+
+   (EKG) ...............................................................    52
+5.2.7  Penganggaran ..................................................   53
+
+5.3  PELAKSANAAN LAYANAN HIPERTENSI .....................    53
+5.3.1  Pelaksanaan Layanan Hipertensi 
+          di Masyarakat .................................................    53
+5.3.2  Pelaksanaan Layanan Hipertensi di Fasilitas 
+
+    Kesehatan Tingkat Pertama ............................    54
+5.3.3  Rujukan ..........................................................    55
+
+5.4 PENGORGANISASIAN ...............................................    56
+5.4.1  Pemerintah Pusat ............................................    56
+5.4.2  Pemerintah Provinsi ........................................    57
+5.4.3  Pemerintah Kabupaten/Kota ...........................    58
+5.4.4  Pemerintah Kecamatan dan Kelurahan/Desa ..    59
+5.4.5  Lembaga Swadaya Masyarakat ........................    59
+5.4.6  Organisasi Profesi dan Lembaga Pendidikan ....    59
+5.4.7  Lembaga Kemasyarakatan ...............................   59
+5.4.8  Masyarakat Umum dan Keluarga .....................   60 
+
+5.5  MONITORING DAN EVALUASI ...................................   60 
+5.5.1  Indikator Skrining Hipertensi, yang 
+
+   tercantum dalam indikator cakupan deteksi
+   dini PTM Prioritas ............................................    61
+
+5.5.2 Indikator Standar Pelayanan Minimal (SPM) .....    62
+5.5.3 Indikator Missed Visit .......................................    63
+
+5.6 PENCATATAN DAN PELAPORAN ...............................    63
+5.6.1 Sistem Pencatatan dan Pelaporan Layanan
+
+  Hipertesi di FKTP ..............................................    64
+
+DAFTAR PUSTAKA ......................................................................   69
+TIM PENYUSUN ...........................................................................   71 
+
+ix
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+DAFTAR GAMBAR
+
+Gambar 2.1  Cara mengukur tekanan darah ................................     11
+Gambar 2.2  Penentuan ukuran manset untuk mengukur 
+
+tekanan darah .........................................................    13
+Gambar 4.1  Bagan protokol pengobatan Hipertensi .....................   36
+
+x
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+DAFTAR TABEL
+
+Tabel	2.1		Klasifikasi	Hipertensi	pada	Dewasa	................................				5
+Tabel	2.2		Klasifikasi	Hipertensi	pada	anak	....................................				7
+Tabel 2.3  Faktor Risiko Hipertensi ................................................     8
+Tabel 2.4  Pertanyaan yang diajukan saat Anamnesis ....................   15
+Tabel	2.5		Pemeriksaan	fisik	..........................................................			16
+Tabel 2.6  Pemeriksaan penunjang ................................................   17
+Tabel 3.1  Komposisi nutrisi berdasarkan rekomendasi DASH .......   21
+Tabel 3.2  Contoh anjuran perencanaan makanan DASH untuk 
+
+kebutuhan 2000 Kalori ..................................................  22
+Tabel	3.3		Dampak	modifikasi	perilaku	hidup	sehat	terhadap	
+
+penurunan tekanan darah .............................................  29
+Tabel 4.1  Prediksi Risiko Kardiovaskular berdasarkan hasil 
+
+pemeriksaan laboratorium .............................................  31
+Tabel 4.2  Prediksi Risiko Kardiovaskular Tanpa Pemeriksaan 
+
+Laboratorium .................................................................  34
+Tabel 4.3  Kontraindikasi dan Efek Samping Pengobatan
+
+Hipertensi ......................................................................  39
+Tabel 5.1  Kebutuhan Logitik Pengendalian Hipertensi ...................  50
+
+xi
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+DAFTAR SINGKATAN
+
+4T  :  Tanyakan, Telaah, Tolong dan Nasehati, dan Tindak 
+ Lanjut
+
+AAP :  American Academy of Pediatrics
+ABI :  Ankle Brachial Index
+ABPM :  Ambulatory Blood Pressure Monitoring
+ASIK :  Aplikasi Sehat IndonesiaKu
+Balitbangkes :  Badan Penelitian dan Pengembangan Kesehatan
+BB :  Berat Badan
+DASH :  Dietary Approaches to Stop Hypertension
+DM :  Diabetes Melitus
+DO	 :		Definisi	Operasional
+EKG	 :		Elektrokardiografi
+FKRTL :  Fasilitas Kesehatan Rujukan Tingkat Lanjutan
+FKTP :  Fasilitas Kesehatan Tingkat Pertama
+GDP :  Gula Darah Puasa
+HBPM :  Home Blood Pressure Monitoring
+IMT :  Indeks Massa Tubuh
+InaSH :  Indonesian Society of Hypertension
+JKN :  Jaminan Kesehatan Nasional
+LLA :  Lingkar Lengan Atas
+LP :  Lingkar Pinggang
+OMSK :  Otitis Media Supurative Kronis
+PAPDI :  Perhimpunan Dokter Spesialis Penyakit Dalam
+
+ Indonesia
+PATUH :  Periksa kesehatan secara rutin dan ikuti anjuran 
+
+dokter; Atasi penyakit dengan pengobatan yang tepat; 
+Tetap	diet	dengan	gizi	seimbang;	Upayakan	aktifitas	 
+fisik	dengan	aman;	Hindari	asap	rokok,	alkohol,	dan	 
+zat karsinogenik lainnya
+
+xii
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+PERDOSSI :  Perhimpunan Dokter Saraf Indonesia
+PERKI :  Perhimpunan Dokter Spesialis Kardiovaskular 
+
+ Indonesia 
+PERNEFRI :  Perhimpunan Nefrologi Indonesia
+PKK, :  Pemberdayaan Kesejahteraan Keluarga
+Posyandu :  Pos Pelayanan Terpadu
+PPOK :  Penyakit Paru Obstruktif Kronis
+PPTM :  Pengendalian Penyakit Tidak Menular
+PTM :  Penyakit Tidak Menular
+PUSTU :  Puskesmas Pembantu
+PWS :  Pemantuan Wilayah Setempat
+Riskesdas :  Riset Kesehatan Dasar
+SIMPUS :  Sistem Informasi Manajemen Puskesmas
+SRS :  Sample Registration System
+TB :  Tinggi Badan
+TIA :  Transient Ischemic Attack
+UBM :  Upaya Berhenti Merokok
+UKBM :  Upaya Kesehatan Berbasis Masyarakat
+WA :  Whats App
+
+xiii
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+xiv
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+BAB I : PENDAHULUAN
+
+1.1  LATAR BELAKANG
+Hipertensi disebut sebagai the silent killer atau pembunuh 
+tersembunyi karena sering tidak mengakibatkan keluhan dan 
+gejala yang khas, sehingga penderita tidak menyadari  kalau 
+dirinya telah mengidap hipertensi. Hipertensi sering 
+diketahui/ditemukan ketika sudah terjadi komplikasi, misalnya 
+terjadi stroke, serangan jantung, dan lain-lain. Hipertensi dapat 
+dibagi menjadi dua, yaitu 1) hipertensi esensial yaitu yang 
+tidak diketahui penyebabnya dan sering dihubungkan dengan 
+adanya hipertensi dari orang tua atau keluarga dekat dan 2) 
+hipertensi yang berkaitan dengan pola hidup yang kurang sehat 
+seperti	 kurangnya	 mengonsumsi	 sayur	 buah,	 kurang	 aktifitas	
+fisik,	 merokok,	 konsumsi	 alkohol,	 kurang	 istirahat,	 stres,	 dan	
+lain-lain. Sedangkan Hipertensi sekunder adalah hipertensi yang 
+diakibatkan oleh penyakit lain, misalnya penyakit ginjal. 
+
+Berdasarkan data Sample Registration System (SRS) dari 
+Badan Penelitian dan Pengembangan Kesehatan (Balitbangkes) 
+tahun 2014 diketahui bahwa hipertensi dengan komplikasi 
+merupakan penyebab kematian nomor 4 pada semua kelompok 
+umur yaitu sebesar 6,8%.  Sementara, hasil Riset Kesehatan Dasar 
+(Riskesdas) menunjukkan bahwa prevalensi hipertensi secara 
+nasional adalah 28,5% pada tahun 2013 dan  34,11% pada tahun 
+2018. Berdasarkan kelompok usia, prosentase hipertensi adalah 
+sebagai berikut: kelompok usia 18 – 24  tahun sebesar 13,2%; 
+usia 34 – 44 tahun 31,6%; usia 45 – 54 tahun 45,3%; usia 55 – 64 
+tahun 55,2%; usia 65-74 tahun 63,2%, dan kelompok usia di atas 
+75 tahun adalah 69,5%.
+
+1
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+Pengendalian hipertensi harus dilaksanakan secara ter- 
+integrasi dan berkesinambungan di sepanjang siklus hidup 
+dimulai dari tingkat masyarakat, fasilitas kesehatan tingkat 
+pertama (FKTP), fasilitas kesehatan rujukan tingkat 
+lanjutan (FKRTL), dan kembali ke masyarakat dalam membantu 
+kepatuhan minum obat serta perawatan di rumah yang disebut 
+Continuum of Care. Promosi, edukasi, pencegahan, dan deteksi 
+dini faktor risiko hipertensi dilakukan oleh dan di FKTP. Selain 
+itu dapat dengan mengembangkan pemberdayaan  masyarakat 
+melalui kegiatan  Pos Pelayanan Terpadu (Posyandu). Kegiatan 
+Deteksi Dini dan Tatalaksana Hipertensi hingga terkendalinya 
+hipertensi dilakukan di FKTP. Dalam keadaan hipertensi tetap 
+belum terkendali, ada komorbiditas lain, atau terjadi komplikasi 
+dan perlunya rehabilitasi maka tatalaksana dilakukan di rumah 
+sakit atau fasilitas FKRTL.
+
+Dalam rangka mendukung kebijakan dan strategi di atas 
+maka diperlukan acuan berupa pedoman dan petunjuk teknis 
+yang disusun oleh para pakar, lintas program Kementerian 
+Kesehatan dan Perguruan Tinggi agar tujuan pengendalian 
+hipertensi di Indonesia dapat tercapai. Sebagai tahap awal 
+dalam pengendalian hipertensi, disusunlah Pedoman Nasional 
+Pelayanan Kedokteran tatalaksana hipertensi  anak dan 
+hipertensi dewasa, kemudian penjelasan teknisnya dimasukkan 
+dalam Panduan Praktik Kedokteran Tingkat 1. Disamping itu, 
+pedoman pengendalian di tingkat primer perlu disusun 
+untuk dapat menjadi acuan dalam pelaksanaan upaya 
+pengendalian hipertensi bagi petugas kesehatan dan penanggu-
+ng jawab program kesehatan baik di Pusat maupun di Daerah, 
+serta  menjadi acuan dalam mewujudkan tekanan darah 
+
+2
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+terkendali dalam rangka menurunkan angka kesakitan, 
+disabilitas dan kematian akibat hipertensi.
+
+1.2  TUJUAN
+Tersedianya pedoman penyelenggaraan  pengendalian hipertensi 
+di fasilitas kesehatan tingkat pertama di Indonesia.
+
+1.3  RUANG LINGKUP
+Ruang lingkup buku Pedoman Pengendalian Hipertensi di FKTP 
+meliputi upaya promosi dan pencegahan faktor risiko, deteksi 
+dini, dan pengelolaan hipertensi anak dan dewasa di FKTP, dalam 
+upaya menurunkan morbiditas, mortalitas dan disabilitas akibat 
+hipertensi.
+
+1.4  SASARAN
+Pedoman ini diperuntukkan bagi: pemangku kebijakan, 
+pengelola program, petugas kesehatan, dan tenaga kesehatan di 
+kementerian pusat, dinas kesehatan provinsi/kabupaten/kota, 
+dan fasilitas kesehatan tingkat pertama (FKTP) pemerintah dan 
+swasta. 
+
+3
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+4
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+BAB II :  DETEKSI DINI DAN 
+DIAGNOSIS HIPERTENSI
+
+2.1  DEFINISI HIPERTENSI
+2.1.1  Definisi dan Kriteria Hipertensi
+
+Hipertensi adalah peningkatan tekanan darah sistolik 
+lebih	dari	 sama	dengan	 (≥)140	mmHg	dan/atau	diastolik	 
+lebih	 dari	 sama	 dengan	 (≥)90	 mmHg.	 Hipertensi,	 lebih	 
+lanjut dikategorikan menjadi beberapa derajat berdasar-
+kan tekanan darah sistolik dan diastoliknya (Tabel 2.1). 
+
+Tabel 2.1	Klasifikasi	Hipertensi	pada	Dewasa
+
+Sumber: Williams B, Mancia G, Spiering W, Agabiti RE, Azizi M, 
+Burnier M, et al; ESC Scientific Document Group. 2018 ESC/ESH 
+Guidelines for the management of arterial hypertension. Eur Heart 
+J. 2018;39:3021-104.
+
+Orang dengan tekanan darah 130/80 mmHg disebut 
+sebagai Prehipertensi dimana perlu mendapatkan 
+pengawasan dan perawatan agar tidak berkembang 
+menjadi hipertensi.
+
+5
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+Berdasarkan penyebabnya, hipertensi dapat dibagi 
+menjadi 2 kelompok, yaitu:
+1. Hipertensi esensial atau primer yang tidak diketahui
+
+penyebabnya (90%) dan atau oleh karena pola hidup.
+2. Hipertensi sekunder; hipertensi yang disebabkan oleh
+
+penyakit lain, antara lain kelainan pembuluh darah
+ginjal, gangguan kelenjar tiroid (hipertiroid), penyakit
+kelenjar adrenal (hiperaldosteronisme) dan lain-lain.
+
+Terdapat	 keadaan-keadaan	 yang	 terkait	 definisi	 hiper-
+tensi lainnya yaitu white coat hypertension (hipertensi jas 
+putih) dan masked hypertension (hipertensi terselubung). 
+White coat hypertension atau Hipertensi jas putih 
+didefinisikan	 sebagai	 TD	 ≥140/90	 mmHg	 saat	 diukur 	
+di klinik tetapi TD tidak memenuhi kriteria hipertensi 
+saat diukur di luar klinik. Sebaliknya, masked 
+hypertension atau hipertensi terselubung	 didefi-
+nisikan sebagai TD <140/90 mmHg saat diukur 
+di klinik tetapi TD terekam memenuhi kriteria 
+hipertensi saat diukur di luar klinik. 
+
+Pada	 anak,	 hipertensi	 diklasifikasikan	berdasarkan	 anak	
+usia	1-13	 tahun	dan	anak	usia	≥13	 tahun.	Untuk	anak-
+anak di bawah 13 tahun, hipertensi didiagnosis jika tekanan 
+darah sistolik atau diastolik berada pada atau di atas 
+persentil ke-95, yang berarti 95% anak-anak lain dengan 
+usia, jenis kelamin, dan tinggi yang sama memiliki tekanan 
+darah	 lebih	 rendah.	 Tekanan	darah	normal	 didefinisikan	
+sebagai	 di	 bawah	 persentil	 ke-90.	 Klasifikasi	 hipertensi	
+pada	anak,	berdasarkan	klasifikasi	American Academy of 
+Pediatrics (AAP) 2017, seperti pada tabel di samping ini.
+
+6
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+Tabel 2.2	Klasifikasi	Hipertensi	pada	Anak
+
+2.1.2   Faktor Risiko Hipertensi
+Hipertensi bersifat multifaktorial. Faktor risiko terjadi- 
+nya hipertensi dapat dibagi menjadi dua, yaitu faktor yang 
+tidak	 dapat	 dimodifikasi	 dan	 faktor	 yang	 dapat 	
+dimodifikasi.	 Faktor	 yang	 tidak	 dapat	 dimodifikasi 	
+meliputi usia, jenis kelamin, ras atau etnik, dan faktor 
+genetik,	sementara	faktor	yang	dapat	dimodifikasi	meliputi	
+kelebihan berat badan atau obesitas, konsumsi garam yang 
+terlalu	banyak,	kurang	aktivitas	fisik	(pola	hidup	sedentary	
+atau tidak aktif), konsumsi alkohol secara berlebihan, efek 
+samping obat, merokok, kadar gula tinggi atau diabetes, 
+gangguan fungsi ginjal, dan lain-lain.
+
+7
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+Tabel 2.3 Faktor Risiko Hipertensi
+
+Adanya riwayat gangguan disfungsi ereksi pada laki-laki, 
+gangguan pola tidur, mengorok, sleep apnea, dan riwayat 
+hipertensi pada kehamilan/preeklamsia sebelumnya juga 
+merupakan faktor risiko hipertensi pada seseorang. 
+
+2.2  DETEKSI DINI HIPERTENSI
+2.2.1  Deteksi Dini Hipertensi pada Dewasa
+
+Deteksi dini hipertensi direkomendasikan untuk semua 
+orang berusia 15 tahun ke atas agar juga dapat di- 
+identifikasi	 faktor	 risiko	 secara	 dini	 dan	 makin	 banyak- 
+nya kejadian hipertensi di usia muda. Program Kementerian 
+Kesehatan adalah Pemeriksaan tekanan darah satu 
+kali setiap tahun untuk kelompok penduduk usia 15 
+tahun, kelompok usia produktif, dan kelompok usia 
+lansia. Dalam keadaan sudah terdeteksi hipertensi 
+dan atau ada faktor risiko hipertensi maka pemeriksaan 
+tekanan darah dilakukan lebih dari satu kali per tahun 
+
+8
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+atau sesuai keadaan dan kebutuhannya. Seseorang yang 
+mempunyai	 TD	 ≥140/90	 mmHg	 saat	 pemeriksaan 	
+pertama atau saat deteksi dini, perlu dilakukan 
+pemeriksaan ulang oleh dokter atau tenaga kesesehatan 
+di	FKTP	untuk	memastikan	atau	menkonfirmasi	diagnosis	
+Hipertensi.
+
+Terdapat dua metode dalam melakukan deteksi dini 
+hipertensi di luar klinik (out-of-office) yakni dengan metode 
+HBPM (Home Blood Pressure Monitoring) atau ABPM 
+(Ambulatory Blood Pressure Monitoring). Kedua metode 
+diagnosis ini dapat dilakukan untuk membantu 
+mendiagnosis hipertensi jas putih atau hipertensi 
+terselubung.
+
+2.2.2  Deteksi Dini Hipertensi pada Anak
+Deteksi dini hipertensi pada anak di FKTP direkomen-
+dasikan dilakukan setiap tahun setelah anak berusia 3 
+tahun. Deteksi dini pada anak tersebut, sepanjang 
+tidak ada faktor risiko hipertensi bertujuan untuk 
+deteksi dini adanya hipertensi asimptomatik serta 
+mencegah   komplikasi jangka pendek dan panjang. 
+Meskipun demikian, apabila pada anak tersebut terdapat 
+berbagai faktor risiko seperti obesitas, menggunakan 
+obat-obatan yang dapat meningkatkan tekanan 
+darah, penyakit ginjal, riwayat koarktasio aorta atau 
+diabetes, maka pemeriksaan tekanan darah tersebut 
+harus dilakukan pada setiap kali kunjungan ke FKTP. 
+
+Bila hasil pengukuran tekanan darah saat deteksi dini di 
+FKTP diketahui diatas normal (sesuai kriteria hipertensi 
+anak pada tabel di atas), maka perlu dirujuk ke FKRTL.
+
+9
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+2.2.3  Metode Pemeriksaan Tekanan Darah Dewasa dan Anak
+a. Alat ukur
+
+Alat yang digunakan untuk pengukuran TD adalah
+sfigmomanometer.	 Terdapat	 2	 macam	 sfigmomano- 
+
+ meter, yaitu: 
+• Air raksa.
+• Non Air raksa (aneroid atau digital).
+Sfigmomanometer	harus		divalidasi	setiap	6-12	bulan.
+Ukuran manset yang sesuai dengan lingkar lengan atas
+(LLA). Ukuran manset standar panjang 35 cm dan lebar
+12-13 cm. Gunakan ukuran yang lebih besar untuk
+LLA >32 cm, dan ukuran lebih kecil untuk anak.
+
+Ukuran ideal panjang balon manset 80-100% LLA, dan 
+lebar 40% LLA.
+
+b. Persiapan Pasien
+• Dalam waktu 15 menit sebelum pemeriksaan, pasien
+
+dianjurkan untuk.
+• Tenang, tidak dalam keadaan cemas atau gelisah,
+
+maupun kesakitan.
+• Istirahat.
+• Tidak mengkonsumsi kafein.
+• Tidak  merokok.
+• Tidak melakukan aktivitas olahraga.
+• Tidak menahan buang air kecil maupun buang air
+
+besar.
+• Tidak mengenakan pakaian ketat terutama di bagian
+
+lengan.
+• Bila pasien menggunakan obat-obatan yang
+
+mengandung stimulan adrenergik seperti fenilefrin
+atau pseudoefedrin, agar dicatat.
+
+10
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+c. Prosedur Pengukuran pada Posisi Duduk
+Pemeriksaan dilakukan di ruangan yang tenang dan
+nyaman. Pasien dalam keadaan diam, tidak berbicara
+saat pemeriksaan. Pasien duduk nyaman selama 5 menit 
+sebelum pengukuran TD dimulai. Gunakan meja untuk
+menopang lengan dan kursi bersandar untuk
+meminimalisasi	 kontraksi	 otot	 isometrik.	 Posisi	 fleksi
+lengan bawah dengan siku setinggi jantung. Kedua kaki
+menyentuh lantai dan tidak disilangkan.
+
+Gambar 2.1 Cara mengukur tekanan darah
+Sumber : ISH Global Hypertension Practice Guidelines 2020
+
+Pengukuran TD dilakukan tiga kali dengan jarak 
+1-2 menit diantara setiap pengukuran. Tekanan
+darah terukur adalah rerata hasil pengukuran kedua
+dan ketiga. Dalam keadaan hasil pengukuran kedua
+
+11
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+dan ketiga terdapat perbedaan >10 mmHg, maka 
+lakukan pengukuran tambahan (keempat). Tekanan 
+darah yang digunakan adalah rerata hasil pengukuran 
+ketiga dan keempat. Pada prinsipnya tekanan darah 
+yang digunakan adalah rerata dari hasil dua 
+pengukuran terakhir.
+
+Contoh :
+Pengukuran 1 :  130/90 mmHg
+Pengukuran 2 :  140/90 mmHg
+Pengukuran 3 :  160/100 mmHg
+Rerata 2 & 3  :  (140+160)/2 / (90+100)/2 = 
+
+150/95 mmHg
+Pengukuran 4 :  140/90 mmHg
+Tekanan Darah  :  (150+140)/2 / (95+90)/2 = 
+
+145/93 mmHg
+
+Bila dalam pengukuran pertama, diperoleh tekanan 
+darah <130/85 mmHg tidak diperlukan pengukuran 
+selanjutnya.
+
+2.2.4  Pengukuran Tekanan Darah pada Anak
+Pada prinsipnya, pengukuran tekanan darah anak 
+dan dewasa adalah sama. Perbedaannya adalah pada 
+penggunaan manset yang sesuai dengan panjang lengan 
+atas anak. Panjang manset harus melingkupi minimal 
+80% lingkar lengan atas, sedangkan lebar manset harus 
+lebih dari 40% lingkar lengan atas (atau minimal 2/3 jarak 
+antara   akromion   dan   olekranon).  Bila manset yang 
+digunakan terlalu sempit akan menghasilkan angka 
+terlalu tinggi, sebaliknya bila manset yang digunakan 
+
+12
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+terlalu lebar akan menghasilkan angka pengukuran lebih 
+rendah.
+
+Gambar 2.2 Penentuan ukuran manset untuk mengukur 
+tekanan darah
+
+Keterangan Gambar:
+A.  Penandaan akromion.
+B.  Peletakan pita ukur yang benar untuk mengukur 
+ panjang lengan atas.
+C.  Peletakan pita ukur yang salah.
+D. Penandaan titik tengah panjang lengan atas.
+ Sumber: Pedoman AAP tahun 2017.
+
+2.3   ANAMNESIS
+Lakukan anamnesis untuk menanyakan berapa lama 
+sudah menderita hipertensi, riwayat terapi hipertensi 
+sebelumnya dan efek samping obat bila ada, riwayat 
+hipertensi dan penyakit kardiovaskular pada keluarga 
+serta kebiasaan makan dan psikososial. Faktor risiko 
+lainnya berupa kebiasaan merokok, peningkatan 
+
+13
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+berat	badan,	dislipidemia	 (abnormalitas	profil	kolesterol), 	
+diabetes, dan kebiasaan olahraga juga harus ditanya-
+kan ke pasien. Informasi penting yang dianjurkan 
+untuk digali dalam anamnesis riwayat individu dan 
+keluarga (Tabel 2.4).
+
+Selain itu, harus ditelusuri juga adanya kecurigaan 
+atau bukti hipertensi sekunder, yaitu riwayat penyakit 
+ginjal,	perubahan	fisik,	kelemahan	otot	(palpitasi,	keringat	 
+berlebih, tremor), tidur tidak teratur, mengorok, 
+mengantuk di siang hari, gejala hipo- atau hipertiroidisme, 
+riwayat konsumsi obat yang dapat menaikkan tekanan 
+darah. Bukti kerusakan organ target, yaitu riwayat 
+Transient Ischemic Attack (TIA), stroke, buta 
+sementara, penglihatan kabur tiba-tiba, gejala nyeri 
+dada khas jantung (angina), infark miokard, gagal jantung, 
+disfungsi seksual juga akan memberikan informasi yang 
+penting bagi penegakan diagnosis dan tata laksana yang 
+lebih baik.
+Pasien perlu ditanya terkait keluhan utama yang 
+dirasakan, seperti nyeri kepala, pandangan kabur, 
+pusing, nyeri dada, atau jantung berdebar-debar. 
+Singkirkan  diagnosis banding dari keluhan-keluhan 
+tersebut. Ditanyakan pula riwayat hipertensi atau penyakit 
+kardiovaskular sebelumnya atau pada keluarga. 
+Apabila sudah pernah terdiagnosis sebelumnya, 
+ditanyakan berapa lama dan pengobatan rutin yang 
+sudah dikonsumsi. Informasi-informasi yang perlu 
+dicari dalam anamnesis tercantum dalam Tabel 2.4. 
+
+14
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+Tabel 2.4 Pertanyaan yang diajukan saat Anamnesis
+
+15
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+2.4   PEMERIKSAAN FISIK
+Pada	 pemeriksaan	 fisik	 selain	 pemeriksaan	 tekanan 	
+darah, dilakukan pula pengukuran tinggi dan berat badan, 
+tanda-tanda vital, lingkar pinggang (waist circumference), 
+serta dianjurkan untuk melakukan pemeriksaan tanda/
+gejala deteksi dini komplikasi kerusakan organ target 
+akibat hipertensi. 
+
+Tabel 2.5	Pemeriksaan	fisik
+
+Pemeriksaan Tanda dan Gejala
+
+2.5   DIAGNOSIS
+Diagnosis hipertensi ditegakkan bila diketahui hasil 
+pemeriksaan	 tekanan	 darahnya	 ≥140/90	 mmHg	 pada 	
+kunjungan pertama.
+
+16
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+2.6   PEMERIKSAAN PENUNJANG
+Pemeriksaan penunjang dilakukan untuk mendeteksi 
+komplikasi hipertensi. Di FKTP dapat dilakukan pemerik-
+saan penunjang sederhana seperti dalam tabel di bawah 
+ini. Pemeriksaan penunjang dapat dilakukan satu bulan 
+setelah pengobatan. Untuk mengetahui adanya komplika-
+si pada penyandang hipertensi pemeriksaan penunjang 
+dapat dilakukan paling sedikit satu tahun sekali, atau 
+sesuai indikasi.
+
+Tabel 2.6 Pemeriksaan penunjang
+
+Dalam keadaan FKTP tidak memiliki pemeriksaan 
+penunjang, pemberian obat antihipertensi dapat tetap 
+diberikan sesuai protokol tanpa menunggu hasil 
+pemeriksaan penunjang.
+
+17
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+18
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+BAB III :  TATALAKSANA HIPERTENSI DEWASA 
+DI FKTP KONSELING DAN PERILAKU
+HIDUP SEHAT
+
+Perilaku Hidup Sehat harus dilakukan oleh semua orang  
+untuk mencegah terjadinya hipertensi dan penyakit tidak  
+menular (PTM) lain. Konseling dan melakukan Perilaku Hidup Sehat 
+juga merupakan bagian dari tatalaksana komprehensif hipertensi 
+dan penyakit tidak menular lainnya yang merupakan tatalaksana  
+nonfarmakologi. Perilaku hidup sehat terdiri dari: 1) Pola makan 
+yang sehat; 2) Aktivitas isik dan olah raga; 3) Tidak morokok dan
+konsumsi tembakau; 4) Tidak konsumsi alkohol; 5) Istirahat cukup; 
+6) Kelola stres.
+
+3.1  POLA MAKAN YANG SEHAT
+Pola Makan (Diet) sehat penting untuk mengendalikan hipertensi 
+dan keadaan lain terkait PTM yaitu diabetes, obesitas dan 
+mencegah serangan jantung dan stroke. Komposisi diet sehat 
+tergantung pada kebutuhan individual (misal usia, jenis kelamin, 
+pola hidup, kadar aktivitas fisik), konteks budaya dan 
+ketersediaan pangan lokal. Diet untuk mencegah dan untuk 
+pasien hipertensi sering disebut sebagai DASH (Dietary 
+Approaches to Stop Hypertension), yang terdiri dari:
+a. Makanan yang beragam (bervariasi):
+
+• Berbagai buah, sayur, legum (kacang hijau, lentil), dan
+kacang-kacangan.
+
+• Beras yang tidak disosoh berlebihan (highly refined),
+gandum utuh (whole wheat), kentang, kasava (ketela).
+
+• Makanan bersumber binatang (daging, ikan, telur, susu).
+b. Sedikitnya 400 gram (4 – 5 porsi) sayur dan buah per hari
+
+• Satu porsi setara dengan misal 1 buah jeruk, apel, mangga,
+pisang, atau 3 sendok teh sayuran yang dimasak.
+
+c. Asupan garam kurang dari 5 gram per hari (setara dengan
+sekitar 1 sendok teh).
+
+19
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+  • Termasuk garam yang ditambahkan selama masak atau 
+   makan, juga yang terkandung dalam makanan seperti 
+   makanan diproses dan roti.
+ d. Asupan energi harian total dari lemak kurang dari 30% 
+  (Kotak 1).
+  • Lebih dianjurkan untuk konsumsi lemak tidak jenuh dari 
+   pada lemak jenuh.
+  • Asupan energi total dari lemak jenuh kurang dari 10%.
+  • Trans-fat (lemak trans) bukan bagian dari diet sehat dan 
+   perlu dihindari.
+ e. Asupan energi harian total dari gula kurang dari 10% (Kotak 2)
+  • Setara dengan 50 gram (atau sekitar 12 sendok teh) untuk 
+   orang dengan berat badan sehat.
+  • Untuk tambahan manfaat maka asupan energi total dari gula 
+   bebas adalah di bawah 5%.
+
+20
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+ 
+
+  Komposisi nutrisi berdasarkan rekomendasi DASH adalah 
+  sebagai berikut:
+
+  Tabel 3.1 Komposisi nutrisi berdasarkan rekomendasi DASH
+
+  *Natrium 1500 mg diketahui dapat menurunkan tekanan darah lebih baik  
+  pada pasien dengan tekanan darah tinggi, Afro Amerika, usia paruh baya, dan  
+  lanjut usia.
+
+21
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+ Tabel 3.2 Contoh anjuran perencanaan makanan DASH 
+untuk kebutuhan 2000 Kalori
+
+Diet yang tidak sehat dapat meningkatkan risiko terjadinya 
+hipertensi. Ciri dari diet yang tidak sehat adalah rendahnya 
+asupan buah dan sayuran dan tingginya asupan garam, lemak, 
+dan gula. Diet yang tidak sehat dapat mengakibatkan obesitas 
+dan kelebihan berat badan (overweight) yang juga merupakan 
+faktor risiko untuk penyakit kardiovaskular. Kebiasaan makan 
+yang kurang sehat dapat juga berakibat pada berbagai kondisi lain 
+termasuk	kanker,	diabetes,	dan	defisiensi	mikronutrien.	
+
+22
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+Obesitas berkaitan dengan kejadian hipertensi dan sindrom 
+metabolik lainnya. Pasien hipertensi direkomendasikan untuk 
+menurunkan berat badan hingga mencapai berat badan ideal 
+yaitu Indeks Massa Tubuh (IMT) 18,5 – 22,9 kg/m2, serta lingkar 
+pinggang <90 cm pada laki-laki dan <80 cm pada perempuan. IMT 
+merupakan hasil pembagian antara berat badan (dalam kg) dibagi 
+tinggi badan kuadrat (meter2).
+
+3.2  AKTIVITAS FISIK DAN LATIHAN
+Aktivitas	 fisik	 didefinisikan	 sebagai	 gerakan	 apapun	 yang	 
+diproduksi oleh otot-otot skeletal (rangka) tubuh yang menggu-
+nakan	energi.	Aktivitas	fisik	meliputi	gerakan	tubuh	dan	aktivitas	
+harian seperti bermain, bekerja, jalan kaki, melakukan kegiatan 
+rumah,	 dan	 aktivitas	 rekreasional.	 Aktivitas	 fisik	 juga	 meliputi 	
+latihan (exercise),	 yaitu	 aktivitas	 fisik	 yang	 lebih	 direncanakan,	
+terstruktur, dan berulang, dengan tujuan meningkatkan 
+kebugaran	fisik.
+
+a. Manfaat dari aktivitas fisik
+Aktivitas	 fisik	 yang	 teratur	 dan	 adekuat	 membantu	 
+mengurangi risiko hipertensi, serangan jantung, stroke, 
+diabetes, berbagai tipe kanker (termasuk payudara dan kolon) 
+dan	 depresi.	 Aktivitas	 fisik	 juga	 berperan	 pada	 kendali	 
+berat badan, diabetes, perbaikan tekanan darah dan kadar 
+kolesterol dan lemak tubuh lain.
+
+Orang	 yang	 tidak	 aktif	 secara	 fisik	 sebaiknya	 memulai 	
+dengan	aktivitas	fisik	ringan	(dapat	sebagai	bagian	dari	aktivitas 	
+harian) dan secara bertahap dinaikkan dutasi, frekuensi, 
+dan	 intensitasnya.	Latihan	fisik	rutin	pada	hipertensi	dengan 	
+dosis yang terukur seperti frekuensi, intensitas, durasi, dan tipe 
+
+23
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+latihan yang adekuat dapat mengurangi tekanan darah sistolik 
+dan diastolik sebesar 5-7 mmHg.
+
+b. Anjuran aktivitas fisik pada Orang dewasa
+ •	 Minimal	 150	 menit	 ativitas	 fisik	 intensitas	 sedang	 dalam 	
+  seminggu. Intensitas sedang yaitu peningkatan ringan dari 
+  detak jantung (40-59% heart rate reserve) atau frekuensi 
+  pernafasan, yang dapat berasal dari jalan cepat, naik 
+  tangga, menari, berkebun, atau melakukan aktivitas rumah 
+	 	 tangga.	Frekuensi	aktivitas	fisik	dalam	seminggu	5-7	kali/ 
+  minggu, durasi 30-60 menit setiap kali), atau;
+	 •	 Minimal	 75	 menit	 aktivitas	 fisik	 berat	 dalam	 seminggu 	
+  misalnya berkebun berat, olah raga lari, bersepeda kencang, 
+  berenang kencang, atau olah raga, atau;
+ • Kombinasi dari aktivitas sedang dan berat yang setara; 
+ • Jenis latihan aerobik disesuaikan dengan tingkat 
+  kebugaran, adanya faktor risiko dan penyakit penyerta, 
+  serta mampu laksana. Pasien hipertensi dengan berat badan 
+  lebih (overweight dan obesitas) lebih baik melakukan 
+  olahraga aerobik non-weight bearing misalnya berenang.
+ • Aktivitas penguatan otot yang meliputi kelompok otot 
+  utama, dua atau lebih dalam seminggu. Jenis latihan beban 
+  ini tidak dianjurkan sebagai latihan tunggal tetapi sebagai 
+  latihan tambahan untuk latihan aerobik. Latihan beban 
+  untuk hipertensi sebaiknya dilakukan pada beban 
+  sedang dan repetisi lebih banyak. Perlu diingat untuk 
+  menghindari manuver valsava saat latihan beban, karena 
+  dapat meningkatkan tekanan darah.
+ • Latihan kelenturan dianjurkan untuk melengkapi program 
+	 	 latihan	fisik,	dengan	frekuensi	 latihan	≥2-3	kali	seminggu,	 
+  intensitas regangan berhenti pada rasa kurang nyaman 
+
+24
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+  (slight discomfort), dan ditahan selama 10-30 detik, 
+  sebanyak 2-4 repetisi untuk tiap gerakan.
+
+•	 Latihan	fisik	harus	didahului	oleh	pemanasan	(warm up) dan 
+ diakhiri dengan pendinginan (cool down) selama 5-10 menit.
+•	 Untuk	menambah	manfaat	pada	kesehatan,	 aktivitas	fisik 	
+ intensitas sedang perlu dinaikkan menjadi 300 menit per 
+	 minggu,	 atau	 setara.	 Bagi	 yang	 memiliki	 mobilitas 	
+	 terbatas	 tetap	 perlu	 melakukan	 aktivitas	 fisik	 minimal 	
+ tiga hari per minggu untuk meningkatkan keseimbangan 
+ dan mencegah jatuh (falls). 
+•	 Semua	 rekomendasi	 di	 atas	 adalah	 untuk	 semua	 orang	 
+	 dewasa,	 termasuk	 yang	 memiliki	 penyakit	 kardiovaskular 	
+	 dan	diabetes,	kecuali	ada	kontraindikasi.	
+	 Aktivitas	fisik	yang	kurang	merupakan	faktor	risiko	utama	 
+	 untuk	 penyakit	 kardiovaskular,	 kanker,	 diabetes,	 dan	 
+ kejadian kematian muda di dunia. Orang yang kurang 
+	 melakukan	aktivitas	fisik,	20%	lebih	sering	untuk	meninggal 	
+	 muda	dibandingkan	orang	yang	cukup	aktivitas	fisiknya.
+
+3.3 TIDAK MEROKOK DAN KONSUMSI TEMBAKAU 
+ Tembakau membunuh hampir separuh dari yang menggunakan- 
+ nya dan menyebabkan 6 juta kematian per tahun. Sepuluh persen 
+ dari kematian tersebut merupakan hasil dari menghirup asap 
+ tidak langsung (secondhand smoke)	di	rumah,	restauran,	kantor,	 
+ atau tempat tertutup lainnya.
+
+ a. Jenis konsumsi tembakau
+Tembakau	 dapat	 dirokok,	 dikunyah,	 atau	 dihirup.	 Produk	 
+tembakau secara umum terbagi menjadi dua tipe:
+•	 Tembakau	 yang	 berasap	 (smoke)	 –	 dalam	 rokok,	 cerutu,	 
+	 pipa,	vape,	pipa	air).
+
+25
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+• Tembakau yang tidak berasap (smokeless) – terdapat di 
+ tembakau yang dikunyah dan dihirup.
+ Semua produk tembakau mengandung bahan adiktif 
+ Nikotin yang diserap ke dalam pembuluh darah ketika 
+ digunakan.
+b. Dampak terhadap Kesehatan
+ Semua produk tembakau berbahaya. Asap tembakau 
+ mengandung sedikitnya 250 bahan kimia yang berbahaya, 
+ 69 diantaranya diketahui menyebabkan kanker. 
+ Penggunnaan tembakau dapat merusak semua organ tubuh 
+ dan satu faktor risiko utama untuk penyakit kardio- 
+ vaskular.
+c. Layanan Upaya Berhenti Merokok
+ Layanan Upaya Berhenti Merokok (UBM) merupakan salah 
+ satu upaya dalam membantu masyarakat untuk 
+ berhenti merokok dan mengatasi gejala putus nikotin. 
+ Gejala putus nikotin (withdrawal effect) dapat berupa 
+ perubahan emosi dan perilaku. Sebagian perokok dapat 
+ berhenti tanpa mengalami gejala putus nikotin, namun 
+ sebagian lagi masih mengalami kecanduan kembali 
+ merokok. 
+
+ Layanan konseling UBM adalah suatu layanan konseling 
+ kepada seseorang yang ingin berhenti merokok yang 
+ diberikan oleh seorang tenaga terlatih. Layanan konseling 
+ UBM di Fasyankes dilaksanakan 2 minggu sekali selama 3 
+ bulan pertama dengan durasi waktu 30 hingga 60 menit, 
+ atau dilakukan minimal 6 kali pertemuan untuk setiap 
+ klien. Jika klien sudah dapat berhenti merokok di bulan 
+ ketiga maka dapat disebut klien sudah mengalami 6 (enam) 
+ kali pertemuan konseling UBM. Langkah-langkah dalam 
+
+26
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+ memberikan layanan UBM di Fasyankes menggunakan 
+ Metode 4T, yang meliputi : Tanyakan, Telaah, Tolong dan 
+ Nasehati, dan Tindak Lanjut. Penjelasan metode 4T dapat 
+ dilihat pada Buku Petunjuk Teknis Layanan Konseling UBM 
+ di Fasyankes 2021.
+
+ Merokok merupakan faktor risiko kardiovaskular, sehingga 
+ status merokok harus ditanyakan pada setiap kunjungan 
+ pasien dan pasien hipertensi yang merokok harus diedukasi 
+ untuk berhenti merokok. 
+
+3.4  TIDAK KONSUMSI ALKOHOL 
+Konsumsi alkohol yang berlebihan menyebabkan dampak buruk 
+terhadap kesehatan dan sosial bagi peminumnya, orang-orang 
+di sekitar peminumnya dan masyarakat pada umumnya, serta 
+berhubungan dengan peningkatan risiko dampak buruk pada 
+kesehatan.
+
+Konsumsi yang berbahaya mencakup konsumsi alkohol dalam 
+jumlah tinggi setiap hari, atau konsumsi alkohol secara tunggal 
+atau berulang hingga mabuk. 
+
+Dampak buruk alkohol berkaitan dengan pola minum, jumlah 
+alkohol yang dikonsumsi, dan terkadang kualitas alkohol yang 
+dikonsumsi.	 Tidak	 ada	 definisi	 penggunaan	 alkohol	 yang	 aman	
+atau tidak berbahaya. Namun, individu umumnya dianggap 
+memiliki risiko lebih rendah terhadap konsekuensi negatif 
+penggunaan alkohol jika mereka minum tidak lebih dari dua unit 
+alkohol per hari dan tidak minum setidaknya dua hari dalam 
+seminggu.
+
+27
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+Kandungan alkohol suatu minuman bergantung pada kekuatan 
+(persentase alkohol) yang dikonsumsi dan volume wadahnya. 
+Ada variasi yang luas dari satu negara ke negara lain dalam hal 
+kekuatan minuman beralkohol dan ukuran minuman yang 
+disajikan. Oleh karena itu, ketika memberikan informasi 
+kesehatan mengenai penggunaan alkohol, penting untuk 
+mendefinisikan	kekuatan	dan	volume	minuman	alkohol.
+
+Konsumsi alkohol tingkat tinggi dan dalam jumlah besar secara 
+teratur berhubungan dengan peningkatan risiko CVD, karena 
+penggunaan alkohol dapat merusak otot jantung, meningkatkan 
+risiko stroke, dan dapat menyebabkan aritmia jantung. 
+
+Intervensi singkat berhenti minum alkohol di layanan 
+kesehatan	primer	telah	terbukti	berguna	dalam	mengidentifikasi	 
+dan menangani orang-orang dengan masalah alkohol. Beberapa 
+instrumen dapat digunakan di layanan berhenti minum alkohol, 
+adalah sebagai berikut:
+• ASSIST: Tes Skrining Keterlibatan Alkohol, Merokok dan Zat. 
+ Manual untuk digunakan dalam perawatan primer. Jenewa: 
+ WHO; 2010 (http://www.who.int/substance_abuse/publica- 
+ tions/assist/en/).
+•	 AUDIT:	 Tes	 Identifikasi	 Gangguan	 Penggunaan	 Alkohol.	 
+ Pedoman penggunaan dalam perawatan primer. edisi ke-2. 
+ Jenewa: WHO 2001 (http://www.who.int/substance_abuse/ 
+ activities/sbi/en).
+
+Intervensi singkat untuk Minuman Berbahaya dan 
+Berbahaya. Sebuah manual untuk digunakan dalam perawatan 
+primer. Jenewa: WHO; 2001 (http://www.who.int/substance_
+abuse/publications/audit_sbi/en/).
+
+28
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+Penerapan perilaku hidup sehat diketahui dapat memberikan 
+dampak penurunan tekanan darah.
+
+Tabel 3.3	Dampak	modifikasi	perilaku	hidup	sehat	terhadap	
+penurunan tekanan darah
+
+3.5  ISTIRAHAT CUKUP SESUAI DENGAN KEBUTUHAN 
+Tidur 7 – 8 Jam per hari pada orang dewasa. 
+
+3.6  KELOLA STRES
+Relaksasi, berbicara dengan orang lain, rekreasi, aktivitas 
+bersama keluarga, berbuat sesuai kemampuan dan minat, 
+berpikir secara positif dan bijaksana, hidup tertib dan teratur, 
+serta merencanakan masa depan sebaik-baiknya.
+
+29
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+30
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+BAB IV :  TATALAKSANA HIPERTENSI DEWASA 
+ DI FKTP TERAPI FARMAKOLOGI
+
+4.1 TATALAKSANA PREHIPERTENSI 
+ Prehipertensi adalah kondisi dimana seseorang memiliki tekanan 
+ darah sistolik 130-139 mmHg dan atau tekanan darah diastolik 
+ 85-89 mmHg.
+ Apabila ditemukan pasien yang memenuhi kriteria prehipertensi, 
+ berikut adalah hal yang perlu dilakukan:
+ 1. Ulangi pengukuran tekanan darah sebanyak 2-3 kali, 
+  kemudian ambil nilai rata-rata.
+ 2. Apabila tekanan darah tetap memenuhi kriteria prehipertensi, 
+  ulangi pada kunjungan kedua dan ketiga di fasilitas kesehatan.
+	 3.	Pasien	yang	terkonfirmasi	prehipertensi	 tidak	diberikan	obat- 
+	 	 obatan,	cukup	dengan	modifikasi	gaya	hidup	melalui	perilaku 	
+  hidup sehat (lihat bagian perilaku hidup sehat) dan ulangi 
+  kembali pemeriksaan tekanan darah minimal setahun sekali. 
+
+4.2 TATALAKSANA HIPERTENSI
+ Tatalaksana hipertensi meliputi tatalaksana nonfarmakologi dan 
+ farmakologi. Tatalaksana nonfarmakologi meliputi intervensi 
+ perubahan perilaku hidup sehat yang telah dijelaskan pada bab 
+ sebelumnya. Sebelum diberikan pengobatan, lakukan 
+	 pemeriksaan	stratifikasi	risiko	kardiovaskular	terlebih	dahulu.
+
+ 4.2.1 Stratifikasi Risiko Kardiovaskular
+   a. Prediksi Risiko Kardiovaskular dengan Pemeriksaan 
+    laboratorium.
+
+31
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+ 
+
+   Cara Menggunakan Carta:
+   1. Tentukan dahulu apakah subyek yang diperiksa 
+    penderita diabetes mellitus atau tidak. 
+   2. Tentukan  jenis kelaminnya. 
+   3. Selanjutnya, tetapkan blok usia yang akan dipakai – 
+    perhatikan lajur angka paling kiri (misalnya untuk usia 
+    46 tahun gunakan blok usia 45-49. Untuk usia 68 
+    tahun gunakan blok 65-69 dan seterusnya). 
+   4. Tekanan darah (TD) yang dipakai adalah tekanan darah 
+    sistolik – perhatikan kolom angka paling kanan. 
+   5. Cari kolom yang sesuai untuk kadar kolesterol total 
+
+32
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+    (disini dipakai mmol/l, sedangkan di Indonesia 
+    umumnya menggunakan mg/dL). Untuk mengkonversi 
+    kolesterol total dari mg/dL ke mmol/L, bagi nilai dalam 
+    mg/dL dengan 38,67.
+   6. Titik temu antara kolom TD dan kolom kolesterol 
+    menentukan risiko subjek. Warna kotak menentukan 
+    besar risiko untuk mengalami penyakit kardiovaskular 
+    (penyakit jantung, stroke, penyakit pembuluh darah 
+    perifer) dalam kurun waktu 10 tahun mendatang. 
+   7. Warna kotak hijau menunjukkan risiko ringan, warna 
+    kotak kuning dan jingga menunjukkan risiko sedang, 
+    dan warna kotak merah dan marun menunjukkan risiko 
+    tinggi.
+
+  b. Prediksi Risiko Kardiovaskular dengan Pemeriksaan 
+   Laboratorium.
+
+33
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+  Cara Menggunakan Carta: 
+  1. Tentukan dahulu apakah subyek perokok atau bukan 
+   perokok. 
+  2. Tentukan jenis kelaminnya. 
+  3. Selanjutnya, tetapkan blok usia yang akan dipakai – 
+   perhatikan lajur angka paling kiri (misalnya untuk usia 46 
+   tahun pakai blok usia 45-49, 68 tahun pakai blok 65-69 
+   dan seterusnya). 
+
+34
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+  4. Tekanan darah (TD) yang dipakai adalah tekanan darah 
+   sistolik, perhatikan lajur angka paling kanan. 
+  5. Cari kolom yang sesuai untuk Indeks Massa Tubuh (IMT). 
+ 
+   Titik temu antara kolom TD dan kolom IMT menentukan risiko 
+   subjek. Warna kotak menentukan besar risiko untuk meng- 
+   alami penyakit kardiovaskular (penyakit jantung, stroke, 
+   penyakit pembuluh darah perifer) dalam kurun waktu 10 
+   tahun mendatang.
+
+  6. Warna kotak hijau menunjukkan risiko ringan, warna kotak 
+   kuning dan jingga menunjukkan risiko sedang, dan warna 
+   kotak merah dan marun menunjukkan risiko tinggi.
+
+ 4.2.2 Protokol Pengobatan/Farmakologi
+   Untuk memudahkan tenaga medis melakukan pengobatan 
+   hipertensi di FKTP, dibuat sebuah protokol tatalaksana 
+   hipertensi di FKTP. Dalam protokol ini, dibuat langkah- 
+   langkah pengobatan dan pilihan obat yang mempermudah 
+   dokter dalam memberikan pengobatan dan diperkirakan 
+   dapat meningkatkan kepatuhan pasien dalam pengobatan 
+   hipertensinya.
+   Pasien hipertensi dengan: 
+	 	 	 a.	 Stratifikasi	 faktor	 risiko	 kardiovaskuler	 ringan	 (hijau) 	
+    atau pasien dengan tekanan darah 140-159/90-99 
+    mmHg dan tidak memiliki faktor risiko masuk ke 
+    langkah 2.
+	 	 	 b.	 Sementara	 pasien	 dengan	 stratifikasi	 faktor	 risiko 	
+    kardiovaskuler sedang dan berat (kuning-jingga- 
+    merah-marun) atau pasien dengan tekanan darah 
+    140-159/90-99 mmHg dan memiliki faktor risiko satu 
+
+35
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+atau lebih atau dengan tekanan darah >160/100 mmHg 
+tanpa melihat faktor risiko masuk ke langkah 4. 
+
+Berikut adalah alur protokol tatalaksana hipertensi:
+
+Cara membaca bagan:
+Langkah 1
+Ukur tekanan darah pasien 3 kali, hitung rata-rata 
+2 tekanan darah terakhir.
+
+36
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+    Langkah 2
+    - Apabila menemukan pasien dengan tekanan darah 
+	 	 	 	 	 140-159/90-99	mmHg	dan	stratifikasi	risiko	kardio- 
+     vaskular ringan (hijau) atau tidak memiliki faktor 
+     risiko, mulai berikan amlodipine 5 mg selama 1 
+     bulan. 
+    - Apabila menemukan pasien dengan tekanan 
+	 	 	 	 	 darah	140-159/90-99	mmHg	dan	stratifikasi	 faktor 	
+     risiko kardiovaskular sedang dan berat (kuning- 
+     jingga-merah-marun) atau memiliki faktor risiko 
+     (satu atau lebih) atau dengan tekanan darah 
+	 	 	 	 	 ≥160/100	mmHg	tanpa	melihat	faktor	risiko	kardio- 
+     vaskular, masuk langkah 4. 
+    Langkah 3
+    Setelah 1 bulan, periksa kembali tekanan darah, apabila 
+	 	 	 	 ditemukan	 tekanan	 darah	 ≥140	 atau	 ≥90	 mmHg, 	
+    naikkan dosis amlodipine menjadi 10 mg, berikan 
+    selama 1 bulan.
+    Langkah 4
+    Setelah 1 bulan, periksa kembali tekanan darah, apabila 
+	 	 	 	 ditemukan	 tekanan	 darah	 ≥140	 atau	 ≥90	 mmHg, 	
+    berikan amlodipine 10 mg dan lisinopril 10 mg, berikan 
+    selama 1 bulan.
+    Langkah 5
+    Setelah 1 bulan, periksa kembali tekanan darah, apabila 
+	 	 	 	 ditemukan	tekanan	darah	≥140	atau	≥90	mmHg,	selain	 
+    obat amlodipine 10 mg, naikkan dosis Lisinopril menjadi 
+    20 mg, berikan selama 1 bulan.
+    Langkah 6
+    Setelah 1 bulan, periksa kembali tekanan darah, apabila 
+	 	 	 	 ditemukan	tekanan	darah	≥140	atau	≥90	mmHg,	selain	 
+
+37
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+    obat amlodipine 10 mg dan Lisinopril 20 mg, tambahkan 
+    HCT 25 mg, berikan selama 1 bulan.
+    Langkah 7 
+    Setelah 1 bulan, periksa kembali tekanan darah, apabila 
+	 	 	 	 ditemukan	 tekanan	 darah	 ≥140	 atau	 ≥90	 mmHg, 	
+    tambahkan dosis HCT menjadi 50 mg, berikan selama 
+    1 bulan.
+    Langkah 8
+    Setelah 1 bulan, periksa kembali tekanan darah, 
+	 	 	 	 apabila	ditemukan	tekanan	darah	≥140	atau	≥90	mmHg,	 
+    evaluasi terlebih dahulu apakah obat dikonsumsi secara 
+    teratur dan benar oleh pasien. Apabila tekanan darah 
+	 	 	 	 tetap	 ≥140	 atau	 ≥90	 mmHg	 maka	 rujuk	 ke	 fasilitas 	
+    kesehatan rujukan tingkat lanjut (FKRTL) untuk 
+    mendapatkan penanganan lebih lanjut.
+
+  4.2.2  Kontraindikasi dan Efek Samping Pengobatan
+    Kontraindikasi dalam pengobatan antihipertensi, terbagi 
+    menjadi kontraindikasi absolut dan kontraindikasi 
+    relatif. Kontraindikasi absolut berarti penggunaan obat 
+    hipertensi tidak dianjurkan pada kondisi tersebut, 
+    sedangkan kontraindikasi relatif berarti penggunaan 
+    obat harus mempertimbangkan penilaian klinis oleh 
+    klinisi dan dipantau ketat, terutama pada kondisi 
+    ketersediaan obat yang terbatas. Selain kontraindikasi, 
+    pengobatan hipertensi harus mempertimbangkan efek 
+    samping pengobatan.
+
+38
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+Tabel 4.3 Kontraindikasi dan Efek Samping Pengobatan Hipertensi 
+
+4.3 MONITORING TATALAKSANA 
+ Pasien yang sudah terdiagnosis hipertensi dilakukan monitoring 
+ tekanan darah minimal satu kali setiap bulan. Target tekanan 
+ darah yang ingin dicapai yaitu <140/90 mmHg. Selain untuk 
+
+39
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+ memantau tekanan darah, juga dilakukan monitoring kepatuhan 
+	 pengobatan,	 keluhan	 terkait	 komplikasi,	 dan	 modifikasi	 gaya 	
+ hidup yang dilakukan. Pemeriksaan penunjang untuk mengetahui 
+ adanya komplikasi dapat dilakukan setiap enam bulan sekali 
+ (lihat table 3.5).
+ Kriteria tekanan darah terkendali:
+ a. Target tekanan darah <140/90 mmHg tercapai dalam waktu 3 
+  bulan. 
+ b. Apabila tekanan darah terkendali, pemberian obat anti 
+  hipertensi dapat diteruskan selama 3 bulan disertai edukasi 
+  gaya hidup.
+
+ Idealnya obat darah tinggi diberikan seumur hidup, kecuali 
+ terdapat kondisi khusus seperti hipotensi (TD <90/60 mmHg) atau 
+ saran dihentikan oleh dokter spesialis. 
+
+ Kriteria tekanan darah tidak terkendali adalah tidak mencapai 
+ target tekanan darah sesuai protokol hipertensi baik mono 
+ terapi atau terapi kombinasi. Apabila tidak terkendali pasien 
+ dirujuk ke FKRTL. Rujukan dilakukan oleh dokter/tenaga 
+ medis yang kompeten di fasilitas kesehatan tingkat pertama, 
+ bila target tekanan darah tidak tercapai dengan terapi yang 
+ diberikan, ada penyakit penyerta atau ada kerusakan organ 
+ target.
+
+4.4 KRITERIA RUJUKAN HIPERTENSI PADA DEWASA 
+ Jika target penurunan tekanan darah tidak tercapai setelah 
+ melalui protocol monoterapi atau kombinasi terapi, pasien dapat 
+ segera dirujuk ke FKRTL. Pasien hipertensi yang datang ke FKTP 
+ mungkin merupakan pasien kondisi darurat yang membutuhkan 
+ penanganan dengan fasilitas yang lebih lengkap sehingga perlu 
+ segera dirujuk. 
+
+40
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+ a. Berikut adalah kriteria rujukan segera pasien hipertensi: 
+  • Nyeri dada baru.
+  • Gejala/tanda serangan iskemik transien (TIA) atau stroke.
+  • Gejala/tanda gagal jantung (sesak napas, kesulitan 
+   bernapas, tungkai bengkak) atau puncak jantung naik- 
+   turun.
+  • Nyeri kaki yang parah dengan gejala klaudikasio.
+  • Tekanan darah >180/110 mmHg dengan sakit kepala berat, 
+   nyeri dada, sesak napas, penglihatan kabur, perubahan 
+   status mental, penurunan produksi urin, mual, muntah, 
+   lesu, kejang, papil edema, tanda atau tanda neurologis 
+   fokal gagal jantung.
+  • Tekanan darah >200/>120 mmHg.
+  • Glukosa plasma >18mmoI/l (325mg/dl) dan keton urin 2+ 
+  • Hipoglikemia yang tidak teratasi dengan pemberian glukosa 
+   intravena.
+  • Dicurigai diabetes tipe 1 pada pasien yang baru didiagnosis.
+  • Setiap infeksi berat atau ulkus yang terinfeksi.
+  • Kemunduran penglihatan baru-baru ini.
+  • Anuria.
+  • Takikardia simtomatik.
+
+ b. Berikut adalah kriteria rujukan lainnya (non-darurat):
+  • Target penurunan tekanan darah tidak tercapai baik 
+   monoterapi dan terapi kombinasi.
+  • Diketahui riwayat penyakit jantung, stroke, TIA, diabetes, 
+   penyakit ginjal (jika pasien belum menjalani penilaian awal).
+  • Murmur jantung.
+  • Denyut nadi tidak teratur.
+  • Berusia di bawah 40 tahun dengan tekanan darah 
+	 	 	 ≥140/90	mmHg	(untuk	menyingkirkan	penyebab	sekunder 	
+   hipertensi).
+
+41
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+	 	 •	 Tekanan	darah	persisten	≥140/90	(pada	diabetes	≥130/80	 
+   mmHg) saat menjalani pengobatan dengan dua atau tiga 
+   obat anti hipertensi.
+  • Diabetes yang baru didiagnosis dengan keton urin 2+ atau 
+   pada orang kurus <30 tahun.
+  • Diabetes dengan kontrol buruk meskipun dosis metformin 
+   maksimal dengan atau tanpa sulfonylurea.
+  • Diabetes dengan penurunan penglihatan baru-baru ini atau 
+   tidak adanya pemeriksaan mata dalam dua tahun terakhir.
+  • Hipertensi pada kehamilan tanpa komplikasi.
+  • Hipertensi pada kehamilan dengan dengan komplikasi. 
+  • Kolesterol total >310 mg/dl.
+  • Protein apa pun dalam urin (proteinuria), atau peningkatan 
+   kreatinin.
+  • Gejala/tanda gangguan ginjal.
+  • Tanda-tanda penyakit pembuluh darah perifer.
+
+4.5 PERAWATAN RUJUK BALIK 
+ Perawatan rujuk balik adalah perawatan yang dilakukan FKTP 
+ setelah pasien pulang perawatan dari FKRTL. Pencegahan 
+ sekunder komplikasi hipertensi di fasilitas kesehatan tingkat 
+ pertama meliputi manajemen faktor risiko yang harus dilakukan 
+ pada minggu pertama setelah pulang perawatan dari rumah sakit. 
+ Bila tidak ditemukan gejala tambahan, maka pemeriksaan 
+ selanjutnya dilakukan 1 kali sebulan dengan tujuan 
+ mencapai hipertensi terkontrol dan memulihkan sistem organ 
+ yang terkena komplikasi. Obat yang diberikan di FKRTL 
+ dilanjutkan di FKTP. Bila masih ada gejala pasien dapat 
+ meneruskan menjalani pemeriksaan di FKRTL. 
+
+42
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+4.6 KOMPLIKASI HIPERTENSI PADA DEWASA 
+ Komplikasi hipertensi pada dewasa, yaitu:
+ a. penyakit serebrovaskular.
+ b. stroke iskemik. 
+ c. perdarahan serebral, atau TIA. 
+ d. penyakit jantung : infark miokard, angina, revaskularisasi 
+  koroner, atau gagal jantung kongestif. 
+ e. penyakit ginjal: nefropati diabetika atau gagal ginjal - kreatinin: 
+	 	 laki-laki	 >133	 μmol/l	 (1.6	 mg/dL),	 perempuan	 >124	 μmol/l	 
+  (1.45 mg/dL).
+ f. penyakit pembuluh darah perifer: diseksi aneurisma atau 
+  penyakit arteri yang simptomatis.
+ g. Retinopati akibat hipertensi lanjut: pendarahan, eksudat atau 
+  papiledema.
+
+43
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+44
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+BAB V :  MANAJEMEN PROGRAM  
+ PENCEGAHAN DAN PENGENDALIAN  
+ HIPERTENSI
+
+5.1 PROGRAM PENGENDALIAN HIPERTENSI 
+Program pengendalian Hipertensi terdiri dari kegiatan Promosi 
+Kesehatan dan Pencegahan, Penapisan (skrining), Deteksi Dini, 
+Tatalaksana Medis, serta Surveilans dan Pencatatan Pelaporan, 
+yang harus dilakukan secara komprehensif, berkesinambungan, 
+dan melibatkan berbagai pihak, mulai dari pemerintah pusat, 
+pemerintah daerah provinsi dan kabupaten/kota, pemerin-
+tah desa, pihak swasta, dan masyarakat dan atau organisasi 
+masyarakat. Dalam pelaksanaannya perlu dilakukan dengan 
+tata kelola yang meliputi unsur manajemen yaitu perencanaan, 
+pelaksanaan, pengorganisasian, dan pembinaan dan pengawasan, 
+serta monitoring evaluasi. 
+
+Beberapa kebijakan telah dikeluarkan untuk menjadi pedoman 
+implementasi dari kegiatan-kegiatan pengendalian hipertensi, 
+antara lain Permenkes 4 Tahun 2019 tentang Petunjuk Teknis 
+Pemenuhan Mutu Pelayanan Dasar Pada Standar Pelayanan 
+Minimal Bidang Kesehatan (SPM), Kepmenkes 4634 Tahun 2021 
+tantang Pedoman Nasional Pelayanan Kedokteran Tata Laksana 
+Hipertensi Dewasa, Permenkes Nomor 71 Tahun 2014 tentang 
+Penanggulangan Penyakit Tidak Menular. Selain itu terdapat 
+program Posbindu atau yang sekarang disebut sebagai 
+Posyandu dalam Integrasi Layanan Primer dan Program 
+Prolanis yang dikelola oleh BPJS-JKN.
+
+ 5.1.1 Promosi Kesehatan dan Pencegahan
+   5.1.1.1   Promosi Kesehatan dan Pencegahan
+      Promosi Kesehatan bertujuan untuk mewujudkan 
+      perilaku hidup sehat dengan menciptakan dan 
+
+45
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+      membiasakan perilaku hidup sehat, seperti 
+      dijelaskan dalam bab III. 
+
+      Promosi Kesehatan dilakukan dengan strategi 
+      advokasi, pemberdayaan masyarakat, dan 
+      kemitraan dengan pihak lain dan dilakukan oleh 
+      tenaga kesehatan yang kompeten dan atau 
+      berpengalaman melakukan promosi kesehatan 
+      tentang hipertensi, termasuk mendayagunakan 
+      Kader Kesehatan. Program ini dilakukan dengan 
+      melibatkan masyarakat melalui berbagai bentuk 
+      kegiatan yang bersifat Upaya Kesehatan Berbasis 
+      Masyarakat (UKBM), misalnya melalui Posyandu 
+      dan lain-lain. 
+
+   5.1.1.2   Pencegahan
+      Pencegahan hipertensi adalah dengan cara 
+      menghindari faktor-faktor risiko untuk terjadinya 
+      hipertensi dan melakukan perilaku hidup sehat 
+      yang juga merupakan pencegahan untuk 
+      terjadinya Penyakit Tidak Menular lainnya. 
+      Program pencegahan dilakukan melalui kegiatan 
+      promosi kesehatan dan dengan mengintegrasikan 
+      dengan layanan lain. 
+
+ 5.1.2 Penapisan dan Deteksi Dini
+   Penapisan hipertensi adalah pemeriksaan tekanan 
+   darah kepada masyarakat yang tidak mempunyai gejala 
+   sakit apapun. Penapisan dilakukan secara aktif dan 
+   pasif. Penapisan secara aktif adalah dengan cara melakukan 
+   kerjasama dengan pihak-pihak dimana target sasaran 
+
+46
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+   berada, misal untuk penapisan anak usia 15 tahun dapat 
+   dilakukan dengan cara kerjasama dengan pihak dinas 
+   Pendidikan, sekolah, organisasi pemuda (misal Pramuka, 
+   Karang Taruna, dan lain-lain). Penapisan pada kelompok 
+   usia produktif dilakukan dengan cara Kerjasama dengan 
+   dinas yang berwenang dengan ketagakerjaan, dengan 
+   tempat kerja, atau pada kegiatan masyarakat, misal 
+   pertemuan rutin suatu wilayah. Demikian juga penapisan 
+   pada usia lanjut usia maka dapat bekerja sama dengan 
+   Panti Jompo, atau dengan kegiatan sosial lain, misal 
+   Posyandu Lansia. Penapisan secara pasif adalah dengan 
+   cara melakukan pemeriksaan tekanan darah pada semua 
+   pengunjung fasilitas Kesehatan. 
+
+   Deteksi dini hipertensi adalah penemuan kasus 
+   hipertensi sedini mungkin, utamanya dilakukan pada 
+   orang yang datang ke fasilitas Kesehatan dengan 
+   keadaan atau gejala yang mungkin terkait dengan 
+   hipertensi dan atau faktor risikonya. Misal pasien Diabetes 
+   Melitus, pasien dengan kelebihan berat badan atau 
+   obesitas, dan lain-lain gejala yang terkait faktor risko 
+   hipertensi. Seseorang yang terdeteksi sebagai hipertensi 
+   perlu segera mendapat tatalaksana farmakologis dan 
+   non-farmakologis (prompt treatment). 
+
+   Kegiatan penapisan dan deteksi dini hipertensi, baik yang 
+   dilakukan di masyarakat maupun di fasyankes dicatatkan 
+   dan dilaporkan sesuai dengan sistem pencatatan dan 
+   pelaporan kegiatan yang berlaku. 
+
+47
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+ 5.1.3 Tatalaksana Kasus
+   Tatalaksana kasus hipertensi pada intinya dibagi 
+   menjadi Terapi Farmakologis dengan obat anti hipertensi 
+   dan terapi non-farmakologis yaitu konseling dan pencegahan 
+   faktor risiko (Bab III dan IV), dan meliputi juga reahabilitasi 
+   dan paliatif. Dalam tatalaksana kasus diharapkan 
+   dilakukan secara komprehensif yang dikenal dengan PATUH, 
+   meliputi: 
+   1. Periksa kesehatan secara rutin dan ikuti anjuran dokter.
+   2. Atasi penyakit dengan pengobatan yang tepat.
+   3. Tetap diet dengan gizi seimbang.
+	 	 	 4.	 Upayakan	aktifitas	fisik	dengan	aman.
+   5. Hindari asap rokok, alkohol, dan zat karsinogenik 
+    lainnya.
+
+ 5.1.4 Monitoring Penyakit Kronis
+   Hipertensi merupakan penyakit kronis yang memerlukan 
+   penanganan secara teratur dan kontinyus. Terapi 
+   antihipertensi ditujukan untuk mencapai Hipertensi 
+   Terkendali (Controlled hypertension) untuk mengurangi 
+   komplikasi dan mortalitas akibat hipertensi. Dengan 
+   demikian maka system pencatatan dan pelaporannya 
+   adalah sesuai kedua program tersebut.
+
+   Penyelenggaraan program Pengendalian Hipertensi perlu 
+   dilakukan sesuai dengan siklus manajemen program yaitu 
+   dimulai dari Perencanaan, diikuti dengan Pelaksanaan 
+   Program, Pengorganisasian, Monitoring dan Evaluasi, dan 
+   Pencatatan dan Pelaporan. 
+
+48
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+5.2  PERENCANAAN PROGRAM 
+ 5.2.1 Pengumpulan Data
+   Kegiatan ini dilakukan untuk memperoleh informasi 
+	 	 	 mengenai	 data	 umum	 yaitu	 demografi,	 sumber	 daya, 	
+   sarana dan prasarana (logistik), peran serta masyarakat 
+   serta data khusus seperti kematian, kesakitan, kunjungan, 
+	 	 	 profil	 kesehatan	 serta	 hasil	 survei	 yang	 berhubungan	 
+   dengan hipertensi. Data yang dikumpulkan juga perlu 
+   disesuaikan dengan target sasaran, dan sistem pencatatan 
+   dan pelaporan yang berlaku.
+
+ 5.2.2 Analisis situasi dan penetapan prioritas masalah
+   Analisis situasi meliputi analisis tehadap internal program 
+   pengendalian hipertensi dan eksternal program. Berdasar- 
+	 	 	 kan	hasil	analisis	kita	dapat	mengidentifikasi	masalah	yang 	
+   ada. Pemilihan masalah harus dilakukan secara prioritas 
+   dengan mempertimbangkan sumber daya yang tersedia. 
+   Agar tujuan program pengendalian hipertensi dapat dicapai 
+   secara optimal, rencana kegiatan harus disesuaikan dengan 
+   kapasitas masing-masing daerah serta ketersediaan 
+   fasilitas kesehatan.
+
+ 5.2.3 Logistik
+   Kebutuhan logistik untuk pengendalian hipertensi disetiap 
+   lokasi pelaksanaan tercantum dalam tabel di bawah ini.
+
+49
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+Tabel 5.1 Kebutuhan Logistik Pengendalian Hipertensi
+
+Alat ukur tekanan darah yang digunakan adalah 
+alat ukur yang tervalidasi.
+
+50
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+ 5.2.4 Perhitungan kebutuhan obat
+   Untuk menghitung kebutuhan obat gunakan metode 
+   konsumsi dan metode morbiditas. Metode konsumsi adalah 
+   penghitungan berdasarkan pemakaian tahun sebelumnya. 
+
+   Metode morbiditas adalah penghitungan berdasarkan 
+   perkiraan jumlah pasien yang akan diobati (prevalensi). 
+   Perencanaan kebutuhan setiap obat hipertensi didasarkan 
+   pada jumlah pasien yang telah diobati tahun lalu, jumlah 
+   stok yang ada sekarang, lead time dan target penemuan 
+   kasus tahun depan. 
+
+   Misalnya: 
+   Jumlah penduduk yang ada di wilayah kerja suatu 
+   pelayanan kesehatan tingkat pertama 6000 orang, Tahun 
+   lalu jumlah penderita hipertensi yang berobat 1800 orang, 
+   dan hipertensinya terkontrol dengan 2 macam jenis obat. 
+   Prevalensi hipertensi di Kabupaten/Kota adalah 32%.
+
+   Penghitungan dengan metode konsumsi maka jumlah obat 
+   yang dibutuhkan pertahun adalah: 1800 orang x 30 hari  x 
+   12 bulan + buffer stok – sisa stok = 1.296.000 butir.
+
+   Penghitungan dengan metode morbiditas maka jumlah obat 
+   yang dibutuhkan adalah 32% x 6000 orang = 1920 orang 
+   1920 orang x 30 hari x 12 bulan + buffer stok – sisa stok = 
+   1.382.400 butir.
+
+   • Estimasi perencanaan obat dapat ditambahkan buffer 
+    stok 10% pada jenis slow moving dan 20% pada jenis 
+    obat fast moving dari jumlah yang dibutuhkan per 
+    tahun.
+
+51
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+   • Mekanisme pengadaan obat di FKTP disesuaikan 
+    dengan sistem pengadaan obat hipertensi di 
+    masing-masing kabupaten/kota.
+   • Dalam menjamin aksesibilitas obat yang berkhasiat, 
+    bermutu, aman, dan terjangkau dalam sistem JKN, 
+    fasilitas pelayanan kesehatan harus mengacu pada 
+    Formularium Nasional.
+
+ 5.2.5 Perhitungan kebutuhan Posbindu Kit
+   Untuk menghitung kebutuhan logistik program 
+   pengendalian perlu dipertimbangkan jumlah logistik tahun 
+   lalu dan jumlah stok logistik yang masih bisa dipakai serta 
+   rencana pengembangan program pengendalian di wilayah- 
+   nya. Misalnya akan dilakukan pengembangan program 
+   Pengendalian hipertensi di satu provinsi maka salah satu 
+   logistik yang dibutuhkan Posbindu Kit (kit) terdiri dari alat 
+   Ukur Berat Badan, alat ukur Tinggi Badan, alat ukur 
+   Lingkar Perut, Tensimeter dan Glukometer dengan 
+   perhitungan sebagai berikut:
+
+Jumlah Kebutuhan
+Posbindu Kit = Jumlah Desa x 1 Kit Posbindu
+
+ 5.2.6 Perhitungan kebutuhan Elektrokardiografi (EKG)
+   Kebutuhan jumlah EKG untuk Puskesmas sebagai berikut: 
+
+Jumlah Kebutuhan
+EKG = Jumlah Puskesmas x 2 unit
+
+   Fasilitas pelayanan kesehatan wajib menjamin ketersediaan 
+   alat kesehatan yang dibutuhkan untuk pelayanan 
+   kesehatan sesuai tingkat pelayanan kesehatan di fasyankes 
+   masing-masing yaitu di poliklinik dan IGD Puskesmas. 
+
+52
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+ 5.2.7 Penganggaran
+   Penyusunan anggaran program pengendalian hipertensi 
+   didasarkan pada kebutuhan program dan kegiatan.
+
+5.3  PELAKSANAAN LAYANAN HIPERTENSI 
+ 5.3.1 Pelaksanaan Layanan Hipertensi di Masyarakat
+   Posbindu PTM yang saat ini nomenklaturnya diubah 
+   menjadi bagian dari Posyandu merupakan bentuk peran 
+   serta masyarakat dalam upaya penapisan, deteksi dini dan 
+   pengendalian faktor risiko termasuk hipertensi secara 
+   mandiri dan berkelanjutan. Kegiatan PTM di Posyandu 
+	 	 	 dilaksanakan	 oleh	 pekerja	 sosial,	 aktifis	masyarakat,	 dan	 
+   kader kesehatan yang terlatih. Pengembangan Posyandu 
+   diintegrasikan dengan upaya yang telah terselenggara 
+   secara rutin di masyarakat, dibina dan difasilitasi oleh 
+   sektor kesehatan maupun lintas sektor terkait di 
+   masing-masing daerah.
+
+   Di posyandu, atau di masyarakat/institusi dapat dilakukan 
+   pengukuran  Tekanan Darah, pengukuran Gula darah, 
+   Berat Badan, Tinggi Badan, Lingkar Perut. Kader 
+   posyandu dapat melakukan kunjungan rumah untuk 
+   melakukan deteksi dini atau membantu pasien hipertensi 
+   untuk dirujuk ke Puskesmas. Kader Posyandu dapat pula 
+   melakukan kunjungan rumah bila sasaran tidak 
+   mendapatkan akses pelayanan kesehatan (missing services), 
+   ketidakpatuhan pengobatan (non compliance), dan tanda 
+   bahaya (danger sign) serta memberikan edukasi. Kader 
+   pada saat kunjungan rumah melakukan sweeping sasaran 
+   yang belum dilakukan skrining hipertensi, menemukan 
+   pasien hipertensi yang tidak berobat teratur dan 
+
+53
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+   memberikan edukasi terkait pencegahan dan kepatuhan 
+   dalam pengobatan hipertensi. Kader posyandu akan 
+   berkonsultasi dengan tenaga kesehatan puskesmas 
+   bila diperlukan.
+
+   Selain itu, deteksi dini hipertensi melalui pengukuran 
+   tekanan darah dapat dilaksanakan pula di Usaha 
+   Kesehatan Sekolah serta institusi lain yang memiliki 
+   sasaran deteksi dini. DI UKS, deteksi dini hipertensi 
+   dilaksanakan melalui kegiatan rutin Penjaringan Kesehatan 
+   anak sekolah setiap tahunnya.
+
+   Sasaran utama kegiatan di posyandu adalah masyarakat 
+   sehat berusia mulai 15 tahun ke atas, masyarakat yang 
+   berisiko dan penyandang PTM.
+
+ 5.3.2 Pelaksanaan Layanan Hipertensi di Fasilitas Kesehatan 
+   Tingkat Pertama
+   Layanan hipertensi dalam rangka pengendalian hipertensi 
+   di fasilitas kesehatan tingkat pertama meliputi upaya 
+   promotif, preventif, kuratif dan rehabilitatif sesuai dengan 
+   standar kompetensi dan fasilitas yang tersedia.  
+
+   Berdasarkan Permenkes NOMOR HK.01.07/ 
+   MENKES/2015/2023 tentang Petunjuk Teknis Integrasi 
+   Pelayanan Kesehatan Primer, Puskesmas memberikan 
+   pelayanan hipertensi pada semua masyarakat yang datang 
+   ke Puskesmas. Puskesmas juga menerima rujukan pasien 
+   yang dapat berasal dari Puskesmas Pembantu, Posyandu, 
+   kunjungan rumah serta rujuk balik. 
+
+54
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+Puskesmas Pembantu (PUSTU), dapat memberikan layanan 
+hipertensi	 meliputi	 anamnesis,	 dan	 pemeriksaan	 fisik 	
+serta pemberian obat hipertensi lanjutan. Pustu yang tidak 
+memiliki dokter akan melakukan rujukan atau konsultasi 
+ke dokter puskesmas untuk diagnosis dan pengobatan awal 
+pasien hipertensi.
+
+Masyarakat	 yang	 datang	 ke	 puskesmas	 diidentifikasi 	
+menjadi kelompok (kluster) usia produktif, lansia atau 
+menderita penyakit menular, kemudian dilakukan 
+anamnesis,	 pemeriksaan	 fisik	 dan	 diagnosis	 untuk	 
+mengetahui apakah menderita hipertensi. Bila tidak 
+teridentifikasi	 menderita	 hipertensi	 pasien	 diedukasi	
+agar tekanan darah tetap normal dan dianjurkan untuk 
+pemeriksaan tekanan darah kembali setiap tahun.
+
+Bila	 teridentifikasi	 menderita	 hipertensi,	 pasien	 
+mendapatkan tatalaksana hipertensi sesuai standar dan 
+tetap dimonitor pengobatan dan tekanan darahnya sampai 
+tekanan darahnya  terkendali yaitu <140/90 mmHg. Pasien 
+yang tidak terkendali hipertensinya dan ada indikasi untuk 
+dirujuk, pasien hipertensi dapat dirujuk ke FKRTL.
+ 
+Dalam pengendalian hipertensi agar deteksi dini dapat 
+menjangkau masyarakat yang menjadi sasaran serta dapat 
+dipantau pengobatannya, dapat dibentuk tim yang terdiri 
+dari nakes, kader dan atau pemangku kebijakan setempat 
+serta pihak lain yang dapat terlibat dalam pengendalian 
+hipertensi.
+
+ 5.3.3 Rujukan
+   Penderita hipertensi dengan komplikasi dan hipertensi tidak 
+
+55
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+   terkendali setelah mendapatkan tatalaksana sesuai 
+   protokol perlu dirujuk dan ditatalaksana di Fasilitas 
+   Kesehatan Rujukan Tingkat Lanjut.
+
+5.4  PENGORGANISASIAN 
+ Upaya pengendalian hipertensi diselenggarakan bersama-sama 
+ oleh pemerintah dan masyarakat. Pemerintah meliputi 
+ kementerian, lembaga non-kementerian dan pemerintah 
+ daerah. Masyarakat meliputi akademisi, profesi, Lembaga 
+ Swadaya Masyarakat, swasta, dunia usaha, civil society 
+ lainnya dan masyarakat umum. Para pemangku kepentingan 
+ mempunyai tugas dan tanggung jawab masing-masing dan 
+ bekerjasama dalam bentuk kemitraan yaitu Jejaring Kerja 
+ Pengendalian PTM. Pengorganisasian sangat penting dalam 
+ menjalankan program pengendalian hipertensi, sehingga perlu 
+ melibatkan banyak sektor dan aspek teknis layanan.  
+
+ Berikut ini dijelaskan peran dan tugas sektor yang terkait pada 
+ masing-masing tingkat:
+ 5.4.1 Pemerintah Pusat
+   1. Membuat rancangan peraturan (regulasi) pedoman 
+    pengendalian hipertensi, di semua tingkat pelayanan 
+    dengan melibatkan organisasi profesi, pengelola 
+    program dan pelaksana pelayanan yang dibutuhkan.
+   2. Membina, mengawasi dan memfasilitasi program 
+    pencegahan dan penanggulangan hipertensi tingkat 
+    nasional melalui penetapan kebijakan nasional, 
+    standarisasi dan pengaturan melalui asistensi dan 
+    bimbingan teknis.
+   3. Melaksanakan pengendalian hipertensi secara nasional. 
+   4. Mendorong dan memfasilitasi berfungsinya jejaring 
+
+56
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+    kerja pengendalian penyakit tidak menular dalam upaya 
+    pengendalian hipertensi.
+   5. Meningkatkan kegiatan promosi dan pencegahan dalam 
+    pelayanan hipertensi di institusi pelayanan kesehatan 
+    melalui media KIE.
+   6. Mengembangkan program pengendalian hipertensi 
+    berbasis masyarakat.
+   7. Melakukan monitoring dan evaluasi program pengenda- 
+    lian hipertensi.
+   8. Melakukan penelitian dan survei terkait hipertensi dan 
+    program pengendaliannya.
+
+ 5.4.2 Pemerintah Provinsi
+   Dinas Kesehatan Provinsi bekerjasama dengan lintas 
+   sektor terkait dan lembaga swadaya masyarakat setempat 
+   melalui Jejaring Kerja Pengendalian PTM Provinsi 
+   melakukan upaya:
+  1. Membuat kebijakan program hipertensi di daerah Provinsi 
+   dengan mengacu pada kebijakan nasional.
+  2. Membuat perencanaan dan penganggaran program dan 
+   kegiatan hipertensi.
+  3. Melaksanakan pengendalian hipertensi.
+  4. Melakukan advokasi tentang pengendalian hipertensi 
+   kepada penentu kebijakan di tingkat Provinsi.
+  5. Memberikan sosialisasi, asistensi dan bimbingan teknis 
+   pengendalian hipertensi.
+  6. Mengawasi dan membina kegiatan pengendalian hipertensi.
+  7. Melakukan surveilans epidemiologi pengendalian hipertensi
+  8. Mengembangkan jejaring kerja, metode serta manajemen 
+   pengendalian hipertensi.
+  9. Meningkatkan kegiatan promosi dan pencegahan dalam 
+
+57
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+   pelayanan hipertensi di institusi pelayanan kesehatan 
+   melalui media KIE.
+  10. Mengembangkan program pengendalian hipertensi berbasis 
+   masyarakat.
+  11. Melakukan monitoring dan evaluasi program pengendalian 
+   hipertensi.
+
+ 5.4.3 Pemerintah Kabupaten/Kota
+   Dinas Kesehatan Kabupaten/Kota bekerjasama dengan 
+   lintas sektor terkait dan lembaga swadaya masyarakat 
+   setempat melalui Jejaring Kerja Pengendalian PTM 
+   Kabupaten/Kota melakukan upaya:
+   1. Membuat kebijakan hipertensi daerah dengan mengacu 
+    pada kebijakan nasional. 
+   2. Membuat perencanaan dan penganggaran program dan 
+    kegiatan hipertensi.
+   3. Melaksanakan  pengendalian hipertensi.
+   4. Melakukan advokasi tentang pengendalian hipertensi 
+    kepada penentu kebijakan di tingkat Kabupaten/Kota.
+   5. Memberikan sosialisasi, asistensi dan bimbingan teknis 
+    pengendalian hipertensi pada faskes tingkat kabu- 
+    paten/kota.
+   6. Mengawasi dan membina kegiatan pengendalian 
+    hipertensi pada faskes tingkat kabupaten/kota.
+   7. Mengembangkan jejaring kerja, metode serta manaje- 
+    men pengendalian hipertensi.
+   8. Melakukan surveilans epidemiologi pengendalian 
+    hipertensi.
+   9. Meningkatkan kegiatan promosi dan pencegahan dalam 
+    pelayanan hipertensi di institusi pelayanan kesehatan 
+    melalui media KIE.
+
+58
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+   10. Mengembangkan program pengendalian hipertensi 
+    berbasis masyarakat.
+   11. Melakukan monitoring dan evaluasi program pengenda- 
+    lian hipertensi.
+
+ 5.4.4 Pemerintah Kecamatan dan Kelurahan/Desa
+   Tugas utama pemerintah kecamatan dan kelurahan/desa 
+   adalah menumbuhkan, mengembangkan, memfasilitasi dan 
+   menggerakkan masyarakat dalam upaya pengendalian 
+   hipertensi yang dirancang oleh pemerintah Kabupaten/ 
+   Kota.
+
+ 5.4.5 Lembaga Swadaya Masyarakat
+   Lembaga Swadaya Masyarakat dan Organisasi Non- 
+   Pemerintah lainnya mampu menjadi pendamping dalam 
+   proses pengendalian hipertensi melalui upaya penyuluhan, 
+   pelatihan, pemberian dukungan dan konseling.
+
+ 5.4.6 Organisasi Profesi dan Lembaga Pendidikan
+   Keterlibatan tenaga profesional baik secara individu 
+   maupun melalui organisasi profesi seperti InaSH, 
+   PERDOSSI, PERKI, PERNEFRI, PAPDI, dan lain-lain serta 
+   lembaga pendidikan tinggi dapat berperan dalam 
+   menyebarluaskan informasi kepada lingkungan profesi dan 
+   masyarakat luas, mengadvokasi para penentu kebijakan 
+   sesuai dengan profesinya, terlibat aktif dalam penyusunan 
+   pedoman teknis yang sesuai dengan profesinya, penelitian, 
+   riset dan operasional pengendalian hipertensi.
+
+ 5.4.7 Lembaga Kemasyarakatan
+   Lembaga kemasyarakatan seperti PKK, Organisasi 
+
+59
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+   Kepemudaan (Karang Taruna), Pramuka, organisasi 
+   agama, kesenian dan lain-lain dapat berperan dalam 
+   komunikasi publik melalui penyampaian informasi yang 
+   benar mengenai hipertensi kepada masyarakat umum, 
+   mengadvokasi para penentu kebijakan untuk memberikan 
+   perhatian pada pengendalian hipertensi melalui regulasi 
+   dan penyediaan anggaran.
+
+ 5.4.8 Masyarakat Umum dan Keluarga
+   Masyarakat, tokoh agama dan keluarga mengembangkan 
+   keterlibatan dan keperdulian terhadap upaya  pengendalian 
+   hipertensi. Masyarakat dapat menumbuhkan kewaspadaan 
+   terhadap bahaya hipertensi dan mampu melakukan deteksi 
+   dini, upaya pencegahan  dan monitoring tekanan darah 
+   secara rutin di Posyandu atau di rumah masing-masing. 
+   Untuk menjalankan fungsi tersebut masyarakat perlu 
+   menerima informasi yang benar tentang pengendalian 
+   hipertensi.
+
+5.5  MONITORING DAN EVALUASI
+ Monitoring program pengendalian hipertensi dapat dilaksanakan 
+ terintegrasi dengan kegiatan monitoring pengendalian penyakit 
+ tidak menular. Monitoring dan evaluasi dapat dilakukan oleh 
+ Pemerintah Pusat, Dinas Kesehatan Provinsi dan Kabupaten/ 
+ Kota.  
+
+ Adapun indikator program yang harus dimonitor dan dievaluasi 
+ pencapaiannya adalah:
+
+60
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+ 5.5.1 Indikator Skrining Hipertensi, yang tercantum dalam 
+   indikator cakupan deteksi dini PTM Prioritas, yaitu:
+   
+
+No. Indikator dalam RENSTRA 2020-2024
+1. Persentase	penduduk	usia	yang	≥15	tahun	
+
+dilakukan skrining PTM prioritas
+
+2. Persentase penyandang hipertensi yang tekanan 
+darahnya terkendali di puskesmas/FKTP
+
+	 	 	 1.	 Definisi	 Operasional	 skrining	 	 PTM	 Prioritas	 (DO)	 : 	
+    Persentase penduduk sesuai kelompok sasaran yang 
+    mendapatkan skrining PTM Prioritas yaitu Hipertensi, 
+    Diabetes Melitus, Obesitas, Stroke, Jantung, PPOK, 
+    Kanker Payudara, Kanker Leher Rahim, Gangguan 
+    Indera (Katarak dan Kelainan Refraksi, Tuli Kongenital, 
+    dan Otitis Media Supurative Kronis (OMSK).
+
+    Cara perhitungan:
+    Jumlah Persentase Capaian Deteksi Dini (Hipertensi + 
+    Diabetes Melitus + Stroke + Jantung + PPOK +
+       Kanker Payudara + Kanker Leher Rahim + Indera)
+
+                9
+
+    Rumus Perhitungan Deteksi Dini Hipertensi:
+    Jumlah Penduduk usia ≥15 tahun 
+   yang diperiksa Tekanan Darahnya di Suatu Wilayah
+
+x 100%
+   Jumlah Sasaran Penduduk usia ≥15 tahun
+
+                  di suatu wilayah
+
+61
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+	 	 	 	 2.	 Definisi	 Operasional	 penyandang	 hipertensi	 yang 	
+     tekanan darahnya terkendali di puskesmas/FKTP 
+     yaitu : Persentase penyandang hipertensi yang 
+     tekanan sistolik dan diastolik turun menjadi kurang 
+     dari 140/90 mmHg pada kunjungan terakhir.
+
+     Cara Perhitungan:
+    Jumlah Penyandang Hipertensi yang Tekanan
+    Sistolik dan Diastolik 
+    Turun menjadi < 140/90 mmHg pada
+    kunjungan terakhir
+
+x 100%
+    Jumlah Seluruh Penyandang Hipertensi
+
+                         dalam 3 bulan terakhir
+
+ 5.5.2 Indikator Standar Pelayanan Minimal (SPM)
+   Peraturan Presiden No. 2/2018, Permendagri No. 59/2021 
+   dan Permenkes No. 4/2019 Indikator SPM Bidang 
+   Kesehatan yaitu Pelayanan Kesehatan Penderita Hipertensi.
+
+	 	 	 Definisi	 Operasional	 :	 Capaian	 kinerja	 Pemerintah 	
+   Kabupaten/Kota dalam memberikan pelayanan kesehatan 
+   sesuai standar bagi penderita hipertensi, dinilai dari 
+   persentase jumlah penderita hipertensi usia 15 tahun 
+   ke atas yang mendapatkan pelayanan Kesehatan sesuai 
+   standar di wilayah kerjanya dalam kurun waktu satu tahun.
+
+   Rumus Perhitungan Kinerja :
+   Jumlah Penderita Hipertensi Usia ≥15 tahun 
+   di dalam wilayah kerjanya yang mendapatkan pelayanan  
+   Kesehatan sesuai standar dalam kurun waktu satu tahun
+
+x 100%
+   Jumlah estimasi penderita hipertensi usia ≥15 tahun 
+   yang berada di dalam wilayah kerjanya berdasarkan angka 
+   prevalensi kab/kota dalam kurun waktu satu tahun yang sama
+
+62
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+   Estimasi penderita hipertensi kabupaten/kota berdasarkan 
+   prevalensi data Riskesdas/Survei Kesehatan Indonesia 
+   terbaru.
+
+   Pelayanan kesehatan hipertensi adalah pelayanan 
+   kesehatan sesuai standar yang meliputi:
+   1. Pengukuran tekanan darah dilakukan minimal satu kali 
+    sebulan di fasilitas pelayanan kesehatan.
+   2. Edukasi perubahan gaya hidup dan/atau kepatuhan 
+    minum obat.
+   3. Melakukan rujukan jika diperlukan.
+
+ 5.5.3 Indikator Missed Visit  
+   Indikator Missed Visit (Tidak hadir saat kontrol) yaitu 
+   penyandang hipertensi dalam pengobatan yang tidak 
+   kontrol dalam waktu 3 bulan atau lebih.
+
+ 5.5.4 Indikator Under Care
+   Indikator Under Care yaitu penyandang hipertensi yang 
+   tidak kontrol dalam waktu 12 bulan atau lebih.
+
+ 5.5.5 Indikator Pasien Dalam Pengobatan
+   Indikator Pasien Dalam Pengobatan yaitu penyandang 
+   hipertensi yang mendapatkan pengobatan hipertensi 
+   minimal satu kali dalam 3 bulan terakhir.
+
+5.6  PENCATATAN DAN PELAPORAN
+ Perlu suatu mekanisme pencatatan yang baik, formulir yang 
+ cukup serta cara pengisian yang benar dan teliti. Pencatatan 
+ dilaksanakan sesuai dengan jenis kegiatan yang dilaksanakan. 
+ Pencatatan program pengendalian hipertensi dilakukan 
+ terintegrasi dengan pencatatan program PTM.
+
+63
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+ 1. Buku Register Tatalaksana
+  Buku Register Tatalaksana berisi data identitas umum dan 
+  khusus dari penderita, buku juga disesuaikan dengan sistem 
+  pencatatan dari pedoman pengendalian penyakit tidak 
+  menular.
+ 2. Buku Rujukan
+  Selain memuat seperti hal-hal di atas, buku rujukan juga 
+  mengandung informasi tentang tindakan/terapi yang sudah 
+  dilakukan dan mengapa penderita dirujuk serta keadaan/ 
+  kondisi terakhir penderita. 
+
+ 5.6.1 Sistem Pencatatan dan Pelaporan Layanan Hipertesi di 
+   FKTP
+   Arsitektur Sistem Pencatatan Layanan Primer merupakan 
+   bagian dari ekosistem transformasi digital Kesehatan di 
+   Kementerian Kesehatan. Dalam implementasinya di 
+   Puskesmas, Pustu, kegiatan Posyandu dan kunjungan 
+   rumah, maka pencatatan dan pelaporan akan 
+   menggunakan sistem informasi yang terstandar dan 
+   terintegrasi ke Platform Satu Sehat. Sistem Pencatatan 
+   dan Pelaporan pengendalian hipertensi yang mengikuti 
+   Platform Satu Sehat sebagai berikut:
+   1. Layanan Dalam Gedung (Puskesmas, Pustu)
+    Pencatatan layanan dalam Gedung menggunakan Sistem 
+    Informasi Puskesmas (SIP/SIMPUS) masing-masing 
+    yang telah ada di Puskesmas dan Pustu yang telah 
+    mengikuti standar interoperabilitas Platform Satu 
+    Sehat. Proses standardisasi SIP/SIMPUS perlu 
+    dikoordinasikan oleh Dinas Kesehatan dan Puskesmas 
+    dengan tim pengembang sistem (vendor) terkait dan 
+    Kementerian Kesehatan.
+
+64
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+    Bagi Puskesmas atau Pustu yang belum memiliki SIP/ 
+    SIMPUS, maka perlu berkoordinasi dengan Dinas 
+    Kesehatan dan Kementerian Kesehatan. 
+
+   2. Layanan Luar Gedung (Kegiatan Posyandu, Kunjungan 
+    Rumah).
+    Pencatatan layanan luar Gedung menggunakan sistem 
+    informasi berikut yakni:
+    a. Aplikasi Sehat IndonesiaKu (ASIK) Mobile oleh 
+     Tenaga Kesehatan dan Kader Kesehatan terlatih. 
+     https://sehatindonesiaku.kemkes.go.id/. 
+     Adapun buku petunjuk pengisian ASIK dapat 
+     diakses pada laman https://link.kemkes.go.id/ 
+     multi/Links/lists/PTM.
+    b. Sistem Informasi Penyakit Tidak Menular berbasis 
+     offline yang dapat diinput oleh tenaga Kesehatan 
+     (Form Offline Puskesmas) dan kader Kesehatan 
+     Terlatih (Form Offline Posbindu). https://survei 
+     lans-pptm.kemkes.go.id/ 
+    c. Aplikasi pencatatan dan pelaporan lain yang 
+     dikembangkan oleh Daerah.
+     Apabila ada aplikasi berbasis gawai (mobile) lain 
+     yang dikembangkan oleh pihak ketiga di kabupaten/ 
+     Kota/Provinsi, maka dapat digunakan oleh Tenaga 
+     Kesehatan atau Kader Kesehatan apabila telah 
+     mengikuti standar interoperabilitas Kementerian 
+     Kesehatan dan sesuai dengan kebutuhan dalam 
+     Integrasi Layanan Primer.
+
+  3. Hasil pencatatan data dari Dalam Gedung (SIP/SIMPUS) 
+   dan Luar Gedung (ASIK, SI PTM, dan Aplikasi daerah lain) 
+
+65
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+   yang terintegrasi ke Platform Satu Sehat dapat dimonitor 
+   melalui dashboard untuk proses pemantuan wilayah 
+   setempat (PWS). Dashboard PWS membantu Puskesmas 
+   dan Pustu dalam melakukan intervensi-intervensi 
+   Kesehatan sesuai klaster layanan yang ada. Dashboard 
+   terdiri dari skrining tekanan darah, diagnosis hipertensi, 
+   pasien hipertensi dalam pengobatan, hipertensi terkendali, 
+   missed visit, serta tatalaksana hipertensi sesuai standar.
+
+  4. Hasil layanan di dalam gedung dan luar gedung berbentuk 
+	 	 	 rekam	 medik	 elektronik,	 promosi	 kesehatan,	 notifikasi, 	
+   lokasi fasilitas kesehatan, dan program kesehatan lainnya 
+   dapat diperoleh masyarakat melalui Aplikasi Satu Sehat 
+   Mobile.
+
+   Adapun, penjelasan di atas secara umum dapat dilihat 
+   dalam gambar di samping ini:
+
+66
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+67
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+68
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+DAFTAR PUSTAKA
+
+1. Undang-undang Nomor 25 tahun 2004 tentang Sistem Perencanaan
+Pembangunan Nasional  dan Pengelolaan Keuangan Negara.
+
+ 2. Undang - Undang Nomor. 29 tahun 2004 tentang Praktik
+Kedokteran.
+
+3. Undang - Undang Nomor. 23 tahun 2014 tentang Pemerintahan
+Daerah.
+
+ 4. Undang-undang Nomor 36 tahun 2009 tentang Kesehatan.
+(Lembaran Negara RI tahun 2009 no.144, tambahan lembaran
+Negara RI No. 5063).
+
+5. Peraturan Pemerintah No. 2 Tahun 2018 tentang Standar Pelayanan
+Minimal.
+
+ 6. Peraturan Presiden Republik Indonesia Nomor 72 tahun 2012
+tentang Sistem Kesehatan Nasional.
+
+7. Peraturan  Menteri Kesehatan Nomor 1144/Menkes/Per/VIII/2010
+tentang Organisasi dan Tata Kerja Kementerian Kesehatan RI.
+
+ 8. Peraturan Menteri Kesehatan Nomor 30 Tahun 2013 Tentang
+Pencantuman Informasi Kandungan Gula, Garam dan Lemak serta
+Pesan Kesehatan untuk Pangan Olahan dan Pangan Siap Saji.
+
+ 9. Peraturan Menteri Kesehatan Nomor 59 tahun 2014 tentang
+Standar Tarif Pelayanan Kesehatan Dalam Penyelenggaraan
+Program Jaminan Kesehatan.
+
+10. Peraturan Kementerian Kesehatan Nomor 4 Tahun 2019 tentang
+Standar Teknis Pemenuhan Mutu Pelayanan Dasar Pada Standar
+Pelayanan Minimal Bidang Kesehatan.
+
+11. Peraturan Menteri Kesehatan Nomor 43 Tahun 2019 Tentang Pusat
+Kesehatan Masyarakat.
+
+12. Permenkes No. 13 Tahun 2022 tentang Rencana Strategis
+Kementerian Kesehatan tahun 2022-2024.
+
+69
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+13. Keputusan Menteri Kesehatan RI Nomor 1457/Menkes/SK/X/2003, 
+tentang Standar Pelayanan Minimal Bidang Kesehatan di
+Kabupaten/Kota.
+
+14. Keputusan Menteri Kesehatan RI Nomor 1479/Menkes/
+SK/X/2003, tentang Penyelenggaraan Surveilans Epidemiologi
+Penyakit Menular dan Penyakit Tidak Menular terpadu.
+
+15. Keputusan Menteri Kesehatan nomor 828/Menkes/SK/IX/2008/
+tentang Petunjuk Teknis Standar Pelayanan Minimal.
+
+16. Keputusan Menteri Kesehatan nomor 375/Menkes/SK/V/2009
+tentang Rencana Pembangunan Jangka Panjang Kesehatan (RP
+JPK) 2005-2025.
+
+17. Keputusan Menteri Kesehatan nomor 854/Menkes/SK/IX/2009
+tentang Pedoman Pengendalian Penyakit Jantung dan Pembuluh
+Darah.
+
+18. Keputusan Menteri Kesehatan nomor 2500/Menkes/XII/2011
+tentang Daftar Obat Essensial Nasional.
+
+19. Keputusan Menteri Kesehatan Republik Indonesia Nomor Hk.01.07/
+Menkes/4613/2021 Tentang Pedoman Nasional Pelayanan
+Kedokteran Tatalaksana Hipertensi Pada Anak.
+
+20. Keputusan Menteri Kesehatan Republik Indonesia Nomor Hk.01.07/
+Menkes/4634/2021 Tentang Pedoman Nasional Pelayanan
+Kedokteran Tatalaksana Hipertensi Pada Dewasa.
+
+21. Keputusan Menteri Kesehatan Republik Indonesia Nomor
+HK.01.07/MENKES/1936/2022 Tentang Perubahan Atas
+Keputusan Menteri Kesehatan Nomor Hk.01.07/
+Menkes/1186/2022 Tentang Panduan Praktik Klinis Bagi Dokter
+Di Fasilitas Pelayanan Kesehatan Tingkat Pertama.
+
+22. HEARTS, Technical Package for Cardiovascular Disease
+Management in Primary Health Care Guidelines.
+
+70
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+TIM PENYUSUN
+
+Penanggung Jawab:
+- Dr. Eva Susanti, S.Kp., M.Kes
+
+(Direktur Pencegahan dan Pengendalian Penyakit Tidak Menular).
+
+Penyusun:
+- dr. Fatchanuraliyah, MKM
+
+(Ketua Tim Kerja Penyakit Jantung dan Pembuluh Darah
+Direktorat Penyakit Tidak Menular);
+
+- dr. Yanri Wijayanti Subronto, Ph.D, SP.PD-KPTI
+(RS Sardjito-Fakultas Kedokteran Universitas Gajah Mada);
+
+- dr. Mega Febrianora, Sp.JP(K), FIHA, FAPSC, CRFC
+(Konsultan Kardiovaskular Asosiasi Dinas Kesehatan
+Seluruh Indonesia).
+
+Kontributor:
+- Direktorat Tatakelola Kesehatan Masyarakat Kemenkes;
+- Direktorat Promosi Kesehatan Kemenkes;
+- Direktorat Pelayanan Kesehatan Primer Kemenkes;
+- Direktorat Pelayanan Kesehatan Rujukan Kemenkes;
+- Pusat Kebijakan Upaya Kesehatan Kemenkes;
+- Pusat Data dan Informasi Kemenkes;
+- Digital	Transformation	Office	Kemenkes;
+- BPJS Kesehatan;
+- Rumah Sakit Jantung Harapan Kita Kemenkes;
+- Dinas Kesehatan Provinsi DKI Jakarta;
+- Dinas Keehatan Kota Bogor Provinsi Jawa Barat
+- Perhimpunan Dokter Kardivaskuler Indonesia;
+
+71
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+- Perhimpunan Ahli Penyakit Dalam Indonesia;
+- Perhimpunan Dokter Hipertensi Indonesia;
+- Perhimpunan Ahli Nefrologi Indonesia;
+- Halik Sidik (Asosiasi Dinas Kesehatan Seluruh Indonesia);
+- Ridho Ichsan Syaini, SKM, M.Epid
+
+(Tim Kerja Penyakit Jantung dan Pembuluh Darah);
+- Lili Lusiana SKM M.Si (Tim Kerja Penyakit Jantung
+
+dan Pembuluh Darah);
+- La Ode Hane (Tim Kerja Penyakit Jantung
+
+dan Pembuluh Darah);
+- Viorelli Amanda (Tim Kerja Penyakit Jantung
+
+dan Pembukuh Darah).
+
+Mitra Pembangunan:
+- Asosiasi Dinas Kesehatan Seluruh Indonesia;
+- WHO Indonesia;
+- RESOLVE To Save Life (RTSL).
+
+72
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+73
+
+
+
+Pedoman Pengendalian Hipertensi Di Fasilitas Kesehatan Tingkat Pertama
+
+74

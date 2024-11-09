@@ -1,7 +1,8 @@
 streamlit
 langchain
 langchain-community
-pypdf
+#pypdf
+TextLoader
 langchain_google_genai
 faiss-cpu
 numpy

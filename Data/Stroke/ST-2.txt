@@ -1,0 +1,5494 @@
+﻿KURIKULUM PELATIHAN CODE STROKE 
+
+BAGI TIM STROKE DI RUMAH SAKIT 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+RUMAH SAKIT PUSAT OTAK NASIONAL 
+Prof. Dr. dr. MAHAR MARDJONO JAKARTA 
+DIREKTORAT PELAYANAN KESEHATAN 
+
+KEMENTERIAN KESEHATAN REPUBLIK INDONESIA 
+TAHUN 2022
+
+ 
+ 
+
+
+
+ 
+
+KATA SAMBUTAN 
+
+ 
+
+Dalam rangka mendukung optimalisasi layanan prioritas stroke di Indonesia, SDM Kesehatan 
+dituntut memiliki kompetensi untuk mendukung tugas yang diembannya. Salah satu cara 
+pengembangan SDM tersebut adalah melalui pelatihan. Dengan pelatihan diharapkan SDM 
+mendapatkan tambahan ilmu pengetahuan, perubahan sikap sehingga memiliki kompetensi 
+untuk mendukung tugasnya. 
+
+Penyelenggaraan pelatihan hendaknya direncanakan seoptimal mungkin sesuai kaidah 
+kediklatan, yaitu dilaksanakan sesuai rencana, dievaluasi dan diukur dampak pelatihannya. 
+Penyelenggaraan pelatihan tidak akan ada artinya apabila tidak ada daya ungkit terhadap 
+peningkatan kapasitas SDM.  
+
+Dalam rangka peningkatan kapasitas dan kompetensi tim yang menangani pasien stroke di 
+rumah sakit yang terdiri dari dokter spesialis saraf, dokter spesialis radiologi, dokter umum di 
+IGD, perawat IGD dan radiografer, diperlukan Pelatihan Code Stroke.  
+
+Akhirnya ucapan terima kasih dan penghargaan yang sebesar-besarnya kami sampaikan 
+kepada Tim Penyusun, atas tenaga dan pikiran yang dicurahkan untuk penyelesaian 
+kurikulum ini.                                                                     
+
+                       
+
+Jakarta,   Agustus 2022 
+Plt. Direktur Utama  
+RS Pusat Otak Nasional Prof. Dr. dr. Mahar Mardjono 
+
+ 
+
+ 
+
+dr. Mursyid Bustami, Sp.S (K), KIC, MARS                                                    
+NIP.196209131988031002 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kurikulum Pelatihan Trombolisis. RSPON 2022                                 1 
+ 
+
+
+
+ 
+
+KATA PENGANTAR 
+
+ 
+
+Alhamdulillah, puji syukur kami panjatkan kehadirat Allah SWT, Tuhan Yang Maha Esa, 
+karena telah selesainya kegiatan penyusunan Kurikulum Pelatihan Code Stroke Bagi Tim di 
+Rumah Sakit.   
+
+Penyusunan kurikulum pelatihan ini dilakukan oleh Rumah Sakit Pusat Otak Nasional Prof. 
+Dr. dr. Mahar Mardjono bekerjasama dengan Direktorat Peningkatan Mutu Tenaga Kesehatan 
+Kementerian Kesehatan Republik Indonesia serta rumah sakit pengampu stroke. Karenanya 
+kami mengucapkan terima kasih dan penghargaan yang setinggi-tingginya kepada tim 
+penyusun dan semua pihak yang telah berkontribusi dalam penyelesaiannya.  
+
+Semoga upaya ini dapat mencapai tujuan maksimal dalam meningkatkan kompetensi tim 
+yang terdiri dari Dokter Spesialis Saraf, Dokter Spesialis Radiologi, Dokter Umum di IGD, 
+Perawat IGD dan Radiografer dalam melaksanakan pelayanan stroke akut, dan kurikulum 
+pelatihan ini dapat menjadi acuan dalam penyelenggaraan pelatihan di rumah sakit, baik yang 
+diselenggarakan oleh rumah sakit vertikal di bawah Kementerian Kesehatan, rumah sakit 
+daerah maupun rumah sakit swasta.  
+
+Kami menyadari bahwa kurikulum ini masih banyak kekurangan. Oleh karenanya kami sangat 
+menghargai segala bentuk masukan baik berupa saran maupun kritik yang membangun guna 
+penyempurnaan kurikulum ini. 
+
+ 
+
+Jakarta,   Agustus  2022 
+Direktur SDM, Pendidikan dan Umum 
+RS Pusat Otak Nasional Prof. Dr. dr. Mahar Mardjono 
+
+ 
+ 
+ 
+ 
+
+Dr. dr. Andi Basuki Prima Birawa, Sp.S (K), MARS 
+NIP. 196409131990031004 
+
+Kurikulum Pelatihan Trombolisis. RSPON 2022                                 2 
+ 
+
+
+
+ 
+
+DAFTAR ISI 
+ 
+ 
+
+Bab I Pendahuluan 
+A. Latar Belakang 
+B. Peran dan Fungsi  
+ 
+Bab II Kurikulum  
+A. Tujuan  
+B. Kompetensi 
+C. Struktur Kurikulum 
+D. Ringkasan Mata Pelatihan 
+E. Evaluasi Hasil Belajar 
+ 
+Bab III Diagram Alur Proses Pelatihan  
+ 
+Lampiran: 
+1. Rancang Bangun Pembelajaran Mata Pelatihan (RBPMP) 
+2. Master Jadwal 
+3. Panduan Penugasan  
+4. Instrumen Evaluasi 
+5. Kerangka Acuan Usulan Pedoman Penyelenggaraan 
+            Pelatihan 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                  2 
+ 
+
+
+
+ 
+
+BAB I 
+
+PENDAHULUAN 
+
+ 
+
+1. Latar Belakang 
+
+Di era modern ini masyarakat semakin banyak mengalami permasalahan kesehatan salah 
+
+satunya yang berhubungan dengan otak dan persarafan. Permasalahan kesehatan ini 
+
+menjadikan ketakutan yang ada di tengah-tengah masyarakat dalam menjalani aktivitas 
+
+kesehariannya. Seperti halnya kasus persarafan seperti stroke perdarahan, stroke 
+
+penyumbatan dan gangguan saraf lainnya dapat menyebabkan kematian dan juga 
+
+menyebabkan gejala sisa berupa kecacatan sehingga menjadi beban psikologis 
+
+dan  ekonomis bagi penderita sendiri maupun keluarga. Stroke sebagai salah satu penyakit 
+
+katastropik yang membutuhkan perawatan medis yang lama dan berbiaya tinggi masih 
+
+memiliki angka kesakitan (morbiditas) dan angka kematian (mortalitas) yang masih tinggi, 
+
+sehingga diperlukan optimalisasi pelayanan dengan meningkatkan kemampuan sumber daya, 
+
+penatalaksanaan, dan rujukan melalui jejaring pengampuan pelayanan Rumah Sakit. 
+
+Rumah Sakit Pusat Otak Nasional Prof Dr dr Mahar Mardjono merupakan rumah sakit rujukan 
+
+nasional utama dalam penanganan kasus neurologi. Dari seluruh kasus neurologi yang sudah 
+
+ditangani, jumlah kasus terbanyak adalah stroke, baik stroke iskemik maupun stroke 
+
+hemoragik. Berdasarkan data rekam medis tahun 2021 total jumlah kunjungan IGD sebanyak 
+
+65.535 dengan total kasus stroke sebanyak 4.925 atau 75,15% dari seluruh kunjungan IGD 
+
+Rumah Sakit Pusat Otak Nasional Prof. Dr. dr Mahar Mardjono. Pelayanan stroke di Rumah 
+
+Sakit Pusat Otak Nasional Prof. Dr. dr. Mahar Mardjono dilakukan secara komprehensif. 
+
+Pelayanan dimulai dari pelayanan kedaruratan di Instalasi Gawat Darurat, perawatan pada 
+
+fase akut di Stroke Care Unit dan Stroke Ward, dan perawatan pasca stroke di Unit 
+
+Neurorestorasi. Perawatan secara komprehensif dilakukan untuk menormalkan kembali aliran 
+
+darah ke otak dan mengembalikan kemampuan pasien dalam melakukan Activity Daily 
+
+Livings. Perawatan pasien dilakukan dengan melibatkan seluruh tim kesehatan. 
+
+Rumah Sakit Pusat Otak Nasional Prof. Dr. dr. Mahar Mardjono Jakarta sebagai pusat rujukan 
+
+dalam pengobatan penyakit otak dan persarafan mempunyai kewajiban sebagai pengampu 
+
+layanan stroke. Salah satu tugas pengampuan adalah meningkatkan kompetensi sumber 
+
+daya manusia kesehatan di bidang pelayanan stroke yang dilaksanakan melalui pendidikan 
+
+dan pelatihan, konsultasi secara langsung atau melalui telekonsultasi, pendampingan oleh tim 
+
+pengampu jejaring pelayanan stroke dan kegiatan lain sesuai kebutuhan sehingga perlu 
+
+dibuat Pelatihan Code Stroke. Agar pelatihan dapat berjalan secara efektif dan efisien maka 
+
+pelatihan harus dilakukan sesuai dengan kurikulum dan modul pelatihan. 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 3 
+ 
+ 
+
+
+
+ 
+
+Sehubungan dengan hal tersebut, maka perlu disusun kurikulum Pelatihan Code Stroke yang 
+
+dapat dijadikan acuan pelatihan bagi tim yang menangani stroke akut di level Rumah Sakit di 
+
+Indonesia.  
+
+ 
+
+2. Peran dan Fungsi 
+
+1. Peran 
+
+Setelah mengikuti pelatihan ini peserta berperan sebagai Tim aktivasi code stroke 
+
+sesuai kewenangan tenaga kesehatan masing-masing. 
+
+2. Fungsi 
+
+Dalam melaksanakan perannya, peserta mempunyai fungsi sebagai berikut : 
+
+a. Melakukan tatalaksana medik dalam tindakan trombolisis pada pasien stroke 
+
+iskemik. 
+
+b. Melakukan tatalaksana keperawatan dalam tindakan trombolisis pada pasien 
+
+stroke iskemik. 
+
+c. Melakukan tatalaksana dokter spesialis radiologi dalam tindakan trombolisis pada 
+
+pasien stroke iskemik. 
+
+d. Melakukan tatalaksana radiographer dalam tindakan trombolisis pada pasien 
+
+stroke iskemik. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 4 
+ 
+ 
+
+
+
+ 
+
+BAB II 
+
+KURIKULUM 
+
+ 
+
+A. Tujuan 
+
+Terwujudya tim code stroke (medik, perawat, spesialis radiologi, dan radiografer) 
+
+yang mampu melakukan tindakan trombolisis pada pasien stroke iskemik. 
+
+ 
+
+B. Kompetensi 
+
+Setelah mengikuti pelatihan ini, peserta memiliki kompetensi dalam : 
+
+1. Tatalaksana medik dalam tindakan trombolisis pada pasien stroke iskemik. 
+
+a. Menjelaskan pengantar stroke hiperakut. 
+
+b. Menginterpretasikan hasil pencitraan pada stroke. 
+
+c. Membuat Keputusan tindakan klinis pada kasus kandidat thrombolysis. 
+
+d. Mengelola short cut door to needle time. 
+
+e. melakukan pemberian alteplase. 
+
+f. melakukan monitoring dan tata laksana paska trombolisis 
+
+g. Menjelaskan Large Vessel Occlusion and Mechanical Thrombectomy 
+
+2. Tatalaksana keperawatan dalam tindakan trombolisis pada pasien stroke iskemik. 
+
+a. Menjelalskan Stroke Iskemik Hiperakut 
+
+b. Menjelaskan Emergency Nursing Management on Ischemic Stroke 
+
+c. Melakukan Pengkajian Neurologi Dasar 
+
+d. Melakukan Pemeriksaan National Institute Health Stroke Scale (NIHSS) 
+
+e. Melakukan pemberian Trombolisis 
+
+f. Melakukan tatalaksanakeperawatan pasca pemberian trombolisis 
+
+3. Tatalaksana dokter spesialis radiologi dalam tindakan trombolisis pada pasien 
+
+stroke iskemik. 
+
+a. Melakukan CT Scan pada Kasus Stroke 
+
+b. Melakukan MRIKepala pada Kasus Stroke 
+
+c. Melakukan Media Kontras 
+
+d. Melakukan CTA-CTP pada Kasus Stroke 
+
+4. Tatalaksana radiographer dalam tindakan trombolisis pada pasien stroke iskemik. 
+
+a. Melakukan CT Scan Kepala pada Kasus Stroke sesuai prosedur 
+
+b. Melakukan MRI Kepala pada Kasus Stroke sesuai prosedur 
+
+c. Melakukan Pemberian media kontras sesuai prosedur 
+
+d. Melakukan CTA-CTP sesuai prosedur 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 5 
+ 
+ 
+
+
+
+ 
+
+ 
+
+C. Struktur Kurikulum 
+
+Struktur Kurikulum Pelatihan Trombolisis sebagai berikut : 
+
+No Materi Waktu 
+
+T P PL JML 
+
+A Materi Pelatihan Dasar (MPD)     
+
+1 Aspek Etikolegal Trombolisis 1 0 0 1 
+
+2 Sosialisasi PNPK Tatalaksana Stroke 1 0 0 1 
+
+3 Sistem Layanan Stroke 1 0 0 1 
+
+ Sub Total 3 0 0 3 
+
+B Materi Pelatihan Inti (MPI)     
+
+1 Tatalaksana Medik Dalam Tindakan Trombolisis 7 16  23 
+Pada Pasien Stroke Iskemik 
+
+a Pengantar Stroke Hiperakut 1   1 
+
+b Pencitraan Pada Stroke 1 3  4 
+
+c Eligibility and Decision Making in IV Thrombolysis 1 4  5 
+
+d Short Cut Door to Needle Time 1 3  4 
+
+e Pemberian Alteplase 1 3  4 
+
+f Monitoring Paska trombolisis 1 2  3 
+
+g Large Vessel Occlusion and Mechanical 1 1  2 
+Thrombectomy 
+
+2 Tatalaksana Keperawatan Dalam Tindakan 7 16  23 
+Trombolisis Pada Pasien Stroke Iskemik 
+
+a Stroke Iskemik Hiperakut 1   1 
+
+b Emergency Nursing Management on Ischemic 1 0  1 
+Stroke 
+
+c Pengkajian Neurologi Dasar 1 3  4 
+
+d Pemeriksaan National Institute Health Stroke Scale 1 3  4 
+(NIHSS) 
+
+e Pemberian Trombolisis 2 8  10 
+
+f Tatalaksana Keperawatan Pasca Pemberian 1 2  3 
+Trombolisis 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 6 
+ 
+ 
+
+
+
+ 
+
+3 Tatalaksana Dokter Spesialis Radiologi Dalam 7 16  23 
+Tindakan Trombolisis Pada Pasien Stroke 
+Iskemik 
+
+a CT Scan Pada Kasus Stroke 2 4  6 
+
+b MRI Kepala Pada Kasus Stroke 2 4  6 
+
+c Media Kontras 1 4  5 
+
+d CTA-CTP Pada Kasus Stroke  2 4  6 
+
+4 Tatalaksana Radiografer Dalam Terapi 7 16  23 
+Trombolisis 
+
+a Prosedur CT Scan Kepala Pada Kasus Stroke 2 4   
+
+b Prosedur MRI Kepala Pada Kasus Stroke 2 4   
+
+c Prosedur Pemberian Media Kontras 1 4   
+
+d Prosedur CTA-CTP 2 4   
+
+ Sub Total 7 16  23 
+
+C Materi Pelatihan Penunjang (MPP)     
+
+1 Bulding Learning Commitment  2   
+
+2 Anti Korupsi 1    
+
+3 Rencana Tindak Lanjut (RTL) 1    
+
+ Sub Total 2 2  4 
+
+ TOTAL 12 18  30 
+
+ 
+ 
+D. Ringkasan Mata Pelatihan 
+
+ 
+
+1.  Mata Pelatihan Dasar (MPD) 
+
+a. Aspek Etikolegal Trombolisis 
+
+1) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang aspek etikolegal trombolisis. 
+
+2) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu memahami aspek etikolegal 
+
+trombolisis. 
+
+3) Indikator hasil belajar  
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 7 
+ 
+ 
+
+
+
+ 
+
+Setelah mengikuti mata pelatihan ini, peserta dapat:  
+
+a) Menjelaskan peran dan fungsi tim code stroke dalam pemberian trombolisis,  
+
+b) Menjelaskan etik masing masing profesi sebagai tim code stroke dalam 
+
+pemberian trombolisis,  
+
+c) Menjelaskan aspek legal masing masing profesi sebagai tim code stroke dalam  
+
+pemberian trombolisis. 
+
+4) Materi pokok  
+
+Materi pokok pada mata pelatihan ini adalah : 
+
+a) Peran dan fungsi masing masing profesi sebagai tim  code stroke dalam 
+
+pemberian trombolisis, 
+
+b) Etik masing masing profesi sebagai tim code stroke dalam pemberian 
+
+trombolisis, 
+
+c) Aspek legal masing masing profesi sebagai tim code stroke dalam pemberian 
+
+trombolisis, 
+
+5) Waktu 
+
+Alokasi waktu: 1 Jpl, dengan rincian T: 1, P:0, PL: 0. 
+
+ 
+
+b. Sosialisasi PNPK Tatalaksana Stroke 
+
+1) Deskripsi singkat 
+
+Mata pelatihan ini membahas Pedoman Nasional Pelayanan Kedokteran (PNPK) 
+
+Tatalaksana Stroke. 
+
+2) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu memahami Pedoman Nasional 
+
+Pelayanan Kedokteran (PNPK) Tatalaksana Stroke. 
+
+3) Indikator hasil belajar  
+
+a) Setelah mengikuti mata pelatihan ini, peserta dapat:  
+
+b) Menjelaskan tatalaksana stroke fase hiperakut, 
+
+c) Menjelaskan skema alur rujukan pengelolaan pasien stroke. 
+
+4) Materi pokok  
+
+Materi pokok pada mata pelatihan ini adalah : 
+
+a) Tatalaksana stroke fase hiperakut, 
+
+b) Skema alur rujukan pengelolaan pasien stroke. 
+
+5) Waktu 
+
+Alokasi waktu: 1 Jpl, dengan rincian T: 1, P:0, PL: 0. 
+
+ 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 8 
+ 
+ 
+
+
+
+ 
+
+c. Sistem Layanan Stroke 
+
+1) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang sistem layanan stroke.  
+
+2) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu memahami tentang sistem 
+
+layanan stroke. 
+
+3) Indikatior hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta dapat:  
+
+a) Menjelaskan tentang pengampuan stroke nasional,  
+
+b) Menjelaskan tentang tatalaksana Code Stroke,  
+
+c) Menjelaskan tentang tatalaksana trombolisis. 
+
+4) Materi pokok 
+
+a) Pengampuan stroke nasional, 
+
+b) Tatalaksana code stroke, 
+
+c) Tatalaksana trombolisis. 
+
+5) Waktu 
+
+Alokasi waktu: 1 Jpl, dengan rincian T: 1, P:0, PL: 0. 
+
+ 
+
+2. Mata Pelatihan Inti (MPI) 
+
+A. Tatalaksana Medik Dalam Tindakan Trombolisis Pada Pasien Stroke Iskemik 
+
+1) Pengantar Stroke Hiperakut 
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang pengantar stroke hiperakut. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu memahami tentang pengantar 
+
+stroke hiperakut. 
+
+c) Indikator hasil belajar 
+
+i. Setelah mengkuti mata pelatihan ini, peserta dapat:  
+
+ii. Menjelaskan tentang stroke iskemik, 
+
+iii. Menjelaskan tentang stroke perdarahan. 
+
+d) Materi pokok 
+
+i. Stroke iskemik, 
+
+ii. Stroke perdarahan. 
+
+e) Waktu 
+
+Alokasi waktu: 1 Jpl, dengan rincian T: 1, P: 0, PL: 0. 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 9 
+ 
+ 
+
+
+
+ 
+
+2) Pencitraan Pada Stroke 
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang pencitraan pada stroke. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu memahami pencitraan pada 
+
+stroke. 
+
+c) Indikator hasil belajar 
+
+i. Setelah mengikuti mata pelatihan ini, peserta dapat:  
+
+ii. Menjelaskan CT Scan Kepala Pada Kasus Stroke,  
+
+iii. Menjelaskan MRI Kepala Pada Kasus Stroke,  
+
+iv. Menjelaskan Angiografi dan perfusi. 
+
+d) Materi pokok 
+
+i. CT Scan Kepala Pada Kasus Stroke,  
+
+ii. MRI Kepala Pada Kasus Stroke, 
+
+iii. Angiografi dan perfusi. 
+
+e) Waktu 
+
+Alokasi waktu: 4 Jpl, dengan rincian T: 1, P: 3, PL: 0. 
+
+ 
+
+3) Eligibility and Decision Making in IV Thrombolysis 
+
+a) Deskrikpsi singkat 
+
+Mata pelatihan ini membahas tentang eligibility and decision making in IV 
+
+thrombolysis. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini peserta mampu menjelaskan tentang eligibility 
+
+and decision making in IV thrombolysis. 
+
+c) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu : 
+
+i. Menjelaskan tentang kriteria inklusi dan eksklusi trombolisis,  
+
+ii. Menjelaskan  tentang kriteria penyulit trombolisis. 
+
+d) Materi pokok 
+
+i. Kriteria inklusi dan eksklusi trombolisis, 
+
+ii. Kriteria penyulit trombolisis. 
+
+e) Waktu 
+
+Alokasi waktu: 3 Jpl, dengan rincian T: 1, P: 2, PL: 0. 
+
+ 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 10 
+ 
+ 
+
+
+
+ 
+
+4) Short Cut Door to Needle Time 
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas  tentang short cut door to needle time. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu menjelaskan short cut door to 
+
+needle time. 
+
+c) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu :  
+
+i. Menjelaskan percepatan alur trombolisis,  
+
+ii. Menjelaskan dosis, efek samping, komplikasi dan tatalaksana saat pemberian 
+
+trombolisis, 
+
+iii. Hambatan dan solusi terkait alur trombolisis. 
+
+d) Materi pokok 
+
+i. Percepatan alur trombolisis, 
+
+ii. Dosis, efek samping, komplikasi dan tatalaksana saat pemberian trombolisis, 
+
+iii. Hambatan dan solusi terkait alur trombolisis. 
+
+e) Waktu 
+
+Alokasi waktu: 4 Jpl, dengan rincian T: 1, P: 3, PL: 0. 
+
+ 
+
+5) Pemberian Alteplase 
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang pemberian alteplase. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu melakukan pemberian 
+
+alteplase. 
+
+c) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu  
+
+i. Melakukan persiapan pemberian trombolisis  
+
+ii. Melakukan pemberian trombolisis. 
+
+d) Materi pokok 
+
+i. Cara mempersiapkan trombolisis. 
+
+ii. Cara Pemberian Trombolisis 
+
+e) Waktu 
+
+Alokasi waktu: 4 Jpl, dengan rincian T: 1, P: 3, PL: 0. 
+
+ 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 11 
+ 
+ 
+
+
+
+ 
+
+6) Monitoring Paska Trombolisis 
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang monitoring paska trombolisis. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu melakukan monitoring paska 
+
+trombolisis. 
+
+c) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu melakukan :  
+
+i. Monitoing pasca trombolisis,  
+
+ii. Menjelaskan komplikasi dan tatalaksana paska trombolisis. 
+
+d) Materi pokok 
+
+i. Monitoring paska trombolisis, 
+
+ii. Komplikasi dan tatalaksana paska trombolisis. 
+
+e) Waktu 
+
+Alokasi waktu: 3 Jpl, dengan rincian T: 1, P: 2, PL: 0. 
+
+ 
+
+7) Large Vessel Occlusion and Mechanical Thrombectomy 
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang Large vessel occlusion and mechanical 
+
+thrombectomy. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu menjelaskan Large vessel 
+
+occlusion and mechanical thrombectomy. 
+
+c) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu:  
+
+i. Menjelaskan cara mendiagnosis large vessel oclusion,  
+
+ii. Menjelaskan manajemen stroke iskemik akut akibat large vessel occlusion. 
+
+d) Materi pokok 
+
+i. Mendiagnosis large vessel occlusion, 
+
+ii. Manajemen stroke iskemik akut akibat large vessel occlusion. 
+
+e) Waktu 
+
+Alokasi waktu: 4 Jpl, dengan rincian T: 1, P: 3, PL: 0. 
+
+ 
+
+B. Tatalaksana Keperawatan Dalam Tindakan Trombolisis Pada Pasien Stroke 
+
+Iskemik 
+
+1) Stroke Iskemik Hiperakut 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 12 
+ 
+ 
+
+
+
+ 
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang stroke iskemik hiperakut. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu menjelaskan tentang stroke 
+
+iskemik hiperakut. 
+
+c) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta dapat :  
+
+i. Menjelaskan pengertian stroke iskemik, 
+
+ii. Menjelaskan etiologi stroke iskemik, 
+
+iii. Menjelaskan faktor risiko stroke iskemik, 
+
+iv. Menjelaskan patofisiologi stroke iskemik, 
+
+v. Menjelaskan data penunjang stroke iskemik, 
+
+vi. Menjelaskan komplikasi stroke iskemik. 
+
+d) Materi pokok 
+
+i. Pengertian stroke iskemik, 
+
+ii. Etiologi stroke iskemik, 
+
+iii. Faktor risiko stroke iskemik, 
+
+iv. Patofisiologi stroke iskemik, 
+
+v. Data penunjang stroke iskemik, 
+
+vi. Komplikasi stroke iskemik. 
+
+e) Waktu 
+
+Alokasi waktu: 1 Jpl, dengan rincian T: 1, P: 0, PL: 0. 
+
+ 
+
+2) Emergency Nursing Management on Ischemic Stroke 
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang Emergency nursing management on ischemic 
+
+stroke. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu menjelaskan tentang 
+
+Emergency nursing management on ischemic stroke. 
+
+c) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta dapat :  
+
+i. Menjelaskan tatalaksana pasien stroke hiperakut pre hospital, 
+
+ii. Asuhan keperawatan pasien stroke hiperakut dan akut di ruang gawat darurat 
+
+(pengkajian sampai evaluasi). 
+
+d) Materi pokok 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 13 
+ 
+ 
+
+
+
+ 
+
+i. Tatalaksana pasien stroke hiperakut pre hospital, 
+
+ii. Asuhan keperawatan pasien stroke hiperakut dan akut di ruang gawat darurat 
+
+(pengkajian sampai evaluasi). 
+
+e) Waktu 
+
+Alokasi waktu: 1 Jpl, dengan rincian T: 1, P: 0, PL: 0. 
+
+ 
+
+3) Pengkajian Neurologi Dasar  
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang pengkajian neurologi dasar. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu melakukan pengkajian 
+
+neurologi dasar. 
+
+c) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta dapat :  
+
+i. Melakukan pengkajian Airway Breathing Circulation (ABC) Glukosa dan 
+
+Seizure, 
+
+ii. Melakukan pengkajian status mental, 
+
+iii. Melakukan pengkajian saraf kranial, 
+
+iv. Melakukan pengkajian motoric, 
+
+v. Melakukan pengkajian sensorik. 
+
+d) Materi pokok 
+
+i. Pengkajian Airway Breathing Circulation (ABC) Glukosa dan Seizure, 
+
+ii. Pengkajian status mental, 
+
+iii. Pengkajian saraf kranial, 
+
+iv. Pengkajian motoric, 
+
+v. Pengkajian sensorik. 
+
+e) Waktu 
+
+Alokasi waktu: 4 Jpl, dengan rincian T: 1, P: 3, PL: 0. 
+
+ 
+
+4) Pemeriksaan National Institute Health Stroke Scale (NIHSS) 
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang pemeriksaan National Institute Health Stroke 
+
+Scale (NIHSS). 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu melakukan pemeriksaan 
+
+National Institute Health Stroke Scale (NIHSS). 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 14 
+ 
+ 
+
+
+
+ 
+
+c) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta dapat :  
+
+i. Melakukan pemeriksaan tingkat kesadaran, 
+
+ii. Melakukan pemeriksaan mata konyugat horizontal, 
+
+iii. Melakukan pemeriksaan visual lapang pandang, 
+
+iv. Melakukan pemeriksaan paresis wajah, 
+
+v. Melakukan pemeriksaan motorik lengan,  
+
+vi. Melakukan pemeriksaan motorik tungkai,  
+
+vii. Melakukan pemeriksaan ataksia, 
+
+viii. Melakukan pemeriksaan sensorik, 
+
+ix. Melakukan pemeriksaan kemampuan bahasa, 
+
+x. Melakukan pemeriksaan disatria, 
+
+xi. Melakukan pemeriksaan neglect. 
+
+d) Materi pokok 
+
+i. Pemeriksaan tingkat kesadaran, 
+
+ii. Pemeriksaan mata konyugat horizontal, 
+
+iii. Pemeriksaan visual; lapang pandang, 
+
+iv. Pemeriksaan paresis wajah, 
+
+v. Pemeriksaan motorik lengan, 
+
+vi. Pemeriksaan motorik tungkai, 
+
+vii. Pemeriksaan ataksia, 
+
+viii. Pemeriksaan sensorik, 
+
+ix. Pemeriksaan kemampuan bahasa, 
+
+x. Pemeriksaan disatria, 
+
+xi. Pemeriksaan neglect. 
+
+e) Waktu 
+
+Alokasi waktu: 4 Jpl, dengan rincian T: 1, P: 3, PL: 0. 
+
+ 
+
+5) Pemberian Trombolisis  
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang pemberian trombolisis. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu melakukan pemberian 
+
+trombolisis. 
+
+c) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta dapat :  
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 15 
+ 
+ 
+
+
+
+ 
+
+i. Melakukan identifikasi indikasi pemberian trombolisis, 
+
+ii. Melakukan identifikasi kontraindikasi pemberian trombolisis, 
+
+iii. Melakukan persiapan edukasi dan informed consent tindakan trombolisis, 
+
+iv. Melakukan persiapan alat pemberian trombolisis, 
+
+v. Melakukan pemberian trombolisis. 
+
+d) Materi pokok 
+
+i. Indikasi pemberian trombolisis, 
+
+ii. Kontraindikasi pemberian trombolisis, 
+
+iii. Edukasi dan informed consent tindakan trombolisis, 
+
+iv. Persiapan alat pemberian trombolisis, 
+
+v. Pemberian trombolisis. 
+
+e) Waktu 
+
+Alokasi waktu: 10 Jpl, dengan rincian T: 2, P: 8, PL: 0. 
+
+ 
+
+6) Tatalaksana Keperawatan Pasca Pemberian Trombolisis  
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang tatalaksana keperawatan pasca pemberian 
+
+trombolisis. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu melakukan tatalaksana 
+
+keperawatan pasca pemberian trombolisis. 
+
+c) Indikator hasi belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta dapat :  
+
+i. Melakukan monitoring pasca trombolisis, 
+
+ii. Melakukan pengisian dokumentasi observasi status neurologis pasca 
+
+trombolisis, 
+
+iii. Melakukan monitoring komplikasi pasca trombolisis, 
+
+iv. Melakukan tatalaksana keperawatan pada komplikasi pasca trombolisis. 
+
+d) Materi pokok 
+
+i. Monitoring pasca trombolisis, 
+
+ii. Dokumentasi observasi status neurologis pasca trombolisis, 
+
+iii. Monitoring komplikasi pasca trombolisis, 
+
+iv. Tatalaksana keperawatan pada komplikasi pasca trombolisis. 
+
+e) Waktu 
+
+Alokasi waktu: 3 Jpl, dengan rincian T: 1, P: 2, PL: 0. 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 16 
+ 
+ 
+
+
+
+ 
+
+C. Tatalaksana Dokter Spesialis Radiologi dalam Terapi Trombolisis 
+
+1) CT Scan Pada Kasus Stroke 
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang CT scan pada kasus stroke. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu melakukan CT scan pada 
+
+kasus stroke. 
+
+c) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu :  
+
+i. Melakukan protokol pemeriksaan CT scan, 
+
+ii. Mengidentifikasi  temuan CT Scan pada kasus stroke,  
+
+iii. Melakukan ASPECT Score,  
+
+iv. Melakukan pitfall CT Scan pada kasus stroke. 
+
+d) Materi pokok 
+
+i. Protokol pemeriksaan CT scan, 
+
+ii. Temuan CT scan pada kasus stroke, 
+
+iii. ASPECT Score, 
+
+iv. Pitfall CT scan pada kasus stroke. 
+
+e) Waktu 
+
+Alokasi waktu: 6 Jpl, dengan rincian T: 2, P: 4, PL: 0. 
+
+ 
+
+2) MRI Pada Kasus Stroke  
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang MRI pada kasus stroke. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu melakukan MRI pada kasus 
+
+stroke. 
+
+c) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini peserta mampu :  
+
+i. Melakukan protokol pemeriksaan MRI,  
+
+ii. Mengidentifikasi temuan MRI pada kasus stroke,  
+
+iii. Melakukan pitfall MRI pada kasus stroke. 
+
+d) Materi pokok 
+
+i. Protokol pemeriksaan MRI, 
+
+ii. Temuan MRI pada kasus stroke, 
+
+iii. Pitfall MRI pada kasus stroke. 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 17 
+ 
+ 
+
+
+
+ 
+
+e) Waktu 
+
+Alokasi waktu: 6 Jpl, dengan rincian T: 2, P: 4, PL: 0. 
+
+ 
+
+3) Media Kontras 
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahasa tentang media kontras. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu menjelaskan media kontras. 
+
+c) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu :  
+
+i. Menjelaskan penggunaan media kontras iodium,  
+
+ii. Menjelaskan penggunaan media kontras gadolinium. 
+
+d) Materi pokok 
+
+i. Penggunaan media kontras iodium, 
+
+ii. Penggunaan media kontras Gadolinium. 
+
+e) Waktu 
+
+Alokasi waktu: 5 Jpl, dengan rincian T: 1, P: 4, PL: 0. 
+
+ 
+
+4) CTA-CTP  
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang CTA – CTP. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini peserta mampu menjelaskan CTA CTP. 
+
+c) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini peserta mampu :  
+
+i. Menjelaskan temuan CTA CTP pada kasus stroke,  
+
+ii. Menjelaskan pitfall CTA CTP pada kasus stroke. 
+
+d) Materi pokok 
+
+i. Temuan CTA-CTP pada kasus stroke, 
+
+ii. Pitfall CTA-CTP pada kasus stroke. 
+
+e) Waktu 
+
+Alokasi waktu: 6 Jpl, dengan rincian T: 2, P: 4, PL: 0. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 18 
+ 
+ 
+
+
+
+ 
+
+D. Tatalaksana Radiografer Dalam Terapi Trombolisis 
+
+1) Prosedur CT Scan Kepala Pada Kasus Stroke 
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang prosedur CT scan kepala pada kasus stroke. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini peserta mampu melakukan CT Scan kepala 
+
+pada kasus stroke. 
+
+c) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini peserta mampu:  
+
+i. Melakukan prosedur pemeriksaan  CT Scan,  
+
+ii. Melakukan Pemilihan Protokol pemeriksaan CT Scan,  
+
+iii. Melakukan Post Processing gambaran  CT Scan. 
+
+d) Materi pokok 
+
+i. Prosedur pemeriksaan  CT Scan, 
+
+ii. Pemilihan Protokol pemeriksaan CT Scan, 
+
+iii. Post Processing gambaran  CT Scan. 
+
+e) Waktu 
+
+Alokasi waktu: 6 Jpl, dengan rincian T: 2, P: 4, PL: 0. 
+
+ 
+
+2) Prosedur MRI Kepala Pada Kasus Stroke 
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang prosedur MRI Kepala pada kasus stroke. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini peserta mampu melakukan Prosedur MRI 
+
+Kepala pada kasus stroke. 
+
+c) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu :  
+
+i. Melakukan MRI safety,  
+
+ii. Melakukan prosedur pemeriksaan MRI  kepala,  
+
+iii. Melakukan pemilihan sequence MRI Kepala,  
+
+iv. Melakukan post Processing gambaran MRI kepala. 
+
+d) Materi pokok 
+
+i. MRI safety, 
+
+ii. Prosedur pemeriksaan MRI  kepala, 
+
+iii. Pemilihan sequence MRI kepala, 
+
+iv. Post Processing gambaran MRI kepala. 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 19 
+ 
+ 
+
+
+
+ 
+
+e) Waktu 
+
+Alokasi waktu: 6 Jpl, dengan rincian T: 2, P: 4, PL: 0. 
+
+ 
+
+3) Prosedur Pemberian Media kontras 
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang prosedur pemberian media kontras. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini peserta mampu melakukan prosedur pemberian 
+
+media kontras. 
+
+c) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu :  
+
+i. Melakukan pemberian media kontras iodium,  
+
+ii. Memberikan media kontras gadolinium. 
+
+d) Materi pokok 
+
+i. Penggunaan media kontras iodium, 
+
+ii. Penggunaan media kontras Gadolinium. 
+
+e) Waktu 
+
+Alokasi waktu: 5 Jpl, dengan rincian T: 1, P: 4, PL: 0. 
+
+ 
+
+4) Prosedur CTA-CTP 
+
+a) Deskripsi singkat 
+
+Mata pelatihan ini membahas tentang Prosedur CTA-CTP. 
+
+b) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu melakukan prosedur CTA CTP. 
+
+c) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu:  
+
+i. Melakukan prosedur pemeriksaan CTA CTP, 
+
+ii. Melakukan Pemilihan Protokol CTA-CTP,  
+
+iii. Melakukan post Processing gambaran CTA-CTP kepala. 
+
+d) Materi pokok 
+
+i. Prosedur pemeriksaan CTA CTP, 
+
+ii. Pemilihan Protokol CTA-CTP, 
+
+iii. Post Processing gambaran CTA-CTP kepala. 
+
+e) Waktu 
+
+Alokasi waktu: 6 Jpl, dengan rincian T: 2, P: 4, PL: 0. 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 20 
+ 
+ 
+
+
+
+ 
+
+3. Mata Pelatihan Penunjang (MPP) 
+
+a. Building Learning Commitment 
+
+1) Deskripsi 
+
+Mata pelatihan ini membahas tentang perkenalan, pencairan suasana kelas, harapan 
+
+peserta, pemilihan pengurus kelas, serta komitmen kelas. 
+
+2) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta pelatihanan mampu membangun 
+
+komitmen belajar. 
+
+3) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini peserta dapat:  
+
+i. Melakukan perkenalan,  
+
+ii. Melakukan pencairan suasana kelas,  
+
+iii. Menjelaskan harapan,  
+
+iv. Memilih pengurus kelas dan, 
+
+v. Menetapkan komitment kelas. 
+
+4) Materi pokok  
+
+Materi pokok pada mata pelatihan ini adalah : 
+
+i. Perkenalan, 
+
+ii. Pencairan suasana kelas, 
+
+iii. Harapan peserta, 
+
+iv. Pemilihan pengurus kelas, 
+
+v. Komitment kelas. 
+
+5) Waktu 
+
+Alokasi waktu: 2 Jpl, dengan rincian T: 0, P: 2, PL: 0. 
+
+ 
+
+b. Anti Korupsi 
+
+1) Deskripsi 
+
+Mata pelatihan ini membahas tentang konsep korupsi, tindak pidana korupsi, budaya 
+
+anti korupsi, upaya pencegahan dan pemberantasan korupsi, serta tata cara 
+
+pelaporan dugaan pelanggaran Tindak Pidana Korupsi (TPK). 
+
+2) Hasil belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta pelatihan mampu menjelaskan Anti 
+
+Korupsi. 
+
+3) Indikator hasil belajar 
+
+Setelah mengikuti mata pelatihan ini peserta pelatihan dapat:  
+
+i. Menjelaskan konsep korupsi, 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 21 
+ 
+ 
+
+
+
+ 
+
+ii. Menjelaskan Tindak Pidana Korupsi,  
+
+iii. Menjelaskan budaya anti korupsi, 
+
+iv. Menjelaskan upaya pencegahan dan pemberantasan korupsi, 
+
+v. Menjelaskan tatacara pelaporan dugaan pelanggaran Tindakan Pidana 
+
+Korupsi (TPK). 
+
+4) Materi Pokok  
+
+Materi pokok pada mata pelatihan ini adalah : 
+
+i. Konsep Korupsi, 
+
+ii. Tindak Pidana Korupsi, 
+
+iii. Budaya Anti Korupsi, 
+
+iv. Upaya Pencegahan dan Pemberantasan Korupsi, 
+
+v. Tatacara Pelaporan Dugaan Pelanggaran Tindakan Pidana Korupsi (TPK). 
+
+5) Waktu 
+
+Alokasi Waktu: 1 Jpl dengan rincian T: 1, P: 0, PL: 0. 
+
+ 
+
+c. Rencana Tindak Lanjut 
+
+1) Deskripsi 
+
+Mata pelatihan ini membahas tentang rencana tindak lanjut (RTL). 
+
+2) Hasil Belajar 
+
+Setelah mengikuti mata pelatihan ini, peserta pelatihan mampu membuat rencana 
+
+tindak lanjut. 
+
+3) Indikator Hasil Belajar 
+
+Setelah mengikuti mata pelatihan ini peserta pelatihan dapat:  
+
+i. Menjelaskan pengertian dan ruang lingkup RTL, 
+
+ii. Menjelaskan unsur unsur RTL,  
+
+iii. Menjelaskan langkah langkah penyusunan RTL,  
+
+iv. Membuat RTL. 
+
+4) Materi Pokok  
+
+Materi pokok pada mata pelatihan ini adalah: 
+
+i. Pengertian dan ruang lingkup RTL, 
+
+ii. Unsur unsur RTL, 
+
+iii. Langkah langkah penyusunan RTL, 
+
+iv. Membuat RTL. 
+
+5) Waktu 
+
+Alokasi Waktu: 1 Jpl dengan rincian T: 0, P: 1, PL: 0. 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 22 
+ 
+ 
+
+
+
+ 
+
+E. Evaluasi Hasil Belajar 
+
+Evaluasi (evaluasi peserta, pelatih/fasilitator dan penyelenggaraan). Evaluasi yang 
+
+dilakukan oleh penyelenggara pelatihan adalah sebagai berikut : 
+
+a. Evaluasi Peserta 
+
+Evaluasi peserta dilakukan pre test/post test dan evaluasi uji kompetensi. Pre test dan 
+
+post test bertujuan mengetahui efektifitas capaian pelatihan dengan mengukur tingkat 
+
+pengetahuan yang dimiliki para peserta sebelum dan sesudah diberikan materi 
+
+pelatihan. Evaluasi uji kompetensi bertujuan untuk mengevaluasi ketrampilan peserta.  
+
+b. Evaluasi terhadap Pelatih/Fasilitator 
+
+Evaluasi terhadap pelatih/fasilitator dilakukan oleh peserta, yang menilai beberapa 
+
+aspek, antara lain:  
+
+1) penguasaan materi,  
+
+2) sistematika dan cara penyajian materi,  
+
+3) penggunaan metode, media dan alat bantu pelatihan 
+
+4) sikap dan perilaku 
+
+5) kerapihan pakaian 
+
+6) penggunaan bahasa 
+
+7) cara menjawab pertanyaan peserta,  
+
+8) pemberian motivasi dan inspirasi kepada peserta, 
+
+9) kerjasama antar fasilitator (dalam tim) 
+
+c. Evaluasi Penyelenggaraan 
+
+Evaluasi penyelenggaraan dilakukan oleh peserta terhadap pelaksanaan pelatihan. 
+
+Penilaian evaluasi penyelenggaraan dibuat dalam bentuk tabel yang berisi, antara lain 
+
+: 
+
+1) Pelayanan kepada peserta: 
+
+• Kelengkapan informasi pelatihan 
+
+• Ketersediaan dan kebersihan prasarana kelas, toilet dan prasarana lainnya 
+
+• Ketersediaan dan kebersihan fasilitas  
+
+• Ketersediaan dan kelengkapan bahan pelatihan 
+
+• Kestabilan jaringan online penyelenggara 
+
+ 
+
+2) Pelayanan kepada pelatih/ fasilitator 
+
+• Kelengkapan informasi pelatihan 
+
+• Ketepatan waktu pelaksanaan pelatihan 
+
+• Responsivitas terhadap kebutuhan fasilitator terkait proses pembelajaran 
+
+• Ketersediaan, kelengkapan dan keberfungsian sarana pengajaran didalam kel 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 23 
+ 
+ 
+
+
+
+ 
+
+BAB III 
+
+DIAGRAM ALUR PROSES PELATIHAN 
+
+ 
+
+Agar mudah mengikuti alur pelaksanaan kegiatan pelatihan maka disusunlah diagram alur 
+
+proses pembelajaran pada pelatihan ini yang memberikan gambaran tahapan proses 
+
+pembelajaran seperti bagan di bawah ini: 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 24 
+ 
+ 
+
+
+
+ 
+
+LAMPIRAN : 
+ 
+1. Rancang Bangun Pembelajaran Mata Pelatihan (RBPMP) 
+ 
+RBPMP setiap mata pelatihan yang telah ditetapkan pada struktur kurikulum di atas adalah sebagai berikut: 
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPD 1 
+
+Judul mata pelatihan Aspek etikolegal trombolisis 
+
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang aspek etikolegal trombolisis 
+
+Hasil belajar Setelah mengikuti mata pelatihan ini, peserta pelatihan mampu menjelaskan aspek etikolegal trombolisis 
+
+Waktu 1 JPL, dengan rincian T: 1, P: 0, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+Setelah mengikuti mata pelatihan ini 
+peserta pelatihan dapat : 
+
+1) Peran dan fungsi masing masing 
+1) menjelaskan peran dan fungsi 
+
+profesi sebagai tim  code stroke dalam 
+tim code stroke dalam pemberian  Kemenkes. (2019). Buku 
+
+pemberian trombolisis 1) Bahan 
+trombolisis Pedoman Nasional Praktik 
+
+2) Etik masing masing profesi  tayang/slide 
+2) menjelaskan etik masing Kedokteran Tatalaksana 
+
+sebagai tim  code stroke dalam 1) Ceramah tanya 2) Modul  
+masing profesi sebagai tim code stroke Stroke. Kementerian 
+
+pemberian trombolisis jawab 3) Laptop 
+dalam pemberian trombolisis Kesehatan Republik 
+
+3) Aspek legal masing masing 4) Link zoom 
+3) menjelaskan aspek legal Indonesia 
+
+profesi sebagai tim  code stroke dalam 
+masing masing profesi sebagai tim 
+
+pemberian trombolisis 
+code stroke dalam  pemberian 
+trombolisis 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 25 
+ 
+ 
+
+
+
+ 
+
+Nama pelatihan Pelatihan Code Stroke  
+
+Nomor MPD 2 
+
+Judul mata pelatihan Sosialisasi Pedoman Nasional Pelayanan Kedokteran (PNPK) tatalaksana stroke 
+
+Deskripsi mata pelatihan Mata pelatihan ini membahas Pedoman Nasional Pelayanan Kedokteran (PNPK) Tatalaksana Stroke 
+
+Hasil belajar Setelah mengikuti mata pelatihan ini, peserta pelatihan mampu memahami Pedoman Nasional Pelayanan 
+Kedokteran (PNPK) Tatalaksana Stroke 
+
+Waktu 1 JPL, dengan rincian T: 1, P: 0, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok  Metode Referensi 
+
+Bantu 
+
+ Kemenkes. (2019). Buku 
+Setelah mengikuti mata pelatihan ini 
+
+1) Bahan Pedoman Nasional Praktik 
+peserta pelatihan dapat : 1) Tatalaksana stroke fase 
+
+ tayang/ slide Kedokteran Tatalaksana 
+1) Menjelaskan  tatalaksana hiperakut 
+
+1) Ceramah tanya 2) Modul Stroke. Kementerian 
+stroke fase hiperakut 2) Skema alur rujukan pengelolaan 
+
+jawab 3) Laptop Kesehatan Republik 
+2) Menjelaskan skema alur pasien stroke 
+
+4) Link zoom Indonesia. 
+rujukan pengelolaan pasien stroke 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 26 
+ 
+ 
+
+
+
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPD 3 
+
+Judul mata pelatihan Sistem layanan stroke 
+
+Mata pelatihan ini membahas tentang sistem layanan stroke yang meliputi pengampuan stroke nasional dan code 
+Deskripsi mata pelatihan 
+
+stroke 
+
+Hasil belajar Setelah mengikuti mata pelatihan ini, peserta pelatihan mampu memahami tentang sistem layanan stroke 
+
+Waktu 1 JPL, dengan rincian T: 1, P: 0, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok  Metode Referensi 
+
+Bantu 
+
+Setelah mengikuti mata pelatihan ini 
+Kemenkes. (2019). Buku 
+
+peserta pelatihan dapat : 
+1) Pengampuan stroke nasional  1) Bahan Pedoman Nasional Praktik 
+
+1) Menjelaskan tentang 
+                                                    tayang/slide Kedokteran Tatalaksana 
+
+pengampuan stroke nasional 
+2) Tatalaksana code stroke 1) Ceramah tanya 2) Modul  Stroke. Kementerian 
+
+2) Menjelaskan tentang 
+ jawab 3) Laptop Kesehatan Republik 
+
+tatalaksana Code Stroke 
+3) Tatalaksana trombolisis 4) Link zoom Indonesia. 
+
+3) Menjelaskan tentang 
+ 
+
+tatalaksana trombolisis 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 27 
+ 
+ 
+
+
+
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 1a (MEDIK) 
+
+Judul mata pelatihan Pengantar stroke hiperakut 
+
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang pengantar stroke hiperakut 
+
+Hasil belajar Setelah mengikuti mata pelatihan ini, peserta mampu memahami tentang pengantar stroke hiperakut 
+
+Waktu 1 JPL, dengan rincian T: 1, P: 0, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok dan Sub Materi Pokok Metode Referensi 
+
+Bantu 
+
+ Kemenkes. (2019). Buku 
+Setelah mengikuti mata pelatihan ini,  
+
+ 1) Bahan Pedoman Nasional Praktik 
+peserta dapat :  
+
+1) Ceramah tanya tayang/slid Kedokteran Tatalaksana 
+1) Menjelaskan tentang stroke 1) Stroke iskemik 
+
+jawab 2) Modul  Stroke. Kementerian 
+iskemik  
+
+ 3) Laptop Kesehatan Republik 
+2) Menjelaskan entang stroke 2) Stroke perdarahan 
+
+ 4) Link zoom Indonesia. 
+perdarahan  
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 28 
+ 
+ 
+
+
+
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 1b (MEDIK) 
+
+Judul mata pelatihan Pencitraan pada stroke 
+
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang pencitraan pada stroke 
+
+Hasil belajar Setelah mengikuti mata pelatihan ini, peserta mampu Menginterpretasikan hasil pencitraan pada stroke 
+
+Waktu 4 JPL, dengan rincian T: 1, P: 3, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+1) Bahan 
+tayang/slide 
+2) Modul 
+
+Setelah mengikuti mata pelatihan ini 
+3) Laptop 
+
+peserta pelatihan dapat :  Kemenkes. (2019). Buku 
+4) Link zoom 
+
+1) Menginterpretasikan hasil CT 1) CT Scan Kepala  Pada Kasus 1) Ceramah tanya Pedoman Nasional Praktik 
+5) Panduan 
+
+Scan Kepala  Pada Kasus Stroke Stroke jawab Kedokteran Tatalaksana 
+diskusi 
+
+2) Menginterpretasikan hasil MRI 2) MRI Kepala Pada Kasus Stroke 2) Latihan Stroke. Kementerian 
+6) Panduan 
+
+Kepala Pada Kasus Stroke 3) Angiografi dan perfusi 3) Simulasi Kesehatan Republik 
+latihan 
+
+3) Menginterpretasikan hasil gabungan Indonesia. 
+7) Alat bantu 
+
+Angiografi dan perfusi 
+utk Latihan 
+8) Panduan 
+simulasi  gabungan 
+
+ 
+ 
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 29 
+ 
+ 
+
+
+
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 1c (MEDIK) 
+
+Judul mata pelatihan Eligibility and decision making in IV thrombolysis 
+
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang eligibility and decision making in IV thrombolysis 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu Membuat Keputusan tindakan klinis pada kasus 
+Hasil Belajar 
+
+kandidat thrombolysis 
+
+Waktu 5 JPL, dengan rincian T: 1, P: 4, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+1) Bahan 
+ tayang/slide 
+
+Setelah mengikuti mata pelatihan ini, 
+ 2) Modul  
+
+peserta dapat : 
+  3) Laptop 
+
+1) Menjelaskan tentang kriteria 
+1) Kriteria Throbolysis  1) Ceramah tanya 4) Link zoom 
+
+trombolisis 
+ a. Kriteria inklusi dan eksklusi jawab 5) Panduan   
+
+ trombolisis 2) Diskusi kasus diskusi kasus  
+b. Kriteria penyulit trombolisis 3) Simulasi 6) Panduan 
+
+2) Membuat Keputusan 
+2) Tindakan klinis pada kasus gabungan simulasi 
+
+tindakan klinis pada kasus kandidat 
+thrombolysis gabungan 
+
+thrombolysis 
+ 7) Alat bantu utk 
+
+simulasi 
+
+ 
+ 
+ 
+ 
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 30 
+ 
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 1d (MEDIK) 
+
+Judul mata pelatihan Short cut door to needle time 
+
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang short cut door to needle time 
+
+Hasil belajar Setelah mengikuti mata pelatihan ini, peserta mampu mengelola short cur door to needle time 
+
+Waktu 4 JPL, dengan rincian T: 1, P: 3, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+1) Bahan 
+tayang/slide 
+
+Setelah mengikuti pelatihan ini peserta 2) Modul  
+dapat : 3) Laptop 
+
+1) Percepatan alur trombolisis,  
+1) Mengelola percepatan alur 4) Link zoom 
+
+2) Dosis, efek samping, komplikasi 1) Ceramah tanya 
+trombolisis,  5) Panduan 
+
+dan tatalaksana saat pemberian jawab 
+2) Mengelola dosis, efek samping, diskusi   
+
+trombolisis, 2) Diskusi kasus 
+komplikasi dan tatalaksana saat kasus 
+
+3) Hambatan dan solusi terkait alur 3) Simulasi 
+pemberian trombolisis, 6) Panduan 
+
+trombolisis. gabungan 
+3) Mengelola Hambatan dan simulasi 
+solusi terkait alur trombolisis. gabungan 
+
+7) Alat bantu 
+utk simulasi 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 31 
+ 
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 1e (MEDIK) 
+
+Judul mata pelatihan Pemberian Alteplase 
+
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang pemberian alteplase 
+
+Hasil belajar Setelah mengikuti mata pelatihan ini, peserta mampu melakukan pemberian alteplase  
+
+Waktu 4 JPL, dengan rincian T: 1, P: 3, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok dan Sub Materi Pokok Metode Referensi 
+
+Bantu 
+
+ 1) Bahan 
+ tayang/ 
+
+Setelah mengikuti mata pelatihan ini,  slide 
+ 
+
+peserta mampu: 1. Cara mempersiapkan 2) Modul  
+1) Ceramah tanya 
+
+1. Melakukan persiapan pemberian trombolisis 3) Laptop 
+jawab  
+
+trombolisis   4) Link zoom 
+ 
+
+2. melakukan pemberian trombolisis  5) Panduan 
+2) Simulasi 
+
+ 2. Cara pemberian trombolisis simulasi 
+ 6) Alat bantu 
+
+utk simulasi 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 32 
+ 
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 1f (MEDIK) 
+
+Judul mata pelatihan Monitoring paska trombolisis 
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang monitoring paska trombolisis 
+
+Setelah mengikuti mata pelatihan ini, peserta pelatihan mampu melakukan monitoring dan tata laksana paska 
+Hasil belajar 
+
+trombolisis 
+
+Waktu 3 JPL, dengan rincian T: 1, P: 2, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+1) Bahan 
+tayang/slide 
+
+2) Modul  
+Setelah mengikuti mata pelatihan ini 
+
+ 3) Laptop 
+peserta mampu:  
+
+1) Monitoring paska trombolisis 1) Ceramah tanya 4) Link zoom 
+1) Melakukan Monitoing pasca 
+
+2) Komplikasi dan tatalaksana jawab 5) Panduan  
+trombolisis 
+
+paska trombolisis 2) Diskusi diskusi 
+2) Melakukan tatalaksana 
+
+3) Simulasi 6) Panduan 
+komplikasi dan paska trombolisis 
+
+simulasi 
+7) Alat bantu 
+
+utk simulasi 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 33 
+ 
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 1g (MEDIK) 
+
+Judul mata pelatihan Large vessel occlusion and mechanical thrombectomy 
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang Large vessel occlusion and mechanical thrombectomy 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu menjelaskan Large vessel occlusion and mechanical 
+Hasil belajar 
+
+thrombectomy 
+
+Waktu 2 JPL, dengan rincian T: 1, P: 1, PL. 0  
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+Setelah mengikuti mata pelatihan ini 1) Bahan 
+peserta mampu:  tayang/slide 
+
+ 
+1) Menjelaskan diagnosis large vessel 1) diagnosis large vessel occlusion 2) Modul  
+
+1) Ceramah tanya 
+oclusion 2) Manajemen stroke iskemik akut akibat 3) Laptop  
+
+jawab 
+2) Menjelaskan manajemen stroke large vessel occlusion 4) Link zoom 
+
+2) Diskusi  
+iskemik akut akibat large vessel 5) Panduan 
+oclusion diskusi 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 34 
+ 
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 2a (KEPERAWATAN) 
+
+Judul mata pelatihan Stroke iskemik hiperakut 
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang stroke iskemik hiperakut 
+
+Hasil belajar Setelah mengikuti mata pelatihan ini, peserta mampu menjelaskan tentang stroke iskemik hiperakut 
+
+Waktu 1 JPL, dengan rincian T: 1, P: 0, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+Setelah mengikuti mata pelatihan ini 
+peserta dapat:  
+1) Menjelaskan pengertian stroke 
+
+1) Pengertian stroke iskemik 
+iskemik 1) Bahan 
+
+2) Etiologi stroke iskemik  
+2) Menjelaskan etiologi stroke iskemik tayang/slide 
+
+3) Faktor resiko stroke iskemik 1) Ceramah tanya 
+3) Menjelaskan faktor resiko stroke 2) Modul   
+
+4) Patofisiologi stroke iskemik jawab 
+iskemik 3) Laptop 
+
+5) Data penunjang stroke iskemik  
+4) Menjelaskan patofisiologi stroke 4) Link zoom 
+
+6) Komplikasi stroke iskemik 
+iskemik 
+5) Menjelaskan data penunjang stroke 
+iskemik 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 35 
+ 
+ 
+
+
+
+ 
+
+6) Menjelaskan komplikasi stroke 
+iskemik 
+
+ 
+ 
+ 
+ 
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 2b (KEPERAWATAN) 
+
+Judul mata pelatihan Emergency nursing management on ischemic stroke 
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang Emergency nursing management on ischemic stroke 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu menjelaskan tentang Emergency nursing management on 
+Hasil belajar 
+
+ischemic stroke 
+
+Waktu 1 JPL, dengan rincian T: 1, P: 0, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+ 1) Bahan George, P., Wisco, D. R., 
+Setelah mengikuti mata pelatihan ini 1) Tatalaksana pasien stroke hiperakut 
+
+1) Ceramah tanya tayang/slide Gebel, J., Uchino, K., & 
+peserta dapat:  pre hospital 
+
+jawab 2) Modul  Newey, C. R. (2017). 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 36 
+ 
+ 
+
+
+
+ 
+
+1) Menjelaskan tatalaksana pasien 2) Asuhan keperawatan pasien stroke 3) Laptop Nurses Are as Specific and 
+stroke hiperakut pre hospital hiperakut dan akut di ruang gawat 4) Link zoom Are Earlier in Calling In-
+2) Menjelaskan asuhan keperawatan darurat (pengkajian sampai evaluasi) Hospital Stroke Alerts 
+pasien stroke hiperakut dan akut di Compared to Physicians. 
+ruang gawat darurat (pengkajian Journal of Stroke and 
+sampai evaluasi) Cerebrovascular Diseases, 
+
+26(5), 917–921. 
+https://doi.org/10.1016/j.jst
+rokecerebrovasdis.2016.1
+0.003 
+Misbach, J. (2011). Stroke, 
+Aspek Diagnosis, 
+Patofisiologi, Manajemen. 
+Badan Penerbit FKUI. 
+Kemenkes. (2019). Buku 
+Pedoman Nasional Praktik 
+Kedokteran Tatalaksana 
+Stroke. Kementerian 
+Kesehatan Republik 
+Indonesia. 
+ 
+
+ 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 37 
+ 
+ 
+
+
+
+ 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 2c (KEPERAWATAN) 
+
+Judul mata pelatihan Pengkajian neurologi dasar 
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang pengkajian neurologi dasar 
+
+Hasil belajar Setelah mengikuti mata pelatihan ini, peserta mampu melakukan pengkajian neurologi dasar 
+
+Waktu 4 JPL, dengan rincian T: 1, P: 3, PL: 0 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 38 
+ 
+ 
+
+
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+1.    Bashir, Muhammad 
+Abid. (2016). Primary 
+Survey. 
+https://www.researchgate.n
+et/publication/290449268 
+
+2.    Farrington, Grace. 
+(2022). Seizure Acute 
+Manajement ABCDE. 
+Emergency medicine 
+
+Setelah mengikuti mata pelatihan ini 1) Bahan 
+ 3.    Hickey, J.V. (2014). The 
+
+peserta dapat:  tayang/slide 
+1) Pengkajian Airway Breathing 1) Ceramah tanya clinical practice of 
+
+1) Melakukan pengkajian Airway 2) Modul  
+Circulation (ABC) Glukosa dan Seizure jawab neurological and 
+
+Breathing Circulation (ABC) Glukosa 3) Laptop 
+2) Pengkajian status mental 2) Latihan neurosurgical nursing. 
+
+dan Seizure 4) Link zoom 
+3) Pengkajian saraf kranial 3) Simulasi Philadelphia: J.B. Lippincott 
+
+2) Melakukan pengkajian status mental 5) Panduan 
+4) Pengkajian motorik gabungan Company 
+
+3) Melakukan pengkajian saraf kranial Latihan 
+5) Pengkajian sensorik  4.    Lumbantobing. (2016). 
+
+4) Melakukan pengkajian motorik 6) Panduan 
+ Neurologi Klinik 
+
+5) Melakukan pengkajian sensorik simulasi gabungan 
+Pemeriksaan Fiisk dan 
+Mental. Fakultas 
+Kedokteran Universitas 
+Indonesia 
+
+5.    Okumura, Kiniko. 2015.. 
+Glasgow Coma Scale flow 
+chart: a beginner’s guide. 
+British Journal of 
+Nursing.Downloaded from 
+magonlinelibrary.com by 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 39 
+ 
+ 
+
+
+
+ 
+
+130.113.076.006 on 
+January 14, 2015. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 2d (KEPERAWATAN) 
+
+Judul mata pelatihan Pemeriksaan National Institute Health Stroke Scale (NIHSS) 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 40 
+ 
+ 
+
+
+
+ 
+
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang pemeriksaan National Institute Health Stroke Scale (NIHSS) 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu melakukan pemeriksaan National Institute Health Stroke 
+Hasil belajar 
+
+Scale (NIHSS) 
+
+Waktu 4 JPL, dengan rincian T: 1, P: 3, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+Setelah mengikuti mata pelatihan ini 
+peserta dapat:  1.    Kemenkes. (2014). 
+1) Melakukan pemeriksaan tingkat Pedoman pengendalian 
+kesadaran stroke. Jakarta. 
+2) Melakukan pemeriksaan mata 1) Pemeriksaan tingkat kesadaran Kementrian Republik 
+konyugat horizontal 2) Pemeriksaan mata konyugat Indonesia          direktorat 
+
+1) Bahan 
+3) Melakukan pemeriksaan visual horizontal pengendalian penyakit 
+
+tayang/slide 
+lapang pandang 3) Pemeriksaan visual lapang pandang tidak menular. 
+
+1) Curah pendapat 2) Modul  
+4) Melakukan pemeriksaan paresis 4) Pemeriksaan paresis wajah 
+
+2) Ceramah tanya 3) Laptop 
+wajah 5) Pemeriksaan motorik lengan 2.    Hartigan I, EO connel, 
+
+jawab 4) Link zoom 
+5) Melakukan pemeriksaan motorik 6) Pemeriksaan motorik tungkai SO brien, E weathers. 
+
+3) latihan 5) Panduan 
+lengan 7) Pemeriksaan ataksia (2014). The irish national 
+
+4) Simulasi Latihan 
+6) Melakukan pemeriksaan motorik 8) Pemeriksaan sensorik stroke awareness         
+
+6) Panduan 
+tungkai 9) Pemeriksaan kemampuan bahasa  campaign: a stroke 
+
+simulasi 
+7) Melakukan pemeriksaan ataksia 10) Pemeriksaan disatria of success. Apilied nursing 
+
+8) Melakukan pemeriksaan sensorik 11) Pemeriksaan neglect research. 10 (16). 
+
+9) Melakukan pemeriksaan 
+kemampuan bahasa 3.    Harding and 
+
+10) Melakukan pemeriksaan disatria Bridgewater. (2010). 
+
+11) Melakukan pemeriksaan neglect Stroke scale you can use. 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 41 
+ 
+ 
+
+
+
+ 
+
+Journal emergency 
+nursing. 36 (1) 
+
+Chugh C. Acute Ischemic 
+Stroke: Management 
+Approach. Indian J Crit 
+Care Med. 2019         
+ Jun;23(Suppl 
+2):S140-S146. doi: 
+10.5005/jp-journals-10071-
+23192. PMID: 31485123;         
+ PMCID: 
+PMC6707502 
+
+4.    NIH Stroke Scale 
+International. (2007). NIH 
+Stroke Scale (NIHSS). 
+(Online). 
+(http://www.nihstrokescale.
+org, diakses tanggal 25 
+November 2022). 
+
+5.    National Institute of 
+Neurological disorder and 
+Stroke (NINDS), N.I. 2001. 
+(Online). 
+(http://www.ninds.nih.gov, 
+diakses tanggal 25 
+November 2022). 
+
+  
+  
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 42 
+ 
+ 
+
+
+
+ 
+
+ 
+Nama pelatihan 
+
+Nomor MPI 2e (KEPERAWATAN) 
+
+Judul mata pelatihan Pemberian trombolisis 
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang pemberian trombolisis 
+
+Hasil belajar Setelah mengikuti mata pelatihan ini, peserta mampu melakukan pemberian trombolisis 
+
+Waktu 10 JPL, dengan rincian T: 2, P: 8, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+Setelah mengikuti mata pelatihan ini 
+peserta dapat:  1) Bahan 
+1) Melakukan identifikasi indikasi tayang/slide 
+
+1) Indikasi pemberian trombolisis  
+pemberian trombolisis 2) Modul  
+
+2) Kontraindikasi pemberian trombolisis 1) Ceramah tanya 
+2) Melakukan identifikasi kontraindikasi 3) Laptop 
+
+3) Edukasi dan inform consent tindakan jawab 
+pemberian trombolisis 4) Link zoom  
+
+trombolisis 2) Praktik 
+3) Melakukan persiapan edukasi dan 5) Panduan 
+
+4) Persiapan alat pemberian trombolisis 3) Simulasi 
+inform consent tindakan trombolisis praktik 
+
+5) Pemberian trombolisis gabungan 
+4) Melakukan persiapan alat pemberian 6) Panduan 
+trombolisis simulasi 
+5) Melakukan pemberian trombolisis 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 43 
+ 
+ 
+
+
+
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 2f (KEPERAWATAN) 
+
+Judul mata pelatihan Tatalaksana keperawatan pasca pemberian trombolisis  
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang tatalaksana keperawatan pasca pemberian trombolisis 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu melakukan tatalaksana keperawatan pasca pemberian 
+Hasil belajar 
+
+trombolisis 
+
+Waktu 3 JPL, dengan rincian T: 1, P: 2, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+1.    Hamilton H, Dale S, 
+McElduff B, Craig L.E, 
+Fasugba O, McInnes E, 
+Alexandrov A.W, Cadilhac, 
+
+Setelah mengikuti mata pelatihan ini 
+E.A, Lightbody E, Watkins 
+
+peserta dapat:  
+D.C, Middleton S. 2021. 
+
+1) Melakukan monitoring pasca 1)  Monitoring pasca trombolisis 1) Bahan 
+ The role of stroke nurses in 
+
+trombolisis 2) Dokumentasi observasi status tayang/slide 
+1) Ceramah tanya thrombolysis administration 
+
+2) Melakukan pengisian dokumentasi neurologis pasca trombolisis 2) Modul  
+jawab in Australia and the United 
+
+observasi status neurologis pacsa 3) Monitoring komplikasi pasca 3) Laptop 
+ Kingdom: A cross-sectional 
+
+trombolisis trombolisis 4) Link zoom 
+2) Simulasi survey of current practice. 
+
+3) Melakukan monitoring komplikasi 4) Tatalaksana keperawatan pada 5) Panduan 
+gabungan Journal of Clinical 
+
+pasca trombolisis komplikasi pasca trombolisis simulasi 
+Nursing.DOI: 
+
+4) Melakukan tatalaksana keperawatan 
+10.1111/jocn.15892. 
+
+pada komplikasi pasca trombolisis 
+2.    Hacke, Werner, et 
+al.Thrombolysis with 
+Alteplase 3 to 4.5 Hours 
+After Acute Ischemic 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 44 
+ 
+ 
+
+
+
+ 
+
+Stroke. N Engl J Med 
+359.13 (2008): 1317-1329. 
+National Institute of 
+Neurological Disorders and 
+Stroke r-tPA Stroke Study 
+Group. 
+
+3.       Hickey, J, V. (2014). 
+The Clinical Practice of 
+Neurological and 
+Neurosurgical Nursing. 
+(Seventh Edition). 
+Philadhelphia : Lippincott 
+Williams & Wilkins. 
+
+4.    Kementerian 
+Kesehatan RI. 2019. 
+Keputusan Menteri 
+Kesehatan RI : Pedoman 
+Nasional Pelayanan 
+Kedokteran Tatalaksana 
+Pasien Stroke. Jakarta : 
+Kemenkes. 
+Widjaya, I. & Yuwono. 
+(2010). Terapi Trombolisis 
+: Harapan Baru Pada 
+Penatalaksanaan Stroke 
+Iskemik Akut. EBERS 
+PAPYRUS- Vol 16 No.3 
+Desember 2010. Diakses 
+30 November 2017. 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 45 
+ 
+ 
+
+
+
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 3a (RADIOLOGI) 
+
+Judul mata pelatihan CT scan pada kasus stroke  
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang CT scan pada kasus stroke 
+
+Hasil belajar Setelah mengikuti mata pelatihan ini, peserta mampu melakukan CT scan pada kasus stroke 
+
+Waktu 6 JPL, dengan rincian T: 2, P: 4, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+Setelah mengikuti mata pelatihan ini 
+peserta dapat:  
+1) Melakukan protokol pemeriksaan CT 1) Bahan 
+
+1)  Protokol pemeriksaan CT scan 1) Curah pendapat 
+scan tayang/slide 
+
+2) Temuan CT scan pada kasus stroke 2) Ceramah tanya 
+2) Mengidentifikasi  temuan CT Scan 2) Modul   
+
+3) ASPECT Score jawab 
+pada kasus stroke 3) Laptop 
+
+4) Pitfall CT scan pada kasus stroke 3) simulasi 
+3) Melakukan ASPECT Score 4) Link zoom 
+4) Melakukan pitfall CT Scan pada 
+kasus stroke 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 46 
+ 
+ 
+
+
+
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 3b (RADIOLOGI) 
+
+Judul mata pelatihan MRI pada kasus stroke  
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang MRI pada kasus stroke 
+
+Hasil belajar Setelah mengikuti mata pelatihan ini, peserta mampu melakukan MRI pada kasus stroke 
+
+Waktu 6 JPL, dengan rincian T: 2, P: 4, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+Setelah mengikuti mata pelatihan ini 
+1) Bahan 
+
+peserta dapat:  
+tayang/slide 
+
+1) Melakukan protokol pemeriksaan  
+1)  Protokol pemeriksaan MRI 2) Modul  
+
+MRI 1) Ceramah tanya 
+2) Temuan MRI pada kasus stroke 3) Laptop  
+
+2) Mengidentifikasi  temuan MRI pada jawab 
+3) Pitfall MRI pada kasus stroke 4) Link zoom 
+
+kasus stroke 2) simulasi 
+5) Panduan 
+
+3) Melakukan pitfall MRI pada kasus 
+simulasi 
+
+stroke 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 47 
+ 
+ 
+
+
+
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 3c (RADIOLOGI) 
+
+Judul mata pelatihan Media kontras 
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang media kontras 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu melakukan penggunaan media kontras pada pemeriksaan 
+Hasil belajar 
+
+CT Scan dan MRI 
+
+Waktu 5 JPL, dengan rincian T: 1, P: 4, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+ 
+Setelah mengikuti mata pelatihan ini  
+peserta dapat:   1) Bahan 
+
+ 
+1) Menjelaskan penggunaan media 1. Media Kontras tayang/slide 
+
+1) Ceramah tanya 
+kontras a. Penggunaan media kontras 2) Modul  
+
+jawab 
+ iodium 3) Laptop  
+
+2) Praktik 
+ b. Penggunaan media kontras 4) Link zoom 
+
+3) Simulasi 
+2) Melakukan penggunaan media Gadolinium Panduan praktik 
+
+gabungan 
+kontras pada pemeriksaan CT scan 2. Tata cara penggunaan media Panduan simulasi 
+dan MRI kontras pada pemeriksaan CT scan 
+
+dan MRI 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 48 
+ 
+ 
+
+
+
+ 
+
+ 
+
+  
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 3d (RADIOLOGI) 
+
+Judul mata pelatihan CTA-CTP 
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang CTA - CTP 
+
+Hasil belajar Setelah mengikuti mata pelatihan ini, peserta mampu melakukan intepretasi hasil pemeriksaan CTA CTP 
+
+Waktu 6 JPL, dengan rincian T: 2, P: 4, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+Setelah mengikuti mata pelatihan ini 
+1) Bahan 
+
+peserta dapat:  
+tayang/slide 
+
+1) melakukan intepretasi hasil 1) Temuan CTA-CTP pada kasus stroke  
+2) Modul  
+
+pemeriksaan CTA CTP pada kasus  2) Ceramah tanya jawab 
+3) Laptop  
+
+stroke  3) Latihan 
+4) Link zoom 
+
+2) melakukan intepretasi hasil 2) Pitfall CTA-CTP pada kasus stroke 4) simulasi gabungan 
+Panduan Latihan 
+
+pemeriksaan pitfall CTA CTP pada 
+Panduan simulasi 
+
+kasus stroke 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 49 
+ 
+ 
+
+
+
+ 
+
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 4a (RADIOGRAFER) 
+
+Judul mata pelatihan Prosedur CT scan kepala pada kasus stroke 
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang prosedur CT scan kepala pada kasus stroke 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu melakukan CT Scan kepala pada kasus stroke sesuai 
+Hasil belajar 
+
+prosedur 
+
+Waktu 6 JPL, dengan rincian T: 2, P: 4, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+Setelah mengikuti mata pelatihan ini 
+peserta dapat:  1) Bahan 
+
+1) Prosedur pengambilan gambar  CT 
+1) Melakukan pengambilan gambar   tayang/slide 
+
+Scan  
+CT Scan 2) Modul  
+
+2) Pemilihan Protokol pemeriksaan CT 2) Ceramah tanya jawab  
+2) Melakukan Pemilihan Protokol 3) Laptop 
+
+Scan 3) simulasi 
+pemeriksaan CT Scan 4) Link zoom 
+
+3) Post Processing gambaran  CT Scan 
+3) Melakukan Post Processing simulasi 
+gambaran  CT Scan 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 50 
+ 
+ 
+
+
+
+ 
+
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 4b (RADIOGRAFER) 
+
+Judul mata pelatihan Prosedur MRI Kepala pada kasus stroke 
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang prosedur MRI Kepala pada kasus stroke 
+
+Setelah mengikuti mata pelatihan ini, peserta mampu melakukan pemeriksaan MRI Kepala pada kasus stroke 
+Hasil belajar 
+
+sesuai prosedur 
+
+Waktu 6 JPL, dengan rincian T: 2, P: 4, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+Setelah mengikuti mata pelatihan ini 
+peserta dapat:  1) Bahan 
+
+1) MRI safety 
+1) Menjelaskan MRI safety tayang/slide 
+
+2) Prosedur pemeriksaan MRI  kepala  
+2) Melakukan pemeriksaan MRI kepala 2) Modul  
+
+3) Pemilihan sequence MRI Kepala 2) Ceramah tanya jawab  
+3) Melakukan pemilihan sequence MRI 3) Laptop 
+
+4) Post processing gambaran MRI 3) simulasi 
+Kepala 4) Link zoom 
+
+kepala 
+4) Melakukan post Processing Panduan simulasi 
+gambaran MRI kepala 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 51 
+ 
+ 
+
+
+
+ 
+
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 4c (RADIOGRAFER) 
+
+Judul mata pelatihan Prosedur Pemberian Media kontras 
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang prosedur pemberian media kontras 
+
+Hasil belajar Setelah mengikuti mata pelatihan ini, peserta mampu melakukan prosedur pemberian media kontras 
+
+Waktu 5 JPL, dengan rincian T: 1, P: 4, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+1) Bahan 
+Setelah mengikuti mata pelatihan ini 
+
+tayang/slide 
+peserta dapat:  1) Tatacara Penggunaan media kontras 
+
+ 2) Modul  
+1) Melakukan pemberian media kontras iodium 
+
+2) Ceramah tanya jawab 3) Laptop  
+iodium 2) tatacara Penggunaan media kontras 
+
+3) simulasi 4) Link zoom 
+2) Memberikan media kontras Gadolinium 
+
+Panduan simulasi 
+gadolinium 
+
+Alat bahan simulasi 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 52 
+ 
+ 
+
+
+
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPI 4d (RADIOGRAFER) 
+
+Judul mata pelatihan Prosedur CTA-CTP 
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang Prosedur CTA-CTP 
+
+Hasil belajar Setelah mengikuti mata pelatihan ini, peserta mampu melakukan CTA CTP sesuai prosedur 
+
+Waktu 6 JPL, dengan rincian T: 2, P: 4, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+Setelah mengikuti mata pelatihan ini 
+1) Bahan 
+
+peserta dapat:  
+1) Prosedur pengambilan gambar CTA tayang/slide 
+
+1) Melakukan pengambilan gambar  
+CTP 2) Modul  
+
+CTA CTP 2) Ceramah tanya jawab 
+2) Pemilihan Protokol CTA-CTP 3) Laptop  
+
+2) Melakukan Pemilihan Protokol CTA- 3) praktik 
+3) Post Processing gambaran CTA-CTP 4) Link zoom 
+
+CTP 4) simulasi 
+kepala Panduan praktik 
+
+3) Melakukan post Processing 
+Panduan simulasi 
+
+gambaran CTA-CTP kepala 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 53 
+ 
+ 
+
+
+
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPP 1 
+
+Building Learning Commitment 
+Judul mata pelatihan 
+
+Mata pelatihan ini membahas tentang perkenalan, pencairan suasana kelas, harapan peserta, pemilihan pengurus 
+Deskripsi mata pelatihan 
+
+kelas, serta komitmen kelas 
+
+Hasil belajar Setelah mengikuti mata pelatihan ini, peserta pelatihanan mampu membangun komitmen belajar 
+
+Waktu 2 JPL, dengan rincian T: 0, P: 2, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+Setelah mengikuti mata pelatihan ini 
+peserta dapat:  1)  Perkenalan 1) Bahan 
+
+1) Curah pendapat 
+1) Melakukan perkenalan 2) Pencairan suasana kelas tayang/slide 
+
+2) Ceramah tanya Buku Pedoman Pelatihan. 
+2) Melakukan pencairan suasana kelas 3) Harapan peserta 2) Modul  
+
+jawab PPSDM 
+3) Menjelaskan harapan 4) Pemilihan pengurus kelas 3) Laptop 
+
+3) Diskusi 
+4) Memilih pengurus kelas dan 5) Komitment Kelas 4) Link zoom 
+5) Menetapkan komitment kelas 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 54 
+ 
+ 
+
+
+
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPP 2 
+
+Anti Korupsi 
+Judul mata pelatihan Mata pelatihan ini membahas tentang konsep korupsi, tindak pidana korupsi, budaya anti korupsi, upaya 
+Deskripsi mata pelatihan pencegahan dan pemberantasan korupsi, serta tata cara pelaporan dugaan pelanggaran Tindak Pidana Korupsi 
+
+(TPK) 
+
+Hasil belajar Setelah mengikuti mata pelatihan ini, peserta pelatihan mampu menjelaskan Anti Korupsi 
+
+Waktu 1 JPL, dengan rincian T: 1, P: 0, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+Setelah mengikuti mata pelatihan ini 
+peserta dapat:  1) Konsep Korupsi 
+1) Menjelaskan konsep korupsi 2) Tindak Pidana Korupsi 
+
+1) Bahan 
+2) Menjelaskan Tindak Pidana Korupsi 3) Budaya Anti Korupsi 1) Curah pendapat 
+
+tayang/slide 
+3) Menjelaskan budaya anti korupsi 4) Upaya Pencegahan dan 2) Ceramah tanya 
+
+2) Modul   
+4) Menjelaskan upaya pencegahan dan Pemberantasan Korupsi  jawab 
+
+3) Laptop 
+pemberantasan korupsi 5) Tatacara Pelaporan Dugaan 3) Diskusi 
+
+4) Link zoom 
+5) Menjelaskan tatacara pelaporan Pelanggaran Tindakan Pidana Korupsi 
+dugaan pelanggaran Tindakan Pidana (TPK) 
+Korupsi (TPK) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 55 
+ 
+ 
+
+
+
+ 
+
+Nama pelatihan Pelatihan Code Stroke 
+
+Nomor MPP 3 
+
+Judul mata pelatihan Rencana Tindak Lanjut 
+Deskripsi mata pelatihan Mata pelatihan ini membahas tentang rencana tindak lanjut (RTL) 
+
+Hasil belajar Setelah mengikuti mata pelatihan ini, peserta pelatihan mampu membuat rencana tindak lanjut 
+
+Waktu 1 JPL, dengan rincian T: 1, P: 0, PL: 0 
+
+ 
+
+Media dan Alat 
+Indikator Hasil Belajar Materi Pokok Metode Referensi 
+
+Bantu 
+
+Setelah mengikuti mata pelatihan ini 
+peserta dapat:  
+
+1) Bahan 
+1) Menjelaskan pengertian dan ruang 1) Pengertian dan ruang lingkup RTL 1) Curah pendapat 
+
+tayang/slide 
+lingkup RTL 2) Unsur unsur RTL 2) Ceramah tanya  Buku Pedoman Pelatihan. 
+
+2) Modul  
+2) Menjelaskan unsur unsur RTL 3) Langkah langkah penyusunan RTL jawab PPSDM 
+
+3) Laptop 
+3) Menjelaskan langkah langkah 4) Membuat RTL 3) Diskusi 
+
+4) Link zoom 
+penyusunan RTL 
+4) Membuat RTL 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 56 
+ 
+ 
+
+
+
+ 
+
+1. Master Jadwal 
+
+Master jadwal pelatihan Code Stroke adalah sebagai berikut: 
+
+JADWAL KEGIATAN 
+
+PELATIHAN CODE STROKE 
+
+ 
+
+JPL 
+
+HARI WAKTU MATERI/POKOK BAHASAN FASILITATOR PJ 
+
+T P 
+
+08.00 - 08.30 Registrasi Online       Panitia 
+
+08.30 - 08.45 Pre-test    Panitia 
+
+08.45 - 09.00 Pembukaan     DIRUT RSPON Panitia 
+
+09.00 - 10.30 Building Learning Commitment  2 MOT  
+
+10.30 - 10.45 Coffee break       Panitia 
+Hari 1 
+
+(Online) 
+10.45 - 11.30 Aspek etikolegal trombolisis 1    Fasilitator   
+
+Fasilitator 
+11.30 - 12.15 Anti Korupsi 1     
+
+  
+
+12.15 - 13.15 ISHOMA       Panitia 
+
+ Fasilitator 
+13.15 - 14.00 Sosialisasi PNPK Tatalaksana Stroke 1     
+
+ 
+
+14.00 – 14.45 Sistem layanan stroke 1   Fasilitator  
+
+08.00 - 08.30 Refleksi     MOT  
+
+Dokter : Pengantar stroke hiperakut 1  Fasilitator  
+
+Perawat: Stroke iskemik hiperakut 1  Fasilitator  
+
+08.30 - 09.15 
+
+Hari 2 Radiologi: CT scan pada kasus stroke 2  Fasilitator  
+
+(Online, 
+break out Radiografer : Prosedur CT Scan 
+
+2  Fasilitator  
+room) Kepala  Pada Kasus Stroke 
+
+Dokter : Pencitraan pada stroke 1   Fasilitator  
+
+Perawat : Emergency nursing 
+09.15 - 10.00 1  Fasilitator  
+
+management on ischemic stroke 
+
+Radiologi : MRI kepala pada kasus 
+2  Fasilitator  
+
+stroke 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 57 
+ 
+ 
+
+
+
+ 
+
+Radiografer : Prosedur MRI kepala 
+2  Fasilitator  
+
+pada kasus stroke  
+
+10.00 - 10.15 Coffee break       Panitia 
+
+Dokter :  Eligibility and decision 
+1   Fasilitator  
+
+making in IV thrombolysis 
+
+Perawat: Pengkajian neurologi dasar 1 3 Fasilitator  
+
+10.15 - 11.00 
+
+Radiologi : Media kontras 1  Fasilitator  
+
+Radiografer : Prosedur Pemberian 
+1  Fasilitator  
+
+Media Kontras 
+
+Dokter : Short cut door to needle time 1   Fasilitator  
+
+Perawat : Pemeriksaan National 
+1 3 Fasilitator  
+
+Institute Health Stroke Scale (NIHSS) 
+11.00 - 11.45 
+
+Radiologi : CTA-CTP pada kasus 
+2  Fasilitator  
+
+stroke  
+
+Radiografer : Prosedur CTA-CTP 2  Fasilitator  
+
+11.45 - 12.45 ISHOMA       Panitia 
+
+Dokter : Pemberian Alteplase 1   Fasilitator  
+
+Perawat : Pemberian trombolisis 2  Fasilitator  
+
+12.45 - 13.30 
+Radiologi : CT scan pada kasus stroke  4 Fasilitator  
+
+Radiografer : Prosedur CT Scan 
+ 4 Fasilitator  
+
+Kepala  Pada Kasus Stroke 
+
+Dokter : Monitoring paska trombolisis 1   Fasilitator  
+
+Perawat : Tatalaksana keperawatan 
+1  Fasilitator  
+
+pasca pemberian trombolisis 
+13.30 - 14.15 
+
+Radiologi : MRI kepala pada kasus 
+ 4 Fasilitator  
+
+stroke 
+
+Radiografer : Prosedur MRI Kepala 
+ 4 Fasilitator  
+
+Pada Kasus Stroke 
+
+Dokter : Large vessel occlusion and 
+1   Fasilitator  
+
+mechanical thrombectomy 
+
+Perawat : Tatalaksana keperawatan 
+ 2 Fasilitator  
+
+pasca pemberian trombolisis 
+14.15 - 15.00 
+
+Radiologi : Media kontras  4 Fasilitator  
+
+Radiografer : Prosedur Pemberian 
+ 4 Fasilitator  
+
+Media Kontras 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 58 
+ 
+ 
+
+
+
+ 
+
+15.00 - 15.15 Coffee break       Panitia 
+
+Dokter :  Large vessel occlusion and 
+mechanical thrombectomy 
+Perawat : Pemberian trombolisis 
+
+15.15 - 16.00 1   Fasilitator  
+Radiologi : CTA-CTP pada kasus 
+stroke 
+Radiografer : Prosedur CTA-CTP 
+
+08.00 - 08.30 Refleksi   MOT  
+
+08.30 - 09.15 Pengantar praktik simulasi code stroke  1 Fasilitator  
+
+Penugasan praktik simulasi code 
+09.15 - 10.00  1 Fasilitator  
+
+stroke 
+
+10.00 - 10.15 Coffee break     Fasilitator Panitia 
+
+Penugasan praktik simulasi code 
+10.15 - 11.00  1 Fasilitator  
+
+stroke 
+
+Penugasan praktik simulasi code 
+11.00 - 11.45  1 Fasilitator  
+
+Hari ke 3 stroke 
+(online, break 
+out room) 11.45 - 12.45 ISHOMA       Panitia 
+
+Penugasan praktik simulasi code 
+12.45 - 13.30  1 Fasilitator  
+
+stroke 
+
+Penugasan praktik simulasi code 
+13.30 - 14.15  1 Fasilitator  
+
+stroke 
+
+Penugasan praktik simulasi code 
+14.15 - 15.00  1 Fasilitator  
+
+stroke 
+
+15.00 - 15.15 Coffee break       Panitia 
+
+Penugasan praktik simulasi code 
+15.15 - 16.00  1 Fasilitator  
+
+stroke 
+
+08.00 - 08.30 Refleksi   MOT  
+
+08.30 - 09.15 Praktik simulasi code stroke  1 Fasilitator  
+
+09.15 - 10.00 Praktik simulasi code stroke  1 Fasilitator  
+
+10.00 - 10.15 Coffee break       Panitia 
+Hari 4 
+
+(Online) 
+10.15 - 11.00 Praktik simulasi code stroke  1 Fasilitator  
+
+11.00 - 11.45 Praktik simulasi code stroke  1 Fasilitator  
+
+11.45 - 12.45 ISHOMA       Panitia 
+
+12.45 - 13.30 Praktik simulasi code stroke  1 Fasilitator  
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 59 
+ 
+ 
+
+
+
+ 
+
+13.30 - 14.15 Praktik simulasi code stroke  1 Fasilitator  
+
+14.15 - 14.30 Coffee break       Panitia 
+
+14.30 - 15.15 Rencana Tindak Lanjut  1 MOT  
+
+ 
+
+LAMPIRAN 2  PANDUAN PENUGASAN 
+
+Panduan Praktik Pengkajian Neurologi 
+
+1) Tujuan 
+
+Setelah praktik ini peserta diharapkan mampu melakukan pengkajian neurologi dasar (GCS, pupil 
+
+dan kekuatan otot) 
+
+2) Bahan dan alat: Media video pemeriksaan neurologis dasar (GCS, pupil dan kekuatan otot) 
+
+3) Tahapan praktik 
+
+a. Peserta dibagi kedalam 5 kelompok, masing masing kelompok terdiri dari 5 peserta 
+
+b. Fasilitator menetapkan urutan praktik 
+
+c. Fasilitator mendemonstrasikan cara pengkajian neurologi melalui media video 
+
+d. Fasilitator memfasilitasi tanya jawab mengenai pengkajian neurologis yang di demonstrasikan 
+
+e. Setiap peserta melakukan praktik pengkajian neurologi 
+
+f. Fasilitator melakukan umpan balik 
+
+g. Peserta Latihan mandiri 
+
+4) Waktu praktik 
+
+Pengkajian neurologi : 3 x 45 menit 
+
+ 
+
+Panduan Praktik Pemeriksaan NIHSS 
+
+1) Tujuan 
+
+Setelah praktik ini peserta diharapkan mampu melakukan pemeriksaan NIHSS 
+
+2) Bahan dan alat: Media video pemeriksaan NIHSS 
+
+3) Tahapan praktik 
+
+a. Peserta dibagi kedalam 5 kelompok, masing masing kelompok terdiri dari 5 peserta 
+
+b. Fasilitator menetapkan urutan praktik 
+
+c. Fasilitator mendemonstrasikan cara pengkajian pemeriksaan NIHSS melalui media video 
+
+d. Fasilitator memfasilitasi tanya jawab mengenai pemeriksaan NIHSS yang di demonstrasikan 
+
+e. Setiap peserta melakukan praktik pengkajian neurologi 
+
+f. Fasilitator melakukan umpan balik 
+
+g. Peserta Latihan mandiri 
+
+4) Waktu praktik 
+
+Pemeriksaan NIHSS : 3 x 45 menit 
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 60 
+ 
+ 
+
+
+
+ 
+
+Panduan Praktik CT Scan Pada Kasus Stroke 
+
+1) Tujuan 
+
+Setelah praktik ini peserta diharapkan mampu melakukan CT Scan pada kasus stroke 
+
+2) Bahan dan alat: Media video CT Scan pada kasus stroke 
+
+3) Tahapan praktik 
+
+a. Peserta dibagi kedalam 5 kelompok, masing masing kelompok terdiri dari 5 peserta 
+
+b. Fasilitator menetapkan urutan praktik 
+
+c. Fasilitator mendemonstrasikan cara CT scan pada kasus stroke melalui media video 
+
+d. Fasilitator memfasilitasi tanya jawab mengenai Ct scan pada kasus stroke yang di 
+
+demonstrasikan 
+
+e. Setiap peserta menyebutkan  tahapan Ct scan pada kasus stroke 
+
+f. Fasilitator melakukan umpan balik 
+
+g. Peserta Latihan mandiri 
+
+4) Waktu praktik 
+
+Ct scan pada kasus stroke: 4 x 45 menit 
+
+ 
+
+Panduan Praktik Prosedur CT Scan Kepala  Pada Kasus Stroke 
+
+1) Tujuan 
+
+Setelah praktik ini peserta diharapkan mampu melakukan Prosedur CT Scan Kepala  Pada Kasus 
+
+Stroke 
+
+2) Bahan dan alat: Media video Prosedur CT Scan Kepala  Pada Kasus Stroke 
+
+3) Tahapan praktik 
+
+a. Peserta dibagi kedalam 5 kelompok, masing masing kelompok terdiri dari 5 peserta 
+
+b. Fasilitator menetapkan urutan praktik 
+
+c. Fasilitator mendemonstrasikan cara Prosedur CT Scan Kepala  Pada Kasus Stroke melalui 
+
+media video 
+
+d. Fasilitator memfasilitasi tanya jawab mengenai Prosedur CT Scan Kepala  Pada Kasus Stroke 
+
+yang di demonstrasikan 
+
+e. Setiap peserta menyebutkan  tahapan Prosedur CT Scan Kepala  Pada Kasus Stroke 
+
+f. Fasilitator melakukan umpan balik 
+
+g. Peserta Latihan mandiri 
+
+4) Waktu praktik 
+
+Prosedur CT Scan Kepala Pada Kasus Stroke: 4 x 45 menit 
+
+ 
+
+Panduan Praktik MRI Kepala Pada Kasus Stroke 
+
+1) Tujuan 
+
+Setelah praktik ini peserta diharapkan mampu melakukan MRI Kepala  Pada Kasus Stroke 
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 61 
+ 
+ 
+
+
+
+ 
+
+2) Bahan dan alat: Media video MRI Kepala  Pada Kasus Stroke 
+
+3) Tahapan praktik 
+
+a. Peserta dibagi kedalam 5 kelompok, masing masing kelompok terdiri dari 5 peserta 
+
+b. Fasilitator menetapkan urutan praktik 
+
+c. Fasilitator mendemonstrasikan cara MRI Kepala  Kepala  Pada Kasus Stroke melalui media 
+
+video 
+
+d. Fasilitator memfasilitasi tanya jawab mengenai MRI Kepala  Kepala  Pada Kasus Stroke yang 
+
+di demonstrasikan 
+
+e. Setiap peserta menyebutkan  tahapan MRI Kepala  Kepala  Pada Kasus Stroke 
+
+f. Fasilitator melakukan umpan balik 
+
+g. Peserta Latihan mandiri 
+
+4) Waktu praktik 
+
+MRI Kepala Pada Kasus Stroke: 4 x 45 menit 
+
+ 
+
+Panduan Praktik Prosedur MRI Kepala Pada Kasus Stroke 
+
+1) Tujuan 
+
+Setelah praktik ini peserta diharapkan mampu melakukan Prosedur MRI Kepala  Pada Kasus 
+
+Stroke 
+
+2) Bahan dan alat: Media video Prosedur MRI Kepala  Pada Kasus Stroke 
+
+3) Tahapan praktik 
+
+a. Peserta dibagi kedalam 5 kelompok, masing masing kelompok terdiri dari 5 peserta 
+
+b. Fasilitator menetapkan urutan praktik 
+
+c. Fasilitator mendemonstrasikan cara Prosedur MRI Kepala   Pada Kasus Stroke melalui media 
+
+video 
+
+d. Fasilitator memfasilitasi tanya jawab mengenai Prosedur MRI Kepala Pada Kasus Stroke yang 
+
+di demonstrasikan 
+
+e. Setiap peserta menyebutkan  tahapan Prosedur MRI Kepala  Pada Kasus Stroke 
+
+f. Fasilitator melakukan umpan balik 
+
+g. Peserta Latihan mandiri 
+
+4) Waktu praktik 
+
+Prosedur MRI Kepala Pada Kasus Stroke: 4 x 45 menit 
+
+ 
+
+Panduan Praktik Tatalaksana Keperawatan Pasca Pemberian Trombolisis 
+
+1) Tujuan 
+
+Setelah praktik ini peserta diharapkan mampu melakukan Tatalaksana keperawatan pasca 
+
+pemberian trombolisis 
+
+2) Bahan dan alat: Media video Tatalaksana keperawatan pasca pemberian trombolisis 
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 62 
+ 
+ 
+
+
+
+ 
+
+3) Tahapan praktik 
+
+a. Peserta dibagi kedalam 5 kelompok, masing masing kelompok terdiri dari 5 peserta 
+
+b. Fasilitator menetapkan urutan praktik 
+
+c. Fasilitator mendemonstrasikan cara Tatalaksana keperawatan pasca pemberian trombolisis 
+
+melalui media video 
+
+d. Fasilitator memfasilitasi tanya jawab mengenai Tatalaksana keperawatan pasca pemberian 
+
+trombolisis yang di demonstrasikan 
+
+e. Setiap peserta melakukan  Tatalaksana keperawatan pasca pemberian trombolisis 
+
+f. Fasilitator melakukan umpan balik 
+
+g. Peserta Latihan mandiri 
+
+4) Waktu praktik 
+
+Tatalaksana keperawatan pasca pemberian trombolisis: 2 x 45 menit 
+
+ 
+
+Panduan Praktik Media Kontras 
+
+1) Tujuan 
+
+Setelah praktik ini peserta diharapkan mampu melakukan media kontras 
+
+2) Bahan dan alat: Media video media kontras 
+
+3) Tahapan praktik 
+
+a. Peserta dibagi kedalam 5 kelompok, masing masing kelompok terdiri dari 5 peserta 
+
+b. Fasilitator menetapkan urutan praktik 
+
+c. Fasilitator mendemonstrasikan cara media kontras melalui media video 
+
+d. Fasilitator memfasilitasi tanya jawab mengenai media kontras yang di demonstrasikan 
+
+e. Setiap peserta melakukan  media kontras 
+
+f. Fasilitator melakukan umpan balik 
+
+g. Peserta Latihan mandiri 
+
+4) Waktu praktik 
+
+Media kontras: 2 x 45 menit 
+
+ 
+
+Panduan Praktik Prosedur Pemberian Media Kontras 
+
+1) Tujuan 
+
+Setelah praktik ini peserta diharapkan mampu melakukan prosedur pemberian media kontras 
+
+2) Bahan dan alat: Media video prosedur pemberian media kontras 
+
+3) Tahapan praktik 
+
+h. Peserta dibagi kedalam 5 kelompok, masing masing kelompok terdiri dari 5 peserta 
+
+i. Fasilitator menetapkan urutan praktik 
+
+j. Fasilitator mendemonstrasikan prosedur pemberian media kontras melalui media video 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 63 
+ 
+ 
+
+
+
+ 
+
+k. Fasilitator memfasilitasi tanya jawab mengenai prosedur pemberian media kontras yang di 
+
+demonstrasikan 
+
+l. Setiap peserta melakukan  prosedur pemberian media kontras 
+
+m. Fasilitator melakukan umpan balik 
+
+n. Peserta Latihan mandiri 
+
+4) Waktu praktik 
+
+Prosedur pemberian Media kontras: 2 x 45 menit 
+
+ 
+
+Panduan Praktik Tatalaksana Keperawatan Pasca Pemberian Trombolisis 
+
+1) Tujuan 
+
+Setelah praktik ini peserta diharapkan mampu melakukan tatalaksana keperawatan pasca 
+
+pemberian trombolisis 
+
+2) Bahan dan alat: Media video tatalaksana keperawatan pasca pemberian trombolisis 
+
+3) Tahapan praktik 
+
+a. Peserta dibagi kedalam 5 kelompok, masing masing kelompok terdiri dari 5 peserta 
+
+b. Fasilitator menetapkan urutan praktik 
+
+c. Fasilitator mendemonstrasikan tatalaksana keperawatan pasca pemberian trombolisis melalui 
+
+media video 
+
+d. Fasilitator memfasilitasi tanya jawab mengenai tatalaksana keperawatan pasca pemberian 
+
+trombolisis yang di demonstrasikan 
+
+e. Setiap peserta melakukan  tatalaksana keperawatan pasca pemberian trombolisis 
+
+f. Fasilitator melakukan umpan balik 
+
+g. Peserta Latihan mandiri 
+
+4) Waktu praktik 
+
+Tatalaksana keperawatan pasca pemberian trombolisis: 2 x 45 menit 
+
+ 
+
+Panduan Praktik Simulasi Code Stroke 
+
+1) Tujuan 
+
+Setelah praktik ini peserta diharapkan mampu melakukan simulasi code stroke  
+
+2) Bahan dan alat: Alur code stroke 
+
+3) Tahapan praktik 
+
+a. Peserta dibagi kedalam 5 kelompok, masing masing kelompok terdiri dari 10 peserta 
+
+b. Fasilitator menjelaskan terkait penugasan pembuatan video simulasi code stroke dan 
+
+presentasi hasil video 
+
+c. Peserta secara berkelompok yang terdiri dari dokter, perawat, radiolog dan radiografer 
+
+membuat video simulasi code stroke  
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 64 
+ 
+ 
+
+
+
+ 
+
+d. Peserta secara berkelompok yang terdiri dari dokter, perawat, radiolog dan radiografer 
+
+mempresentasikan video simulasi code stroke 
+
+e. Fasilitator memfasilitasi untuk berdiskusi terkait hasil presentasi video simulasi code stroke 
+
+f. Fasilitator melakukan umpan balik 
+
+4) Waktu praktik 
+
+Simulasi code stroke :    x 45 menit 
+
+ 
+
+LAMPIRAN 3 
+
+ Instrumen Evaluasi 
+
+a. Evaluasi terhadap Peserta 
+
+1) Soal Pre-Post Test Dokter GP dan Sp. Saraf 
+
+1. Hasil pencitraan mana yang diperlukan sebelum dilakukan fibrinolisis?   
+(a) CT  
+(b) MRI  
+(c) CTA  
+(d) MRA 
+(e) Tidak ada jawaban 
+
+2. Di bawah ini hasil laboratorium yang diperlukan sebelum fibrinolysis adalah? 
+(a) Glukosa darah  
+(b) Tes koagulasi  
+(c) Tes fungsi hati dan ginjal  
+(d) blood routine  
+(e) Blood troponin and myoglobin 
+
+3. Di bawah ini yang merupakan dosis maksimum alteplase ketika pasien stroke menerima terapi 
+fibrinolitik intravena? 
+(a) 90 mg   
+(b) 99 mg   
+(c) 100 mg 
+(d) 110 mg 
+(e) > 110 mg 
+
+4. Berapa rentang waktu yang diperlukan agar terapi fibrinolitik intravena yang diberikan pada 
+pasien stroke iskemik akut dapat memberikan hasil yang paling maksimal? 
+
+A. 0-3 jam 
+B. 0-4.5 jam 
+C. 3-4.5 jam 
+D. 0-6 jam 
+E.  0-12 jam 
+
+5. Pada 2009, guideline AHA/ASA memperluas rentang waktu pemberian terapi rTPA yaitu 3-4,5 
+jam setelah terjadinya onset stroke iskemik namun dengan pengecualian pada pasien yang 
+memiliki kriteria tertentu. DI bawah ini yang bukan merupakan kriteria eksklusi pemberian terapi 
+rTPA adalah….. 
+
+A. Usia > 80 tahun 
+B. Tidak mengonsumsi obat antikoagulan 
+C. Skor NIHSS > 25 
+D. Memiliki riwayat stroke dan diabetes 
+E.  Konsumsi antikoagulan 
+
+6. Pemberian terapi alteplase pada rentang waktu 3 jam direkomendasikan bagi pasien yang 
+berusia……. 
+
+A. 18 – 80 tahun 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 65 
+ 
+ 
+
+
+
+ 
+
+B. < 18 tahun 
+C. > 18 tahun 
+D. > 18 tahun maupun > 80 tahun 
+E.  < 18 tahun maupun < 80 tahun 
+
+7. Di bawah ini yang bukan merupakan terapi yang diberikan pada pasien stroke iskemik 
+adalah……… 
+
+A. Terapi fibrinolitik 
+B. Agen antiplatelet 
+C. Trombektomi 
+D. Terapi alteplase 
+E.  NSAID 
+
+8. Di bawah ini yang merupakan pencegahan stroke pada pasien yang sudah pernah menderita 
+stroke, kecuali….. 
+
+A. Terapi antihipertensif 
+B. Statins 
+C. Merokok 
+D. Platelet antiaggregants 
+E.   ACE inhibitor 
+
+9. Manakah yang paling akurat mengenai pencegahan stroke primer pada pasien diabetes tipe 
+2…… 
+
+A. Pengobatan dengan target TD hingga <130/80 mm Hg 
+B. Kontrol glikemik intensif jangka panjang  
+C. Terapi statin LDL > 100 mg/dL pada pasien dengan diabetes tipe 2 
+D. Aktivitas fisik intensitas rendah selama 30 menit dalam seminggu 
+E.  Membatasi konsumsi makanan dengan indeks glikemik yang tinggi 
+
+10. Obat pengontrol tekanan darah yang dapat mengurangi risiko kejadian kardiovaskular dan 
+serebrovaskular adalah……. 
+
+A. Beta blockers 
+B. Calcium-channel blocker 
+C. Angiotensin-converting enzyme (ACE) inhibitor/angiotensin receptor blocker (ARB) 
+D. Aspirin 
+E.  Insulin 
+
+11. Terapi agen fibirinolitik yang menunjukkan manfaat terbesar bagi pasien stroke iskemik akut 
+adalah….. 
+
+A. Streptokinase 
+B. Alteplase 
+C. Urokinase 
+D. Heparin 
+E.  Aspirin 
+
+12. Stroke iskemik paling sering terjadi pada sirkulasi…… 
+A. Anterior 
+B. Posterior 
+C. Middle 
+D. Benar semua 
+E.  Salah semua 
+
+13. Pola iskemia yang terjadi pada hampir 70% penderita stroke iskemik yang diamati dalam 24 jam 
+pertama adalah………… 
+
+A. Complete ischemia 
+B. Pola reperfusion 
+C. Perfusion-diffusion mismatch 
+D. Benar semua 
+E.  Salah semua 
+
+14. Jenis pencitraan yang dapat menilai fungsi dan pola perfusi jaringan serebral adalah…….. 
+A. CTA 
+B. MRI 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 66 
+ 
+ 
+
+
+
+ 
+
+C. DSA 
+D. TCD 
+E.   CD 
+
+15. Efek samping dari pemberian terapi trombolisis IV adalah…….. 
+A. ICH 
+B. Perdarahan sistemik 
+C. Angioedema 
+D. Reaksi alergi 
+E. Benar semua 
+
+16. Berikut pernyataan yang benar mengenai onset stroke iskemik akus.. 
+A. Onset kurang dari 3 jam 
+B. Onset kurang dari 6 jam 
+C. Onset kurang dari 24 jam 
+D. Onset kurang dari 48 jam 
+E. Bukan salah satu diatas, onset harus ditentukan dengan perfusi imaging untuk menilai 
+
+penumbra iskemik 
+17. Pemeriksaan penunjang yang harus dilakukan pada semua pasien stroke akut adalah.. 
+
+A. PT dan APTT 
+B. INR 
+C. GDS 
+D. EKG 
+E. Darah rutin (termasuk trombosit) 
+
+18. Berikut merupakan kontraindikasi absolut trombolisis pada stroke iskemik akut.. 
+A. Perdarahan intracranial 4 tahun lalu 
+B. Riwayat stroke iskemik 1 th lalu 
+C. Gula darah sewaktu pada pemeriksaan 360 mg/dl 
+D. Kejang sewaktu serangan dengan kevurigaan stroke kardioemboli 
+E. ASPECT Score pada CT scan >7 
+
+19. Tanda dibwah ini merupakan tanda early ischemic change pada CT stroke akun, kecuali.. 
+A. Insular ribbon 
+B. MCA hyperdense 
+C. Nucleus lentiformis tampak suram 
+D. Tambak gambaran hypodense pada jaringan otak 
+E. Tampak gambaran hyperdense pada gyrus korteks 
+
+20. Pemberian dosis alteplase yang benar pada pasien stroke iskemik akut dengan berat 50kg 
+(pemberian dosis 0,9 mg/kgBB) adalah… 
+
+A. Diberikan dosis penuh 45 mg drip selama 60 menit 
+B. Dosis 4,5 mg diberikan dalam 1 menit, dan 40,5 diberikan drip selama 60 menit 
+C. Dosis 4,5 mg diberikan selama 5 menit dan 40,5 diberikan selama 55 menit 
+D. Dosis 45 mg diberikan secara drip selama 30 menit 
+E. Persentase dosis awal dan drip selama 60 menit tergantung pada onset waktu 
+
+kedatangan 
+ 
+
+2) Soal Pre-Post Test Perawat 
+
+1. Pencegahan stroke pada pasien dapat dilakukan dengan mengoptimalkan pengendalian factor 
+resiko terutama yang dapat dimodifikasi. Pencegahan stroke pada penyakit kardiovaskuler 
+adalah 
+
+A. Konseling penggunaan pengganti nikotin 
+B. Pemberian obat anti diuretik 
+C. Kontrol gula darah secara teratur 
+D. Pemberian anti platelet 
+
+2. Pemeriksaan penunjang yang dianjurkan segera dilakukan pada pasien stroke akut di ruang 
+gawat darurat meliputi, kecuali 
+
+A. Ct Scan tanpa kontras 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 67 
+ 
+ 
+
+
+
+ 
+
+B. Kadar gula darah 
+C. Elektromiografi 
+D. Hitung darah lengkap 
+
+3. Salah satu terapi suportif pada pasien stroke adalah pemberian suplemen oksigen dengan 
+tujuan untuk mempertahankan saturasi oksigen 
+
+A. > 94% 
+B. > 95% 
+C. > 96% 
+D. > 97% 
+
+4. Dibawah ini adalah Tindakan kolaborasi untuk stabilisasi hemodinamik (sirkulasi) pada pasien 
+stroke hiperakut 
+
+A. Koreksi hipotensi dan hypovolemia untuk menjaga perfusi sistemik 
+B. Intubasi endo tracheal tube pada pasien dengan hipoksia (pO2 < 60 mmHg atau pCO2 > 
+
+50 mmHG) 
+C. Pemberian diazepam bolus lambat intra vena 5 – 20 mg dan dilanjutkan dengan fenitoin 
+
+loading dose 
+D. Pemberian alteplase dosis 10% bolus intra vena 
+
+5. Pemberian cairan yang harus dihindari pada pasien stroke fase hiperakut adalah 
+A. Cairan isotonik 
+B. Cairan hipertonik 
+C. Cairan hipotonik 
+D. Cairan koloid / kristaloid 
+
+6. Dibawah ini termasuk dalam tim stroke di IGD, kecuali 
+A. Dokter spesialis saraf 
+B. Perawat 
+C. Fisioterapi 
+D. Radiolog 
+
+7. Tanggung jawab seorang perawat dalam pemberian rtPA (alteplase) tersebut dibawah ini, 
+kecuali 
+
+A. Monitoring selama dan setelah pemberian rtPA 
+B. Memastikan inform consent 
+C. Menghitung dosis rtPA 
+D. Menimbang BB 
+
+8. Termasuk dalam pengkajian awal keperawatan di IGD yang harus dilakukan oleh perawat, 
+kecuali 
+
+A. Melakukan skrining disfagia 
+B. Mengkaji keluhan utama dan alasan masuk ke rumah  
+C. Pengkajian trombolisis 
+D. Melakukan pemasangan infus dan kateter 
+
+9. Diagnosa keperawatan utama yang mungkin muncul pada pase stroke iskemik akut adalah 
+A. Risiko gangguan perfusi serebral atau penurunan kapasitas adaptif intrakranial 
+B. Risiko gangguan perfusi serebral atau gangguan mobilitas fisik 
+C. Penurunan kapasitas adaptif intrakranial atau nyeri akut 
+D. Penurunan kapasitas adaptif intrakranial atau penurunan curah jantung 
+
+10. Berdasarkan Standar Intervensi Keperawatan Indonesia (SIKI, 2018), kelompok intervensi 
+keperawatan utama pada pasien stroke iskemik akut adalah 
+
+A. Manajemen kejang 
+B. Manajemen nyeri 
+C. Manajemen intrakranial 
+D. Manajemen oksigenasi 
+
+11. Terapi spesifik stroke hiperakut adalah pemberian trombolisis dengan rtPA (alteplase) dengan 
+onset yang direkomendasikan 
+
+A. < 3,5 jam 
+B. < 4,5 jam 
+C. < 12 jam 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 68 
+ 
+ 
+
+
+
+ 
+
+D. < 24 jam 
+12. Dibawah ini adalah pernyataan yang benar tentang pemberian rtPA (alteplase) kecuali 
+
+A. Tujuan rtPA adalah menghancurkan thrombus  
+B. Pemberian trombolisis dilakukan oleh tim stroke IGD 
+C. Terapi rtPA merupakan pilihan utama untuk pasien stroke iskemik 
+D. Tidak ada kriteria inklusi dalam pemberian rtPA 
+
+13. Dalam pemberian rtPA (alteplase) target waktu  Door to needle atau tatalaksana mulai pasien 
+dating ke IGD sampai pemberian alteplase adalah 
+
+A.  30 menit 
+B.  45 menit 
+C.  60 menit 
+D.  90 menit 
+
+14. Pada tatalaksana hipertensi arterial stroke iskemik, pasien yang memenuhi kriteria untuk rtPA 
+(alteplase) adalah dengan tekanan darah 
+
+A. Sistolik >185mmHg atau diastolic >120mmHg 
+B. Sistolik >185mmHg atau diastolic >110mmHg 
+C. Sistolik >190mmHg atau diastolic >120mmHg 
+D. Sistolik >190mmHg atau diastolic >110mmHg 
+
+15. Dibawah ini termasuk kriteria ekslusi pada pemberian trombolisis dengan rtPA (alteplase) 
+A. Usia > 18 tahun 
+B. Pasien atau keluarga pasien setuju 
+C. Diagnosis klinis stroke iskemik 
+D. Operasi bedah saraf 3 bulan terakhir 
+
+16. Dosis pemberian rtPA (alteplase) yang di rekomendasikan 
+A. 0,4 – 0,6 mg/KgBB 
+B. 0,6 – 0,9 mg/KgBB 
+C. 0,10 mg/KgBB 
+D. Dosis maksimum 100 mg/KgBB 
+
+17. Dibawah ini adalah protokol pemberian rtPA (alteplase) intravena, kecuali 
+A. Diberikan dalam waktu 60 menit dengan 10% dosis diberikan secara bolus dalam waktu 
+
+1-2 menit  
+B. Lakukan penilaian status neurologis setiap 15 menit selama pemberian infus rtPA 
+C. Lakukan pemeriksaan status neurologis setiap 30 menit pada jam ke 3 - 8 
+D. Lakukan pemeriksaan status neurologis setiap 1 jam pada jam ke 2 – 24 jam 
+
+18. Hal yang perlu dilakukan jika selama pemberian rtPA terdapat nyeri kepala berat, tekanan darah 
+meningkat, mual atau muntah adalah 
+
+A. Observasi keluhan nyeri kepala dan tekanan darah 
+B. Hentikan pemberian dan lakukan segera Ct scan kepala 
+C. Observasi adanya perdarahan 
+D. Kaji ulang adanya riwayat pemberian heparin 
+
+19. Peran perawat dalam melakukan monitoring komplikasi pasca pemberian rtPA (Alteplase) 
+adalah mengkaji kemungkinan adanya perdarahan intracranial dengan tanda gejala yang 
+mungkin muncul sebagai berikut, kecuali 
+
+A. Sakit kepala akut atau memberat 
+B. Mual dan muntah 
+C. Penurunan GCS lebih dari 2 poin 
+D. Peningkatan NIHSS lebih dari 2 poin 
+
+20. Faktor resiko yang harus diperhatikan perawat pada monitoring perdarahan pasca pemberian 
+rtPA (Alteplase), kecuali 
+
+A. Luasnya iskemik 
+B. Gagal jantung kongestif 
+C. Hpoglikemi 
+D. Hipertensi tidak terkontrol 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 69 
+ 
+ 
+
+
+
+ 
+
+3) Soal Pre-Post Test Radiografer 
+
+1. Alat CT Scan adalah salah satu modalitas pencitraan tomografi dengan proses digital, dapat 
+membuat gambaran 3 dimensi  dari Ct scan kepala kasus stroke. Apakah sumber yang 
+digunakan alat tersebut sehingga dapat menghasilkan gambaran 3 dimensi tsb? 
+
+A. Radiasi Gelombang elektromagnetik 
+B. Gelombang Suara 
+C. Magnetic resonansi 
+D. Gelombang frekuensi radio 
+
+2. Seorang laki-laki umur 68 thn , masuk ke IDG RS diantar oleh anaknya dengan keluhan  nyeri 
+kepala, sesak dan sempat muntah dirumah dan dilakukan pemeriksaan CT scan kepala kasus 
+stroke. Bagaimanakah radiographer  memposisikan pasien nya? 
+
+A. Pasien supine head first 
+B. Pasien prone feet first 
+C. Pasien prone head first 
+D. Pasien supine feet first 
+
+3. Seorang laki-laki umur 68 thn , masuk ke IDG RS diantar oleh anaknya dengan keluhan  nyeri 
+kepala, sesak dan sempat muntah dirumah dan dilakukan pemeriksaan CT scan. setelah 
+dilakukan   ct scan  dinyatakan adanya perdarahan di kepalanya. Bagaimanakah radiographer  
+mengetahui kasus tersebut perdarahan? 
+
+A. Melihat abnormal densitas gambaran CT Scan  menjadi hiperdensi 
+B. Melihat abnormal densitas gambaran CT Scan menjadi hipodens 
+C. Melihat abnormal densitas gambaran CT Scan Isodensity 
+D. Melihat abnormal densitas gambaran CT Scan isocenter 
+
+4. Seorang wanita umur 45 thn , masuk ke IDG RS diantar oleh anaknya dengan keluhan  nyeri 
+kepala, sesak dan merasa berat  mengangkat tangannya lalu dilakukan pemeriksaan CT scan 
+kepala non kontras kasus stroke.Berapakah radiographer mengatur parameter Kvp yang 
+digunakan pada kasus tersebut? 
+
+A. 50 Kvp 
+B. 60 Kvp 
+C. 75 Kvp 
+D. 120 Kvp 
+
+5. Seorang wanita umur 45 thn , masuk ke IDG RS diantar oleh teman kerjanya dengan keluhan  
+nyeri kepala, sesak dan merasa berat  mengangkat tangannya lalu dilakukan pemeriksaan CT 
+scan kepala non kontras kasus stroke. Berapakah radiographer mengatur parameter pitch yang 
+digunakan pada kasus tersebut? 
+
+A. Pitch 1 
+B. Pitch 1.1 
+C. Pitch 0.3 
+D. Pitch 2 
+
+ 
+6. Alat CT Scan adalah salah satu modalitas pencitraan tomografi dengan proses digital, dapat 
+
+membuat gambaran3 dimensi  dari CTscan kepala kasus stroke. Gantry adalah salah satu 
+bagian dari alat CT Scan yang sangat penting dalam menghasilkan gambaran untuk kasus tsb. 
+Apakah nama –nama   komponen yang ada pada gantry ? 
+
+A. Tabung sinar-x dan slip ring 
+B. Generator sinar-x dan detector 
+C. Kolimator 
+D. A,B.C. benar 
+
+7. Alat CT Scan adalah salah satu modalitas pencitraan tomografi dengan proses digital, dapat 
+membuat gambaran3 dimensi  dari CTscan kepala kasus stroke. Tabung sinar-x adalah salah 
+satu bagian gantry yang sangat penting dalam menghasilkan gambaran untuk kasus tsb. Apakah 
+fungsi dari tabung sinar-x? 
+
+A. Pembakit sinar - x 
+B. Mengarahkan radiasi menuju detector 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 70 
+ 
+ 
+
+
+
+ 
+
+C. Mengubah atenuasi sinar-x menjadi signal listrik 
+D. A,B dan C benar 
+
+8. Seorang wanita umur 45 thn , masuk ke IDG RS diantar oleh anaknya dengan keluhan  nyeri 
+kepala, sesak dan merasa berat  mengangkat tangannya lalu dilakukan pemeriksaan CT scan 
+kepala non kontras kasus stroke. Berapakah radiographer mengatur parameter matriks  yang 
+digunakan pada kasus tersebut? 
+
+A. 512x512 
+B. 64x64 
+C. 14x14 
+D. 128x128 
+
+9. Seorang wanita umur 60 thn , masuk ke IDG RS diantar oleh anaknya dengan keluhan  nyeri 
+kepala, mual,sesak dan sulit untuk bicara lalu dilakukan pemeriksaan CT scan kepala non 
+kontras kasus stroke, Radiografer melakukan post prosesing  multi planar reconstruction (MPR 
+)  yang akan dikirim ke dokter. Ada berapakah type dari MPR yang digunakan pada kasus 
+tersebut? 
+
+A. Coronel plane dan Oblique plane 
+B. Sagittal plane dan oblique plane 
+C. Transpersal plane dan oblique plane 
+D. Coronal plane, sagittal plane dan Transversal plane 
+
+10. Seorang wanita umur 48 thn , masuk ke IDG RS diantar oleh Suaminya dengan keluhan  nyeri 
+kepala berputar lalu dilakukan pemeriksaan CT scan kepala non kontras kasus stroke. 
+Radiografer melakukan post prosesing gambaran dengan mengatur CT number window. 
+Berapakah CT number window yang digunakan pada kasus tersebut? 
+
+A. WL < 50,WW < 100 
+B. WL < -50,WW < -100 
+C. WL>500,WW>1000 
+D. WL> -500,WW>-1000 
+
+11. Seorang wanita umur 48 thn , masuk ke IDG RS diantar oleh Suaminya dengan keluhan  nyeri 
+kepala berputar setelah diperiksa oleh dokter spesialis neurologi  dilakukan pemeriksaan CT  
+angiografi cerebral. Perawat radiologi melakukan asuhan keperawatan dilanjut dengan 
+pemasangan IV line. Dimanakah sebaiknya IV-line terpasang sehingga mendapat gambaran 
+CTA cerebral yang bagus? 
+
+A. Vena mediana cubiti 
+B. Vena Basilica 
+C. Vena antebrachialis medialis 
+D. A dan C Benar 
+
+12. Seorang wanita umur 70 thn , masuk ke IDG RS diantar oleh Suaminya dengan keluhan  nyeri 
+kepala berputar setelah diperiksa oleh dokter spesialis neurologi  dilakukan pemeriksaan CT  
+angiografi cerebral. Perawat dan radiografer meyiapkan bahan kontras yang digunakan untuk 
+pemeriksaan tersebut. Bagaimanakah metode pemasukan kontras media proses pemasukan 
+kontras  sehingga gambaran CTA cerebral yang bagus? 
+
+A. Pemasukan kontras dengan menggunakan injector 
+B. Pemasukan kontras cukup dengan manual disuntikan. 
+C. Pemasukan kontras  dengan cara drip infus 
+D. B dan C benar 
+
+13. Seorang wanita umur 70 thn , masuk ke IDG RS diantar oleh Suaminya dengan keluhan  nyeri 
+kepala berputar setelah diperiksa oleh dokter spesialis neurologi  dilakukan pemeriksaan CT  
+angiografi cerebral. Perawat dan Radiografer meyiapkan bahan kontras yang digunakan untuk 
+pemeriksaan tersebut. Apakah kontras yang gunakan untuk pemeriksaan tersebut? 
+
+A. Kontras positif Iodine 
+B. Kontras positif Barium sulfat 
+C. Kontras media negative 
+D. Kontras Gadolinium 
+
+14. Seorang wanita umur 50 thn , masuk ke IDG RS diantar oleh anaknya dengan keluhan  nyeri 
+kepala berputar setelah diperiksa oleh dokter spesialis neurologi  dilakukan pemeriksaan CT  
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 71 
+ 
+ 
+
+
+
+ 
+
+angiografi cerebral. Perawat dan Radiografer meyiapkan bahan kontras yang digunakan untuk 
+pemeriksaan tersebut.  Berapa kah volume kontras yang diberikan  untuk pemeriksaan tersebut? 
+
+A. 1 ml  per berat badan 
+B. 0,5 ml per berat badan 
+C. 2ml per berat badan 
+D. A,B dan C benar 
+
+15. Seorang wanita umur 50 thn , masuk ke IDG RS diantar oleh anaknya dengan keluhan  nyeri 
+kepala berputar setelah diperiksa oleh dokter spesialis neurologi  dilakukan pemeriksaan CT  
+angiografi cerebral.  Radiografer memposisikan pasien supine ,head fist dan isocenter sehingga 
+mendapatkan gambaran yang semitris pada pemeriksaan tersebut. Dimanakah letak locator  
+pada gambar dibawah ini? 
+
+                                              
+
+A. Arcus Aorta 
+B. Ascendes Aorta 
+C. Discendens Aorta 
+D. Thoracic Aorta 
+
+16. Seorang wanita umur 50 thn, masuk ke IDG RS diantar oleh anaknya dengan keluhan  nyeri 
+kepala berputar setelah diperiksa oleh dokter spesialis neurologi  dilakukan pemeriksaan CT  
+angiografi cerebral. Perawat dan Radiografer meyiapkan bahan kontras yang digunakan untuk 
+pemeriksaan tersebut. Untuk mendapatkan gambaran angiografi yang baik diperlukan 
+pengaturan injector yaitu volume kontras dan Flow rate. Berapakah Flow rate  yang diberikan  
+untuk pemeriksaan tersebut? 
+
+A. Flow Rate CTA Cerebral 3 ml/s 
+B. Flow Rate CTA Cerebral 2 ml/s 
+C. Flow Rate CTA Cerebral 1 ml/s 
+D. Flow Rate CTA Cerebral 5 ml/s 
+
+17. Seorang wanita umur 50 thn, masuk ke IDG RS diantar oleh anaknya dengan keluhan  nyeri 
+kepala berputar setelah diperiksa oleh dokter spesialis neurologi  dilakukan pemeriksaan CT  
+angiografi cerebral. Perawat dan Radiografer meyiapkan bahan kontras yang digunakan untuk 
+pemeriksaan tersebut. Untuk mendapatkan gambaran angiografi yang baik berapah ukuran IV 
+line yang digunakan untuk pemeriksaan tsb? 
+
+A. Vasofix 18Gx 13/4 
+B. Vasofix 20 Gx 13/4 
+C. Vasofix  22 Gx 13/4 
+D. Vasofix  24Gx 13/4 
+
+18. Seorang wanita umur 50 thn, masuk ke IDG RS diantar oleh anaknya dengan keluhan  nyeri 
+kepala berputar setelah diperiksa oleh dokter spesialis neurologi  dilakukan pemeriksaan CT  
+angiografi cerebral. Setelah pemeriksaan  radiografer melakukan rekontruksi gambaran CTA. 
+Gambaran Apakah yang harus dievaluasi pada pemeriksaan tsb? 
+
+A. Gambaran MIP 
+B. Gambaran VRT 
+C. Gambaran 3D 
+D. A dan B Benar 
+
+19. Seorang pria umur 30 thn, masuk ke IDG RS diantar oleh istrinya dengan keluhan kelemahan 
+tubuh sisi kiri onsite 1 jam  setelah diperiksa oleh dokter spesialis neurologi  dilakukan 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 72 
+ 
+ 
+
+
+
+ 
+
+pemeriksaan CT   Perpusi dan angiografi cerebral. Perawat dan Radiografer meyiapkan bahan 
+kontras yang digunakan untuk pemeriksaan tersebut. Untuk mendapatkan gambaran CT perpusi  
+yang baik diperlukan pengaturan injector yaitu volume kontras dan Flow rate. Berapakah  jumlah 
+kontras dan Flow rate  yang diberikan  untuk pemeriksaan tersebut? 
+
+A. Flow Rate CTP Cerebral 3 ml/s,Volume kontras 40 ml 
+B. Flow Rate CTP Cerebral 2 ml/s, Volume kontras 40 ml 
+C. Flow Rate CTP Cerebral 4 ml/s, Volume kontras 40 ml 
+D. Flow Rate CTP Cerebral 5 ml/s, Volume kontras 40 ml 
+
+20. Seorang pria umur 30 thn, masuk ke IDG RS diantar oleh istrinya dengan keluhan kelemahan 
+tubuh sisi kiri onsite 1 jam  setelah diperiksa oleh dokter spesialis neurologi  dilakukan 
+pemeriksaan CT   Perpusi dan angiografi cerebral. Setelah pemeriksaan  radiografer melakukan 
+rekontruksi gambaran CTP. Gambaran Apakah yang harus dievaluasi pada pemeriksaan tsb? 
+
+A. Hasil gambaran CBV,CBF,MTT,Tmax,Penumbra 
+B. Hasil gambaran VRT,MTT,CBV,MIP 
+C. Hasil gambaran VRT,Penumbra,3D 
+D. Hasil gambaran CBF,VRT,Tmax 
+
+ 
+
+4) Soal Pre-Post Test Dokter Sp. Radiologi 
+
+1. Tanda apa yang paling jelas dievaluasi pada gambar CT scan pasien dengan keluhan 
+hemiparesis ini? 
+
+A. Insular ribbon sign 
+B. Hyperdense MCA sign 
+C. Empty delta sign 
+D. Gyral effacement 
+
+ 
+2. Tanda apa yang paling jelas dievaluasi pada gambar CT scan pasien dengan keluhan 
+
+hemiparesis ini? 
+A. Insular ribbon sign 
+B. Hyperdense MCA sign 
+C. Empty delta sign 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 73 
+ 
+ 
+
+
+
+ 
+
+D. Gyral effacement 
+ 
+
+3. Tanda apa yang paling jelas dievaluasi pada gambar CT scan pasien dengan keluhan 
+hemiparesis ini? 
+
+A. Insular ribbon sign 
+B. Hyperdense MCA sign 
+C. Empty delta sign 
+D. Gyral effacement 
+
+ 
+4. Untuk memperkuat diagnosis dan menentukan tindakan selanjutnya, maka imaging yang 
+
+sebaiknya dilakukan pada pasien di no 3 adalah? 
+A. CT angiografi 
+B. CT perfusi 
+C. CT angiografi dan CT perfusi 
+D. MR angiografi 
+
+5. Color map yang digunakan untuk menilai infark core adalah? 
+A. CBV 
+B. CBF 
+C. MTT 
+D. Semua benar 
+
+6. Tanda apa yang paling jelas dievaluasi pada gambar CT scan pasien ini? 
+A. Insular ribbon sign 
+B. Hyperdense MCA sign 
+C. Empty delta sign 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 74 
+ 
+ 
+
+
+
+ 
+
+D. Gyral effacement 
+
+ 
+7. Untuk menegakkan diagnosis dan menentukan tindakan selanjutnya pada pasien no 6, maka 
+
+imaging yang sebaiknya dilakukan pada pasien ini adalah? 
+A. CT angiografi 
+B. CT perfusi 
+C. CT angiografi dan CT perfusi 
+D. MR angiografi 
+
+8. Kelainan apa yang tampak pada gambar CT scan pasien ini? 
+A. Perdarahan epidural 
+B. Perdarahan subdural 
+C. Perdarahan subarachnoid 
+D. Perdarahan intraventrikel 
+
+ 
+9. Untuk memperkuat diagnosis dan menentukan tindakan selanjutnya pada pasien no 7, maka 
+
+imaging yang sebaiknya dilakukan pada pasien ini adalah? 
+A. CT angiografi 
+B. CT perfusi 
+C. CT angiografi dan CT perfusi 
+D. MR angiografi 
+
+10. Pasien yang perlu dilakukan pemeriksaan CT Angiografi adalah? 
+A. Pasien dengan perdarahan intraparenkim di parietal kanan 
+B. Pasien dengan perdarahan intraparenkim di basal ganglia kanan 
+C. Pasien dengan perdarahan subdural kronis di frontal kiri 
+D. Pasien dengan perdarahan subarachnoid dan fraktur basis cranii 
+
+11. Tindakan untuk mengurangi risiko kejadian reaksi akut, kecuali: 
+A. Selalu melakukan pre medikasi. 
+B. Pertimbangkan uji alternatif 
+C. Menggunakan media kontras yang berbeda 
+D. Pre medikasi menggunakan Prednisolon 30 mg 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 75 
+ 
+ 
+
+
+
+ 
+
+12. Faktor risiko terhadap nefropati yang dipicu kontras yang berhubungan dengan prosedur: 
+A. Pemberian obat nefrotoksik pada waktu bersamaan. 
+B. Hemodialisa 
+C. Pemberian arterial 
+D. Dehidrasi 
+
+13. Penghentian konsumsi metformin, kecuali: 
+A. Tidak perlu dilakukan pada CKD derajat 1 dan 2. 
+B. Dilakukan pada CKD derajat 3. 
+C. Tidak perlu dilakukan pada pemberian gadolinium 
+D. Tidak diperlukan pada CKD derajat 4 dan 5. 
+
+14. Tatalaksana pemberian kontras gadolinium pada ibu menyusui: 
+A. Pemeriksaan MRI lebih aman bagi ibu menyusui 
+B. Membuang air susu hingga 24 jam setelah pemberian kontras 
+C. Kondisi dehidrasi ringan lebih baik 
+D. Tidak boleh diberikan sama sekali 
+
+15. Pasien berusia 68 tahun datang ke IGD dengan klinis hemiparesis dan CT 
+menunjukkan stroke iskemik. Pasien memiliki riwayat hipertensi dan diabetes melitus dan 
+mengkonsumsi Valsartand dan metformin. Pasien direncanakan pemerikaan CTP dan 
+CTA, tindakan yang segera dilakukan: 
+
+A. Cek cGFR 
+B. Hidrasi pasien 
+C. Persiapan hemodialisa untuk setelah pemeriksaan CTP, CTA dan DSA 
+D. Pemberian cairan dextrosa 
+
+16. Sekuens pada pemeriksaan MRI stroke, kecuali: 
+A. SWI 
+B. PWI 
+C. FLAIR 
+D. DWI 
+
+17. Yang tidak termasuk Perfusion Weighted Imaging: 
+A. DCE 
+B. DSC 
+C. DSE 
+D. ASL 
+
+18. Penilaian yang didapat pada DCE: 
+A. MTT 
+B. K-trans 
+C. TMax 
+D. CBF 
+
+19. Pitfall DSC 
+A. Calcification 
+B. Blood product 
+C. Udara sinus 
+D. Pembuluh darah kecil. 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                 76 
+ 
+ 
+
+
+
+ 
+
+20. 
+
+Pernyataan yang tidak sesuai pada kasus di atas: 
+A. DWI menunjukkan infark akut 
+B. Area infark sesuai teritori a.cerebri media kanan. 
+C. Signal loss rim pada T2 menunjukkan perdarahan 
+D. MR perfusi menunjukkan perfusi simetris 
+
+ 
+b. Evaluasi terhadap Pelatih 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                  77 
+ 
+
+
+
+ 
+
+PENILAIAN TERHADAP PELATIH/FASILITATOR 
+
+Nama Pelatihan : 
+Nama Fasilitator : 
+Materi   : 
+Hari/Tanggal  : 
+Waktu/Jam  : 
+ 
+Tulislah tanda centang (√) pada penilaian Saudara pada kolom yang sesuai 
+
+No. PENILAIAN 45 50 55 60 65 70 75 80 85 90 95 100 
+
+1. Penguasaan materi             
+
+2. Ketepatan waktu             
+
+3. Sistematika penyajian             
+
+4. Penggunaan metode             
+dan alat bantu 
+
+5. Empati, gaya dan sikap             
+terhadap peserta 
+
+6. Penggunaan bahasa             
+dan volume suara 
+
+7. Pemberian motivasi             
+belajar kepada peserta 
+
+8. Pencapaian tujuan             
+pembelajaran umum 
+
+9. Kesempatan tanya             
+jawab 
+
+10. Kemampuan menyajikan             
+
+11. Kerapihan pakaian             
+
+12. Kerjasama antar tim             
+pengajar (jika 
+merupakan tim) 
+
+Keterangan:  
+45 – 55: Kurang, 56 – 75: Sedang, 76 – 85: Baik, 86 ke atas: Sangat Baik. 
+ 
+Saran: 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                    78 
+ 
+
+
+
+ 
+
+c. Evaluasi Penyelenggaraan Pelatihan 
+ 
+Petunjuk umum: 
+
+Berikan tanda √ pada kolom berikut ini sesuai dengan penilaian Saudara. 
+
+ 
+
+NO ASPEK YANG DINILAI NILAI 
+
+  10 20 30 40 50 60 70 80 90 100 
+
+1. Efektivitas penyelenggaraan           
+
+2. Relevansi program diklat           
+dengan pelaksanaan tugas 
+
+3. Persiapan dan ketersediaan           
+sarana diklat 
+
+4. Hubungan peserta dengan           
+penyelengara pelatihan 
+
+5. Hubungan antar peserta           
+
+6. Pelayanan kesekretariatan           
+
+7. Kebersihan & kenyamanan           
+ruang kelas 
+
+8. Kebersihan & kenyamanan           
+auditorium 
+
+9. Kebersihan & kenyaman           
+asrama 
+
+10. Kebersihan toilet           
+
+ 
+Saran/komentar terhadap : 
+
+1. Pelatih/Fasilitator 
+ 
+2. Penyelenggara/pelayanan panitia 
+ 
+3. Master of Training (MOT) 
+ 
+4. Sarana dan prasarana 
+ 
+5. Yang dirasakan menghambat 
+ 
+6. Yang dirasakan membantu 
+ 
+7. Materi yang paling relevan 
+ 
+8. Materi yang kurang relevan 
+ 
+ 
+SARAN: 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                    79 
+ 
+
+
+
+ 
+
+Lampiran 6 
+
+Ketentuan Penyelenggaraan Pelatihan : 
+
+a. Latar belakang 
+
+Di era modern ini masyarakat semakin banyak mengalami permasalahan kesehatan salah 
+
+satunya adalah stroke. Permasalahan kesehatan ini menjadikan ketakutan yang ada 
+
+ditengah-tengah masyarakat dalam menjalani aktivitas kesehariannya. Stroke dapat 
+
+menyebabkan kematian dan juga menyebabkan gejala sisa berupa kecacatan sehingga 
+
+menjadi beban psikologis dan  ekonomis bagi penderita sendiri maupun keluarga.  
+
+ 
+
+Jumlah kasus saraf menurut laporan Instalasi Bedah Sentral Rumah Sakit Pusat Otak 
+
+Nasional bulan Januari sampai Desember 2021, jumlah tindakan operasi bedah saraf dan 
+
+neuro intervensi di Rumah Sakit Pusat Otak Nasional sebanyak 2.133 tindakan, hal ini 
+
+meningkat sebesar 30% dibandingkan capaian di tahun 2020 sebanyak 1643. 
+
+ 
+
+Perawat sebagai bagian integral dari sistem pelayanan kesehatan dalam penanganan pasien 
+
+dengan kasus bedah saraf memiliki tatalaksana yang sangat penting. Perawat bukan hanya 
+
+berperan menurunkan angka mortalitas pasien dengan kasus bedah saraf, tetapi juga mampu 
+
+mencegah komplikasi dan meminimalkan kecacatan akibat penyakit yang dialami. 
+
+ 
+
+Rumah Sakit Pusat Otak Nasional Prof. Dr. dr. Mahar Mardjono sebagai pusat rujukan dalam 
+
+pengobatan penyakit otak dan persarafan mempunyai kewajiban sebagai pengampu 
+
+Pelatihan Trombolisis. Agar pelatihan dapat berjalan secara efektif dan efisien maka pelatihan 
+
+harus dilakukan sesuai dengan kurikulum dan modul pelatihan. 
+
+ 
+
+Sehubungan dengan hal tersebut, maka perlu disusun kurikulum Pelatihan Trombolisis yang 
+
+dapat dijadikan acuan pelatihan perawat neurosains di Indonesia.  
+
+ 
+
+b. Ketentuan Peserta 
+
+• Kriteria peserta: 
+
+1) Dokter umum 
+
+2) Dokter Spesialis Saraf/Neurologi  
+
+3) Dokter Spesialis Radiologi 
+
+4) Perawat dengan pendidikan minimal D3 keperawatan  
+
+5) Radiografer  
+
+ 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                    80 
+ 
+
+
+
+ 
+
+• Jumlah peserta 
+
+Peserta maksimal berjumlah 30 orang dalam satu kelas. 
+
+ 
+
+c. Ketentuan Pelatih 
+
+• Kriteria pelatih 
+
+Fasilitator memiliki kompetensi substansi dan memiliki kemampuan dalam 
+
+penanganan Code Stroke dan Trombolisis, terdiri dari: 
+
+1) Dokter spesialis saraf yang bekerja di rumah sakit minimal stratifikasi stroke utama 
+
+dan rumah sakit tersebut sudah melakukan trombolisis sebanyak 12 kali dalam 
+
+setahun 
+
+2) Dokter radiologi yang bekerja di rumah sakit minimal stratifikasi stroke utama dan 
+
+rumah sakit tersebut sudah melakukan trombolisis sebanyak 12 kali dalam setahun 
+
+3) Perawat yang bekerja di rumah sakit minimal stratifikasi stroke utama dan rumah sakit 
+
+tersebut sudah melakukan trombolisis sebanyak 12 kali dalam setahun/ memiliki 
+
+sertifikat pelatihan TOT Keperawatan Neurosains 
+
+4) Radiografer yang bekerja di rumah sakit minimal stratifikasi stroke utama dan rumah 
+
+sakit tersebut sudah melakukan trombolisis sebanyak 12 kali dalam setahun 
+
+ 
+
+d. Ketentuan Penyelenggara dan Tempat Penyelenggaraan  
+
+1) Penyelenggara Pelatihan Trombolisis diselengarakan oleh institusi pelatihan bidang 
+kesehatan yang terakreditasi  
+
+2) Tempat Penyelenggaraan  
+Pelatihan diselengarakan di Institusi pelatihan bidang kesehatan yang terakreditasi/ 
+Instansi lain yang memiliki prasarana dan sarana/ fasilitas sesuai dengan kebutuhan 
+pelatihan secara full daring 
+ 
+
+e. Sertifikasi  
+
+Berdasarkan ketentuan yang berlaku, kepada setiap peserta yang telah mengikuti pelatihan 
+
+dengan ketentuan: • Kehadiran 100% • Nilai hasil post test minimal 80 • Nilai hasil praktik 85 
+
+Akan diberikan sertifikat yang dikeluarkan oleh Kementerian Kesehatan RI dengan angka 
+
+kredit 1 (satu) yang di tandatanggani sesuai dengan ketentuan yang berlaku. Peserta 
+
+pelatihan juga berhak mendapatkan Satuan Kredit Profesi (SKP) sebanyak …. SKP dari 
+
+Persatuan Perawat Nasional Indonesia (PPNI) dengan mekanisme pengajuan sesuai dengan 
+
+ketentuan yang berlaku, dari PARI sebanyak…..SKP, dan dari IDI 
+
+ 
+ 
+ 
+ 
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                    81 
+ 
+
+
+
+ 
+
+TIM PENYUSUN 
+
+ 
+
+ 
+
+Penasehat: 
+
+dr. Mursyid Bustami, Sp.S (K), KIC, MARS 
+
+(Direktur Utama RS Pusat Otak Nasional Prof. Dr. dr. Mahar Mardjono) 
+
+ 
+
+Penangggung jawab: 
+
+Dr. dr. Andi Basuki Prima Birawa, Sp.S (K), MARS 
+
+(Direktur Sumber daya manusia, Pendidikan dan Umum) 
+
+ 
+
+Ketua: 
+
+dr. Reza Aditya Arpandy, Sp.S 
+(Ketua Tim Pengampu Rujukan Stroke) 
+
+ 
+
+Sekretaris: 
+
+Eny Meiliya, S.Kep., Ns. MKM 
+(Sub Koordinator Kelompok Sub-Substansi Pengembangan SDM, Pendidikan dan Penelitian) 
+
+Elis Nurhayati Agustina, M.Kep., Sp.KMB 
+(Sub Koordinator Kelompok Sub-Substansi Pelayanan Keperawatan) 
+ 
+
+Tim Penyusun dan Kontributor: 
+
+dr. Indah Aprianti Putri, Sp.S, M.Sc 
+dr. Ita Muharram Sari, Sp.S 
+dr. Ricky Gusanto Kurniawan, Sp.S 
+dr. Khairun Niswati, Sp.Rad. 
+Dra. Tri Andayani 
+Elis Nurhayati Agustina, M.Kep., Sp.KMB 
+Milla Jatiwinayu, S.Tr.Kes. 
+Roostiati.S.Wanda, SKM.MKM 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Kurikulum Pelatihan Code Stroke. RSPON 2022                                    82

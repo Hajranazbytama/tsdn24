@@ -5,9 +5,11 @@ import glob
 import numpy as np
 import pandas as pd
 import joblib
-from langchain.document_loaders import PyPDFLoader
+#from langchain.document_loaders import PyPDFLoader
+from langchain.document_loaders import TextLoader
+from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.vectorstores import FAISS
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.vectorstores import FAISS
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain.schema import HumanMessage
 from dotenv import load_dotenv
@@ -41,50 +43,90 @@ model_ht = load_model("../Model_Prediction/Output_Model/xgboost_ht.pkl")
 model_dm = load_model("../Model_Prediction/Output_Model/xgboost_dm.pkl")
 model_stroke = load_model("../Model_Prediction/Output_Model/xgboost_st.pkl")
 
-# Initialize RAG-based recommendation system
-@st.cache_resource
-def init_recommendation():
-    pdf_folder_path = "../Data/"
-    all_pdf_paths = glob.glob(os.path.join(pdf_folder_path, "*.pdf"))
+# Fungsi untuk memuat dokumen berbasis penyakit dalam format .txt
+def load_documents_by_disease(disease):
+    txt_folder_path = f"../Data/{disease}"  # Folder untuk setiap penyakit
+    all_txt_paths = glob.glob(os.path.join(txt_folder_path, "*.txt"))
     
     documents = []
-    for pdf_path in all_pdf_paths:
-        loader = PyPDFLoader(pdf_path)
-        pdf_docs = loader.load()
+    for txt_path in all_txt_paths:
+        loader = TextLoader(txt_path)
+        txt_docs = loader.load()
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
-        documents.extend(text_splitter.split_documents(pdf_docs))
+        documents.extend(text_splitter.split_documents(txt_docs))
     
+    return documents
+
+ # Inisialisasi RAG berdasarkan penyakit
+@st.cache_resource
+def init_recommendation():
     load_dotenv()
     GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
     embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=GEMINI_API_KEY)
     llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=GEMINI_API_KEY)
+
+    # Membuat retriever untuk setiap penyakit dengan database terpisah
+    retrievers = {}
+    for disease in ["HT", "DM", "Stroke"]:
+        documents = load_documents_by_disease(disease)
+        vector_db = FAISS.from_documents(documents, embeddings)
+        retrievers[disease] = vector_db.as_retriever(search_type="similarity", search_kwargs={"k": 5})
     
-    vector_db = FAISS.from_documents(documents, embeddings)
-    retriever = vector_db.as_retriever(search_type="similarity", search_kwargs={"k": 5})
+    return llm, retrievers   
 
-    return llm, retriever
+# Prompt untuk rekomendasi pengobatan
+def generate_treatment_prompt(query, context, selected_disease):
+    prompt = f"""
+    Anda adalah seorang ahli kesehatan yang membantu petugas kesehatan untuk memberikan rekomendasi pengobatan kepada pasien terkait penyakit {selected_disease}.
 
-# Prompt templates
-def generate_treatment_prompt(query, context):
-    return f"""
-    Profil dan Riwayat Pasien: {query}
-    Riwayat Medis dan Keterangan Medis: {context}
-    Berikan rekomendasi pengobatan yang singkat namun spesifik dan jelas.
+    **Profil, Riwayat Pasien, dan hasil prediksi**:
+    {query}
+
+    **Riwayat Medis dan Keterangan Medis**:
+    {context}
+
+    Berdasarkan informasi di atas, berikan rekomendasi pengobatan yang singkat namun spesifik dan jelas meliputi:
+    1. Obat yang disarankan beserta dosisnya (jika memungkinkan).
+    2. Metode pengobatan yang sesuai.
+    3. Langkah perawatan yang harus dilakukan oleh petugas medis terhadap pasien.
     """
+    return prompt
 
-def generate_lifestyle_prompt(query, context):
-    return f"""
-    Profil dan Riwayat Pasien: {query}
-    Riwayat Medis dan Keterangan Medis: {context}
-    Berikan rekomendasi pola hidup yang singkat namun spesifik.
-    """
+# Prompt untuk rekomendasi pola hidup
+def generate_lifestyle_prompt(query, context, selected_disease):
+    prompt = f"""
+    Anda adalah seorang ahli kesehatan yang membantu petugas kesehatan untuk memberikan rekomendasi pola hidup kepada pasien terkait penyakit {selected_disease}.
 
-def generate_followup_prompt(query, context):
-    return f"""
-    Profil dan Riwayat Pasien: {query}
-    Riwayat Medis dan Keterangan Medis: {context}
-    Berikan rekomendasi penanganan lanjutan yang singkat namun spesifik.
+    **Profil, Riwayat Pasien, dan hasil prediksi**:
+    {query}
+
+    **Riwayat Medis dan Keterangan Medis**:
+    {context}
+
+    Berdasarkan informasi di atas, berikan rekomendasi pola hidup yang singkat namun spesifik dan jelas meliputi:
+    1. Pola makan yang disarankan.
+    2. Aktivitas fisik atau latihan yang direkomendasikan.
+    3. Kebiasaan atau gaya hidup yang perlu dihindari.
     """
+    return prompt
+
+# Prompt untuk rekomendasi penanganan lanjutan
+def generate_followup_prompt(query, context, selected_disease):
+    prompt = f"""
+    Anda adalah seorang ahli kesehatan yang membantu petugas kesehatan untuk memberikan rekomendasi penanganan lanjutan kepada pasien terkait penyakit {selected_disease}.
+
+    **Profil, Riwayat Pasien, dan hasil prediksi**:
+    {query}
+
+    **Riwayat Medis dan Keterangan Medis**:
+    {context}
+
+    Berdasarkan informasi di atas, berikan rekomendasi penanganan lanjutan yang singkat namun spesifik dan jelas meliputi:
+    1. Tindak lanjut medis yang perlu dilakukan oleh pasien atau petugas kesehatan.
+    2. Jadwal kunjungan atau pemeriksaan ulang yang dianjurkan.
+    3. Tes atau pemeriksaan tambahan yang disarankan (jika ada).
+    """
+    return prompt
 
 # Fungsi untuk menampilkan input dalam tiga kolom samping
 def triple_column_input(inputs):
@@ -150,7 +192,16 @@ def predict_ht():
         
         # Menyimpan hasil prediksi di session_state untuk halaman rekomendasi
         st.session_state['ht_prediction'] = {
-            "input_data": input_data,
+            "cp": cp,
+            "trestbps": trestbps,
+            "chol": chol,
+            "restecg": restecg,
+            "thalach": thalach,
+            "exang": exang,
+            "oldpeak": oldpeak,
+            "slope": slope,
+            "ca": ca,
+            "thal": thal,
             "hasil_prediksi": hasil_prediksi
         }
         
@@ -167,7 +218,7 @@ def predict_dm():
         "HighCol": {"label": "Tinggi Kolestrol", "options": [0, 1], "type": "selectbox", 
                     "format_func": lambda x: "Tidak" if x == 0 else "Ya"},
         "BMI": {"label": "BMI", "min_value": 10.0, "max_value": 50.0, "step": 0.1, "type": "number_input"},
-        "GenHlh": {"label": "Kondisi Kesehatan Umum", "options": [1, 2, 3, 4, 5], "type": "selectbox", 
+        "GenHlth": {"label": "Kondisi Kesehatan Umum", "options": [1, 2, 3, 4, 5], "type": "selectbox", 
                    "format_func": lambda x: {1: "Sangat Buruk", 2: "Buruk", 3: "Sedang", 4: "Baik", 5: "Sangat Baik"}[x]},
         "HighBP": {"label": "Tekanan Darah Tinggi", "options": [0, 1], "type": "selectbox", 
                    "format_func": lambda x: "Tidak" if x == 0 else "Ya"}
@@ -178,13 +229,13 @@ def predict_dm():
         # Menangkap input pengguna
         Age = st.session_state.Age
         HighCol = st.session_state.HighCol
-        BMI = st.session_state.BMI
-        GenHlh = st.session_state.GenHlh
+        Bmi = st.session_state.BMI
+        GenHlth = st.session_state.GenHlth
         HighBP = st.session_state.HighBP
         
         # Membuat DataFrame untuk input
-        input_data = pd.DataFrame([[Age, HighCol, BMI, GenHlh, HighBP]], 
-                                  columns=['Age', 'HighCol', 'BMI', 'GenHlh', 'HighBP'])
+        input_data = pd.DataFrame([[Age, HighCol, Bmi, GenHlth, HighBP]], 
+                                  columns=['Age', 'HighCol', 'BMI', 'GenHlth', 'HighBP'])
         
         # Lakukan scaling pada data
         scaler = RobustScaler()
@@ -197,7 +248,11 @@ def predict_dm():
         
         # Menyimpan hasil prediksi di session_state untuk halaman rekomendasi
         st.session_state['dm_prediction'] = {
-            "input_data": input_data,
+            "Age": Age,
+            "HighCol": HighCol,
+            "BMI": Bmi,
+            "GenHlth": GenHlth,
+            "HighBP": HighBP,
             "hasil_prediksi": hasil_prediksi
         }
         
@@ -247,7 +302,12 @@ def predict_stroke():
         
         # Menyimpan hasil prediksi di session_state untuk halaman rekomendasi
         st.session_state['st_prediction'] = {
-            "input_data": input_data,
+            "hypertension": hypertension,
+            "heart_disease": heart_disease,
+            "ever_married": ever_married,
+            "work_type": work_type,
+            "avg_glucose_level": avg_glucose_level,
+            "bmi": bmi,
             "hasil_prediksi": hasil_prediksi
         }
         
@@ -256,54 +316,77 @@ def predict_stroke():
             st.session_state.page = 'Recommendation'
             st.rerun()
 
-# Fungsi untuk menampilkan rekomendasi
+# Fungsi untuk menampilkan rekomendasi dengan pemusatan menggunakan HTML
 def show_recommendation():
-    # Inisialisasi LLM dan retriever
-    llm, retriever = init_recommendation()
+    # Inisialisasi LLM dan retrievers
+    llm, retrievers = init_recommendation()
 
-    st.title("Rekomendasi Berdasarkan Prediksi")
+    # Memusatkan judul
+    st.markdown("<h1 style='text-align: center;'>Rekomendasi Berbasis RAG</h1>", unsafe_allow_html=True)
+    
     predictions = {
         'ht_prediction': 'Hipertensi',
         'dm_prediction': 'Diabetes',
-        'stroke_prediction': 'Stroke'
+        'st_prediction': 'Stroke'
     }
     available_predictions = {key: val for key, val in predictions.items() if key in st.session_state}
 
     if available_predictions:
-        selected_disease = st.selectbox("Pilih Penyakit untuk Rekomendasi:", list(available_predictions.values()))
+        # Memusatkan pilihan penyakit untuk rekomendasi
+        selected_disease = st.selectbox("Pilih Penyakit untuk Rekomendasi:", list(available_predictions.values()), index=0, key="disease_select")
+        
+        # Mengambil data prediksi dari state
         prediction_key = list(available_predictions.keys())[list(available_predictions.values()).index(selected_disease)]
         pred_data = st.session_state[prediction_key]
+        df = pd.DataFrame([pred_data])
         
-        st.write(f"### Rekomendasi untuk {selected_disease}")
-        st.write("Data Input:", pred_data['input_data'])
-        st.write("Hasil Prediksi:", pred_data['hasil_prediksi'])
-        additional_info = st.text_area("Informasi Tambahan")
+        # Memusatkan informasi data prediksi
+        st.markdown(f"<h3 style='text-align: center;'>Rekomendasi untuk {selected_disease}</h3>", unsafe_allow_html=True)
+        st.markdown("<div style='display: flex; justify-content: center;'>", unsafe_allow_html=True)
+        st.dataframe(df, width=700)
+        st.markdown("</div>", unsafe_allow_html=True)
+
+        # Memusatkan area untuk input informasi tambahan
+        st.markdown("<div style='text-align: center;'>", unsafe_allow_html=True)
+        additional_info = st.text_area("Informasi Tambahan", height=100)
+        st.markdown("</div>", unsafe_allow_html=True)
+        
+        # Membuat query dari data prediksi dan informasi tambahan
         query = f"{pred_data} {additional_info}"
-        
+
+        # Mengambil retriever sesuai penyakit yang dipilih
+        disease_key = "HT" if selected_disease == "Hipertensi" else "DM" if selected_disease == "Diabetes" else "Stroke"
+        retriever = retrievers[disease_key]
+
         # Mengambil dokumen yang relevan dengan retriever
         relevant_documents = retriever.get_relevant_documents(query)
-        # Menyusun konteks dari dokumen relevan yang didapatkan
         context = "\n".join([result.page_content for result in relevant_documents])
+        
+        # Memusatkan radio pilihan jenis rekomendasi
+        st.markdown("<div style='text-align: center;'>", unsafe_allow_html=True)
         recommendation_type = st.radio("Pilih Jenis Rekomendasi:", 
                                        ("Rekomendasi Pengobatan", "Rekomendasi Pola Hidup Sehat", "Rekomendasi Tindak Lanjut"))
+        st.markdown("</div>", unsafe_allow_html=True)
         
+        # Memusatkan tombol dan hasil rekomendasi
         if st.button("Dapatkan Rekomendasi"):
-
-            # Mengambil dokumen yang relevan dengan retriever
-            relevant_documents = retriever.get_relevant_documents(query)
             # Menyusun prompt berdasarkan jenis rekomendasi yang dipilih
             if recommendation_type == "Rekomendasi Pengobatan":
-                prompt = generate_treatment_prompt(query, context)
+                prompt = generate_treatment_prompt(query, context, selected_disease)
             elif recommendation_type == "Rekomendasi Pola Hidup Sehat":
-                prompt = generate_lifestyle_prompt(query, context)
+                prompt = generate_lifestyle_prompt(query, context, selected_disease)
             else:
-                prompt = generate_followup_prompt(query, context)
+                prompt = generate_followup_prompt(query, context, selected_disease)
+
             # Menghasilkan jawaban menggunakan LLM dengan prompt yang telah disusun
             messages = [HumanMessage(content=prompt)]
             answer = llm(messages=messages)
-            st.markdown(f"**Rekomendasi {recommendation_type}:** {answer.content}")
+
+            # Menampilkan jawaban rekomendasi dengan pemusatan
+            st.markdown(f"<div style='text-align: center;'><strong>Rekomendasi {recommendation_type}:</strong><br>{answer.content}</div>", unsafe_allow_html=True)
     else:
-        st.write("Silakan lakukan prediksi terlebih dahulu untuk mendapatkan rekomendasi.")
+        # Tampilkan pesan jika tidak ada prediksi yang tersedia
+        st.markdown("<div style='text-align: center;'>Silakan lakukan prediksi terlebih dahulu untuk mendapatkan rekomendasi.</div>", unsafe_allow_html=True)
 
 # Multipage logic
 def main():

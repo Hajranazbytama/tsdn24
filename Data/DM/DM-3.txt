@@ -1,0 +1,4047 @@
+PENCEGAHAN DAN PENANGANAN DIABETES MELLITUS
+Pendekatan Medis, Farmakologis, dan Psikologis
+
+Hartanti
+Jatie K. Pudjibudojo
+Lisa Aditama
+Retno Pudji Rahayu
+
+Penerbit
+Fakultas Psikologi Universitas Surabaya
+
+1
+
+©2013
+Penerbit
+Fakultas Psikologi Universitas Surabaya
+
+Penulis
+Jatie K. Pudjibudojo
+Hartanti
+Lisa Aditama
+Retno Pudji Rahayu
+Editor
+Windy Chintya
+Desain
+Martanty Aditya
+Dicetak di Indonesia
+
+Hak cipta dilindungi undang-undang
+Dilarang memperbanyak atau mengutip sebagian atau seluruh isi buku tanpa izin
+tertulis pemegang hak cipta
+
+KATA PENGANTAR
+Diabetes Mellitus (DM) merupakan salah satu masalah kesehatan yang dapat
+berdampak pada penurunan produktivitas sumber daya manusia. Penyakit ini
+tidak hanya berpengaruh secara individu, tetapi lebih luas dapat berpengaruh
+pada sistem kesehatan suatu negara. Walaupun belum ada survei nasional,
+sejalan dengan perubahan gaya hidup termasuk pola makan masyarakat
+Indonesia diperkirakan penderita DM ini semakin meningkat, terutama pada
+kelompok umur dewasa ke usia lanjut pada seluruh status sosial ekonomi. Saat
+ini upaya penanggulangan penyakit DM belum menempati skala prioritas utama
+dalam pelayanan kesehatan, walaupun diketahui dampak negatif yang
+ditimbulkannya cukup besar, antara lain komplikasi kronik pada penyakit jantung,
+hipertensi, otak, sistem saraf, hati, mata, dan ginjal.
+DM atau kencing manis adalah suatu penyakit yang disebabkan oleh peningkatan
+kadar gula dalam darah (hiperglikemi) akibat kekurangan hormon insulin baik
+absolut maupun relatif.
+Mengonsumsi makanan bergizi seimbang dan rutin melakukan aktivitas fisik
+adalah pilar utama untuk mengelola diabetes atau menurunkan berat badan.
+Tetapi, masih ada satu hal lain yang tidak boleh diabaikan yaitu manajemen
+stres. Penelitian mengungkapkan bahwa manajemen stres penting bagi
+kesehatan apalagi jika sudah divonis mengidap diabetes. Sebuah studi dari Duke
+University di Durham, Carolina Utara, menemukan, ketika seseorang melakukan
+teknik relaksasi, maka kadar A1C akan cenderung turun. A1C adalah suatu
+parameter yang menunjukkan progresivitas penyakit diabetes
+mellitus.
+Dari uraian di atas, penulis menjadi tertarik untuk membuat buku
+PENCEGAHAN DAN PENANGANAN DIABETES MELLITUS, Pendekatan Medis,
+Farmakologis, dan Psikologis, sebagai suatu bacaan untuk pencegahan dan
+penanganan diabetes mellitus secara holistik.
+Buku ini dapat terbit atas biaya dari dana hibah IbIKK Dikti tentang Rumah
+Diabetes
+UBAYA,
+Tahun
+Pertama
+Anggaran
+2013,
+Nomor:
+386/SP2H/KPM/DIT.LITABMAS/V/2013.
+Semoga buku ini bermanfaat bagi para pembaca.
+Penulis
+
+i
+
+DAFTAR ISI
+KATA PENGANTAR ......................................................................................... i
+DAFTAR ISI ................................................................................................... ii
+A.
+
+PENDEKATAN FARMAKOLOGI ................................................................. 1
+ASPEK PELAYANAN KEFARMASIAN DALAM TATA KELOLA DIABETES MELLITUS
+I. Overview Global Diabetes Management ............................................................ 1
+II. Pelayanan Kefarmasian (Pharmaceutical Care) .............................................. 4
+III. Diabetes Mellitus ................................................................................................ 6
+IV. Penatalaksanaan Diabetes Mellitus ................................................................ 17
+V. Peran Farmasis dalam Pengelolaan DM ......................................................... 23
+
+B. PENDEKATAN MEDIS ............................................................................... 44
+KOMPLIKASI PENYAKIT DIABETES MELLITUS DI RONGGA MULUT ............... 44
+I. Pendahuluan…………………………………………………………………………………..44
+II. Klasifikasi Diabetes Mellitus……………………………………………………………..46
+III. Pemeriksaan Diabetes Mellitus………………………………………………………..52
+IV. Kesimpulan ........................................................................................................ 55
+Daftar Pustaka ......................................................................................... 56
+C. PENDEKATAN PSIKOLOGIS ....................................................................... 57
+I.STRES DAN CARA MENGATASINYA ....................................................... 57
+A. Stres dan Diabetes ..................................................................................... 59
+B. Cara menanggulangi stres ........................................................................ 60
+II.BIBLIOTHERAPY ................................................................................ 66
+A.Teknik Intervensi Biblioterapi .................................................................... 69
+ii
+
+B. Materi Biblioterapi ....................................................................................... 71
+C. Tahapan Pelaksanaan Biblioterapi ............................................................ 72
+D. Aplikasi biblioterapi ..................................................................................... 77
+E. Kekuatan dan kelemahan Teknik Biblioterapi ......................................... 79
+F. Keberhasilan Biblioterapi ............................................................................ 80
+III. RELAKSASI OTOT .................................................................................. 81
+IV. TERAPI BERSYUKUR ............................................................................... 84
+A. Pengertian Bersyukur ........................................................................................ 84
+B. Komponen Bersyukur ........................................................................................ 87
+C. Jenis Bersyukur .................................................................................................. 87
+D. Teknik Bersyukur ............................................................................................... 89
+PUSTAKA ................................................................................................. 90
+
+iii
+
+a. PENDEKATAN FARMAKOLOGI
+ASPEK PELAYANAN KEFARMASIAN DALAM TATA KELOLA DIABETES
+MELLITUS
+
+I.
+
+Overview Global Diabetes Management
+Menurut survei yang dilakukan World Health Organization (WHO),
+
+Indonesia menempati urutan ke-4 dengan jumlah pasien diabetes terbesar di
+dunia setelah India, Cina dan Amerika Serikat.1 Sedangkan dari data Departemen
+Kesehatan, jumlah pasien diabetes rawat inap maupun rawat jalan di rumah sakit
+menempati urutan pertama dari seluruh penyakit endokrin. Melihat permasalahan
+tersebut, menurut Menteri Kesehatan (Menkes), jika tidak diintervensi secara
+serius, permasalahan diabetes akan bertambah besar sehingga akan sulit untuk
+menanggulanginya. Upaya pencegahan dan penanggulangan tidak dapat
+dilakukan oleh pemerintah saja tetapi harus oleh semua pihak, karena itu Menkes
+menghargai dan menyambut baik kegiatan berbagai organisasi profesi dan
+kemasyarakatan membantu pemerintah dan masyarakat dalam mengatasi
+masalah diabetes di Indonesia.2
+Di Indonesia saat ini penyakit diabetes belum menempati skala prioritas
+utama pelayanan kesehatan walaupun sudah jelas dampak negatifnya, yaitu
+berupa penurunan kualitas sumber daya manusia, terutama akibat komplikasi
+kronis
+
+yang
+
+ditimbulkannya,
+
+seperti
+
+gangguan
+
+mikrovaskular
+
+dan
+
+makrovaskular.3,4
+Pelayanan kefarmasian pada saat ini telah bergeser orientasinya dari obat
+ke pasien yang mengacu kepada pelayanan kefarmasian (pharmaceutical care).
+Kegiatan pelayanan kefarmasian yang semula hanya berfokus pada pengelolaan
+obat sebagai komoditi menjadi layanan komprehensif yang bertujuan untuk
+meningkatkan kualitas hidup dari pasien. Sebagai konsekuensi perubahan
+orientasi
+
+tersebut,
+
+apoteker
+
+dituntut
+
+untuk
+
+meningkatkan
+
+pengetahuan,
+
+ketrampilan dan perilaku untuk dapat melaksanakan interaksi langsung dengan
+1
+
+pasien. Bentuk interaksi tersebut antara lain adalah melaksanakan pemberian
+informasi, monitoring penggunaan obat dan mengetahui tujuan terapinya sesuai
+dengan harapan dan terdokumentasi dengan baik. Apoteker harus memahami
+dan menyadari kemungkinan terjadinya kesalahan pengobatan (medication error)
+dalam proses layanan. Oleh sebab itu apoteker dalam menjalankan praktek harus
+sesuai standar yang ada untuk menghindari terjadinya hal tersebut yang
+ditetapkan dalam Keputusan Menteri Kesehatan Nomor 1027/Menkes/SK/IX/2004
+tentang Standar Pelayanan kefarmasian di Apotek.5,6
+WHO dalam laporan kelompok konsultatif “Menyiapkan Apoteker Masa
+Depan” pada tahun 1997 telah mengidentifikasikan 7 peran apoteker yang
+dikenal sebagai Seven stars pharmacist, yaitu seorang apoteker sebagai care–
+
+giver (pemberi layanan), decision-maker (pengambil keputusan), komunikator,
+pemimpin, manajer, long-life learner (pembelajar sepanjang hayat) dan guru.
+Fungsi seorang apoteker dalam memberikan layanan kesehatan dapat diuraikan
+lebih lanjut menjadi beberapa aspek antara lain sebagai seorang manajer obat
+yang berkualitas, guru (trainer dan supervisor), komunikator, care giver.
+Sehubungan dengan hal tersebut, maka dapat dipahami bahwa dalam
+penatalakasanaan diabetes, para apoteker tidak hanya dapat terlibat dalam
+berbagai aspek farmakoterapi atau yang berhubungan dengan obat semata,
+tetapi lebih luas lagi dapat terlibat dalam berbagai tahap dan aspek
+penatalaksanaan
+
+diabetes,
+
+mulai
+
+dari
+
+skrining
+
+diabetes
+
+sampai
+
+dengan
+
+pencegahan dan penanganan komplikasi. Layanan residensial (home care)
+adalah layanan apoteker sebagai care giver dalam pelayanan kefarmasian di
+rumah-rumah khususnya untuk kelompok lansia dan pasien dengan pengobatan
+terapi kronis lainnya.3,5
+Pilar utama penatalaksanaan diabetes adalah memberikan edukasi
+kepada pasien, perencanaan diet/ nutrisi, latihan jasmani dan obat-obatan.4
+Hambatan untuk tercapainya perawatan diabetes yang optimal antara lain adalah
+pasien usia lanjut, progresivitas dari penyakit, regimen terapi yang kompleks
+(polypharmacy) dan kurangnya kepatuhan pasien serta kesulitan untuk akses
+dengan tenaga kesehatan.7,8 Hal ini menjadi tantangan atas tersedianya layanan
+
+home care sebagai bentuk layanan pharmaceutical care dalam penatalaksanaan
+2
+
+diabetes.9,10 Dari beberapa penelitian yang pernah dilakukan, di antaranya
+memberikan hasil bahwa dengan layanan home care akan meningkatkan
+kepatuhan pasien terhadap pengobatan sehingga berdampak pada tercapainya
+kontrol gula darah yang optimal, mencegah komplikasi dan meningkatkan
+kualitas hidup pasien diabetes.9,11,12
+
+Home care merupakan layanan yang memiliki spesialisasi dan ketentuan
+standar, yang memberikan penilaian terhadap klinis dan pemakaian produk
+farmasi yang kompleks serta melakukan monitoring terhadap pasien di rumah.13
+Farmasis adalah profesi yang memiliki kompetensi untuk melakukan
+
+home care yang berorientasi pada pasien antara lain : mendukung kepatuhan
+pasien terhadap terapi, monitoring efektivitas dan efek samping obat terutama
+pada terapi dengan obat baru, edukasi pasien dengan menggunakan model
+intervensi Diabetes Self-Management Education (DSME), melakukan review
+terhadap regimen terapi dengan menggunakan model Medication Therapy
+
+Management (MTM) (identifikasi Drug Related Problems/ DRP, assessment,
+follow up, Self-Monitoring Blood Glucose/ SMBG), serta bekerjasama dengan
+tenaga kesehatan
+
+dan keluarga pasien
+
+dalam
+
+penyampaian
+
+edukasi dan
+
+informasi obat dan perkembangan terapi.7,12,14,15 Praktek Farmasis dalam layanan
+
+home care ini menggunakan model DSME dan MTM in Pharmacy Practice yang
+mengacu pada filosofi dan proses pharmaceutical care, untuk pasien dengan
+penyakit kronis seperti diabetes.16,17
+Penatalaksanaan diabetes yang baik membutuhkan kerjasama yang erat
+dan terpadu dari pasien dan keluarganya dengan tenaga kesehatan antara lain
+dokter, farmasis dan ahli gizi. Pentingnya peran farmasis dalam keberhasilan
+pengelolaan diabetes ini menjadi lebih bermakna karena pasien diabetes
+umumnya merupakan pelanggan tetap di apotek, sehingga frekuensi pertemuan
+pasien diabetes dengan farmasis di apotek mungkin lebih tinggi daripada
+pertemuannya dengan dokter. Peluang ini harus dapat dimanfaatkan seoptimal
+mungkin oleh farmasis dalam rangka memberikan pelayanan kefarmasian yang
+profesional.3
+Penelitian oleh Handayani RS, Gitawati R, Muktiningsih SR di apotekapotek yang mewakili wilayah Jakarta, Yogyakarta dan Makassar (2006),
+3
+
+menyimpulkan bahwa semua apotek yang disurvei belum memprioritaskan
+pelayanan kefarmasian dengan pendekatan personal kepada pasien (masih
+berorientasi pada obat) atau layanan dengan pendekatan personal kepada pasien
+(orientasi pasien) belum dikenal masyarakat.18
+Sejak konsep pharmaceutical care dikenal di United States 20 tahun yang
+lalu, perkembangannya lambat namun sedang terus berjalan. Beberapa
+penelitian yang dilakukan menunjukkan keberhasilan dalam pengelolaan penyakit
+kronis dan polifarmasi pada pasien yang diberikan pelayanan kefarmasian,
+namun masih dibutuhkan lebih banyak proyek penelitian lagi untuk mendukung
+pelaksanaan pharmaceutical care.19
+II.
+
+Pelayanan Kefarmasian (Pharmaceutical Care)
+Heppler dan Strand (1990) mendefinisikan pharmaceutical care sebagai
+
+”the responsible provision of drug therapy for purpose of achieving definite
+
+outcomes that improve a patient’s quality of life”. Pada tahun 1998, definisi ini
+disempurnakan oleh Cipolle, Strand dan Morley menjadi “a practice in which the
+
+practitioner takes responsibility for a patient’s drug therapy needs, and is held
+accountable for this commitment”.6
+Konsep perencanaan pelayanan kefarmasian telah dirangkai oleh banyak
+praktisi farmasi klinis. Meskipun definisi pelayanan kefarmasian telah diterapkan
+secara berbeda dalam negara yang berbeda, gagasan dasarnya adalah farmasis
+bertanggung jawab terhadap hasil penggunaan obat oleh/ untuk pasien sama
+seperti seorang dokter bertanggung jawab terhadap layanan medis dan
+keperawatan yang mereka berikan.2 Tahapan dalam pharmaceutical care process
+ditunjukkan pada Gambar 2.16
+
+4
+
+Establish a Therapeutic Relationship
+
+Assessment
+Ensure all drug therapy is
+indicated, effective, safe &
+convenient.
+Identify
+drug
+therapy
+problems to resolve and
+prevent
+
+Care Plan
+Resolve
+drug
+therapy
+problems.
+Achieve therapeutic goals
+Prevent
+drug
+therapy
+problems
+
+Evaluation
+Record actual patient
+outcomes
+Evaluate progress in
+meeting
+therapeutic
+goals. Reaccess for new
+problem
+
+Continuous Follow up
+Gambar 2.1 The Pharmaceutical Care Process–Assessment, Care Plan,
+
+Evaluation
+Konsep pelayanan kefarmasian lahir karena kebutuhan untuk bisa
+mengkuantifikasi pelayanan kefarmasian yang diberikan, baik di klinik maupun di
+apotek (komunitas), sehingga peran apoteker dalam layanan kepada pasien
+dapat terukur.
+Penekanan Pelayanan kefarmasian terletak pada dua hal utama, yaitu:
+1. Apoteker menentukan pelayanan kefarmasian yang dibutuhkan pasien
+sesuai kondisi penyakit.
+2. Apoteker membuat komitmen utk meneruskan layanan setelah dimulai
+secara berkesinambungan.
+Berkembangnya paradigma baru tentang pelayanan kefarmasian ini tidak
+jarang mengundang salah pengertian profesi kesehatan lain. Oleh sebab itu perlu
+ditekankan bahwa pelayanan kefarmasian yang dilakukan seorang apoteker
+bukan untuk menggantikan dokter atau profesi lain, namun lebih pada
+pemenuhan kebutuhan dalam sistem layanan kesehatan yang muncul, antara
+lain:
+a. Adanya kecenderungan polifarmasi, terutama untuk pasien lanjut usia
+ataupun pasien penyakit kronis.
+b. Makin beragamnya produk obat yang beredar di pasaran berikut
+informasinya.
+c. Peningkatan kompleksitas terapi obat.
+5
+
+d. Peningkatan morbiditas & mortalitas yang disebabkan masalah terapi
+obat.
+e. Mahalnya biaya terapi apalagi bila disertai kegagalan terapi.
+Secara prinsip, pelayanan kefarmasian terdiri dari beberapa tahap yang
+harus dilaksanakan secara berurutan:
+1. Penyusunan informasi dasar atau database pasien
+2. Evaluasi atau Pengkajian (Assessment)
+3. Penyusunan rencana pelayanan kefarmasian
+4. Implementasi rencana pelayanan kefarmasian
+5. Monitoring implementasi
+6. Tindak lanjut (Follow Up)
+Untuk lingkungan praktek yang minim data pasien seperti di apotek,
+maka
+
+perlu
+
+penyesuaian
+
+dalam
+
+praktek
+
+pelayanan
+
+kefarmasian.
+
+Tahap
+
+penyusunan dan evaluasi informasi dengan cara wawancara (interview) menjadi
+tumpuan untuk menentukan tahap selanjutnya dalam pelayanan kefarmasian.3
+
+III. Diabetes Mellitus
+III.1. Klasifikasi Diabetes Mellitus
+Klasifikasi
+
+diabetes
+
+melitus
+
+(DM)
+
+mengalami
+
+perkembangan
+
+dan
+
+perubahan dari waktu ke waktu. Dahulu diabetes diklasifikasikan berdasarkan
+waktu munculnya (time of onset). Diabetes yang muncul sejak masa kanakkanak disebut juvenile diabetes, sedangkan yang baru muncul setelah seseorang
+berumur di atas 45 tahun disebut sebagai adult diabetes. Namun klasifikasi ini
+sudah tidak layak dipertahankan lagi, sebab banyak sekali kasus-kasus diabetes
+yang muncul pada usia 20-39 tahun, yang menimbulkan kebingungan untuk
+mengklasifikasikannya.
+Pada tahun 1980 WHO mengemukakan klasifikasi baru DM memperkuat
+rekomendasi National Diabetes Data Group pada tahun 1979 yang mengajukan 2
+tipe utama diabetes melitus, yaitu "Insulin- Dependent Diabetes Mellitus" (IDDM)
+disebut juga DM Tipe 1 dan "Non-Insulin-Dependent Diabetes Mellitus" (NIDDM)
+yang disebut juga DM Tipe 2. Pada tahun 1985 WHO mengajukan revisi
+6
+
+klasifikasi dan tidak lagi menggunakan terminologi DM Tipe 1 dan 2, namun
+tetap mempertahankan istilah "Insulin-Dependent Diabetes Mellitus" (IDDM) dan
+"Non-Insulin-Dependent Diabetes Mellitus" (NIDDM), walaupun ternyata dalam
+publikasi-publikasi WHO selanjutnya istilah DM Tipe 1 dan 2 tetap muncul.
+Disamping dua tipe utama diabetes melitus tersebut, pada klasifikasi
+tahun 1980 dan 1985 ini WHO juga menyebutkan 3 kelompok diabetes lain yaitu
+Diabetes Tipe Lain, Toleransi Glukosa Terganggu atau Impaired Glucose
+
+Tolerance (IGT) dan Diabetes Melitus Gestasional atau Gestational Diabetes
+Melitus (GDM). Pada revisi klasifikasi tahun 1985 WHO juga mengintroduksikan
+satu tipe diabetes yang disebut Diabetes Melitus terkait Malnutrisi atau
+
+Malnutrition-related Diabetes Mellitus (MRDM). Klasifkasi ini akhirnya juga
+dianggap kurang tepat dan membingungkan sebab banyak kasus NIDDM (NonInsulin-Dependent Diabetes Mellitus) yang ternyata juga memerlukan terapi
+insulin. Saat ini terdapat kecenderungan untuk melakukan pengklasifikasian lebih
+berdasarkan etiologi penyakitnya.3,22 Klasifikasi Diabetes Melitus berdasarkan
+etiologinya dapat dilihat pada Tabel 3.1.
+Tabel 3.1. Klasifikasi Diabetes Mellitus Berdasarkan Etiologinya22
+1
+
+Diabetes Mellitus Tipe 1:
+Destruksi sel β umumnya menjurus ke arah defisiensi insulin absolut
+A. Melalui proses imunologik (Otoimunologik)
+B. Idiopatik
+
+2
+
+Diabetes Mellitus Tipe 2
+Bervariasi, mulai yang predominan resistensi insulin disertai defisiensi
+insulin relatif sampai yang predominan gangguan sekresi insulin bersama
+resistensi insulin
+
+3
+
+Diabetes Mellitus Tipe Lain
+A. Defek genetik fungsi sel β :
+• Kromosom 12, HNF-1 α (dahulu disebut MODY 3)
+• Kromosom 7, glukokinase (dahulu disebut MODY 2)
+• Kromosom 20, HNF-4 α (dahulu disebut MODY 1)
+7
+
+• DNA mitokondria
+B. Defek genetik kerja insulin
+C. Penyakit eksokrin pankreas:
+• Pankreatitis
+• Trauma/Pankreatektomi
+• Neoplasma
+• Cistic Fibrosis
+• Hemokromatosis
+• Pankreatopati fibro kalkulus
+D. Endokrinopati:
+1. Akromegali
+2. Sindroma Cushing
+3. Feokromositoma
+4. Hipertiroidisme
+E. Diabetes karena obat/zat kimia: Glukokortikoid, hormon tiroid, asam
+nikotinat, pentamidin, vacor, tiazid, dilantin, interferon
+F. Diabetes karena infeksi
+G. Diabetes Imunologi (jarang)
+H. Sidroma genetik lain: Sindroma Down, Klinefelter, Turner, Huntington,
+
+Chorea, Prader Willi
+4
+
+Diabetes Mellitus Gestasional
+Diabetes mellitus yang muncul pada masa kehamilan, umumnya bersifat
+sementara, tetapi merupakan faktor risiko untuk DM Tipe 2
+
+5
+
+Pra-diabetes:
+A. IFG (Impaired Fasting Glucose) = GPT (Glukosa Puasa Terganggu)
+B. IGT (Impaired Glucose Tolerance) = TGT (Toleransi Glukosa
+Terganggu)
+
+8
+
+III.2 Etiologi dan Patofisiologi
+III.2.1.Diabetes Mellitus Tipe 1
+Diabetes tipe ini merupakan diabetes yang jarang atau sedikit
+populasinya, diperkirakan kurang dari 5-10% dari keseluruhan populasi pasien
+diabetes. Gangguan produksi insulin pada DM Tipe 1 umumnya terjadi karena
+kerusakan sel-sel β pulau Langerhans yang disebabkan oleh reaksi otoimun.
+Namun ada pula yang disebabkan oleh bermacam-macam virus, diantaranya
+virus Cocksakie, Rubella, CMVirus, Herpes, dan lain sebagainya.
+Destruksi otoimun dari sel-sel β pulau Langerhans kelenjar pankreas
+langsung mengakibatkan defisiensi sekresi insulin. Defisiensi insulin inilah yang
+menyebabkan gangguan metabolisme yang menyertai DM Tipe 1. Selain
+defisiensi insulin, fungsi sel-sel α kelenjar pankreas pada pasien DM Tipe 1 juga
+menjadi tidak normal. Pada pasien DM Tipe 1 ditemukan sekresi glukagon yang
+berlebihan oleh sel-
+
+s. Secara normal, hiperglikemia akan
+
+menurunkan sekresi glukagon, namun pada pasien DM Tipe 1 hal ini
+
+tidak
+
+terjadi, sekresi glukagon tetap tinggi walaupun dalam keadaan hiperglikemia. Hal
+ini memperparah kondisi hiperglikemia. Salah satu manifestasi dari keadaan ini
+adalah cepatnya pasien DM Tipe 1 mengalami ketoasidosis diabetik apabila tidak
+mendapat terapi insulin. Salah satu masalah jangka panjang pada pasien DM
+Tipe 1 adalah rusaknya kemampuan tubuh untuk mensekresi glukagon sebagai
+respon
+
+terhadap
+
+hipoglikemia.
+
+Hal
+
+ini
+
+dapat
+
+menyebabkan
+
+timbulnya
+
+hipoglikemia yang dapat berakibat fatal pada pasien DM Tipe 1 yang sedang
+mendapat terapi insulin.
+Walaupun defisiensi sekresi insulin merupakan masalah utama pada DM
+Tipe 1, namun pada pasien yang tidak dikontrol dengan baik, dapat terjadi
+penurunan kemampuan sel-sel sasaran untuk merespons terapi insulin yang
+diberikan. Ada beberapa mekanisme biokimia yang dapat menjelaskan hal ini,
+salah satu diantaranya adalah, defisiensi insulin menyebabkan meningkatnya
+asam lemak bebas di dalam darah sebagai akibat dari lipolisis yang tak terkendali
+di jaringan adiposa. Asam lemak bebas di dalam darah akan menekan
+metabolisme glukosa di jaringan-jaringan perifer seperti misalnya di jaringan otot
+
+9
+
+rangka, dengan perkataan lain akan menurunkan penggunaan glukosa oleh
+tubuh.3,22
+
+III.2.2 Diabetes Mellitus Tipe 2
+Diabetes Tipe 2 merupakan tipe diabetes yang lebih umum, lebih banyak
+pasiennya dibandingkan dengan DM Tipe 1. Pasien DM Tipe 2 mencapai 90-95%
+dari keseluruhan populasi pasien diabetes, umumnya berusia di atas 45 tahun,
+tetapi akhir-akhir ini pasien DM Tipe 2 di kalangan remaja dan anak-anak
+populasinya meningkat.
+Etiologi DM Tipe 2 merupakan multifaktor yang belum sepenuhnya
+terungkap dengan jelas. Faktor genetik dan pengaruh lingkungan cukup besar
+dalam menyebabkan terjadinya DM tipe 2, antara lain obesitas, diet tinggi lemak
+dan rendah serat, serta kurang gerak badan.
+Obesitas atau kegemukan merupakan salah satu faktor pradisposisi
+utama. Penelitian terhadap mencit dan tikus menunjukkan bahwa ada hubungan
+antara gen-gen yang bertanggung jawab terhadap obesitas dengan gen-gen
+yang merupakan faktor pradisposisi untuk DM Tipe 2.
+Berbeda dengan DM Tipe 1, pada pasien DM Tipe 2, terutama yang
+berada pada tahap awal, umumnya dapat dideteksi jumlah insulin yang cukup di
+dalam darahnya, disamping kadar glukosa yang juga tinggi. Jadi, awal
+patofisiologis DM Tipe 2 bukan disebabkan oleh kurangnya sekresi insulin, tetapi
+karena sel-sel sasaran insulin gagal atau tak mampu merespon insulin secara
+normal. Keadaan ini lazim disebut sebagai “Resistensi Insulin”. Resistensi insulin
+banyak terjadi di negara-negara maju seperti Amerika Serikat, antara lain
+sebagai akibat dari obesitas, gaya hidup kurang gerak (sedentary), dan penuaan.
+Disamping resistensi insulin, pada pasien DM Tipe 2 dapat juga timbul
+gangguan sekresi insulin dan produksi glukosa hepatik yang berlebihan. Namun
+demikian, tidak terjadi pengrusakan sel-sel β Langerhans secara otoimun
+sebagaimana yang terjadi pada DM Tipe 1. Dengan demikian defisiensi fungsi
+insulin pada pasien DM Tipe 2 hanya bersifat relatif, tidak absolut. Oleh sebab itu
+dalam penanganannya umumnya tidak memerlukan terapi pemberian insulin.
+10
+
+Sel-sel β kelenjar pankreas mensekresi insulin dalam dua fase. Fase
+pertama sekresi insulin terjadi segera setelah stimulus atau rangsangan glukosa
+yang ditandai dengan meningkatnya kadar glukosa darah, sedangkan sekresi
+fase kedua terjadi sekitar 20 menit sesudahnya. Pada awal perkembangan DM
+Tipe 2, sel-sel β menunjukkan gangguan pada sekresi insulin fase pertama,
+artinya sekresi insulin gagal mengkompensasi resistensi insulin Apabila tidak
+ditangani dengan baik, pada perkembangan penyakit selanjutnya pasien DM Tipe
+2 akan mengalami kerusakan sel-sel β pankreas yang terjadi secara progresif,
+yang seringkali akan mengakibatkan defisiensi insulin, sehingga akhirnya pasien
+memerlukan insulin eksogen. Penelitian mutakhir menunjukkan bahwa pada
+pasien DM Tipe 2 umumnya ditemukan kedua faktor tersebut, yaitu resistensi
+insulin dan defisiensi insulin.3,22
+Berdasarkan uji toleransi glukosa oral, pasien DM Tipe 2 dapat dibagi
+menjadi 4 kelompok:3,22
+a. Kelompok yang hasil uji toleransi glukosanya normal
+b. Kelompok yang hasil uji toleransi glukosanya abnormal, disebut juga Diabetes
+Kimia (Chemical Diabetes)
+c. Kelompok yang menunjukkan hiperglikemia puasa minimal (kadar glukosa
+plasma puasa < 140 mg/dl)
+d. Kelompok yang menunjukkan hiperglikemia puasa tinggi (kadar glukosa
+plasma puasa > 140 mg/dl).
+Secara ringkas, perbedaan DM Tipe1dengan DM Tipe 2 disajikan dalam Tabel
+3.2.
+
+11
+
+Tabel 3.2. Perbandingan Perbedaan DM tipe 1 dan 2
+DM Tipe 1
+Mula muncul
+
+DM Tipe 2
+
+Umumnya masa kanak- Pada usia tua, umumnya
+kanak dan remaja,walau > 40 tahun
+pun ada juga pada masa
+dewasa < 40 tahun
+
+Keadaan klinis saat
+
+Berat
+
+Ringan
+
+Kadar insulin darah
+
+Rendah, tak ada
+
+Cukup tinggi, normal
+
+Berat badan
+
+Biasanya kurus
+
+Gemuk atau normal
+
+Pengelolaan yang
+
+Terapi insulin, diet,
+
+Diet, olahraga,
+
+disarankan
+
+olahraga
+
+hipoglikemik oral
+
+diagnosis
+
+III.2.3 Diabetes Mellitus Gestasional
+Diabetes Mellitus Gestasional (GDM =Gestational Diabetes Mellitus)
+adalah keadaan diabetes atau intoleransi glukosa yang timbul selama masa
+kehamilan, dan biasanya berlangsung hanya sementara atau temporer. Sekitar 45% wanita hamil diketahui menderita GDM, dan umumnya terdeteksi pada atau
+setelah trimester kedua.
+Diabetes dalam masa kehamilan, walaupun umumnya kelak dapat pulih
+sendiri beberapa saat setelah melahirkan, namun dapat berakibat buruk terhadap
+bayi yang dikandung. Akibat buruk yang dapat terjadi antara lain malformasi
+kongenital, peningkatan berat badan bayi ketika lahir dan meningkatnya risiko
+mortalitas perinatal. Disamping itu, wanita yang pernah menderita GDM akan
+lebih besar risikonya untuk menderita lagi diabetes di masa depan. Kontrol
+metabolisme yang ketat dapat mengurangi risiko-risiko tersebut.3,22
+
+12
+
+III.2.4 Pra-diabetes
+Pra-diabetes adalah kondisi dimana kadar gula darah seseorang berada
+diantara kadar normal dan diabetes, lebih tinggi dari pada normal tetapi tidak
+cukup tinggi untuk dikatagorikan ke dalam diabetes tipe 2. Pasien pradiabetes
+diperkirakan cukup banyak, di Amerika diperkirakan ada sekitar 41 juta orang
+yang tergolong pra-diabetes, disamping 18,2 orang pasien diabetes (perkiraan
+untuk tahun 2000). Di Indonesia, angkanya belum pernah dilaporkan, namun
+diperkirakan cukup tinggi, jauh lebih tinggi dari pada pasien diabetes.
+Kondisi pra-diabetes merupakan faktor risiko untuk diabetes, serangan
+jantung dan stroke. Apabila tidak dikontrol dengan baik, kondisi pra-diabetes
+dapat meningkat menjadi diabetes tipe 2 dalam kurun waktu 5-10 tahun. Namun
+pengaturan diet dan olahraga yang baik dapat mencegah atau menunda
+timbulnya diabetes.
+Ada dua tipe kondisi pra-diabetes, yaitu:
+1. Impaired Fasting Glucose (IFG), yaitu keadaan dimana kadar glukosa
+darah puasa seseorang sekitar 100-125 mg/dl (kadar glukosa darah
+puasa normal: <100 mg/dl), atau
+2. Impaired Glucose Tolerance (IGT) atau Toleransi Glukosa Terganggu
+(TGT), yaitu keadaan dimana kadar glukosa darah seseorang pada uji
+toleransi glukosa berada di atas normal tetapi tidak cukup tinggi untuk
+dikatagorikan ke dalam kondisi diabetes. Diagnosa IGT ditetapkan apabila
+kadar glukosa darah seseorang 2 jam setelah mengkonsumsi 75 gram
+glukosa per oral berada diantara 140-199 mg/dl.3,22
+III.3 Diagnosis
+Diagnosis klinis DM umumnya akan dipikirkan apabila ada keluhan khas
+DM berupa poliuria, polidipsia, polifagia, dan penurunan berat badan yang tidak
+dapat dijelaskan penyebabnya. Keluhan lain yang mungkin disampaikan pasien
+antara lain badan terasa lemah, sering kesemutan, gatal-gatal, mata kabur,
+disfungsi ereksi pada pria, dan pruritus vulvae pada wanita.
+Apabila ada keluhan khas, hasil pemeriksaan kadar glukosa darah
+sewaktu > 200 mg/dl sudah cukup untuk menegakkan diagnosis DM. Hasil
+pemeriksaan kadar glukosa darah puasa ≥ 126 mg/dl juga dapat digunakan
+13
+
+sebagai patokan diagnosis DM.3,22 Untuk lebih jelasnya dapat dilihat pada Tabel
+3.3 berikut ini.
+Tabel 3.3. Kriteria penegakan diagnosis
+Glukosa Plasma Puasa
+
+Glukosa Plasma
+2 jam setelah makan
+
+Normal
+
+<100 mg/dL
+
+<140 mg/dL
+
+Pra-diabetes
+
+100 – 125 mg/dL
+
+––
+
+IFG atau IGT
+
+––
+
+140 – 199 mg/dL
+
+Diabetes
+
+≥126 mg/dL
+
+≥200 mg/dL
+
+III.4 Komplikasi
+Diabetes yang tidak terkontrol dengan baik dapat menimbulkan
+komplikasi akut dan kronis. Berikut ini akan diuraikan beberapa komplikasi yang
+sering terjadi dan. harus diwaspadai.
+A. Hipoglikemia
+Sindrom hipoglikemia ditandai dengan gejala klinis pasien merasa pusing,
+lemas, gemetar, pandangan berkunang-kunang, pitam (pandangan menjadi
+gelap), keluar keringat dingin, detak jantung meningkat, sampai hilang
+kesadaran. Apabila tidak segera ditolong dapat terjadi kerusakan otak dan
+akhirnya kematian.
+Pada hipoglikemia, kadar glukosa plasma pasien kurang dari 50 mg/dl,
+walaupun
+
+ada
+
+orang-orang
+
+tertentu
+
+yang
+
+sudah
+
+menunjukkan
+
+gejala
+
+hipoglikemia pada kadar glukosa plasma di atas 50 mg/dl. Kadar glukosa darah
+yang terlalu rendah menyebabkan sel-sel otak tidak mendapat pasokan energi
+sehingga tidak dapat berfungsi bahkan dapat rusak.
+Hipoglikemia lebih sering terjadi pada pasien diabetes tipe 1, yang dapat
+dialami 1 – 2 kali perminggu. Dari hasil survei yang pernah dilakukan di Inggris
+diperkirakan 2 – 4% kematian pada pasien diabetes tipe 1 disebabkan oleh
+14
+
+serangan hipoglikemia. Pada pasien diabetes tipe 2, serangan hipoglikemia lebih
+jarang terjadi, meskipun pasien tersebut mendapat terapi insulin.
+Serangan hipoglikemia pada pasien diabetes umumnya terjadi apabila
+pasien:
+1. Lupa atau sengaja meninggalkan makan (pagi, siang atau malam)
+2. Makan terlalu sedikit, lebih sedikit dari yang disarankan oleh dokter atau
+ahli gizi
+3. Berolah raga terlalu berat
+4. Mengkonsumsi obat antidiabetes dalam dosis lebih besar dari pada
+seharusnya
+5. Minum alkohol
+6. Stress
+7. Mengkonsumsi obat-obatan lain yang dapat meningkatkan risiko
+hipoglikemia
+Disamping penyebab di atas pada pasien DM perlu diperhatikan apabila
+pasien mengalami hipoglikemik, kemungkinan penyebabnya adalah:
+a. Dosis insulin yang berlebihan
+b. Saat pemberian yang tidak tepat
+c. Penggunaan glukosa yang berlebihan misalnya olahraga anaerobik
+berlebihan
+d. Faktor-faktor lain yang dapat meningkatkan kepekaan individu terhadap
+insulin, misalnya gangguan fungsi adrenal atau hipofisis.
+B. Hiperglikemia
+Hiperglikemia adalah keadaan dimana kadar gula darah melonjak secara
+tiba-tiba. Keadaan ini dapat disebabkan antara lain oleh stress, infeksi, dan
+konsumsi
+
+obat-obatan
+
+tertentu.
+
+Hiperglikemia
+
+ditandai
+
+dengan
+
+poliuria,
+
+polidipsia, polifagia, kelelahan yang parah (fatigue), dan pandangan kabur.
+Apabila diketahui dengan cepat, hiperglikemia dapat dicegah tidak menjadi
+parah. Hipergikemia dapat memperburuk gangguan-gangguan kesehatan seperti
+gastroparesis, disfungsi ereksi, dan infeksi jamur pada vagina. Hiperglikemia
+yang berlangsung lama dapat berkembang menjadi keadaan metabolisme yang
+15
+
+berbahaya, antara lain ketoasidosis diabetik (Diabetic Ketoacidosis = DKA) dan
+(HHS), yang keduanya dapat berakibat fatal dan membawa kematian.
+Hiperglikemia dapat dicegah dengan kontrol kadar gula darah yang ketat.
+C. Komplikasi Makrovaskular
+3 jenis komplikasi makrovaskular yang umum berkembang pada pasien
+diabetes adalah penyakit jantung koroner (coronary heart disease = CAD),
+penyakit pembuluh darah otak, dan penyakit pembuluh darah perifer (peripheral
+
+vascular disease = PVD). Walaupun komplikasi makrovaskular dapat juga terjadi
+pada DM tipe 1, namun yang lebih sering merasakan komplikasi makrovaskular
+ini adalah pasien DM tipe 2 yang umumnya menderita hipertensi, dislipidemia
+dan
+
+atau
+
+kegemukan.
+
+Kombinasi
+
+dari
+
+penyakit-penyakit
+
+komplikasi
+
+makrovaskular dikenal dengan berbagai nama, antara lain Syndrome X, Cardiac
+
+Dysmetabolic Syndrome, Hyperinsulinemic Syndrome, atau Insulin Resistance
+Syndrome.
+Karena penyakit-penyakit jantung sangat besar risikonya pada pasien
+diabetes, maka pencegahan komplikasi terhadap jantung harus dilakukan sangat
+penting dilakukan, termasuk pengendalian tekanan darah, kadar kolesterol dan
+lipid darah. Pasien diabetes sebaiknya selalu menjaga tekanan darahnya tidak
+lebih dari 130/80 mm Hg. Untuk itu pasien harus dengan sadar mengatur gaya
+hidupnya, termasuk mengupayakan berat badan ideal, diet dengan gizi
+seimbang, berolah raga secara teratur, tidak merokok, mengurangi stress dan
+lain sebagainya.
+D. Komplikasi Mikrovaskular
+Komplikasi mikrovaskular terutama terjadi pada pasien diabetes tipe 1.
+Hiperglikemia yang persisten dan pembentukan protein yang terglikasi (termasuk
+HbA1c) menyebabkan dinding pembuluh darah menjadi makin lemah dan rapuh
+dan terjadi penyumbatan pada pembuluh-pembuluh darah kecil. Hal inilah yang
+mendorong timbulnya komplikasi-komplikasi mikrovaskuler, antara lain retinopati,
+nefropati, dan neuropati. Disamping karena kondisi hiperglikemia, ketiga
+komplikasi ini juga dipengaruhi oleh faktor genetik. Oleh sebab itu dapat terjadi
+16
+
+dua orang yang memiliki kondisi hiperglikemia yang sama, berbeda risiko
+komplikasi
+
+mikrovaskularnya.
+
+Namun
+
+demikian
+
+prediktor
+
+terkuat
+
+untuk
+
+perkembangan komplikasi mikrovaskular tetap lama (durasi) dan tingkat
+keparahan diabetes.
+Satu-satunya cara yang signifikan untuk mencegah atau memperlambat
+jalan perkembangan komplikasi mikrovaskular adalah dengan pengendalian
+kadar gula darah yang ketat. Pengendalian intensif dengan menggunakan
+suntikan insulin multi-dosis atau dengan pompa insulin yang disertai dengan
+monitoring kadar gula darah mandiri dapat menurunkan risiko timbulnya
+komplikasi mikrovaskular sampai 60%.3,22
+IV. Penatalaksanaan Diabetes Mellitus
+IV.1. Tujuan Penatalaksanaan DM
+a. Jangka pendek: menghilangkan keluhan/gejala DM dan mempertahankan rasa
+nyaman dan sehat.
+b. Jangka panjang: mencegah penyulit, baik makroangiopati, mikroangiopati
+maupun neuropati, dengan tujuan akhir menurunkan morbiditas dan
+mortalitas DM.
+c. Cara: menormalkan kadar glukosa, lipid, insulin.
+Mengingat mekanisme dasar kelainan DM tipe-2 adalah terdapatnya faktor
+genetik, tekanan darah, resistensi insulin dan insufisiensi sel beta pankreas,
+maka cara-cara untuk memperbaiki kelainan dasar yang dapat dikoreksi
+harus tercermin pada langkah penatalaksanaan.
+d. Kegiatan: mengelola pasien secara holistik, mengajarkan perawatan
+
+mandiri
+
+dan melakukan promosi perubahan perilaku.
+IV.2
+
+Pilar utama penatalaksanaan DM
+
+Empat pilar penatalaksanaan DM meliputi:
+1. Edukasi
+2. Perencanaan makan
+3. Latihan jasmani
+4. Obat-obatan
+17
+
+Pada dasarnya, pengelolaan DM dimulai dengan pengaturan makan
+disertai dengan latihan jasmani yang cukup selama beberapa waktu (2-4
+minggu). Bila setelah itu kadar glukosa darah masih belum dapat memenuhi
+kadar sasaran metabolik yang diinginkan, baru dilakukan intervensi farmakologik
+dengan obat-obat anti diabetes oral atau suntikan insulin sesuai dengan indikasi.
+Dalam keadaan dekompensasi metabolik berat, misalnya ketoasidosis, DM
+dengan stres berat, berat badan yang menurun dengan cepat, insulin dapat
+segera diberikan. Pada keadaan tertentu obat-obat anti diabetes juga dapat
+digunakan
+
+sesuai dengan indikasi dan dosis menurut petunjuk dokter.
+
+Pemantauan kadar glukosa darah bila dimungkinkan dapat dilakukan sendiri di
+rumah, setelah mendapat pelatihan khusus untuk itu.4
+IV.2.1 Edukasi
+Diabetes Tipe 2 biasa terjadi pada usia dewasa, suatu periode dimana
+telah terbentuk kokoh pola gaya hidup dan perilaku. Pengelolaan mandiri
+diabetes secara optimal membutuhkan partisipasi aktif pasien dalam merubah
+perilaku yang tidak sehat. Tim kesehatan harus mendampingi pasien dalam
+perubahan perilaku tersebut, yang berlangsung seumur hidup. Keberhasilan
+dalam mencapai perubahan perilaku, membutuhkan edukasi, pengembangan
+keterampilan (skill), dan motivasi yang berkenaan dengan:
+1. Makan makanan sehat
+2. Kegiatan jasmani secara teratur
+3. Menggunakan obat diabete secara aman dan teratur
+4. Melakukan pemantauan glukosa darah mandiri dan memanfaatkan
+berbagai informasi yang ada
+5. Melakukan perawatan kaki secara berkala
+6. Mengelola diabetes dengan tepat
+7. Mengembangkan sistem pendukung dan mengajarkan ketrampilan
+8. Dapat mempergunakan fasilitas perawatan kesehatan
+Edukasi (penyuluhan) secara individual dan pendekatan berdasarkan
+penyelesaian masalah merupakan inti perubahan perilaku yang berhasil.
+Perubahan perilaku hampir sama dengan proses edukasi dan memerlukan
+penilaian, perencanaan, implementasi, dokumentasi, dan evaluasi.4
+18
+
+IV.2.2 Perencanaan makan
+Diabetes tipe 2 merupakan suatu penyakit dengan penyebab heterogen,
+sehingga tidak ada satu cara makan khusus yang dapat mengatasi kelainan ini
+secara umum. Perencanaan makan harus disesuaikan menurut masing-masing
+individu. Pada saat ini yang dimaksud dengan karbohidrat adalah gula, tepung
+dan serat, sedang istilah gula sederhana, karbohidrat kompleks dan karbohidrat
+kerja cepat tidak digunakan lagi. Penelitian pada orang sehat maupun mereka
+dengan risiko diabetes mendukung akan perlunya dimasukannya makanan yang
+mengandung karbohidrat terutama yang berasal dari padi-padian, buah-buahan,
+dan susu rendah lemak dalam menu makanan orang dengan diabetes. Banyak
+faktor yang berpengaruh pada respons glikemik makanan, termasuk didalamnya
+adalah macam gula: (glukosa, fruktosa, sukrosa, laktosa), bentuk tepung
+(amilose, amilopektin dan tepung resisten), cara memasak, proses penyiapan
+makanan, dan bentuk makanan serta komponen makanan lainnya (lemak,
+protein).
+Pada diabetes tipe 1 dan tipe 2, pemberian makanan yang berasal dari
+berbagai bentuk tepung atau sukrosa, baik langsung maupun 6 minggu
+kemudian ternyata tidak mengalami perbedaan repons glikemik, bila jumlah
+karbohidratnya sama. Sehingga dapat disimpulkan bahwa jumlah total kalori dari
+makanan lebih penting daripada sumber atau macam makanannya. Standar yang
+dianjurkan adalah makanan dengan komposisi yang seimbang dalam hal
+karbohidrat, protein, dan lemak, sesuai dengan kecukupan gizi baik sebagai
+berikut:
+Karbohidrat
+
+60-70%
+
+Protein
+
+10-15%
+
+Lemak
+
+20-25%
+
+Jumlah kalori disesuaikan dengan pertumbuhan, status gizi, umur, stres akut,
+dan kegiatan jasmani untuk mencapai dan mempertahankan berat badan ideal.
+Untuk penentuan status gizi, dipakai Body Mass Index (BMI) = Indeks Massa
+Tubuh (IMT). IMT = BB(kg)/TB(m2)
+
+19
+
+Tabel 4.1. Klasifikasi IMT (Asia Pasifik)
+Lingkar Perut
+Klasifikasi IMT (Asia Pasific)
+
+<90cm (Pria)
+
+>90cm (Pria)
+
+<80cm (Wanita)
+
+>80cm (Wanita)
+
+Risk of co-morbidities
+BB Kurang
+
+<18,5
+
+Rendah
+
+Rata-rata
+
+BB Normal
+
+18,5-22,9
+
+Rata-rata
+
+Meningkat
+
+BB Lebih
+
+>23,0 :
+
+- Dengan risiko : 23,0-24,9
+
+Meningkat
+
+Sedang
+
+- Obese I
+
+: 25,0-29,9
+
+Sedang
+
+Berat
+
+- Obese II
+
+: ≥ 30
+
+Berat
+
+Sangat berat
+
+Jumlah kalori yang diperlukan dihitung dari berat badan idaman dikalikan
+kebutuhan kalori basal (30 kcal/kgBB untuk laki-laki; 25 kcal/kgBB untuk wanita).
+Kemudian ditambah dengan kebutuhan kalori untuk aktivitas (10-3%); untuk
+atlet dan pekerja berat dapat lebih banyak lagi sesuai dengan kalori yang
+dikeluarkan dalam kegiatannya), koreksi status gizi (bila gemuk, dikurangi; bila
+kurus, ditambah) dan kalori yang dibutuhkan menghadapi stres akut (misalnya
+infeksi, dsb.) sesuai dengan kebutuhan. Untuk masa pertumbuhan (anak dan
+dewasa muda) serta ibu hamil diperlukan perhitungan tersendiri. Makanan
+sejumlah kalori terhitung dengan komposisi tersebut di atas dibagi dalam 3 porsi
+besar untuk makan pagi (20%), siang (30%) dan sore (25%) serta 2-3 porsi
+makanan ringan (10-15%) di antaranya. Pembagian porsi tersebut sejauh
+mungkin disesuaikan dengan kebiasaan pasien untuk kepatuhan pengaturan
+makanan yang baik. Untuk pasien DM yang mengidap pula penyakit lain, pola
+pengaturan makan disesuaikan dengan penyakit penyertanya. Perlu diingatkan
+bahwa pengaturan makan pasien DM tidak berbeda dengan orang normal,
+kecuali jumlah kalori dan waktu makan yang terjadwal.
+Untuk kelompok sosial ekonomi rendah, makanan dengan komposisi
+karbohidrat sampai 70-75% juga memberikan hasil yang baik.Jumlah kandungan
+kolesterol <300 mg/hari. Diusahakan lemak dari sumber asam lemak tidak jenuh
+20
+
+dan menghindari asam lemak jenuh. Jumlah kandungan serat + 25 g/hari.
+Diutamakan serat larut (soluble fibre). Pasien DM dengan tekanan darah yang
+normal masih diperbolehkan mengkonsumsi garam seperti orang sehat, kecuali
+bila mengalami hipertensi, harus mengurangi konsumsi garam.
+Pemanis buatan dapat dipakai secukupnya. Gula sebagai bumbu masakan
+tetap diizin-kan. Pada keadaan kadar glukosa darah terkendali, masih
+diperbolehkan untuk meng-konsumsi sukrosa (gula pasir) sampai 5% kalori.
+Untuk mendapatkan kepatuhan ter- hadap pengaturan makan yang baik, adanya
+pengetahuan mengenai bahan penukar akan sangat membantu pasien.4
+IV.2.3 Latihan jasmani
+Latihan
+
+jasmani
+
+mempunyai
+
+peran
+
+yang
+
+sangat
+
+penting
+
+dalam
+
+penatalaksanaan diabetes tipe 2. Latihan jasmani dapat memperbaiki sensitifitas
+insulin, sehingga akan memperbaiki kendali glukosa dan selain itu dapat pula
+menurunkan berat badan. Di samping kegiatan jasmani sehari-hari, dianjurkan
+juga melakukan latihan jasmani secara teratur (3-4 kali seminggu) selama
+kurang lebih 30 menit. Kegiatan yang dapat dilakukan adalah jalan atau
+bersepeda santai, bermain golf atau berkebun.
+Bila hendak mencapai tingkat yang lebih baik dapat dilakukan kegiatan
+seperti, dansa, jogging, berenang, bersepeda menanjak atau mencangkul tanah
+di kebun, atau dengan cara melakukan kegiatan sebelumnya dengan waktu yang
+lebih panjang. Latihan jasmani sebaiknya disesuaikan dengan umur, kondisi
+sosial ekonomi, budaya dan status kesegaran jasmaninya.4
+IV.2.4 Obat-obatan
+Jika pasien telah menerapkan pengaturan makan dan latihan jasmani
+yang
+
+teratur
+
+namun
+
+sasaran
+
+kadar
+
+glukosa
+
+darah
+
+belum
+
+tercapai
+
+dipertimbangkan penggunaan obat-obat anti diabetes oral sesuai indikasi dan
+dosis menurut petunjuk dokter.
+Untuk
+
+dapat
+
+mencegah
+
+terjadinya
+
+komplikasi
+
+kronik,
+
+diperlukan
+
+pengendalian DM yang baik. Diabetes mellitus terkendali baik tidak berarti hanya
+kadar glukosa darahnya saja yang baik, tetapi harus secara menyeluruh kadar
+
+21
+
+glukosa darah, status gizi, tekanan darah, kadar lipid/ lemak dan A1c seperti
+tercantum pada Tabel 4.2.4
+Tabel 4.2. Target Penatalaksanaan DM (Asia Pasifik)
+Baik
+
+Sedang
+
+Buruk
+
+80-109
+
+110-139
+
+>140
+
+110-159
+
+160-199
+
+>200
+
+HbA1c (%)
+
+<6.5
+
+6.5 – 8
+
+>8
+
+Kolesterol Total (mg/dl)
+
+<200
+
+200-239
+
+≥240
+
+Kolesterol LDL (mg/dl)
+
+<100
+
+100-130
+
+≥130
+
+Kolesterol HDL (mg/dl)
+
+>40 atau 45
+
+Trigliserida (mg/dl)
+
+<150
+
+150-199
+
+≥200
+
+IMT (kg/m2)
+
+<25
+130-140/80-90
+
+>140/90
+
+Glukosa darah puasa (mg/dl)
+Glukosa darah 2 jam pp
+(mg/dl)
+
+IMT= Indeks Massa Tubuh
+Tekanan darah (mmHg)
+
+<130/80-85
+
+22
+
+Nathan DM, et al. Management of Hyperglycemia in Type 2 Diabetes: a
+Consensus Algorithm for the Initiation and Adjustment of Therapy. Diabetes
+Care.2006;29:1963-1972
+Gambar 4.1 Diabetes Treatment Algorithm28
+
+V. Peran Farmasis dalam Pengelolaan DM
+Berkaitan dengan pesatnya perkembangan dalam terapi diabetes, peran
+farmasis dalam layanan terhadap pasien diabetes juga semakin berkembang.
+Farmasis dapat berperan dalam mengedukasi pasien mengenai penggunaan
+obat, skrining terhadap kemungkinan interaksi obat, monitoring pemakaian alat
+kesehatan dan membuat rekomendasi terhadap produk dan layanan pendukung.3
+Farmasis, meskipun bukan merupakan profesi yang memberikan diagnosa
+terhadap diabetes, namun memiliki peran penting untuk membantu pasien dalam
+23
+
+mengontrol penyakitnya. Farmasis dapat melakukan monitoring terhadap kadar
+gula darah pasien dan memberikan rekomendasi. Selama interaksi dengan
+farmasis, pasien dapat menanyakan segala informasi lebih lanjut mengenai
+pengelolaan diabetes yang belum diperoleh dari dokter. Farmasis juga dapat
+memberikan konseling mengenai pemakaian insulin dan mengontrol kadar gula
+darah secara rutin, sehingga pasien diabetes selalu berada dalam keadaan
+terkontrol dan terhindar dari komplikasi penyakitnya.14
+V.1
+
+Masalah Terapi Obat
+Penatalaksanaan DM dengan terapi obat dapat menimbulkan masalah-
+
+masalah terkait obat (drug related problems) yang dialami oleh pasien. Masalah
+terkait obat merupakan keadaan terjadinya ketidaksesuaian dalam pencapaian
+tujuan terapi sebagai akibat pemberian obat. Aktivitas untuk meminimalkannya
+merupakan bagian dari proses pelayanan kefarmasian (Hepler, 2003). Masalah
+terkait obat tersebut secara lebih rinci menurut Cipolle, Strand dan Morley (1998)
+dapat dijabarkan sebagai berikut:3,6
+V.1.1 Adanya indikasi penyakit yang tidak tertangani
+Pasien DM bisa mengalami komplikasi yang tidak diharapkan, oleh karena
+itu perlu mencermati apakah ada indikasi penyakit yang tidak diobati. Adanya
+indikasi penyakit yang tidak tertangani ini dapat disebabkan oleh:
+a. Pasien mengalami gangguan medis baru yang memerlukan terapi obat
+b. Pasien memiliki penyakit kronis lain yang memerlukan keberlanjutan
+
+terapi
+
+obat
+c. Pasien mengalami gangguan medis yang memerlukan kombinasi farmakoterapi
+untuk menjaga efek sinergi/potensiasi obat
+d. Pasien berpotensi untuk mengalami risiko gangguan penyakit baru yang dapat
+dicegah dengan penggunaan terapi obat profilaktik atau premedikasi.
+
+24
+
+V.1.2 Pemberian obat tanpa indikasi
+Pemberian obat tanpa indikasi disamping merugikan pasien secara
+finansial juga dapat merugikan pasien dengan kemungkinan munculnya efek
+yang tidak dikehendaki. Pemberian obat tanpa indikasi ini dapat disebabkan oleh:
+a. Pasien menggunakan obat yang tidak sesuai dengan indikasi penyakit pada
+saat ini
+b. Penyakit pasien terkait dengan penyalahgunaan obat, alkohol atau merokok
+c. Kondisi medis pasien lebih baik ditangani dengan terapi non obat
+d. Pasien memperoleh polifarmasi untuk kondisi yang indikasinya cukup
+mendapat terapi obat tunggal
+e. Pasien memperoleh terapi obat untuk mengatasi efek obat yang tidak
+dikehendaki yang disebabkan oleh obat lain yang seharusnya dapat diganti
+dengan obat yang lebih sedikit efek sampingnya
+V.1.3 Pemilihan obat tidak tepat/salah obat
+Pemilihan obat yang tidak tepat dapat mengakibatkan tujuan terapi tidak
+tercapai sehingga pasien dirugikan. Pemilihan obat yang tidak tepat dapat
+disebabkan oleh:
+a. Pasien memiliki masalah kesehatan, tetapi obat yang digunakan tidak efektif
+b. Pasien alergi dengan obat yang diberikan
+c. Pasien menerima obat tetapi bukan yang paling efektif untuk indikasi yang
+diobati
+d. Obat yang digunakan berkontraindikasi, misalnya penggunaan obat-obat
+hipoglikemik oral golongan sulfonylurea harus hati-hati atau dihindari pada
+pasien lanjut usia, wanita hamil, pasien dengan gangguan fungsi hati, atau
+gangguan fungsi ginjal yang parah
+e. Obat yang digunakan efektif tetapi bukan yang paling murah
+f. Obat yang digunakan efektif tetapi bukan yang paling aman
+g. Pasien resisten dengan obat yang digunakan
+h. Pasien menolak terapi obat yang diberikan, misalnya pemilihan bentuk sediaan
+yang kurang tepat
+
+25
+
+i. Pasien menerima kombinasi produk obat yang tidak perlu, misalnya polifarmasi
+sesama obat hipoglikemik oral yang bekerja pada titik tangkap kerja
+
+yang
+
+sama dan diberikan pada saat yang bersamaan.
+V.1.4 Dosis obat sub terapeutik
+Pemberian
+
+obat
+
+dengan
+
+dosis
+
+sub
+
+terapeutik
+
+mengakibatkan
+
+ketidakefektifan terapi obat. Hal ini dapat disebabkan oleh:
+a.Dosis yang digunakan terlalu rendah untuk menghasilkan respon yang
+dikehendaki
+b. Konsentrasi obat dalam plasma pasien berada di bawah rentang
+terapi yang dikehendaki
+c. Saat profilaksis tidak tepat bagi pasien
+d. Obat, dosis, rute, formulasi tidak sesuai
+e. Fleksibilitas dosis dan interval tidak sesuai
+f. Terapi obat dialihkan terutama untuk uji klinis
+V.1.5 Dosis obat berlebih (over dosis)
+Pemberian obat dengan dosis berlebih mengakibatkan efek hipoglikemia
+dan kemungkinan munculnya toksisitas. Hal ini dapat disebabkan oleh:
+a. Dosis obat terlalu tinggi untuk pasien
+b. Konsentrasi obat dalam plasma pasien di atas rentang terapi yang dikehendaki
+c. Dosis obat pasien dinaikkan terlalu cepat
+d. Pasien mengakumulasi obat karena pemberian yang kronis
+e. Obat, dosis, rute, formulasi tidak sesuai
+f. Fleksibilitas dosis dan interval tidak sesuai
+
+V.1.6 Efek obat yang tidak dikehendaki (adverse drug reactions)
+Munculnya efek obat yang tidak dikehendaki dapat disebabkan oleh:
+a. Obat diberikan terlalu cepat, misalnya pada penggunaan insulin diberikan
+terlalu cepat sering terjadi efek hipoglikemia.
+b. Pasien alergi dengan pengobatan yang diberikan.
+c. Pasien teridentifikasi faktor risiko yang membuat obat ini terlalu berisiko untuk
+digunakan
+26
+
+d. Pasien pernah mengalami reaksi idiosinkrasi terhadap obat yang diberikan
+e. Ketersediaan hayati obat berubah sebagai akibat terjadinya interaksi
+
+dengan
+
+obat lain atau dengan makanan
+Untuk terapi insulin, efek obat yang tidak dikehendaki yang paling sering
+terjadi adalah hipoglikemia. Keadaan ini dapat terjadi akibat:
+1. Dosis insulin yang berlebihan
+2. Saat pemberian yang tidak tepat
+3. Pemakaian glukosa yang berlebihan misalnya olahraga anaerobik berlebihan
+4. Faktor-faktor lain yang dapat meningkatkan kepekaan individu terhadap
+insulin, misalnya gangguan fungsi adrenal atau hipofisis.
+Hipoglikemia yang cukup parah dapat terjadi dalam 10 sampai 15 menit
+setelah pemberian insulin. Oleh sebab itu jangan mengabaikan tanda-tanda awal
+terjadinya hipoglikemia, antara lain badan terasa lemas, pusing dan kepala
+terasa ringan, pandangan berkunang-kunang, kadangkadang pandangan menjadi
+gelap (pitam), mengantuk bukan pada jam tidur, keluar keringat dingin,
+berkeringat berlebihan, merasa lapar, gemetar, serta pasien tampak gugup dan
+bingung.
+Insulin juga dapat mengakibatkan efek obat yang tidak dikehendaki
+berupa bertambahnya berat badan, terutama pada pasien DM tipe 2 yang
+memang sudah kelebihan berat badan. Efek obat yang tidak dikehendaki yang
+juga mungkin terjadi pada pemakaian insulin jangka panjang adalah lipodistrofi
+atau hilangnya jaringan lemak pada tempat penyuntikan, dan kadang-kadang
+dapat terjadi reaksi alergi termasuk edema.
+
+V.1.7 Interaksi obat
+Interaksi obat yang mungkin timbul dari pemakaian insulin dengan obat
+hipoglikemik oral atau dengan obat yang lain dapat dilihat pada referensi yang
+lebih detil, misalnya BNF terbaru, Stokley's Drug Interactions. Obat-obat tersebut
+di bawah ini merupakan contoh obatobat yang dapat meningkatkan kadar
+glukosa darah sehingga memungkinkan adanya kebutuhan peningkatan dosis
+insulin maupun obat hipoglikemik oral yang diberikan.
+27
+
+Tabel 5.1. Obat yang dapat menyebabkan hiperglikemia
+Alkohol (kronis)
+
+Laktulosa
+
+Amiodaron
+
+Litium +
+
+Asparaginase ++
+
+Diuretika tiazida +++
+
+Antipsikotik atipikal
+
+Niasin and asam nikotinat ++
+
+Beta-agonis ++
+
+Kontrasepsi oral ++
+
+Kafein
+
+Fenotiazin +
+
+Calcium channel blockers +
+
+Fenitoin ++
+
+Kortikosteroid +++
+Siklosporin ++
+
+Amina simpatomimetik ++
+
+Diazoxida +++
+
+Teofilin
+
+Estrogen +++
+
+Preparat Tiroid +
+
+Fentanil
+
+Antidepresan trisiklik
+
+Alfa-Interferon
+Keterangan (diadaptasi dari Bressler and DeFronzo, 1994):
++
+
+kemungkinan
+
+bermakna
+
+secara
+
+klinis.
+
+Studi/laporan
+
+terbatas
+
+atau
+
+bertentangan.
+++ bermakna secara klinis. +++ berpengaruh bermakna secara klinis.
+Obat atau senyawa-senyawa yang dapat meningkatkan risiko hipoglikemia
+sewaktu pemberian obat hipoglikemik oral golongan sulfonilurea antara lain:
+insulin, alkohol, fenformin, sulfonamida, salisilat dosis besar, fenilbutazon,
+oksifenbutazon, dikumarol, kloramfenikol, senyawa-senyawa penghambat MAO
+(Mono Amin Oksigenase), guanetidin, steroida anabolik, fenfluramin, dan
+klofibrat. Hormon pertumbuhan, hormon adrenal, tiroksin, estrogen, progestin
+dan glukagon bekerja berlawanan dengan efek hipoglikemik insulin. Disamping
+itu, beberapa jenis obat seperti guanetidin, kloramfenikol, tetrasiklin, salisilat,
+fenilbutazon, dan lain-lain juga memiliki interaksi dengan insulin, sehingga
+sebaiknya tidak diberikan bersamaan dengan pemberian insulin, paling tidak
+perlu diperhatikan dan diatur saat dan dosis pemberiannya apabila terpaksa
+diberikan pada periode yang sama.
+
+28
+
+Tabel 5.2. Obat yang dapat menyebabkan hipoglikemia
+Asetaminofen
+
+Inhibitor Monoamin oksidase
+
+Alkohol (akut)
+
+Norfloxacin
+
+Steroid Anabolik
+
+Pentamidin
+
+Beta-blockers
+
+Fenobarbital
+
+Biguanida
+
+Fenotiazin
+
+Klorokuin
+
+Prazosin
+
+Klofibrat
+
+Propoksifen
+
+Disopiramida
+
+Kinin
+
+Guanetidin
+
+Salisilat
+
+Haloperidol
+
+Sulfonamida
+
+Insulin
+
+Sulfonilurea
+
+Litium karbonat
+
+Antidepresant trisiklik
+
+V.1.8 Pasien gagal menerima obat
+Pasien gagal menerima obat dapat disebabkan oleh:
+a. Pasien tidak menerima pengaturan obat yang sesuai sebagai akibat kesalahan
+medikasi (medication error) berupa kesalahan peresepan, dispensing, cara
+pemberian atau monitoring yang dilakukan.
+b. Pasien tidak mematuhi aturan yang direkomendasikan dalam
+
+penggunaan
+
+obat
+c. Pasien tidak meminum obat yang diberikan karena ketidakpahaman
+d. Pasien tidak meminum obat yang diberikan karena tidak sesuai dengan
+keyakinan tentang kesehatannya.
+e. Pasien tidak mampu menebus obat dengan alasan ekonomi.
+Yang juga perlu mendapat perhatian ekstra terhadap munculnya masalah
+terkait obat apabila pasien berada dalam kondisi khusus, seperti:
+1. Pasien hamil / menyusui
+2. Pasien gangguan ginjal
+3. Pasien gangguan hati
+4. Pasien gangguan jantung (stage 3-4)
+29
+
+5. Pasien lanjut usia
+6. Pasien anak-anak
+7. Pasien sedang berpuasa
+Untuk meminimalkan masalah terkait obat, apoteker perlu melakukan
+identifikasi dengan mengajukan empat pertanyaan sebagai berikut:
+1. Apakah terapi obat sesuai dengan indikasinya?
+Terapi obat dikatakan tidak sesuai bila obat yang diberikan tidak sesuai
+dengan indikasinya atau pasien memerlukan terapi obat tambahan karena
+adanya indikasi yang belum diobati (untreated indication)
+2. Apakah terapi obat tersebut efektif?
+Terapi obat dikatakan tidak efektif bila obat yang diberikan tidak tepat dalam
+pemilihannya atau dosis yang digunakan terlalu kecil.
+3. Apakah terapi obat tersebut aman?
+Terapi obat dikatakan tidak aman, bila pasien mengalami reaksi obat yang
+tidak dikehendaki atau pasien mendapatkan dosis obat yang terlalu tinggi atau
+pasien menerima/menggunakan obat tanpa indikasi.
+4. Apakah pasien mengikuti aturan yang telah disarankan?
+Pasien tidak mengikuti aturan penggunaan obat yang disarankan dapat terjadi
+karena ketidakpahaman pasien terhadap penyakit dan pengobatannya, alasan
+ekonomi, atau ketidaknyamanan yang dialami.
+V.2
+
+Peran Farmasis dalam Layanan Home Care
+
+Home care didefinisikan sebagai “an array of services which enables
+clients, incapacitated in whole or in part, to live at home, often with the effect of
+preventing, delaying or substituting for long term care or acute care
+alternatives”. Pasien yang dirawat di rumah membutuhkan dukungan terhadap
+manajemen terapinya, karena memiliki keterbatasan untuk datang berinteraksi
+langsung dengan farmasis di apotek maka sangat dibutuhkan layanan home care
+bagi kelompok pasien tersebut.10
+Dengan
+
+berkembangnya
+
+patient-centred
+
+model
+
+dalam
+
+praktek
+
+kefarmasian yang disebut pharmaceutical care, memfokuskan farmasis pada
+peningkatan kualitas pemakaian obat dan menyediakan prosedur sistematis
+untuk pelaksanaannya.5 Berdasarkan kebutuhan layanan berbasis pasien ini,
+30
+
+maka farmasis mengembangkan layanan home care sesuai dengan keilmuannya
+dan berperan dalam mendukung manajemen terapi pasien di rumah.13
+Praktek Farmasis dalam layanan home care ini diatur dalam ASHP
+
+Guidelines on the Pharmacist’s role in Home Care. Standar minimum yang harus
+ada dalam home care adalah : manajemen praktis dan pengelolaan home care;
+informasi obat, edukasi dan konseling; rencana layanan, monitoring dan
+kontinuitas; kontrol dan distribusi obat; fasilitas, perlengkapan dan sumber
+informasi.13 Tanggung jawab farmasis dalam layanan home care adalah :
+menyusun rencana persetujuan dengan keluarga dan pasien atau tenaga
+kesehatan yang lain, menyusun database pasien, pemilihan produk, alat
+kesehatan
+
+dan
+
+perlengkapan
+
+tambahan,
+
+membuat
+
+rencana
+
+layanan,
+
+memberikan edukasi dan konseling kepada pasien, monitoring perkembangan
+klinis pasien, komunikasi dengan pasien dan tenaga kesehatan lain, koordinasi
+dalam pemberian obat, alat kesehatan dan penyimpanannya, dokumentasi
+layanan home care, melaporkan jika terjadi efek samping obat atau masalah
+terkait obat, meningkatkan pengetahuan dan kompetensi farmasis melalui
+pelatihan dan pendidikan berkelanjutan.20
+
+Layanan residensial (home care)
+
+dalam penatalaksanaan terhadap diabetes mellitus dapat dilihat dalam Lampiran
+2. Seluruh kegiatan pelayanan kefarmasian harus dicatat dalam satu dokumen
+khusus dapat dilihat dalam Formulir Pelayanan kefarmasian pada Lampiran 3.3
+V.2.1 Penyusunan Informasi Dasar/Database Pasien
+Penyusunan database dilakukan dengan menyalin nama, umur, berat
+badan pasien serta terapi yang diberikan yang tertera pada resep. Mengenai
+masalah medis (diagnosis, gejala) dibuat dengan menyusun perkiraan masalah
+medis yang dimiliki pasien dari terapi yang diberikan. Masalah medis yang
+diperkirakan selanjutnya dikonfirmasikan ulang kepada pasien dan dokter bila
+perlu. Riwayat alergi perlu ditanyakan khususnya pada pasien yang mendapat
+antibiotika atau senyawa-senyawa obat lainnya yang potensil menimbulkan
+alergi. Riwayat obat yang perlu ditanyakan adalah riwayat penggunaan obat satu
+bulan terakhir. Hal ini diperlukan untuk memprediksikan efek samping dan efek
+yang disebabkan masalah terapi obat lainnya, serta untuk membantu pemilihan
+obat.3
+31
+
+V.2.2 Evaluasi/Pengkajian
+Tujuan yang ingin dicapai dari tahap ini adalah identifikasi masalah yang
+berkaitan dengan terapi obat. Berbagai masalah yang dapat timbul berkaitan
+dengan terapi obat. Pelaksanaan evaluasi dilakukan dengan membandingkan
+problem medik, terapi, dan database yang telah disusun, kemudian dikaitkan
+dengan pengetahuan tentang farmakoterapi, farmakologi dan ilmu pengetahuan
+lain yang berkaitan.3
+V.2.3 Rencana Pelayanan kefarmasian
+Rencana Pelayanan kefarmasian memuat beberapa hal berikut:
+1. Rekomendasi terapi
+Dalam rekomendasi terapi diajukan saran tentang pemilihan/penggantian
+obat, perubahan dosis, interval dan bentuk sediaan.
+2. Rencana Monitoring
+Rencana monitoring terapi obat meliputi:
+a. Monitoring efektivitas terapi.
+Monitoring terapi obat pada kasus DM dilakukan dengan memantau
+tanda- tanda vital sebagaimana yang tercantum dalam Tabel 5 (Target
+Penatalaksanaan
+membantu
+
+DM).
+
+Selain
+
+itu
+
+parameter
+
+klinik
+
+juga
+
+dapat
+
+monitoring efektivitas terapi.
+
+b. Monitoring Reaksi Obat Berlawanan (ROB) meliputi efek samping obat,
+alergi dan interaksi obat. Pelaksanaan monitoring terapi obat bagi pasien
+di apotek memiliki keterbatasan bila dibandingkan dengan di rumah sakit,
+antara lain kesulitan untuk mengikuti perkembangan pasien setelah
+keluar dari
+
+apotek. Metode yang paling tepat digunakan adalah
+
+monitoring melalui telepon
+
+baik apoteker yang menghubungi maupun
+
+sebaliknya, pasien melaporkan
+
+melalui telepon tentang kejadian
+
+yang tidak diharapkan kepada apoteker.
+
+Khususnya dalam memonitor
+
+terjadinya ROB, perlu disampaikan ROB yang
+
+potensial akan terjadi
+
+serta memiliki signifikansi secara klinik dalam konseling
+
+kepada
+
+pasien. Selain itu pasien dihimbau ntuk melaporkan kejadian yang
+dicurigai ROB kepada apoteker. Selanjutnya apoteker dapat menyusun
+rekomendasi terkait ROB tersebut.
+32
+
+3. Rencana Konseling
+Rencana konseling memuat pokok-pokok materi konseling yang akan
+disampaikan.
+a. Implementasi Rencana Pelayanan kefarmasian
+Kegiatan
+
+ini
+
+merupakan
+
+upaya
+
+melaksanakan
+
+Rencana
+
+Pelayanan
+
+kefarmasian (RPK) yang sudah disusun. Rekomendasi terapi yang sudah
+disusun dalam RPK, selanjutnya dikomunikasikan kepada dokter penulis
+resep. Metode penyampaian dapat dipilih antara berbicara langsung (pada
+apotek di poliklinik
+
+atau apotek pada praktek dokter bersama) atau
+
+melalui telepon.
+Komunikasi antar profesi yang sukses memerlukan teknik dan cara
+tersendiri
+
+yang
+
+pengalaman.
+
+dapat
+
+dipelajari
+
+Implementasi
+
+melaksanakan monitoring
+
+dan
+
+rencana
+
+dikembangkan
+monitoring
+
+berdasarkan
+
+adalah
+
+dengan
+
+terapi obat dengan metode seperti yang
+
+sudah disebutkan di atas. Demikian pula
+
+implementasi
+
+Rencana
+
+Konseling dilaksanakan dengan konseling kepada pasien.
+b. Tindak Lanjut (Follow Up)
+Tindak lanjut merupakan kegiatan yang menjamin kesinambungan
+pelayanan
+
+kefarmasian
+
+sampai
+
+pasien
+
+dinyatakan
+
+sembuh
+
+atau
+
+tertatalaksana dengan baik. Kegiatan yang dilakukan dapat berupa
+pemantauan perkembangan
+
+pasien baik perkembangan kondisi klinik
+
+maupun perkembangan terapi obat
+
+dalam rangka mengidentifikasi ada
+
+atau tidaknya masalah terapi obat (MTO)
+
+yang baru. Bila ditemukan
+
+MTO baru, maka selanjutnya apoteker menyusun atau memodifikasi RPK.
+Kegiatan lain yang dilakukan dalam follow up adalah memantau
+hasil atau outcome yang dihasilkan dari rekomendasi yang diberikan. Hal
+ini sangat penting bagi apoteker dalam menilai ketepatan rekomendasi
+yang diberikan. Kegiatan follow up memang sulit dilaksanakan di lingkup
+farmasi komunitas, kecuali pasien kembali ke apotek yang sama, apoteker
+secara aktif menghubungi pasien atau pasien menghubungi apoteker
+melalui telepon.3
+33
+
+V.3
+
+Peran Farmasis dalam Diabetes Care
+
+V.3.1 Diabetes Self-Management Education (DSME)
+Beberapa penelitian mencatat bahwa 50–80% pasien diabetes memiliki
+pengetahuan dan ketrampilan yang kurang dalam mengelola penyakitnya dan
+kesulitan
+
+dalam
+
+tercapainya
+
+kontrol
+
+terhadap
+
+kadar
+
+gula
+
+darah
+
+ideal
+
+(HbA1c<7.0%).
+DSME merupakan proses edukasi kesehatan bagi individu atau keluarga
+dalam mengelola penyakit diabetes dengan menggunakan pedoman, konseling,
+dan intervensi perilaku untuk meningkatkan pengetahuan mengenai diabetes dan
+meningkatkan ketrampilan individu dan keluarga dalam mengelola penyakit DM.
+Pendekatan edukasi kesehatan dengan metode DSME tidak hanya sekedar
+menggunakan metode penyuluhan baik langsung maupun tidak langsung namun
+telah berkembang dengan mendorong partisipasi dan kerjasama pasien diabetes
+dan keluarganya.
+Selanjutnya, intervensi DSME yang dapat meningkatkan aspek kognisi
+dan afeksi pasien diabetes dan keluarganya secara simultan akan mempengaruhi
+peningkatan perilaku sehat pasien diabetes. Perilaku sehat tersebut terdiri dari
+monitoring kadar gula darah secara mandiri, perencanaan makan (diet), latihan
+jasmani dan istirahat yang cukup, konsumsi obat hipoglikemik, dan menghindari
+rokok. Hasil jangka pendek yang diharapkan adalah terkontrolnya tekanan darah.
+Kerangka pikir Model Diabetes Self-Management Education dapat dilihat pada
+Gambar 5.1. Bentuk oval adalah intervensi, kotak dengan sudut lengkung
+mengindikasikan sebagai hasil antara, dan kotak dengan sudut lancip adalah
+hasil jangka pendek dan jangka panjang.16
+
+34
+
+Gambar 5.1 Diabetes Self-Management Education
+V.3.2 Medication Therapy Management (MTM)
+
+Medication Therapy Management Model (MTM) yang berdasarkan filosofi
+dan proses pada pharmaceutical care merupakan grup layanan yang bertujuan
+untuk tercapainya keberhasilan terapi berbasis pasien yang bersifat independen,
+berbasis kompetensi dan berpedoman pada evidence based guidelines antara
+lain :
+1. Menyediakan
+
+penatalaksanaan
+
+lebih
+
+lanjut
+
+terhadap
+
+status
+
+kesehatan pasien
+2. Memformulasikan suatu rencana pengobatan
+3. Melakukan seleksi, pelaksanaan, modifikasi atau regimen terapi
+obat
+4. Monitoring dan evaluasi respon pasien terhadap terapi, termasuk
+keamanan dan efektivitas
+5. Melakukan
+
+comprehensive
+
+medication
+
+review
+
+untuk
+
+mengidentifikasi, menyelesaikan, dan mencegah masalah terkait
+obat termasuk efek samping obat
+
+35
+
+6. Membuat dokumentasi terhadap layanan yang diberikan dan
+memberikan informasi penting kepada pasien dan tenaga
+kesehatan yang lain
+7. Memberikan edukasi secara verbal dan merancang suatu pelatihan
+untuk meningkatkan pemahaman pasien dan cara penggunaan
+obatnya
+8. Memberikan informasi, layanan support dan sumber lain untuk
+meningkatkan patient adherence terhadap regimen terapinya
+9. Melakukan koordinasi dan penerapan MTM terhadap tenaga
+kesehatan lain
+Suatu program yang menggunakan layanan model MTM ini bersifat :
+1. Patient- specific dan individual yang diberikan langsung oleh farmasis
+2. Face to face interaction antara pasien dan farmasis
+3. Memberi kesempatan kepada farmasis untuk mengidentifikasi pasien
+yang mendapat terapi obat
+4. Memberikan sistem pemberian jasa layanan kepada farmasis dari
+
+provider
+5. Merupakan proses untuk meningkatkan kontinuitas layanan, mencapai
+tujuan terapi yang diharapkan
+
+Flow chart dari model Medication Therapy Management dapat dilihat pada
+Gambar 5.2.17
+
+36
+
+Gambar 5.2. Medication Therapy Management
+V.3.3 Glycemic Control Monitoring 30
+
+1. Assessment of glycemic control merupakan upaya yang dilakukan
+oleh tenaga kesehatan maupun pasien
+penatalaksanaan yang efektif
+
+untuk tercapainya
+
+terhadap pengendalian gula
+
+darah.
+a. Self Monitoring Blood Glucose (SMBG)
+Dengan melakukan SMBG, pasien dapat mengevaluasi
+respon mereka terhadap terapi dan tercapainya kontrol
+gula
+
+darah
+
+yang
+
+baik.
+
+Hasil
+
+dari
+
+SMBG
+
+dapat
+
+digunakan untuk mencegah terjadinya hipoglikemia
+dan penyesuaian terapi. Akurasi dari SMBG tergantung
+pada instrumen yang digunakan dan
+
+pemakainya,
+
+oleh karena itu penting untuk dievaluasi teknik dan
+waktu pemakaiannya. Pasien harus memahami bagaimana
+menggunakan
+
+hasil
+
+pengukuran
+
+tersebut
+
+untuk
+
+menyesuaikan pola makan, latihan fisik dan farmakoterapi
+agar tercapai kontrol glikemik yang dikehendaki.
+Rekomendasi (dengan level of evidence):
+37
+
+1. Clinical trial menggunakan insulin menunjukkan
+pencapaian kontrol
+
+glikemik yang baik dengan
+
+menggunakan SMBG, merupakan bagian
+
+integral
+
+dalam strategi penatalaksanaan. (A)
+2. SMBG sebaiknya dilakukan tiga kali atau lebih
+dalam sehari pada pasien yang memakai insulin
+injeksi. (A)
+b. HbA1c
+Dengan mengukur HbA1c, tenaga kesehatan dapat
+mengetahui
+
+rata-rata gula darah selama 2-3 bulan
+
+terakhir, dan efikasi dari terapi yang diberikan, oleh karena
+itu sebaiknya dilakukan tiap 3 bulan untuk mengetahui
+apakah kontrol metabolik sudah mencapai rentang target.
+Glycemic control sebaiknya dikombinasikan antara SMBG dan HbA1c.
+Korelasi
+
+antara kadar HbA1c dan kadar rata-rata gula darah dapat dilihat
+
+pada tabel
+
+berikut:
+
+Tabel 5.3. Korelasi antara kadar HbA1C dan kadar rata-rata gula darah
+Mean plasma glucose
+A1C (%)
+
+mg/dl
+
+mmol/l
+
+6
+
+135
+
+7.5
+
+7
+
+170
+
+9.5
+
+8
+
+205
+
+11.5
+
+9
+
+240
+
+13.5
+
+10
+
+275
+
+15.5
+
+11
+
+310
+
+17.5
+
+12
+
+345
+
+19.5
+
+38
+
+2.
+
+Glycemic goals
+Glycemic
+penatalaksanaan
+
+control
+
+sangat
+
+fundamental
+
+dalam
+
+diabetes. U.K. Prospective Diabetes Study
+
+(UKPDS) menunjukkan bahwa
+
+kontrol glikemik yang bain
+
+dapat menurunkan risiko terjadinya retinopati, nefropati, dan
+neuropati.
+
+14,0
+
+415
+
+13,0
+
+380
+
+12,0
+
+345
+
+Action
+
+11,0
+
+310
+
+Suggested
+
+10,0
+
+275
+
+9,0
+
+240
+
+8,0
+
+205
+
+7,0
+
+170
+
+6,0
+
+135
+
+5,0
+
+100
+
+4,0
+
+65
+
+Target
+→
+Excellent
+
+Gambar 5.3 Target glycemic control
+
+V.3.4 Dokumentasi Layanan Home Care
+Farmasis bertanggung jawab dalam membuat dokumentasi dari seluruh
+kegiatan home care, yang dapat digunakan sebagai media informasi bagi tenaga
+kesehatan lain yang merawat pasien yang bersangkutan. Manfaat dokumentasi
+layanan home care antara lain : menjadi catatan yang terkaji mengenai akses
+dan tujuan terhadap indikator kesehatan, menyusun manajemen program home
+39
+
+care serta sistem perencanaan strategis, sebagai sarana untuk meningkatkan
+kualitas layanan, sumber analisis dan penelitian klinis. Beberapa indikator yang
+dapat diperoleh dari dokumentasi layanan home care adalah untuk mengetahui
+gambaran mengenai : akses terhadap layanan kesehatan, fungsi dan status
+sehat, karakteristik pasien dan kondisi lingkungannya, clinical outcomes dan
+pemanfaatan sumber informasi.10,17 Contoh model dokumentasi dan follow up
+dapat dilihat pada Gambar 5.4.
+
+40
+
+41
+
+42
+
+43
+
+43
+
+B. PENDEKATAN MEDIS
+KOMPLIKASI PENYAKIT DIABETES MELLITUS
+DI RONGGA MULUT
+
+I. Pendahuluan
+
+Diabetes Mellitus (DM) merupakan salah satu penyakit yang paling
+banyak dan paling sering dijumpai di dunia termasuk di Indonesia, dan sebagian
+dari penderita tersebut tidak sadar maupun tidak terdiagnosa bahwa telah
+menderita penyakit DM sampai munculnya berbagai gejala yang lebih spesifik.
+Diabetes mellitus merupakan suatu penyakit kronik yang ditandai dengan
+kekurangan insulin baik relative maupun absolute yang mengakibatkan
+metabolisme karbohidrat, lemak, dan protein terganggu.
+DM adalah suatu sindroma khas ditandai dengan kadar glukosa dalam
+darah lebih tinggi dibanding normal yang berlangsung secara kronik serta
+gangguan metabolisme karbohidrat, lemak dan protein yang dihubungkan
+dengan kekurangan relatif atau absolut sekresi insulin atau kerja insulin. DM
+terjadi akibat adanya kerusakan pada sel β pankreas yang menyebabkan
+berkurangnya sekresi insulin. Kekurangan hormon insulin yang relatif atau
+absolut akan menyebabkan gangguan metabolisme glukosa yang pada akhirnya
+akan meningkatkan kadar glukosa darah atau hiperglikemia. Pada keadaan
+fisiologis, insulin diperlukan untuk merubah glukosa menjadi glikogen yang
+selanjutnya akan disimpan di dalam jaringan otot serta di dalam hati. Batasan
+lain mengenai DM adalah suatu penyakit karena gangguan sistem metabolisme,
+dengan penyebab yang multifaktorial antara lain gangguan dari sistem genetik
+yang berinteraksi dengan lingkungan.
+Pada abad ke-3 sampai ke-6 sesudah Masehi, para ahli di Cina, Jepang,
+dan India melukiskan penyakit ini dengan gejala kencing banyak, kental, dan
+manis. Pada tahun 1674, Thomas Willis menyatakan bahwa kencing penderita
+penyakit ini mempunyai rasa madu, karenanya penyakit ini diberi nama Diabetes
+
+Mellitus. Hal ini ditandai dengan peningkatan kadar glukosa darah.
+
+Data
+44
+
+epidemiologi menunjukkan bahwa angka kejadian DM semakin meningkat dari
+tahun ke tahun. Tahun 2000 jumlah penderita DM didapatkan 175 juta dan
+diperkirakan tahun 2025 akan mencapai 300 juta orang. Suatu peningkatan
+spektakuler yang oleh organisasi kesehatan sedunia (WHO) disebut sebagai
+ledakan pasien Diabetes Mellitus di abad 21. Diperkirakan 75% di antaranya
+berada di negara berkembang. Peningkatan tertinggi mungkin akan terjadi di
+kawasan Asean yaitu dari 33 juta penderita pada tahun 2000, menjadi 80 juta di
+tahun 2025. Di Indonesia dengan prevalensi jumlah penderita DM di tahun 2000
+kurang lebih 4 juta, dan tahun 2010 sekitar 5 juta. Pada tahun 1995 dilaporkan
+jumlah pasien DM di dunia sekitar 135 juta orang. Tahun 2000 jumlah tersebut
+telah meningkat menjadi 175 juta dan pada tahun diperkirakan tahun 2025 akan
+mencapai 300 juta orang. Suatu peningkatan spektakuler yang oleh organisasi
+kesehatan sedunia (WHO) disebut sebagai ledakan pasien Diabetes Mellitus di
+abad 21 dimana 75% di antaranya berada di negara berkembang. Peningkatan
+tertinggi mungkin akan terjadi di kawasan Asean yaitu dari 33 juta penderita
+pada tahun 2000, menjadi 80 juta di tahun 2025. Di Indonesia prevalensi jumlah
+penderita DM tahun 2000 kurang lebih 4 juta, dan tahun 2010 meningkat
+menjadi sekitar 5 juta.
+Peningkatan jumlah penderita DM yang sangat mecolok di negara
+berkembang merupakan konsekuensi positif dari perbaikan ekonomi, perbaikan
+nutrisi, peningkatan pelayanan kesehatan dan peningkatan arus urbanisasi. Hal
+ini akan menimbulkan masalah baru bagi pemerintah Indonesia, yakni akan
+menimbulkan beban baru dari segi ekonomi Nasional karena memerlukan biaya
+pengobatan yang tinggi dan berlansung seumur hidup. Tentunya keadaan
+tersebut akan sangat berdampak pada produktivitas sumber daya manusia,
+karena DM tidak hanya terjadi pada usia lanjut saja tetapi juga pada usia
+produktif. Dengan mengetahui berbagai gejala di rongga mulut berarti dokter
+gigi dapat turut serta berperan dalam menegakkan diagnosa penyakit DM.
+Adanya komplikasi DM mengakibatkan penanganan penderita DM memerlukan
+kerjasama antara dokter gigi, dokter umum dan dokter ahli penyakit dalam.
+Perlunya menjaga kebersihan rongga mulut dan periksa ke dokter gigi minimal 6
+
+45
+
+bulan sekali dapat meningkatkan kesehatan gigi dan mulut penderita DM yang
+dapat berdampak pada peningkatan kualitas hidup.
+
+II.1 Klasifikasi DM
+Menurut PERKENI (Perkumpulan Endokrinologi Indonesia) adalah yang
+sesuai dengan anjuran klasifikasi DM menurut American Diabetes Association
+(ADA) 1997 adalah sebagai berikut :
+
+II.1.1 Diabetes Mellitus tipe I
+Dalam tipe ini, tubuh tidak dapat memproduksi insulin, sehingga
+tergantung pada insulin. DM tipe 1 ini dapat muncul pada masa kanak-kanak
+dan remaja. Tipe ini dapat muncul pada umur yang lebih tua yang disebabkan
+karena kerusakan pankreas oleh karena alcohol, penyakit, operasi pankreas atau
+kegagalan progresif dari sel beta pankreas.
+
+II.1.2 Diabetes Melitus tipe II
+Dikenal dengan nama Non Insulin Dependent Diabetes Mellitus (NIDDM),
+insulin diproduksi, tetapi tidak dapat digunakan secara adekuat, terutama pada
+pasien yang mengalami resistensi insulin. Pada beberapa kasus, biasanya insulin
+diproduksi cukup banyak, hanya kemudian menjadi masalah ketika sel-sel tubuh
+seperti sel lemak dan sel otot kurang peka terhadap insulin.
+Diabetes Mellitus tipe II dapat disebabkan berkurangnya insulin yang
+dihasilkan dari beta sel dan merupakan faktor utama Diabetes Mellitus tipe II
+yang pada akhirnya memerlukan terapi insulin. Pada keadaan Diabetes Mellitus
+tipe II.
+
+46
+
+II.1.3 Diabetes Mellitus tipe lain
+Ada beberapa tipe diabetes yang lain seperti defek genetik fungsi sel
+beta, defek genetik kerja insulin, penyakit eksokrin pankreas, endokrinopati,
+karena obat atau zat kimia, infeksi, sebab imunologi yang jarang dan sindroma
+genetik lain yang berkaitan dengan diabetes mellitus.
+
+II.1.4 Diabetes Mellitus Gestasional
+Tipe ini timbul pada wanita hamil yang kemudian gejala menghilang
+setelah melahirkan bayi biasanya dengan berat badan yang lebih besar dibanding
+dengan bayi lain pada umumnya. Wanita yang telah menderita Gestasional
+Diabetes Mellitus meningkatkan faktor resiko untuk terjadinya DM tipe II.
+
+II.2 Parameter Diabetes Melitus
+Haemoglobin A1C atau Glycocylated haemoglobin adalah Hb yang
+mengalami
+
+glikosilasi
+
+yang
+
+berikatan
+
+dengan
+
+glukosa
+
+membentuk
+
+glikohaemoglobin. Dengan demikian erat kaitannya dengan DM, sehingga
+digunakan sebagai parameter untuk mengetahui status DM penderita. Pada
+penderita DM ditemukan kadar A1C meningkat 3 X dari kadar normal (kadar
+normal 3-6%). Kadar A1C tidak dipengaruhi oleh umur penderita, lama penyakit,
+berat badan, glukosa darah sesaat, penebalan membran basalis, makanan yang
+baru dimakan, latihan fisik maupun obat hipoglikemik oral.
+
+II.3 Fungsi Pemeriksaan A1C sebagai :
+-
+
+Tes yang potensial untuk diagnosis DM.
+
+-
+
+Indeks dari status DM, yaitu dengan mengetahui kadar A1C dapat
+diketahui kadar darah rerata.
+
+-
+
+Model untuk memepelajari kelainan yang terjadi pada DM yang tidak
+terkontrol dalam jangka waktu yang lama.
+
+-
+
+Indikator untuk memonitor metabolisme karbohidrat dan insulin.
+47
+
+Interpretasi pengendalian DM dapat diketahui menurut kriteria kadar A1C, dan
+kadarnya dapat diperiksa dengan metode ion exchange chromatography,
+
+colorimetry, dan immunoassay RIA. Di Indonesia kadar A1C didasarkan pada
+hasil Konsensus Pengelolaan Diabetes Mellitus di Indonesia yang meliputi :
+-
+
+DM dengan pengendalian baik
+
+: < 6,5 %
+
+-
+
+DM dengan pengendalian sedang : 6,5% – 8 %
+
+-
+
+DM dengan pengendalian buruk : > 8 %
+
+II.4 . Komplikasi DM di Rongga Mulut
+Komplikasi
+
+diabetes
+
+mellitus
+
+berhubungan
+
+dengan
+
+terjadinya
+
+hiperglikemia dan perubahan patologis pada sistem pembuluh darah dan sistem
+saraf perifer. Perubahan patologis pada sistem pembuluh darah dan sistem saraf
+perifer, dapat berupa microangiopathy dan macroangiopathy. Kedua kelainan
+pada pembuluh darah ini merupakan salah satu penyebab yang paling sering
+dijumpai dalam komplikasi DM.
+Komplikasi DM di Ronga Mulut meliputi :
+1. Ginggivits dan periodontitis
+2. Disfungsi kelenjar saliva dan xerostomia
+3. Oral Kandidiasis (infeksi jamur C. albicans)
+4. Sindroma mulut terbakar
+5. Infeksi Oral akut
+
+48
+
+II.4.1 Gingivitis dan Periodontitis
+Gingivitis
+
+merupakan
+
+inflamasi
+
+pada
+
+gusi
+
+yang
+
+mudah
+
+untuk
+
+disembuhkan, dimana pada jaringan gusi terlihat kemerah-merahan disertai
+pembengkakan dan bila disikat dengan sikat gigi akan berdarah. Gingivitis akan
+menimbulkan terbentuknya poket ( saku gusi) disertai adanya resorpsi tulang,
+sehingga gigi goyang dan akhirnya tanggal.
+
+Gambar II.4.1 a : Gingivitis pada penderita DM
+
+Gambar II.4.1 b : Gingivitis pada penderita DM
+
+49
+
+II.4.2
+
+Disfungsi kelenjar saliva dan xerostomia
+Hiperglikemia mengakibatkan jumlah urin sangat banyak sehingga cairan
+
+dalam tubuh berkurang dan sekresi saliva juga berkurang. Dengan berkurangnya
+saliva, dapat mengakibatkan terjadinya xerostomia. Dalam rongga mulut yang
+sehat, saliva mengandung enzim-enzim antimikroba, misalnya Lactoferin,
+perioxidase, lysozyme dan histidine yang berinteraksi dengan mukosa oral dan
+dapat mencegah pertumbuhan kandida yang berlebihan. Pada keadaan dimana
+terjadi perubahan pada rongga mulut yang disebabkan berkurangnya aliran
+saliva, sehingga enzim-enzim antimikroba dalam saliva tidak berfungsi dengan
+baik, maka rongga mulut menjadi rentan terhadap infeksi dan mudah terjadi lesi
+yang menimbulkan rasa sakit. Pasien diabetes mellitus yang mengalami disfungsi
+kelenjar saliva juga dapat mengalami kesulitan dalam mengunyah dan menelan
+sehingga mengakibatkan nafsu makan berkurang dan terjadinya malnutrisi
+(kekurangan gizi).
+
+Gambar II.4.2 : Kondisi lidah penderita akibat xerostomi
+
+Gambar II.4.2 : Mulut kering akibat disfungsi kelenjar saliva
+50
+
+II.4.3 Oral Kandidiasis
+Oral Kandidiasis merupakan infeksi jamur oportunistik yang terjadi dalam
+keadaan hiperglikemia karena keadaan tersebut dapat menyebabkan terjadinya
+disfungsi aliran saliva, akibat adanya kehilangan cairan dari tubuh dalam jumlah
+yang
+
+banyak,
+
+sehingga aliran saliva juga berkurang.
+
+Selain itu, juga
+
+menyebabkan komplikasi berupa microangiopathy yang paling sering muncul
+pada penderita DM terkontrol atau tidak terkontrol. Kandidiasis dapat ditemukan
+pada penderita DM bila didukung berbagai faktor yang ada pada penderita DM,
+seperti terjadinya defisiensi imun, berkurangnya aliran saliva, keadaan malnutrisi
+dan pemakaian gigi tiruan dengan oral hygiene yang buruk
+
+Gambar II.IV.3 : Oral Kandidiasis pada lidah penderita DM
+
+II. 4.4 Sindroma Mulut Terbakar
+Pasien dengan sindroma mulut terbakar biasanya muncul tanpa tandatanda klinis, walaupun rasa sakit dan terbakar sangat kuat. Pada pasien dengan
+DM
+
+tidak terkontrol, faktor yang menyebabkan terjadinya sindroma mulut
+
+terbakar yaitu berupa disfungsi kelenjar saliva, kandidiasis dan kelainan pada
+saraf.6,16 Adanya kelainan pada saraf akan mendukung terjadinya gejala-gejala
+
+paraesthesias dan tingling, rasa sakit / terbakar yang disebabkan adanya
+perubahan patologis pada saraf-saraf dalam rongga mulut.
+
+51
+
+II.4.5 Infeksi Oral akut
+Pada penderita DM dapat menyebabkan banyak komplikasi lain yang
+masih belum dijumpai, hal ini memungkinkan terjadinya mekanisme patogen
+yang berhubungan dengan infeksi-infeksi periodontal yang berperan penting
+dalam perkembangan inf
+III.
+
+Pemeriksaan Diabetes Mellitus
+
+III.1
+
+Pemeriksaan Laboratorium
+Pemeriksaan kadar glukosa darah dan urin penderita DM dilakukan untuk
+
+membuat diagnosa pasti penyakit DM. Perawatan di rongga mulut penderita DM
+memerlukan kerjasama dokter gigi dengan dokter umum dan dokter ahli Penyakit
+Dalam.
+III.2
+
+Perawatan DM
+DM bukan merupakan penyakit yang dapat disembuhkan, dan terapi yang
+
+dilakukan adalah dengan tujuan untuk menormalkan kadar gula darah, untuk
+mencegah terjadinya komplikasi dari penyakit DM tersebut. DM bukan
+merupakan penyakit yang dapat disembuhkan, dan terapi yang dilakukan adalah
+dengan tujuan untuk menormalkan kadar gula darah, untuk mencegah terjadinya
+komplikasi dari penyakit diabetes mellitus tersebut.
+III.3
+
+Pengelolaan Diabetes Mellitus tipe II
+
+III.3.1 Pengaturan makan (diet) dan latihan jasmani
+Pengaturan makan (diet) dan latihan jasmani selama beberapa waktu(2-4
+minggu) tujuannya untuk mengendalikan kadar glukosa dalam darah. Setiap
+makanan yang mengandung karbohidrat(khususnya gula) merupakan hal yang
+paling beresiko meningkatkan kadar gula darah.
+III.3.2
+
+Obat hipoglikemik oral (OHO)
+
+Berdasarkan cara kerjanya, OHO dibagi menjadi 4 golongan :
+i. Pemicu sekresi insulin (insulin secretagogue): sulfonilurea dan glinid
+ii Penambahan sensitivitas terhadap insulin: metformin, tiazolidindion
+iii. Penghambat glukoneogenesis (metformin)
+52
+
+iv. Penghambat absorpsi glukosa : penghambat glukosidase α
+III.3.3 Terapi insulin
+a). Sekresi insulin fisiologis terdiri dari sekresi basal dan sekresi prandial. Terapi
+insulin diupayakan mampu meniru pola sekresi insulin yang fisiologis.
+b). Terapi insulin dapat diberikan secara tunggal (satu macam) berupa : insulin
+kerja cepat (rapid insulin), kerja pendek (short acting), kerja menengah
+
+(intermediate acting), kerja panjang (long acting) atau insulin campuran
+tetap (premixed insulin).
+III.3.4 Terapi Kombinasi.
+OHO maupun insulin selalu dimulai dengan dosis rendah, untuk kemudian
+dinaikkan secara bertahap sesuai dengan respons kadar glukosa darah.
+Bersamaan dengan pengaturan diet dan kegiatan jasmani, bila diperlukan dapat
+dilakukan pemberian OHO tunggal atau kombinasi OHO sejak dini. Pada pasien
+yang disertai dengan alasan klinik di mana insulin tidak memungkinkan untuk
+dipakai dipilih terapi dengan kombinasi tiga OHO. Dengan pendekatan terapi
+tersebut pada umumnya dapat diperoleh kendali glukosa darah yang baik dengan
+dosis insulin yang cukup kecil. Dosis awal insulin kerja menengah adalah 6-10
+unit yang diberikan sekitar jam 22.00, kemudian dilakukan evaluasi dosis
+tersebut dengan menilai kadar glukosa darah puasa keesokan harinya. Bila
+dengan cara seperti di atas kadar glukosa darah sepanjang hari masih tidak
+terkendali, maka obat hipoglikemik oral dihentikan dan diberikan insulin saja.
+
+III.3.5
+
+Pengetahuan tentang pemantauan mandiri
+
+Pengetahuan tentang pemantauan mandiri, tanda dan gejala hipoglikemia
+dan cara mengatasinya harus diberikan kepada pasien, sedangkan pemantauan
+kadar glukosa darah dapat dilakukan secara mandiri, setelah mendapat pelatihan
+khusus.
+DM tipe II umumnya terjadi pada saat pola gaya hidup dan perilaku telah
+terbentuk dengan mapan. Pemberdaya penyandang diabetes memerlukan
+partisipasi aktif pasien, keluarga dan masyarakat. Tim kesehatan mendampingi
+53
+
+pasien dalam menuju perubahan perilaku. Untuk mencapai keberhasilan
+perubahan perilaku, dibutuhkan edukasi yang komprenhensif dan upaya
+peningkatan motivasi
+
+III.3.6
+
+Terapi Gizi Medis (TGM)
+
+Terapi Gizi Medis (TGM) merupakan bagian dari penatalaksanaan diabetes
+secara total. Kunci keberhasilan TGM adalah keterlibatan secara menyeluruh dari
+anggota tim (dokter, ahli gizi, petugas kesehatan yang lain dan pasien itu
+sendiri). Setiap penyandang diabetes sebaiknya mendapat TGM sesuai dengan
+kebutuhannya guna mencapai sasaran terapi. Prinsip pengaturan makan pada
+penyandang diabetes hampir sama dengan anjuran makan untuk masyarakat
+umum yaitu makanan seimbang dan sesuai dengan kebutuhan kalori dan zat gizi
+masing-masing individu. Pada penyandang diabetes perlu ditekankan pentingnya
+keteraturan makan dalam hal jadwal makan, jenis dan jumlah makanan
+
+III.3.7 Kegiatan Jasmani
+Kegiatan jasmani sehari-hari dan latihan jasmani secara teratur (3-4 kali
+seminggu selama kurang lebih 30 menit), merupakan salah satu pilar dalam
+pengelolaan DM tipe II. Kegiatan sehari-hari seperti berjalan kaki ke pasar,
+menggunakan tangga, berkebun harus tetap dilakukan. Latihan jasmani selain
+untuk menjaga kebugaran juga dapat menurunkan berat badan dan memperbaiki
+sensitivitas insulin, sehingga akan memperbaiki kendali glukosa darah.
+Latihan jasmani yang dianjurkan berupa latihan jasmani yang bersifat
+aerobik seperti jalan kaki, bersepeda santai, jogging, dan berenang. Latihan
+jasmani sebaiknya disesuaikan dengan umur dan status kesegaran jasmani.
+Untuk mereka yang relatif sehat, intensitas latihan jasmani bisa ditingkatkan,
+sementara yang sudah mendapat komplikasi DM dapat dikurangi. Hindarkan
+kebiasaan hidup yang kurang gerak..
+
+54
+
+IV. Kesimpulan
+1. DM adalah penyakit sistemik yang mengakibatkan komplikasi di rongga mulut.
+Dengan mengetahui berbagai gejala di rongga mulut berarti dokter gigi dapat
+turut serta berperan dala menegakkan diagnosa penyakit DM. Adanya
+komplikasi DM mengakibatkan penanganan penderita DM memerlukan
+kerjasama antara dokter gigi, dokter umum dan dokter ahli penyakit dalam.
+2. Perlunya menjaga kebersihan rongga mulut dengan cara menyikat gigi
+minimal 2x sehari dan dianjurkan untuk menggunakan obat kumur non
+alkohol
+3. Periksa ke dokter gigi minimal 6 bulan sekali
+
+55
+
+Daftar Pustaka
+Casadevall A, 2002. Aquired Immunity against Fungi, in Immunology of
+Infectious
+Cullough MJ; Savage NV, 2005. Oral Candidosis and the therapeutic use of
+antifungal agents in Dentistry. Aust Den J : 50 Suppl 2 : 536-539
+Holmes A. R, Bandara B M and Cannon R D, 2002. Saliva Promotes Candida
+albicans Adherence to Human Epithelial Cells. J Dent Res, 8 : 28-32.
+Holmes A. R, Bandara B M and Cannon R D, 2002. Saliva Promotes Candida
+albicans Adherence to Human Epithelial Cells. J Dent Res, 8 : 28-32.
+Robins and Cotran, 2005. Pathologic Basis of Disease. 7 th Ed Vol II. International
+Edition. Elsevier Sounder.
+Tarqin BG, 2011. Oral Candidosis : Aetiology, Clinical Manifestations, Diagnosis
+dan Management. Mosbed 2011, 1 (2) : 140-148.
+
+56
+
+c. Pendekatan psikologis
+I. STRES DAN CARA MENGATASINYA
+Manusia tidak akan lepas dari situasi yang menimbulkan stres. Stres
+merupakan hal yang melekat pada kehidupan. Siapa saja dalam bentuk tertentu,
+dalam kadar berat-ringan, dalam jangka panjang-pendek, pernah atau akan
+mengalami. Tak seorangpun dapat menghindar dari padanya. Bayi dapat
+mengalami stres. Balita bisa kedatangan stres. Kaum remaja tidak luput dari
+padanya. Kaum muda tidak mungkin menghindar. Orang dewasa pasti
+mengalami, kelompok lansia dan penderita penyakit akan juga berisiko terkena
+stres tersebut.
+Setiap individu semenjak lahir akan terus tumbuh dan berkembang, dan
+setiap harinya akan mengalami berbagai peristiwa hidup, memperoleh banyak
+pengalaman, menghadapi tekanan, dan tuntutan. Namun ada kalanya, individu
+tersebut tidak mampu menyelesaikan dan merasa lelah dalam menghadapi
+tuntutan tersebut, maka di saat itulah stres bisa muncul. Stres merupakan suatu
+respon adaptif terhadap suatu situasi yang dirasakan menantang atau
+mengancam kesehatan seseorang. Stres juga merupakan suatu kondisi yang
+dinamis saat seseorang dihadapkan pada peluang tuntutan atau sumber daya
+yang terkait dengan apa yang diinginkan dan yang hasilnya dipandang tidak pasti
+dan penting. Stres adalah suatu beban psikologis yang melebihi kemampuan
+maksimum individu itu sendiri, sehingga perbuatan kurang terkontrol secara
+sehat.
+Semua orang dapat mengalaminya, bahkan binatangpun bisa stres.
+Namun ada yang tidak mudah mengalaminya, dan ada yang mudah terkena
+stres.
+Siapa yang mudah stres?
+Beberapa tipe yang mudah mengalami stres, adalah:
+a. Pencemas
+b. Sensitif (perasa)
+c. Pemalu
+57
+
+d. Perfeksionis (selalu ingin sempurna)
+e. Agresif (pemarah dan ada keinginan untuk menyakiti orang lain)
+f.
+
+Kurang memiliki kemampuan sosial
+
+g. Kurang memiliki dukungan sosial
+h. Tidak asertif (pasif)
+i.
+
+Prokrastinasi (suka menunda-nunda pekerjaan)
+
+j.
+
+Pengelolaan waktu yang buruk
+
+Lima penyebab utama stres adalah masalah:
+a. Keluarga
+b. Pekerjaan
+c. Pendidikan
+d. Sosial/ teman
+e. Kesehatan
+Reaksi Stres berbeda pada setiap individu.
+Beberapa reaksi yang muncul, yaitu:
+a. Reaksi fisiologis
+Reaksi fisiologis di antaranya adalah: perut mual, muntah, pusing, otot
+kaku, tubuh gemetar, perut sakit, ingin ke kamar mandi, dan tangan tibatiba basah oleh keringat.
+b. Reaksi emosional
+Reaksi emosional terdiri dari marah, sedih, kesepian, kesal, menangis,
+bosan, dan benci.
+c. Reaksi Perilaku
+Reaksi perilaku meliputi sulit tidur, tics, berkelahi, tidak ada nafsu makan,
+bolos kerja, obsesi-kompulsi, dan melamun.
+d. Reaksi Mental
+Reaksi mental terdiri dari
+
+tidak bisa konsentrasi, lupa apa yang ingin
+
+dilakukan, dan daya ingat berkurang.
+
+58
+
+A. Stres dan Diabetes
+Mengonsumsi makanan bergizi seimbang dan rutin melakukan aktivitas
+fisik adalah pilar utama untuk mengelola diabetes atau menurunkan berat badan.
+Tetapi, masih ada satu hal lain yang tidak boleh diabaikan yaitu manajemen
+stres.
+Penelitian mengungkapkan bahwa manajemen stres penting bagi
+kesehatan apalagi jika sudah divonis mengidap diabetes. Sebuah studi dari Duke
+University di Durham, Carolina Utara, menemukan, ketika seseorang melakukan
+teknik relaksasi, maka kadar A1C akan cenderung turun. A1C adalah suatu
+parameter yang menunjukkan progresivitas penyakit diabetels mellitus. Hasil riset
+menunjukkan sekitar sepertiga relawan yang melakukan relaksasi dapat
+menurunkan kadar A1C sebesar satu persen atau lebih (setelah melakukan
+selama setahun). Cara ini sama efektifnya dengan mereka yang mengonsumsi
+obat diabetes. Bahkan manfaatnya melampaui apa yang telah dilakukan orang
+lain melalui diet dan olahraga.
+Untuk mengetahui lebih jelas bagaimana stres bisa memengaruhi
+diabetes, berikut adalah penjelasannya seperti dikutip Besthealthmag:
+1. Hormon stres meningkatkan gula darah
+Mengapa ketenangan membawa gula darah turun? Pertama, ketika stres,
+tubuh akan memompa keluar hormon stres (kortisol). Hormon ini akan
+meningkatkan detak jantung dan kecepatan pernapasan. Hormon ini juga
+mengirim glukosa ke dalam darah untuk mengubahnya menjadi energi bagi otot.
+Hasilnya, kadar gula darah akan lebih tinggi.
+2. Stres berkontribusi terhadap resistensi insulin
+Hormon stres membuat pankreas lebih sulit untuk mensekresikan insulin
+yang dibutuhkan untuk memindahkan glukosa keluar dari darah. Beberapa
+hormon stres juga dapat menyebabkan resistensi insulin.
+
+59
+
+3. Stres menyebabkan penambahan berat badan
+Alasan utama mengapa harus mengelola stres kronis adalah bahwa
+kortisol dapat meningkatkan nafsu makan. Stres akan membuat seseorang
+makan lebih banyak. Hal ini mendorong sel-sel di perut untuk menyimpan lemak.
+Dengan kata lain, timbunan lemak pada perut dapat berdampak serius untuk
+meningkatkan risiko serangan jantung.
+
+B. Cara menanggulangi stres
+Bagi sebagian besar orang, hidup di kota besar khususnya, harus
+mempunyai mental (jiwa) yang matang. Setiap hari selalu ada peristiwa-peristiwa
+yang tidak enak didengar, dibaca, atau dilihat secara langsung. Kalau kita
+mendengar dan membaca, atau mengalami suatu peristiwa yang tidak enak,
+kira-kira apa respon kita? Akan berbeda-beda responnya. Berbagai macam
+kejadian yang terjadi di tengah kehidupan masyarakat seperti ini, bagi sebagian
+orang bisa menimbulkan stres.
+Apa yang dimaksud dengan stres? Stres merupakan istilah sangat netral,
+menunjuk pada hal yang selalu dialami manusia dalam kehidupannya sehari-hari.
+Dalam Kamus Besar Bahasa Indonesia, stres adalah gangguan atau kekacauan
+mental dan emosional yang disebabkan oleh faktor luar. Jadi ada stimulus atau
+rangsangan yang menimbulkan stres dan itu semua dipengaruhi dari luar. Secara
+sederhana stres dapat didefinisikan sebagai suatu keadaan di mana individu
+terganggu keseimbangannya. Stres terjadi akibat adanya situasi dari luar
+ataupun dari dalam diri yang memunculkan gangguan, dan menuntut individu
+untuk berespon secara sesuai.
+Stres menampilkan diri melalui berbagai gejala, seperti meningkatnya
+kegelisahan, ketegangan, dan kecemasan; sakit fisik atau kerap disebut
+psikosomatis (sakit kepala, mulas, gatal-gatal, diare); adanya kelelahan,
+ketegangan otot, gangguan tidur, atau meningkatnya tekanan darah dan detak
+jantung. Stres juga dapat tampil dalam perubahan pada perilaku: individu
+60
+
+menjadi tidak sabar, lebih cepat marah, menarik diri, atau menampilkan
+perubahan pola makan. Sebagian individu merasa frustrasi, tak berdaya, menjadi
+lesu, dan memiliki penilaian diri rendah. Berawal dari pengertian di atas, dapat
+disimpulkan bahwa pengertian stres adalah keadaan tertekan yang disebabkan
+oleh kondisi-kondisi yang berkaitan dengan lingkungan fisik, tugas-tugas yang
+dihadapi, struktur dan iklim organisasi, serta hubungan interpersonal. Namun
+demikian indikator ada tidaknya stres tidak hanya bersifat individual (efek
+individual) tetapi juga dapat bersifat organisasi (efek organisasi).
+Menurut Neufeld (1982) stres terjadi karena adanya ketidaksesuaian
+antara tuntutan pribadi dengan tuntutan lingkungan dalam kaitan dengan
+permasalahannya. Menurut Higgins (1992) sumber stres, ada dua faktor yaitu
+bersifat internal dan bersifat eksternal. Sumber stres yang bersifat internal
+menyangkut: (1) self image, (2) tipe kepribadian, (3) kemampuan beradaptasi,
+(4) tingkat motivasi dan orientasi terhadap sukses. Sumber stres yang bersifat
+eksternal
+
+menyangkut:
+
+(1)
+
+segala
+
+hal
+
+yang
+
+berhubungan
+
+dengan
+
+permasalahannya, (2) segala hal yang tidak berkaitan dengan permasalahannya,
+seperti keluarga, lingkungan fisik, keadaan ekonomi dan sejenisnya, (3)
+perubahan-perubahan yang mendadak, baik berkaitan dengan perubahan dari
+luar dirinya maupun dari dalam dirinya.
+Sebenarnya stres merupakan sesuatu yang tak terpisahkan dari
+kehidupan manusia, bahkan seperti merupakan bagian dari kehidupan itu sendiri.
+Ketika kita berkendaraan lalu terjebak dalam kemacetan, kemudian roda
+kendaraan kita kempes dan harus diganti, ditambah ketika kita mengganti ban
+tersebut hujan turun dan kita kebasahan, sampai di kantor lupa membawa
+presentasi dan seterusnya. Semua kejadian itu dapat memunculkan stres. Meski
+ada banyak peristiwa dan kejadian yang sering mengganggu ritme kegiatan kita,
+tapi itu semua harus dilihat sebagai bagian kehidupan yang harus dijalani. Stres
+tidak perlu selalu dilihat sebagai hal yang negatif. Dalam hal-hal tertentu, stres
+memiliki dampak positif. Eustress adalah stres dalam artian positif, yakni keadaan
+yang dapat memotivasi, dan berdampak menguntungkan. Sebagai contohnya,
+61
+
+ada orang-orang yang bila sudah terdesak waktu, tiba-tiba akan terbangkitkan
+kreativitasnya. Ada pula yang karena merasa tertinggal, memotivasi diri sendiri,
+dan dapat berprestasi gemilang.
+Dalam bukunya “The Superstress Solution, Roberta Lee, mengemukakan
+ada beberapa cara untuk mengendalikan stres;
+1. Sederhanakan hidup
+Hapus beberapa acara dan kegiatan dari daftar agenda anda. Bagaimana
+caranya? Tanyakan kepada diri Anda pertanyaan ini untuk setiap isi agenda
+anda: Apakah saya akan mati besok kalau ini tidak bisa dicapai? Mungkin akan
+banyak yang bisa dihapus.
+2. Tentukan prioritas
+Katakanlah anda punya lima rencana yang harus anda lakukan satu
+minggu ke depan, berikan setiap satu kegiatan suatu angka antara 1 sampai 10,
+10 menjadi yang paling penting (yang paling mendesak dan mengancam jiwa).
+Lakukanlah dari yang mendapat angka tertinggi.
+3. Berkolaborasi dan bekerja sama
+Ada banyak orang di sekeliling anda yang siap membantu pekerjaan
+anda. Mengapa tidak membiarkan mereka melakukan beberapa tugas anda,
+sehingga anda tidak perlu melakukannya semua?
+4. Tertawalah
+Sama seperti stres kronis dan berat dapat merusak sistem organik dalam
+tubuh kita, humor dapat menyembuhkan.
+5. Berolahraga secara teratur
+Olah raga dapat mengurangi stres dengan berbagai cara. Pertama,
+latihan kardiovaskular dapat melepas zat kimia di otak untuk merangsang
+pertumbuhan sel-sel syaraf. Kedua, olahraga meningkatkan aktivitas serotonin
+dan atau norepinefrin. Ketiga, detak jantung membantu melepaskan endorfin
+62
+
+dan hormon yang mengurangi rasa sakit, menyebabkan euforia, dan membantu
+mengontrol respon otak terhadap stres dan kecemasan.
+6. Lakukan satu hal dalam satu waktu
+Mengerjakan beberapa hal sekaligus memang tidak bisa dihindari dalam
+budaya kita yang serba ingin cepat. Tapi apakah kita benar-benar harus secara
+bersamaan memasak makan malam, berbicara dengan ibu, membantu pekerjaan
+rumah, dan periksa e-mail?
+7. Membuat batasan
+Berbicara tentang kegiatan, tidak akan ada habisnya. Tapi otak,
+kemampuan dan waktu kita terbatas, sehingga sangat penting untuk membatasi,
+apa yang bisa kita lakukan, apa yang tidak. “Memborong” dan menyanggupi
+semua tawaran pekerjaan dan acara akan membuat kita bertambah stres, karena
+pada akhirnya kita kehabisan waktu dan tenaga untuk melakukannya semua.
+8. Berpikir secara global
+Jangan memusingkan hal-hal kecil.
+9. Pilihlah teman anda
+Terkadang seperti juga energi positif, energi negatif itupun menular.
+Maka pilihlah dengan siapa anda bergaul. Berada di dekat orang yang selalu
+mengeluh dan berprasangka buruk, akan membawa akibat negatif bagi anda
+juga. Sebaliknya sikap optimis dari teman juga bisa menularkan akibat positif
+bagi diri anda.
+10. Tidurlah yang cukup dan nyenyak
+Semuanya rusak bila anda tidak tidur dengan baik. Setiap gangguan tidur
+akan mengurangi performa mental. Stres memengaruhi tidur dan sebaliknya.
+Para
+
+peneliti
+
+di
+
+Pennsylvania
+
+State
+
+University
+
+College
+
+of
+
+Medicine
+
+membandingkan pasien dengan insomnia dan dengan pasien tanpa gangguan
+
+63
+
+tidur, menemukan bahwa penderita insomnia dengan gangguan tidur, yang
+paling parah tingkat stresnya.
+11. Menurunkan standar Anda
+Kesempurnaan yang anda tuntut dari diri sendiri juga orang lain, bisa
+juga menyebabkan stres. Tidak ada sesuatupun yang sempurna dalam
+kehidupan ini, jadi berdamailah. Jika angka 100 tidak dapat anda dapatkan,
+maka angka 80 pun sudah lebih dari cukup.
+12. Belajar berkata tidak
+Seseorang perlu belajar asertif dan mampu menyampaikan pendapat
+secara jujur, apa adanya, dengan pikiran, perasaan, dan menunjukkan
+keinginannya tanpa harus menyakiti orang lain.
+13. Temukan cara untuk memulihkan diri
+Temukan cara untuk bersenang-senang melepaskan kepenatan jiwa raga
+anda dan lakukan hal ini secara rutin.
+14. Sesekali keluar dari rutinitas hidup
+Lakukan sesuatu di luar kegiatan rutin yang anda lakukan sehari-hari.
+Mengambil cuti kerja sesekali untuk menyendiri, atau jika anda punya jalur
+khusus yang anda tempuh untuk berangkat kerja, sesekali ambillah jalur lainnya,
+yang jarang anda tempuh. Jika anda terbiasa mendengarkan radio dalam
+perjalanan anda, sesekali jangan lakukan hal itu tapi ganti dengan kegiatan lain
+seperti bernyanyi sendiri, berdzikir, atau berdoa selama dalam perjalanan.
+Jadi jika kita tahu bagaimana menyikapi stres, kita bisa mengubah
+kejadian atau peristiwa yang memungkinkan untuk munculnya stress menjadi
+
+eustresss, di mana setiap keadaan atau kondisi yang buruk terjadi, membuat kita
+bergairah dan memotivasi kita untuk tampil dengan lebih maksimal lagi. Jadikan
+stress sebagai ‘vitamin’ untuk kita terima dan diolah menjadi energi baru untuk
+melakukan aktivitas kita selanjutnya.
+
+64
+
+15. Relaksasi Panca Indera
+Menggunakan panca indera mata, telinga, hidung, lidah, dan kulit.
+No.
+
+Panca
+
+Relaksasi Panca Indera
+
+Indera
+a..
+
+Mata
+
+Tidur, kalau sulit tidur dapat menggantikan dengan kegiatan
+membaca, nonton TV atau film yang disukai.
+
+b.
+
+Telinga
+
+Mendengarkan musik atau siraman rohani
+
+c.
+
+Hidung
+
+Aroma Therapy
+
+d.
+
+Lidah
+
+Berdoa, berdzikir, karaoke-an, bernyanyi, curhat pada orang
+yang tepat
+
+e.
+
+Kulit
+
+Pijat, SPA, hidro therapy (berendam di air hangat)
+
+65
+
+II. BIBLIOTHERAPY
+KEKUATAN PENYEMBUHAN LEWAT BUKU
+Buku merupakan media untuk mendapatkan wawasan, pengetahuan,
+informasi, dan hiburan. Selain itu, buku dapat menjadi media terapi atau
+penyembuhan bagi penderita gangguan mental, seperti gangguan kecemasan,
+trauma, dan stres. Pemanfaatan buku sebagai media terapi disebut biblioterapi.
+Jachna (2005:1) mengatakan biblioterapi adalah dukungan psikoterapi melalui
+bahan bacaan untuk membantu seseorang yang mengalami permasalahan
+personal. Metode terapi ini sangat dianjurkan, terutama bagi para penderita yang
+sulit mengungkapkan permasalahannya secara verbal. Biblioterapi adalah
+program membaca terarah yang dirancang untuk meningkatkan pemahaman
+pasien dengan dirinya sendiri dan untuk memperluas cakrawala budayanya serta
+memberikan beranekaragam pengalaman emosionalnya. Bacaan – bacaan seperti
+itu biasanya diarahkan secara umum oleh terapis. Terapi dengan membaca ini
+utamanya digunakan untuk menyembuhkan penderita stres, depresi dan
+kegelisahan (anxiety). Terapi ini menggunakan ruangan di perpustakaan dengan
+berbagai macam buku yang sifatnya memberi motivasi kepada pasien.
+Pemanfaatan buku sebagai media terapi disebut biblioterapi.
+Biblioterapi telah dikenal sejak zaman Yunani Kuno. Di atas gedung
+Perpustakaan Thebes terdapat patung yang melukiskan orang yang tengah
+bosan dan di bawahnya ada manuskrip berbunyi tempat penyembuhan jiwa (the
+
+healing place of the soul). Ide pemanfaatan bahan bacaan sebagai media terapi
+pada zaman itu tak dapat dilepaskan dari Plato. Menurutnya, orang dewasa
+sebaiknya menyeleksi cerita dan kisah yang diperdengarkan pada anak-anak
+mereka, sebab hal itu dapat menjadi model cara berpikir dan budi pekerti anak di
+masa-masa selanjutnya. Biblioterapi berasal dari kata biblion dan therapeia.
+Biblion
+
+berarti
+
+buku
+
+atau
+
+bahan
+
+bacaan,
+
+sementara
+
+therapeia artinya
+
+penyembuhaan. Jadi, biblioterapi dapat dimaknai sebagai upaya penyembuhan
+lewat buku. Bahan bacaan berfungsi untuk mengalihkan orientasi dan
+memberikan pandangan-pandangan yang positif sehingga menggugah kesadaran
+penderita untuk bangkit menata hidupnya.
+66
+
+Secara medis, pemikiran Plato diteruskan oleh Rush dan Galt pada 18151853. Lewat percobaan-percobaan medis, keduanya berkesimpulan bahwa bahan
+bacaan dapat dipadukan dengan proses konseling, terutama untuk menciptakan
+hubungan yang hangat, mengeksplorasi gaya hidup, dan menyarankan wawasan
+mendalam (insight). Para dokter di Inggris membangun kerjasama dengan para
+pustakawan untuk pengembangan model terapi ini. Perkembangan biblioterapi
+berjalan pesat setelah Perang Dunia I. Rumah sakit mendirikan perpustakaan
+untuk mengembalikan kondisi psikis para tentara yang cacat akibat perang.
+American Library Association (ALA) melaporkan metode ini telah membantu
+3.981 tentara untuk menerima kondisi yang dialaminya.
+Dalam hidup, kita tak akan lepas dari yang namanya masalah, baik itu
+masalah eksternal (lingkungan) maupun masalah internal (psikologis). Tak jarang
+masalah yang membelit, mudah menyebabkan kita galau, stres, dan depresi. Di
+saat-saat seperti itu biasanya kita membutuhkan seseorang sekedar untuk
+mendengarkan keluh kesah kita. Bahkan ada juga mereka yang rela
+mengunjungi seorang psikolog atau psikiater untuk berkonsultasi. Tak hanya itu
+saja, bagi sebagian orang, masalah yang terlalu dalam menyerang hati mereka,
+bisa mereka tumpahkan dengan cara menulis ataupun membaca.
+Lantas bagaimana jika tak ada satupun orang yang bisa kita percayai
+untuk mendengarkan cerita kita? Ketika perasaan sedih, sendiri, terluka dan
+hampa itu menyerang, kita hanya bisa menikmatinya seorang sendiri, tanpa kita
+sadari, ternyata kita tengah mengalami kegalauan yang dalam, stres, dan depresi
+karena harus menanggung masalah seorang diri. Ingin rasanya berteriak,
+menumpahkan segala kesal dan rasa sesak di dada. Dalam kondisi stres dan
+depresi seperti itu, merupakan naluri alamiah manusia mencari sesuatu agar
+mereka terhindar dari stres yang membelenggu. Namun tak jarang sebagian dari
+kita justru mencari pelarian sesaat atau pelampiasan kepada hal-hal yang
+sifatnya merusak diri, seperti mengonsumsi narkoba, hingga nekat berbuat
+vandalisme (kejahatan). Sangat disayangkan bila kita sampai terjerumus
+melakukan hal-hal yang bisa merusak dan merugikan diri kita. Padahal masih ada
+cara lain yang lebih murah dan mudah untuk mengatasi beban masalah yang
+menjerat kita yaitu dengan sebuah terapi kejiwaan. Terapi kejiwaan ini dikenal
+67
+
+dengan nama “Biblioterapi”, yaitu suatu terapi kejiwaan dengan menggunakan
+bantuan buku.
+Di sinilah kita akan mengakui betapa kekuatan sebuah buku mampu
+menjadi terapi bagi kesehatan jiwa kita. Kemudian akan timbul pertanyaan,
+apakah hubungannya masalah kejiwaan dengan buku? Ketahuilah bahwa dari
+buku kita bisa mendapatkan banyak hal, antara lain ilmu pengetahuan, informasi,
+hiburan, dan banyak lagi manfaat yang bisa kita peroleh dari sebuah buku.
+Mengapa buku? Buku merupakan benda yang sangat praktis dan simple.
+Kita bisa membawa dan membacanya kapanpun, dimanapun, dan dalam suasana
+apapun yang kita mau. Melalui buku kita bisa mempelajari banyak hal. Kita bisa
+bercermin bagaimana diri kita, mengetahui banyak hal tentang dunia luar, serta
+mempelajari pengetahuan dan pengalaman orang lain. Buku jua lah yang banyak
+membantu kita memahami akan arti hidup serta permasalahannya. Menurut
+seorang psikolog terkenal dan penulis buku psikologi, Paul A. Hauck mengenai
+arti sebuah buku bagi kesehatan emosional, “terlalu banyak orang berpendapat
+
+bahwa gangguan-gangguan emosional selalu membutuhkan terapi mendalam
+yang berbulan-bulan atau bahkan bertahun-tahun. Psikologi tidak berbeda
+dengan geograpi. Keduanya dapat dipelajari melalui pengajaran di kelas dan
+keduanya dapat menggunakan buku-buku sebagai alat untuk memaksimalkan
+pengajaran.” Selama bertahun-tahun Paul telah memperkenalkan kepada
+kliennya buku-buku yang terbaik tentang Terapi Perilaku Kognitif, dimana Terapi
+Emotif Rasional (TER) merupakan model yang terbaik. Paul telah menulis 14
+buku
+
+untuk
+
+membantu
+
+memperbaiki
+
+perolehan-perolehan
+
+dari
+
+konseling
+
+tersebut.
+Biblioterapi (terapi melalui telaah buku-buku yang berhubungan) ini
+sudah biasa digunakan oleh para konselor. Manfaat dari buku ini salah satunya
+mudah dibaca kembali dan dipelajari pada waktu senggang. Tentu saja buku
+tidak dapat menjawab semua pertanyaan kita. Menurut Paul lagi, Biblioterapi
+tersebut akan lebih efisien apabila dibarengi dengan konseling. Biblioterapi, cara
+penyembuhan dengan memberikan bacaan yang tepat kepada pasien ini telah
+menjadi alternatif pengobatan baru dalam dunia kesehatan. Terapi ini pertama
+kalinya dikenalkan oleh para ahli kesehatan di Inggris. Tujuannya adalah
+68
+
+menyembuhkan penderita stres, depresi, kegelisahan, dan kegalauan. Terapi ini
+dilakukan dengan cara mengajak pasien berbincang untuk mengetahui bacaan
+apa yang disukainya, mencari penyebab penyakit atau stres, lalu menawarkan
+buku yang tepat untuknya.
+Dengan cara ini diharapkan pasien akan mendapatkan inspirasi dan
+menjadi lebih bersemangat atau malah justru bisa menemukan pemecahan
+masalah yang menyebabkannya stres lewat bacaan yang menginspirasi, mungkin
+bisa disebut dengan penyembuhan dengan kemampuan diri sendiri (self help).
+Menurut salah seorang biblioterapis yang juga seorang pustakawan, Catherine
+Morris, Biblioterapi ditujukan bagi penderita depresi dan kegelisahan ringan. Ia
+menganjurkan biblioterapi berdasarkan pengalamannya selama mengelola
+perpustakaan. Catherine juga banyak mendengar komentar dari pengunjung
+yang memperoleh keceriaan kembali setelah mereka membaca kisah tertentu.
+Mereka merasa lebih bersemangat setelah mengetahui bahwa masalah yang
+dihadapi ternyata jauh lebih ringan dibanding kisah yang dibacanya.
+Namun sayangnya di Indonesia, biblioterapi ini belum dikenal secara luas
+oleh semua kalangan. Biblioterapi telah dilakukan oleh kalangan tertentu yang
+memiliki hobi membaca tinggi. Mereka biasanya mendatangi konselor yang
+kemudian menunjukkan buku-buku tertentu untuk dijadikan sebagai terapi jiwa
+pada saat mengalami stres ringan. Sudah saatnya kita mulai membiasakan diri
+membaca buku-buku yang penuh inspiratif dan yang sesuai dengan suasana hati
+kita.
+A.Teknik Intervensi Biblioterapi
+Pemberian biblioterapi tergantung pada tujuan dan tingkat intervensi.
+Secara umum terdapat dua macam teknik, yaitu:
+1. Pustaka didaktif yang bertujuan untuk memfasilitasi suatu perubahan
+melalui pemahaman diri yang bersifat kognitif. Informasi dalam
+biblioterapi bersifat instruksional dan mendidik. Bahan-bahan yang dapat
+dimasukkan adalah bagaimana suatu perilaku baru harus dibentuk atau
+dihilangkan,
+
+bagaimana mengatasi suatu masalah, relaksasi, dan
+
+meditasi.
+69
+
+2. Pustaka imajinatif, merujuk pada presentasi perilaku individu dengan cara
+yang dramatis. Kategori ini meliputi novel, cerita pendek, sandiwara dan
+sebagainya yang memfasilitasi pembacanya untuk menghayati situasi
+kehidupan dan perilaku orang lain dalam buku tersebut.
+Lewat membaca, seseorang bisa mengenali dirinya. Informasi dan
+pengetahuan yang diperoleh dari kegiatan membaca menjadi masukan untuk
+memecahkan masalah yang dihadapi seseorang. Saat membaca, pembaca
+menginterpretasi jalan pikiran penulis, menerjemahkan simbol dan huruf ke
+dalam kata dan kalimat yang memiliki makna tertentu, seperti rasa haru dan
+simpati. Perasaan ini dapat “membersihkan diri” dan mendorong seseorang untuk
+berperilaku lebih positif.
+Menurut Selabasi (dalam Herink, 1996) intervensi biblioterapi dapat
+dikelompokkan dalam empat tingkatan, yaitu intelektual, sosial, perilaku, dan
+emosional.
+Pertama, pada tingkat intelektual individu memperoleh pengetahuan
+tentang perilaku yang dapat memecahkan masalah, membantu pengertian diri,
+serta mendapatkan wawasan intelektual. Selanjutnya, individu dapat menyadari
+ada banyak pilihan dalam menangai masalah.
+Kedua, di tingkat sosial, individu dapat mengasah kepekaan sosialnya. Ia
+dapat melampaui bingkai referensinya sendiri melalui imajinasi orang lain. Teknik
+ini dapat menguatkan pola-pola sosial, budaya, menyerap nilai kemanusiaan, dan
+saling memiliki.
+Ketiga, tingkat perilaku individu akan mendapatkan kepercayaan diri
+untuk membicarakan masalah-masalah yang sulit didiskusikan akibat perasaan
+takut, malu, dan bersalah. Lewat membaca, individu didorong untuk diskusi
+tanpa rasa malu akibat rahasia pribadinya terbongkar.
+Keempat, pada tingkat emosional, individu dapat terbawa perasaannya
+dan mengembangkan kesadaran menyangkut wawasan emosional. Teknik ini
+dapat menyediakan solusi-solusi terbaik dari rujukan masalah sejenis yang telah
+dialami orang lain, sehingga merangsang kemauan yang kuat pada individu
+untuk memecahkan masalahnya.
+Cara pemberian biblioterapi dapat melalui dua teknik, yakni:
+70
+
+1. Reading Bibliotherapy
+Shrode’s (1999) menjelaskan bahwa proses terapeutik terjadi ketika
+individu membaca literatur yang telah dipilih secara spesifik sesuai
+dengan kebutuhan. Proses terapi hanya dilakukan dengan cara membaca
+dan tidak melibatkan konselor sebagai fasilitator. Tugas konselor hanya
+sebagai penyedia materi bacaan sesuai dengan kebutuhan klien.
+
+2. Interactive Bibliotherapy
+Rubin
+
+(dalam
+
+Hynes
+
+&
+
+Berry,
+
+1994)
+
+mengatakan
+
+pentingnya
+
+perankonselor untuk memfasilitasi dialog tentang perasaan individu
+terhadap materi bacaan, sehingga hubungan yang terjadi tidak hanya
+klien dan bacaan, namun klien, bacaan, dan terapis. Bacaan dalam hal ini
+bersifat sebagai katalis sedangkan konselor melakukan dialog dengan
+harapan dapat memberikan insight. Dengan demikian dapat dikatakan
+bahwa
+
+fokus
+
+proses
+
+Interactive
+
+Bibliotherapy
+
+adalah
+
+proses
+
+penyembuhan dan pertumbuhan, bukan hanya pada stimulus bacaan
+saja, namun hingga pada tahap pengenalan sampai pada pemahaman
+yang terintegrasi.
+B. Materi Biblioterapi
+Materi yang diberikan dalam biblioterapi tidak hanya imajinatif, namun
+juga harus didaktif dan sifatnya memberikan informasi. Materi yang dapat
+digunakan adalah:
+1. Puisi
+2. Tulisan kreatif
+3. Permainan
+4. Cerita pendek
+5. Esai
+6. Artikel majalah
+7. Bagian tertentu dari buku teks
+8. Audiovisual (rekaman film, video, petikan film)
+Dasar pemilihan materi biblioterapi, berdasarkan pertimbangan tematik
+sebagai berikut:
+1. Pengalaman dan emosi yang Universal-Personal
+71
+
+2. Powerfull-trite (bukan hal yang biasa)
+3. Comprehensive
+4. Positif-negatif
+5. Ambiguitas
+6. Humor
+Selain itu juga memperhatikan usia, tingkat pendidikan, kondisi fisik dan
+mental, serta sejarah kehidupan partisipan.
+
+C. Tahapan Pelaksanaan Biblioterapi
+Oslen (2006) menyarankan lima tahap penerapan biblioterapi, baik
+dilakukan secara perorangan maupun kelompok.
+Pertama, awali dengan motivasi. Terapis dapat memberikan kegiatan
+pendahuluan, seperti permainan atau bermain peran, yang dapat memotivasi
+peserta untuk terlibat secara aktif dalam kegiatan terapi.
+Kedua, berikan waktu yang cukup. Terapis mengajak peserta untuk
+membaca bahan-bahan bacaan yang telah disiapkan hingga selesai. Yakinkan,
+terapis telah akrab dengan bahan-bahan bacaan yang disediakan.
+Ketiga, Lakukan inkubasi. Terapis memberikan waktu pada peserta untuk
+merenungkan materi yang baru saja mereka baca.
+Keempat, tindak lanjut. Sebaiknya tindak lanjut dilakukan dengan metode
+diskusi. Lewat diskusi peserta mendapatkan ruang untuk saling bertukar
+pandangan sehingga memunculkan gagasan baru. Lalu, terapis membantu
+peserta untuk merealisasikan pengetahuan itu dalam hidupnya.
+Kelima, evaluasi. Sebaiknya evaluasi dilakukan secara mandiri oleh
+peserta. Hal ini memancing peserta untuk memperoleh kesimpulan yang tuntas
+dan memahami arti pengalaman yang dialami.
+Pada zaman modern ini, banyak manusia yang mengalami gangguan
+mental, seperti gangguan kecemasan, trauma, stres, dan depresi. Apabila tidak
+segera ditangani akan membebani individu, sehingga memiliki beban pikiran
+yang dapat mengganggu aktivitas. Seiring dengan perkembangan zaman yang
+72
+
+begitu pesat dan banyaknya masalah – masalah yang terjadi di masyarakat, para
+ahli membuat model – model terapi untuk menyelesaikan masalah yang
+dihadapi, seperti teknik biblioterapi ini. Depresi merupakan salah satu masalah
+kesehatan mental utama saat ini, yang mendapat perhatian serius. WHO
+memprediksi bahwa pada tahun 2020 nanti, depresi akan menjadi salah satu
+penyakit mental yang banyak dialami dan depresi berat akan menjadi penyebab
+kedua terbesar kematian setelah serangan jantung.
+Terapi alternatif yang dikembangkan para dokter keluarga di Kirklees,
+West
+
+Yorkshire,
+
+ini
+
+akan
+
+mempertemukan
+
+penderita
+
+depresi
+
+dengan
+
+“biblioterapis” dari perpustakaan setempat. Biblioterapis ini selanjutnya akan
+memeriksa koleksi buku di perpustakaan guna menemukan buku yang sekiranya
+sesuai untuk pasien tertentu. Diharapkan dengan buku yang sesuai pasien akan
+mendapatkan inspirasi dan menjadi lebih bersemangat. Buku merupakan media
+untuk mendapatkan wawasan, pengetahuan, informasi, dan hiburan. Selain itu,
+buku dapat menjadi media terapi atau penyembuhan bagi penderita gangguan
+mental, seperti gangguan kecemasan, trauma, dan stres.
+Sebagian besar dari kita sebenarnya telah menerapkan terapi membaca.
+Biblioterapi sering digunakan untuk pencarian jati diri melalui dunia yang ada
+dalam halaman-halaman buku yang baik. Kita merasa terlibat dalam karakter
+tokoh utama yang ada di sana. Acapkali kita sering menutup sampul sembari
+tersenyum setelah mendapatkan inspirasi dan ide baru dari buku. Itulah tujuan
+dari biblioterapi, yaitu mendampingi seseorang yang tengah mengalami
+emosional yang berkecamuk karena permasalahan yang dia hadapi dengan
+menyediakan bahan-bahan bacaan dengan topik yang tepat. Kisah dalam buku
+akan
+
+membantu
+
+mereka
+
+untuk
+
+menyelami
+
+hidupnya
+
+sehingga
+
+mampu
+
+memutuskan jalan keluar yang paling mungkin bisa diambil.
+Dalam
+
+memilih
+
+strategi,
+
+konselor
+
+hendaknya
+
+mempertimbangkan
+
+berbagai faktor yang relevan , misalnya: ciri klien, jenis masalah, dan harapan
+konseli dalam konseling. Salah satu strategi yang menjadi alternatif pilihan
+konseling adalah biblioterapi yang menggunakan bahan pustaka. Biblioterapi
+yang sudah dirancang oleh konselor dengan mempertimbangkan tujuan, ciri
+konseli, material, sasaran, metode, dan evaluasi akan membantu konseli
+73
+
+memperoleh informasi tentang masalah – masalah yang dihadapinya. Perolehan
+informasi tersebut dapat mengubah tingkah laku apabila konseli benar – benar
+mematuhinya.
+Cara
+
+kerjanya
+
+adalah
+
+dengan
+
+berbincang
+
+dengan
+
+pasien,
+
+lalu
+
+menawarkan buku yang tepat baginya. Di Inggris, ahli medis dan pustakawan
+telah menjalin kerjasama dalam suatu tim guna merancang suatu program terapi
+baru menawarkan bacaan (khususnya novel) bagi pasien dengan beragam
+keluhan.
+Dalam penerapan biblioterapi konseli sebaiknya melewati tiga tahapan
+berikut ini:
+1. Identifikasi,
+
+konseli mengidentifikasi dirinya dengan karakter dan
+
+peristiwa yang ada dalam buku, baik yang bersifat nyata atau fiksi. Bila
+bahan bacaan yang disarankan tepat maka konseli akan mendapatkan
+karakter yang mirip atau mengalami peristiwa yang sama dengan dirinya.
+2. Katarsis, konseli menjadi terlibat secara emosional dalam kisah dan
+menyalurkan emosi-emosi yang terpendam dalam dirinya secara aman
+(seringnya melalui diskusi atau karya seni).
+3. Wawasan Mendalam (insight), setelah katarsis konseli (dengan bantuan
+pembimbing) menjadi sadar bahwa permasalahannya bisa disalurkan atau
+dicarikan jalan keluarnya. Permasalahan konseli mungkin saja dia
+temukan
+
+dalam
+
+karakter
+
+tokoh
+
+dalam
+
+buku
+
+sehingga
+
+dalam
+
+menyelesaikannya bisa mempertimbangkan langkah-langkah yang ada
+dalam cerita buku.
+Tahapan dalam Bibliotherapy, menurut Hynes & Berry (1994)
+Tahap I: Recognition (Pengenalan)
+Pada tahap ini peserta diberi materi atau literatur yang memiliki
+hubungan atau keterikatan dengan peserta. Misalnya materi yang memunculkan
+ketertarikan individu, membuka imajinasi, menghentikan pikiran bertanya-tanya
+atau yang menarik perhatian. Pada saat yang bersamaan ada sesuatu dalam
+Bibliotherapy sebagai suatu hal yang dapat dikenali untuk memahami diri dan
+pengalaman orang lain. Ada beberapa macam respon dalam tahap ini. Ada yang
+74
+
+terjadi secara langsung, namun ada juga yang membutuhkan waktu. Fasilitator
+mungkin dapat menggali sedikit sebelum munculnya rekognisi yang lain.
+Partisipan lain yang berada di dalam kelompok juga dapat mengarahkan respon
+partisipan-partisipan lainnya melalui respon yang disampaikan dalam diskusi.
+Namun tetap bahan mengacu pada literatur yang diberikan. Dalam tahap ini,
+dapat terjadi respon yang berbeda-beda dari partisipan dan fasilitator. Ada tiga
+respon penting yang terdapat dalam rekognisi, yaitu:
+a. Perasaan yang tidak diakui (unkhowledged feelings). Bibliotherapy
+membantu partisipan untuk menemukan dan berunding tentang sesuatu
+dari literatur yang memiliki rangsangan ambigu. Namun, ada juga
+partisipan yang tidak dapat menemukannya.
+b. Pengenalan pola respon (recognizing patterns of response)
+Adanya penetralan konteks, yang membantu partisipan mengenali respon
+spontan
+
+yang
+
+cenderung
+
+negatif.
+
+Bibliotherapy
+
+pada
+
+dasarnya
+
+menggunakan penyembuh sehingga selain partisipan dapat mengenali
+respon negatif, fasilitator dapat membuat suatu perjanjian bahwa setiap
+partisipan harus menemukan elemen positif dalam bacaan yang
+disediakan dalam setiap sesi.
+c. Katarsis
+Katarsis merupakan proses pelepasan pikiran-pikiran, emosi-emosi, dan
+perasaan-perasaan yang selama ini ditekan. Materi bacaan yang
+diberikan, secara tidak langsung menyentuh permukaan dari alam bawah
+sadar dan ditemani oleh pelepasan ketegangan dan respon emosional.
+Hal penting yang harus diperhatikan dalam mempersiapkan tahap
+rekognisi adalah literatur yang menyeluruh (universal), cukup bagus, mudah
+ditemukan, namun benar-benar menyeluruh setiap partisipan di dalam kelompok
+dan fasilitator harus memfasilitasi diskusi tersebut dan membuat materi-materi
+itu menjadi potensial.
+Tahap 2. Examination (Pemeriksaan)
+Setelah tahap rekognisi, tahap selanjutnya adalah examination. Orang
+kebanyakan menganggap bahwa membaca hanya relax atau refreshing. Dalam
+biblioterapi, membaca tidak hanya sekedar membaca, tetapi harus disertai
+75
+
+dengan melakukan eksplorasi terhadap pikiran dan perasaan yang dimiliki.
+Dengan bertanya what, when, why, how many, how much, who, dan lain-lain.
+Fasilitator
+
+hendaknya mencoba untuk membantu partisipan dalam menggali
+
+reaksi mereka sendiri. Fasilitator dapat berkonsentrasi untuk membantu
+memeriksa dan memformulasikan perasaan-perasaan secara koheren, sehingga
+fasilitator dapat mengontrol perasaan dan respon partisipan.
+Tahap 3. Juxtaposition (Pendekatan)
+Setelah melakukan rekognisi dan pemeriksaan, pada tahap ini peserta
+mendapatkan gambaran baru tentang pengalamannya. Pada tahap ini, literature
+sangat membantu untuk membuka wawasan bahwa ada yang salah atau kurang
+tepat selama ini.
+Tahap 4. Application to self
+Setelah melakukan rekognisi, pemeriksaan, penempatan, kemudian pada
+tahap ini saatnya hasil dari tahapan tersebut dialami oleh partisipan. Partisipan
+menyelesaikan proses dengan melakukan evaluasi dan integrasi. Evaluasi ini
+dilakukan untuk membangun tingkat rekognisi dan pemeriksaan yang baru.
+Partisipan mulai dapat menyadari tentang dirinya sendiri, mereka harus dapat
+melihat bagaimana sikap dan perilaku berdampak pada sudut pandang yang
+baru. Jika pengalaman terapeutik ingin menjadi sempurna, maka harus ada
+kesadaran berpikir dan membuat komitmen pribadi untuk menggunakan sikap
+yang baru sebagai poin petunjuk untuk beresponn atau beraksi. Dengan kata
+lain, insight harus terintegrasi.
+Baik evaluasi maupun membuat suatu komitmen membutuhkan waktu.
+Untuk membuat suatu komitmen dari dalam diri partisipan, membutuhkan waktu
+yang lebih panjang (lebih lama) dibandingkan dengan mengevaluasi yang hanya
+membutuhkan beberapa waktu setelah melewati tahap juxtaposition. Selain itu,
+kesadaran diri yang dialami oleh seorang partisipan mungkin berbeda dari yang
+dialami oleh partisipan lainnya, karena hasil dari proses ini dapat berbeda-beda
+bagi setiap partisipan. Hal ini dapat menjadi kesempatan bagi partisipan untuk
+memiliki lebih banyak pengalaman bermakna.
+76
+
+Perkembangan dalam menjalani biblioterapi tergantung dari kekuatan
+individu masing-masing partisipan dan untuk itu partisipan harus melatih diri
+untuk memiliki kualitas positif. Kualitas positif tersebut antara lain kemampuan
+untuk menganalisis topic atau masalah, kejujuran untuk melihat ke dalam diri,
+objektivitas melihat perasaan dan perilaku dari sudut pandang lain, dan
+kepercayaan diri serta harapan yang adekuat untuk merasa bahwa perubahan itu
+mungkin terjadi dan seseorang mampu untuk mengalami suatu perubahan.
+
+D. Aplikasi biblioterapi
+Pelaksanaan Biblioterapi dilakukan melalui langkah-langkah sebagai
+berikut:
+1. Identifikasi kebutuhan-kebutuhan konseli. Tugas ini dilakukan melalui
+pengamatan, berbincang dengan orangtua, penugasan untuk menulis,
+dan pandangan dari sekolah atau fasilitas-fasilitas yang berisi rekam
+hidup konseli.
+2. Sesuaikan konseli dengan bahan-bahan bacaan yang tepat. Carilah buku
+yang berhubungan dengan perceraian, kematian keluarga, atau apapun
+yang dibutuhkan yang telah diidentifikasi. Jagalah hal-hal ini dalam
+ingatan:
+a. Buku harus sesuai dengan tingkat kemampuan baca konseli.
+b. Tulisan harus menarik dan melatih klien untuk lebih dewasa.
+c. Tema bacaan seharusnya sesuai dengan kebutuhan yang telah
+diidentifikasi dari konseli.
+d. Karakteristik seharusnya dapat dipercaya dan mampu memunculkan
+rasa empati.
+e. Alur kisah seharusnya realistis dan melibatkan kreativitas untuk
+menyelesaikan masalah.
+3. Putuskan susunan waktu dan sesi serta bagaimana sesi diperkenalkan
+pada konseli.
+4. Rancanglah aktivitas-aktivitas tindak lanjut setelah membaca, seperti
+diskusi, menulis makalah, menggambar, dan drama.
+77
+
+5. Motivasi konseli dengan aktivitas pengenalan seperti mengajukan
+pertanyaan
+
+untuk
+
+menuju
+
+ke
+
+pembahasan
+
+tentang
+
+tema
+
+yang
+
+dibicarakan.
+6. Libatkan konseli dalam fase membaca, berkomentar atau mendengarkan.
+Ajukan pertanyaan-pertanyaan pokok dan mulaialah berdiskusi kecil
+tentang bacaan. Secara berkala, simpulkan apa yang terjadi secara
+panjang lebar.
+7. Berilah waktu jeda beberapa menit agar klien bisa merefleksikan materi
+bacaannya.
+Kenalkan aktivitas tindak lanjut:
+8. Menceritakan kembali kisah yang dibaca
+9. Diskusi mendalam tentang buku, misalnya diskusi tentang benar dan
+salah, moral, hukum, letak kekuatan dan kelemahan dari karakter utama
+dan lain-lain.
+10. Aktivitas seni seperti menggambar ilustasi persitiwa kisah, membuat
+kolase dari foto majalah dan berita utama untuk mengilustrasikan
+peristiwa-peristiwa dalam kisah, melukis gambar peristiwa).
+11. Menulis kreatif, seperti menyelesaikan kisah dalam cara yang berbeda,
+mengkaji keputusan dari karakter.
+12. Drama, seperti bermain peran, merekonstruksi kisah dengan wayang
+yang dibuat selama aktivitas seni, yang menjadi coba-coba dalam
+karakter.
+13. Dampingi konseli untuk meraih penutupan melalui diskusi dan menyusun
+daftar jalan keluar yang mungkin atau aktivitas lainnya.
+Hurlock mengemukakan bahwa penyebab masalah yang dihadapi oleh
+konseli terbagi atas dua penyebab, yaitu :
+
+pertama, penyebab yang
+
+memengaruhi, dan kedua ; penyebab yang menggerakkan. Kekuatan penyebab
+pertama menjadikan penyebab kedua mendorong konseli untuk menuju pada
+kenakalan. Jenis atau tingkat masalah yang dapat diselesaikan dengan teknik
+biblioterapi adalah :
+1. Masalah keseharian,
+78
+
+2. Masalah pendidikan,
+3. Masalah pekerjaan,
+4. Masalah kesehatan,
+5. Masalah sosial.
+Wujud masalah tersebut seperti tidak tahu cara belajar yang efektif, sulit
+menghilangkan rasa malu, tidak mampu bersikap asertif, kurang percaya diri,
+sulit menurunkan berat badan, menghilangkan kebiasaan merokok atau
+ketergantungan pada alkohol.
+E. Kekuatan dan kelemahan Teknik Biblioterapi
+1. Kekuatan teknik
+Lewat membaca seseorang bisa mengenali dirinya. Informasi dan
+pengetahuan yang diperoleh dari kegiatan membaca menjadi masukan untuk
+memecahkan masalah yang dihadapi seseorang. Saat membaca, pembaca
+menginterpretasi jalan pikiran penulis, menerjemahkan simbol dan huruf ke
+dalam kata dan kalimat yang memiliki makna tertentu, seperti rasa haru dan
+simpati. Perasaan ini dapat “membersihkan diri” dan mendorong sesorang untuk
+berperilaku lebih positif.
+2. Kelemahan teknik
+Meskipun biblioterapi mendorong perubahan secara individual, hal ini
+hanya digunakan terbatas pada saat di mana krisis hadir. Bagaimanapun itu
+bukan obat yang menghilangkan semua masalah psikologis yang telah mengakar
+secara mendalam. Masalah-masalah mendalam yang terbaik dilayani melalui
+intervensi terapi lebih intensif. Konseli usia anak-anak mungkin belum bisa
+melihat diri lewat cermin sastra dan literatur
+
+pun bisa sebatas untuk tujuan
+
+melarikan diri saja. Lainnya mungkin cenderung untuk merasionalisasi masalah
+mereka daripada yang mereka hadapi. Namun orang lain mungkin tidak dapat
+mentransfer wawasan ke dalam kehidupan nyata. Namun, pengalaman ini
+mengganti dengan karakter sastra terbukti membantu banyak konseli.
+Pada dasarnya semua teknik dalam Bimbingan dan Konseling kegunaannya
+adalah sama untuk menyelesaikan masalah konseli itu sendiri. Tapi, untuk
+menyelesaikan masalah itu tidak secara tiba – tiba menggunakan teknik yang
+ada tetapi masalah konseli harus diidentifikasi dulu agar konselor bisa
+79
+
+menggunakan teknik yang sesuai dengan masalah konseli. Dengan demikian,
+konselor haruslah memahami betul teknik – teknik agar menjadikan konselor
+yang berwawasan luas dan profesional.
+
+F. Keberhasilan Biblioterapi
+Keberhasilan
+
+biblioterapi
+
+sangat
+
+tergantung
+
+pada
+
+petunjuk
+
+yang
+
+terstruktur dan berorientasi terhadap tujuan tersebut. Semakin sering individu
+membaca buku atau literature yang diberikan terapis, semakin pesat kemajuan
+yang dialami.
+Menurut Gambrill (dalam Ammerman & Hersen, 1993), apabila tingkat
+membaca panduan dan peningkatan keterampilan self management berjalan
+efektif, dapat menghasilkan kompetensi sebagai berikut:
+
+1. Self diagnosis, keterampilan dalam menggunakan materi bacaan untuk
+menemukan
+
+tujuan
+
+dan
+
+rencana
+
+yang
+
+akan
+
+dilakukan
+
+untuk
+
+mencapainya. Hal ini membutuhkan keterampilan dalam mengumpulkan
+informasi yang membantu.
+
+2. Self monitoring, partisipan mampu menilai informasi dan mengevaluasi
+kemajuan.
+3. Keterampilan dalam menyusun reward sehingga reaksi baru akan terjadi.
+4. Keterampilan dalam memilih tahap baru saat keberhasilan positif dibuat.
+5. Keterampilan dalam memecahkan masalah setelah intervensi.
+6. Mampu melakukan generalisasi dan menjaga perubahan yang terjadi agar
+stabil dan menetap.
+
+80
+
+III. RELAKSASI OTOT
+Anda tidak dapat memiliki perasaan tenteram dalam tubuh bila pada saat
+bersamaan anda juga mengalami stres psikologis. Relaksasi otot akan
+menurunkan denyut nadi dan tekanan darah, juga mengurangi keringat dan
+frekuensi pernapasan. Relaksasi otot yang dalam, jika dikuasai dengan baik
+dapat digunakan sebagai obat anti kecemasan. Edmund Jacobson, dokter dari
+Chicago, menerbitkan buku Progressive Relaxation (relaksasi progresif) pada
+tahun 1929. Di panduan ini dijelaskan teknik relaksasi otot dalam, yang tidak
+memerlukan imajinasi, ketekunan, atau sugesti. Teknik ini didasarkan pada
+keyakinan bahwa tubuh berespons pada ansietas yang merangsang pikiran dan
+kejadian dengan ketegangan otot. Ketegangan fisiologis ini, sebaliknya,
+meningkatkan pengalaman subjektif terhadap anxietas. Relaksasi otot yang
+dalam menurunkan ketegangan, fisiologis, dan berlawanan dengan ansietas.
+Relaksasi otot yang dalam menurunkan ketegangan fisiologis dan berlawanan
+dengan ansietas: Kebiasaan berespons pada satu keadaan menghambat
+kebiasaan berespons pada yang lain.
+Hasil yang memuaskan didapatkan dalam program terapi terhadap
+ketegangan otot, ansietas, insomnia, depresi, kelelahan, kesan otot, nyeri leher
+dan punggung, tekaan darah tinggi, fobia ringan dan gagap.
+Lama waktu untuk mahir adalah satu atau dua minggu dan tiap dua kali
+15 menit per hari. Kebanyakan orang untuk mengetahui otot mana yang
+mengalami
+
+ketegangan
+
+kronis.
+
+Relaksasi
+
+progresif
+
+memberikan
+
+cara
+
+mengidentifikasi otot dan kumpulan otot tertentu serta membedakan antara
+perasaan tegang dan relaksasi. Empat kelompok otot utama yang meliputi:
+1. Tangan,lengan bawah, dan otot biseps
+2. Kepala, muka, tenggorokan dan bahu, termasuk pemusatan perhatian
+pada dahi, pipi, hidung, mata, rahang, bibir lidah, dan leher. Sedapat
+mungkin perhatian dicurahkan pada kepala, karena dari pandangan
+emosional, otot yang paling penting dalam tubuh anda berada di sekitar
+area ini.
+3. Dada, lambung, dan punggung bagian bawah
+4. Paha, pantat, betis, dan kaki.
+81
+
+Relaksasi bertahap dapat dipraktekkan dengan berbaring atau duduk di
+kursi dengan kepala ditopang. Tiap otot atau kelompok otot ditegangkan selama
+lima sampai tujuh detik direlaksasikan dua belas sampai lima belas detik.
+Prosedur ini diulang paling tidak satu kali. Jika area itu tetap tegang, dapat
+dipraktekkan lagi sampai lima kali. Kita akan mendapatkan manfaat dengan
+menggunakan ekspresi relaksasi berikut ketika anda tidak tegang.
+1. Lepaskan ketegangan
+2. Singkirkan ketegangan-saya merasa tenang dan nyaman
+3. Relaks dan lemaskan otot
+4. Biarkan ketegangan hilang lenyap
+Jika prosedur sudah terbiasa, tutup mata anda dan fokus perhatian hanya
+ada pada satu otot setiap kali.
+Petunjuk relaksasi otot dibagi dalam dua bagian. Bagian pertama, yang
+mungkin ingin direkam dan diulang ketika praktek, akan mengenalkan pada otot
+tubuh anda yang paling sering tegang. Bagian kedua prosedur singkat dengan
+menegangkan dan merelakskan beberapa otot secara simultan sekaligus
+sehingga relaksasi otot dalam dapat dicapai otot dalam dapat dicapai dalam
+waktu sangat singkat.
+Petunjuk Kilat
+Berikut adalah petunjuk seluruh kelompok otot serentak tegang dan kemudian
+relaks. Sama seperti sebelumnya, ulangi tiap petunjuk paling tidak sekali,
+tegangkan tiap kelompok otot selama lima sampai tujuh detik dan kemudian
+relaks selama 20 sampai 30 detik. Jangan lupa memperhatikan perbedaan antara
+perasaan tegang dan relaks.
+1. Kepalkan kedua telapak tangan, kencangkan biceps dan lengan bawah
+(sikap Charles Atlas). Relaks
+2. Kerutkan dahi anda ke atas. Pada saat yang sama tekan kepala sejauh
+mungkin ke belakang, putar searah dengan jarum dan kebalikannya.
+Sekarang kerutkan otot muka anda seperti kenari: cemberut, mata
+dikedipkan, bibir dimonyongkan ke depan, lidah ditekan ke langit-langit,
+dan bahu dibungkukkan. Relaks.
+82
+
+3. Lengkungkan punggung ke belakang sambil menarik nafas dalam masuk,
+tekan ke luar lambung. Tahan, Relaks, Napas dalam, tekan keluar perut.
+Tahan, Relaks.
+4. Tarik kaki dan ibujari ke belakang mengarah ke muka. Tahan, Relaks,
+Lipat ibujari, secara serentak kencangkan betis, paha dan pantat. Relaks.
+Beberapa hal yang perlu diperhatikan pada relaksasi otot adalah:
+1. Jika merekam petunjuk dasar untuk memfasilitasi program relaksasi, yang
+perlu diperhatikan adalah memberi jarak tiap petunjuk, sehingga
+kesempatan itu dipergunakan untuk mengalami ketegangan dan relaksasi
+sebelum diteruskan pada otot berikut atau kelompok otot.
+2. Kebanyakan orang kurang berhasil ketika mereka mulai relaksasi otot
+yang dalam, tetapi ini hanya masalah prakteknya saja. Latihan 20 menit
+mungkin pada awalnya hanya menghasilkan relaksasi sebagian, hal ini
+mungkin akan berakhir dengan relaks seluruh tubuh dalam beberapa
+saat.
+3. Kadang-kadang pada awalnya,mungkin akan dirasakan bahwa relaksasi
+sudah cukup. Walaupun sebagian atau kelompok otot mungkin sudah
+relaks, tetapi beberapa jaringan otot masih kontraksi. Ini merupakan cara
+melemaskan jaringan otot yang akan memberikan efek emosi yang
+diinginkan. Akan menolong dengan berkata pada diri anda selama fase
+relaksasi:”Biarkan pergi dan makin jauh”.
+4. Haruslah diperhatikan pada saat menegangkan leher dan punggung.
+Peregangan yang berlebihan akan merusak otot atau spinal. Demikian
+pula dengan telapak kaki dan tungkai yang terlalu ditegangkan akan
+mengakibatkan kram.
+
+83
+
+IV.
+
+TERAPI BERSYUKUR
+Beberapa penelitian membuktikan bahwa gratitude (bersyukur) seringkali
+
+muncul sebagai karakter atau kekuatan yang dominan dan menonjol dibanding
+kekuatan lainnya. Emmons (2007) juga menemukan bahwa seseorang yang
+melihat hidup sebagai suatu berkah atau hadiah dan secara sadar belajar
+berperilaku bersyukur, akan mengalami banyak pengalaman hidup yang
+beruntung. Bersyukur tersebut, lebih lanjut terbukti dapat meningkatkan
+kesehatan emosi dan fisik. Hal ini juga memperkuat relasi-relasi sosial individu
+dan juga dengan komunitas.
+Froh dan Bono (2007) mencoba menyelidiki metode manakah yang paling
+baik untuk memperkaya afeksi positif. Mereka melakukan eksperimen dengan
+cara membagi siswa dalam empat kondisi, yaitu tiga kondisi terkait rasa syukur
+(memikirkan, menulis essay, atau menulis surat tentang seseorang yang
+disyukuri) dan satu kondisi netral (menulis surat tentang keluarga). Orang yang
+berada dalam kondisi bersyukur secara berkala melaporkan peningkatan dalam
+afeksi positif, dibandingkan mereka yang berada dalam kelompok kontrol. Hal ini
+mengekspresikan atau bahkan merefleksikan pengalaman bersyukur atau
+berterima kasih (gratitude) dapat memperkaya suasana hati (mood) seseorang.
+Perasaan negatif mudah didapat, tetapi yang positif sulit dirasakan. Pollyanna
+(2006) membantu orang melihat keuntungan dari situasi dalam hidupnya dengan
+cara mengajarkan mereka Glad game. Kadang-kadang memiliki orang yang
+dapat melihat sesuatu yang baik dalam hidup membuat hal yang baik tersebut
+terlihat lebih jelas bagi diri sendiri.
+A. Pengertian Bersyukur
+Pengertian gratitude atau bersyukur tidak mudah untuk diklasifikasikan,
+tetapi lebih mudah untuk dikonseptualisasikan dalam bentuk emosi, perilaku,
+nilai-nilai moral yang baik, kebiasaan, sifat, dan bentuk respon koping seseorang
+(Pruyser dalam Emmons dan McCullough, 2003). Kata gratitude berasal dari
+bahasa latin gratia yang artinya keanggunan atau keberterimakasihan. Arti dari
+bahasa latin ini berarti melakukan sesuatu dengan kebaikan, kemurahan hati,
+keindahan memberi-menerima, dan kedermawanan (Pruyser dalam Peterson dan
+84
+
+Seligman, 2004). Menurut Seligman dan Peterson (2004) menjelaskan bahwa
+bersyukur adalah menyadari dan berterimakasih terhadap hal-hal baik yang telah
+terjadi. Bertocci dan Millard, Solomon, dalam Emmons dan McCullough (2003)
+mendefinisikan bersyukur sebagai kemauan untuk mengenali nilai tambah yang
+mungkin
+
+tidak
+
+disadari
+
+dari
+
+pengalaman-pengalaman
+
+hidupnya
+
+tanpa
+
+membandingkan apa yang sudah diraih oleh orang lain dengan dirinya sendiri.
+Bersyukur berasal dari persepsi bahwa seseorang telah diuntungkan oleh
+tindakan orang lain. Bersyukur muncul karena adanya penghargaan saat
+seseorang menerima karunia dan sebuah apresiasi terhadap nilai dari karunia
+tersebut. Peterson dan Seligman (2004) mendefinisikan bersyukur sebagai rasa
+berterimakasih dan bahagia sebagai respon penerimaan karunia, entah karunia
+tersebut merupakan keuntungan yang terlihat dari orang lain ataupun momen
+kedamaian yang ditimbulkan oleh keindahan alamiah. Secara singkat, orang yang
+bersyukur adalah seseorang yang menerima sebuah karunia dan sebuah
+penghargaan dan mengenali nilai dari karunia tersebut. Bersyukur bisa
+diasumsikan sebagai kekuatan dan keutamaan yang mengarahkan kehidupan
+yang lebih baik (Peterson dan Seligman, 2004).
+Bersyukur didefinisikan sebagai rasa berterima kasih dan bahagia sebagai
+respon penerimaan karunia, baik karunia tersebut merupakan keuntungan yang
+terlihat dari orang lain ataupun momen kedamaian yang ditimbulkan oleh
+keindahan alamiah (Peterson dan Seligman, 2004). Secara singkat, orang yang
+bersyukur adalah seseorang yang menerima sebuah karunia dan sebuah
+penghargaan dan mengenali nilai dari karunia tersebut. Orang yang bersyukur
+mampu mengidentifikasikan diri mereka sebagai seorang yang sadar dan
+berterimakasih atas anugerah Tuhan, pemberian orang lain, dan menyediakan
+waktu untuk mengekspresikan rasa terima kasih mereka (Peterson dan Seligman,
+2004).
+Bersyukur juga merupakan keutamaan yang mengarahkan individu dalam
+meraih kehidupan yang lebih baik (Peterson dan Seligman, 2004). Penelitian
+yang dilakukan Emmons dan McCullough (2003) menunjukkan bahwa kelompok
+yang diberikan perlakuan bersyukur memiliki kesejahteraan subjektif yang lebih
+tinggi dibandingkan dengan kelompok yang tidak memperoleh perlakuan.
+85
+
+Penelitian ini menunjukkan bahwa bersyukur memberikan keuntungan secara
+emosi dan interpersonal. Wood et al. (2008) dalam penelitiannya menyatakan
+bahwa
+
+bersyukur
+
+berkaitan
+
+dengan
+
+kepuasan
+
+hidup,
+
+karena
+
+bersyukur
+
+merupakan hal yang positif dan pengalaman yang memiliki emosi positif memiliki
+kaitan dengan kepuasan hidup. Sifat bersyukur berbeda-beda pada tiap individu
+bergantung pada seberapa sering dan kuat rasa syukur tersebut dialami dan
+banyaknya stimulasi yang dibutuhkan untuk meningkatkan rasa bersyukur.
+McCullough, dkk. (dalam Linley dan Joseph, 2004) mendefinisikan
+bersyukur sebagai sikap moral dalam kategori yang sama dengan emosi, seperti
+empati, simpati, rasa bersalah, dan malu. Empati dan simpati timbul ketika
+seseorang memiliki kesempatan untuk berespon terhadap musibah yang
+menimpa orang lain, rasa bersalah, dan malu timbul ketika seseorang tidak
+melakukan kewajibannya sesuai standar, sedangkan bersyukur timbul ketika
+seseorang menjadi penerima dari sebuah kebaikan.
+Dua
+
+hal
+
+yang
+
+penting
+
+untuk
+
+mengungkap
+
+rasa
+
+syukur,
+
+yaitu:
+
+(1).
+
+Mengembangkan metode untuk memperkuat rasa syukur dalam kehidupan
+sehari-hari dan menilai bagaimana efek rasa syukur pada kesejahteraan hidup,
+dan (2). Mengembangkan pengukuran untuk menilai perbedaan individual terkait
+dengan kecenderungannya dalam bersyukur (Emmons dan McCullough, 2003).
+Emmons (2007) menemukan bahwa seseorang yang melihat hidup sebagai suatu
+berkah atau hadiah dan secara sadar belajar berperilaku bersyukur, akan
+mengalami banyak pengalaman hidup yang beruntung. Gratitude atau bersyukur
+dapat meningkatkan kesehatan emosi dan fisik. Hal ini juga memperkuat relasirelasi sosial individu dan juga dengan komunitas.
+Dari beberapa pengertian di atas dapat disimpulkan bahwa bersyukur
+adalah kemauan untuk mengenali nilai tambah, perasaan berterimakasih, dan
+bahagia sebagai respon penerimaan karunia, baik dari orang lain maupun yang
+diperoleh dari Tuhan.
+
+86
+
+B. Komponen Bersyukur
+Fitzgerald (1998) mengidentifikasikan tiga komponen dari rasa bersyukur,
+antara lain:
+Rasa apresiasi yang hangat untuk seseorang atau sesuatu, meliputi
+perasaan cinta dan kasih sayang.
+Rasa syukur atau berterima kasih juga dapat dikonseptualisasikan sebagai
+sebuah kebajikan (Froh dan Bono, 2007). Rasa syukur atau terima kasih sebagai
+sebuah
+
+emosi
+
+moral,
+
+sesuatu
+
+yang
+
+menggerakkan
+
+seseorang
+
+untuk
+
+memperhatikan orang lain atau mendukung ikatan sosial yang suportif. Rasa
+syukur atau berterima kasih menandakan kemurahan hati yang dirasakan bahwa
+seseorang telah memberikannya sebuah hadiah dengan membantu orang lain
+yang mengalami kesulitan. Rasa apresiasi ini sering disebut sebagai barometer
+moral (moral barometer).
+Niat baik (goodwill) yang ditujukan kepada seseorang atau sesuatu
+meliputi keinginan untuk membantu orang lain yang kesusahan, keinginan untuk
+berbagi, dll.
+Niat baik ini juga sering disebut sebagai motif moral (moral motive) yaitu rasa
+syukur atau berterima kasih mendorong seseorang untuk bertindak timbal balik
+terhadap orang lain yang membantunya secara langsung (direct reciprocity)
+ataupun hal lain (upstream reciprocity).
+Kecenderungan untuk bertindak positif berdasarkan rasa apresiasi dan
+kehendak baik, meliputi intensi menolong orang lain, membalas kebaikan orang
+lain, dll.
+Kecenderungan untuk bertindak positif sering disebut sebagai penguat moral
+(moral reinforcer). Sebagai penguat moral, rasa syukur atau berterima kasih
+meningkatkan peluang perilaku bermurah hati di masa depan.
+C. Jenis Bersyukur
+Peterson dan Seligman (2004) membedakan bersyukur menjadi dua jenis,
+yaitu personal dan transpersonal:
+Bersyukur personal
+
+atau bersyukur sosial adalah rasa berterimakasih
+
+yang ditujukan kepada orang lain secara khusus yang telah memberikan
+kebaikan atau sebagai adanya diri mereka. Bersyukur disebut juga suatu emosi
+87
+
+yang berempati (Emmons dan McCullough, 2003) karena hal itu diprediksi
+sebagai kapasitas untuk mengenali manfaat yang beraksi dalam kehidupan
+seseorang. Bersyukur juga merupakan akar dari sifat dasar dari orang Asia Timur
+yang memiliki sensitivitas dan perhatian tinggi pada orang lain.
+Setiap hari, seseorang yang mengucapkan terima kasih pada seseorang
+untuk sesuatu hal yang dirasa pantas untuk dihargai (contohnya berterima kasih
+pada petugas kebersihan yang telah membersihkan aula). Sebagian besar dari
+latihan ini dapat dilakukan dalam lingkungan berbeda dalam kehidupan seharihari (sekolah, taman, rumah, rumah teman, tetangga, dan sebagainya) dan
+kemudian memikirkan tentang apa yang dilakukan orang-orang dalam setiap
+lingkungan tersebut yang membantu atau membuat diri bahagia.
+Bersyukur transpersonal atau bersyukur spiritual adalah ungkapan
+terimakasih kepada Tuhan, kepada kekuatan yang lebih tinggi atau kepada
+dunianya.
+Pembenaran untuk bersyukur transpersonal ini berasal dari beberapa
+sumber. Pertama, beberapa agama di dunia mengatakan bersyukur seperti suatu
+sifat manusia yang diperlukan. Kedua, ketika konfrontasi dengan suatu hasil yang
+positif, tidak dapat mengatribusikan usaha manusia yang disengaja seperti
+kecintaan pada matahari terbenam atau hadiah dari suatu pemandangan,
+spiritual seseorang cenderung masih dapat mengatribusikan hasil yang positif
+kepada manusia atau alam sekitar. Ketiga, spiritual seseorang cenderung untuk
+mengatribusikan
+
+hasil
+
+yang
+
+positif
+
+terhadap
+
+intervensi
+
+Tuhan,
+
+untuk
+
+menghasilkan yang negatif (Emmons dan McCullough, 2003). Terdapat pula
+kaitan antara kerohanian seseorang dengan sikap bersyukur. Kecenderungan
+bersyukur lebih banyak dilakukan mereka yang secara teratur menghadiri acara
+keagamaan dan terlibat dalam kegiatan keagamaan seperti berdoa dan
+sembahyang dengan membaca bacaan religius berkali-kali. Individu yang
+bersyukur lebih cenderung mengakui keyakinan akan keterkaitan seluruh
+kehidupan, serta ikatan dan tanggung jawab terhadap orang lain. Kelompok religi
+pada umumnya melakukan aktivitas yang melibatkan anggotanya untuk
+merefleksikan kondisi baik atau pemberian yang disyukuri dalam hidup.
+Ungkapan terima kasih kepada Tuhan memperkaya kualitas hidup.
+88
+
+D. Teknik Bersyukur
+Teknik bersyukur yang paling efektif ada berbagai macam pendekatan:
+a. Pengertian bersyukur: kemauan untuk mengenali nilai tambah, perasaan
+berterimakasih, dan bahagia sebagai respon penerimaan karunia, baik
+dari orang lain maupun yang diperoleh dari Tuhan.
+ Kemauan untuk mengenali nilai tambah: merenungkan perubahan
+yang lebih baik antara saat ini dan sebelumnya.
+ Perasaan berterimakasih: menyampaikan terimakasih kepada orangorang disekeliling atas bantuan dan dukungan yang telah diterima
+ Bahagia sebagai respon penerimaan bantuan dari orang lain:
+menghargai orang lain dan memberikan bantuan pada orang yang
+membutuhkan.
+ Bahagia sebagai respon penerimaan karunia dari Tuhan: berdoa dan
+lebih mendekatkan diri pada Tuhan
+b. Komponen bersyukur & Jenis bersyukur
+ Niat baik: ditujukan kepada seseorang meliputi keinginan untuk
+membantu orang lain yang kesusahan, keinginan untuk berbagi, dll.
+ Kecenderungan untuk bertindak positif: rasa apresiasi dan kehendak
+baik, meliputi intensi menolong orang lain, membalas kebaikan orang
+lain dll.
+ Bersyukur personal
+
+atau bersyukur sosial: berterimakasih yang
+
+ditujukan kepada orang lain secara khusus yang telah memberikan
+kebaikan.
+ Bersyukur
+
+transpersonal
+
+atau
+
+bersyukur
+
+spiritual:
+
+ungkapan
+
+terimakasih kepada Tuhan, kepada kekuatan yang lebih tinggi atau
+kepada dunianya, meliputi kegiatan beribadah, berdoa, dll.
+
+89
+
+PUSTAKA
+Aiex,
+
+Nola
+Kortner
+(1993).
+Bibliotherapy.
+Retrieved
+http://www.indiana.edu/reading/ieo/digests/d82.html.
+
+from:
+
+Benson, H. (1975). The Relaxation Respons. New York: Morrow.
+Fitzgerald, P. (1998). Gratitude and Justice. Ethics, 109 (1), 119-153.
+Jacobson, Edmund.(1994). Progressive Relaxation. Chicago: The University of
+Chicago Press, Midway Reprint.
+Lazarus, Richard. S. & Folkman, Susan (1984). Stress Appraisal and Coping. New
+York: Springer Publishing, Co.
+Selye, Hans (1994). Stress Without Distress. New York: Dutton.
+Wolpe, Joseph (1969). The Practice of Behavior Therapy. New York: Pergamon
+Press.
+
+90
+
+

@@ -1,0 +1,2637 @@
+﻿Kurikulum Pelatihan Teknis 
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+KURIKULUM PELATIHAN TEKNIS 
+
+PENANGGULANGAN STROKE BAGI 
+
+DOKTER DAN PERAWAT 
+
+DI FASILITAS KESEHATAN TINGKAT 
+
+PERTAMA (FKTP) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 
+
+
+
+ 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+
+ 
+
+DAFTAR ISI 
+ 
+ 
+ 
+ 
+
+KATA PENGANTAR ............................................................................................................ 2 
+
+DAFTAR ISI ......................................................................................................................... 3 
+
+BAB I Pendahuluan ……………………………………………………………………... 4 
+
+BAB II Komponen Kurikulum ………………………………………………………........ 6 
+
+ A. Tujuan ………………………………………… ……………………..…….. 6 
+
+ B. Kompetensi ..………………………………………………………………… 6 
+
+ C. Struktur Kurikulum …...…………………………………………………….. 6 
+
+ D. Evaluasi Hasil Belajar ………………………….…………………………... 7 
+
+BAB III Diagram Alur Proses Pembelajaran ..…………………………………............. 9 
+
+Lampiran 1 Rancang Bangun Pembelajaran Mata Pelatihan (RBPMP) .......................... 11 
+ Materi Pelatihan Dasar ………………………………………………………….. 11 
+
+ Materi Pelatihan Inti ……………………...……………………………………… 13 
+
+ Materi Pelatihan Penunjang …..………...……………………………………… 22 
+
+Lampiran 2 Master Jadwal ………………………………………………………................... 27 
+
+Lampiran 3 Panduan Penugasan ………..……………………………………….................. 28 
+
+Lampiran 4 Kasus Penugasan ……………………………………………………………….. 40 
+
+Lampiran 5 Ketentuan Penyelenggaraan Pelatihan ……………………………………….. 50 
+
+Lampiran 6 Instrumen Evaluasi ………………………… ………………………..………….. 52 
+
+ 3 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+
+BAB I 
+PENDAHULUAN 
+
+ 
+
+Stroke merupakan gangguan fungsi otak yang diakibatkan oleh penyakit pembuluh 
+
+darah otak, bukan oleh sebab yang lain. Stroke merupakan penyebab disabilitas nomor 
+
+satu dan penyebab kematian nomor tiga di dunia setelah penyakit jantung dan kanker, 
+
+baik di negara maju maupun berkembang. Tahun 2019 diperkirakan 32% kematian 
+
+diseluruh dunia disebabkan oleh penyakit kardioserebrovaskuler (17,9 juta kematian) 
+
+dan 85% diantaranya disebabkan oleh stroke dan serangan jantung (WHO). 
+
+Data Institute for Health Metrics and Evaluation (IHME) tahun 2019 menunjukkan 
+
+stroke sebagai penyebab kematian utama di Indonesia (19,42% dari total kematian). 
+
+Berdasarkan hasil Riskesdas prevalensi stroke di Indonesia meningkat 56% dari 7 per 
+
+1000 penduduk pada tahun 2013, menjadi 10,9 per 1000 penduduk pada tahun 2018. 
+
+Stroke menjadi salah satu penyakit katastropik dengan pembiayaan terbesar ketiga 
+
+setelah penyakit jantung dan kanker yaitu 3.23 triliun rupiah pada tahun 2022. Jumlah 
+
+ini meningkat jika dibandingkan dengan tahun 2021 yaitu sebesar 1,91 triliun (BPJS 
+
+Kesehatan, 2022). 
+
+Hal ini menjadi tantangan dalam pembangunan kesehatan karena berdampak pada 
+
+menurunnya tingkat produktivitas penduduk Indonesia akibat stroke. Permasalahan 
+
+kesehatan yang ditimbulkan akibat stroke yaitu tingginya angka kesakitan, angka 
+
+disabilitas dan angka kematian. Disabilitas akibat stroke yang menetap atau risiko 
+
+serangan stroke berulang yang cukup tinggi, mengakibatkan pemeliharaan kesehatan 
+
+individu paska stroke (stroke survivor) menghabiskan pembiayaan yang besar serta 
+
+memberikan beban psikologis dan sosial. 
+
+Beberapa penelitian yang dilakukan di negara berkembang, menitikberatkan pada 
+
+upaya pencegahan stroke pada pengendalian perilaku yang berisiko (seperti diet, 
+
+aktifitas fisik, obesitas) dengan meningkatkan pengetahuan masyarakat tentang 
+
+pencegahan stroke, melakukan skrining terhadap masyarakat berisiko tinggi dan 
+
+manajemen pengobatan arteriosklerosis yang dapat menurunkan risiko sebesar 80% 
+
+dengan upaya pengendalian faktor risiko stroke pada individu dan menurunkan kejadian 
+
+stroke sebesar 50% (Pemila, 2020). 
+
+Selain permasalahan faktor risiko, pengenalan stroke sendiri belum diketahui 
+
+masyarakat secara menyeluruh. Hal ini terlihat dari rendahnya pengetahuan masyarakat 
+
+ 4 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+
+tentang gejala awal stroke, sehingga terjadi keterlambatan membawa pasien ke 
+
+fasyankes pada saat serangan akut yang berakibat pada terlambatnya penanganan yang 
+
+tepat dan adekuat. 
+
+Kesadaran dan peran aktif dari keluarga serta lingkungan sekitar dalam mengenal 
+
+faktor risiko, tanda dan gejala stroke, perawatan serta rehabilitasi penderita stroke dapat 
+
+membantu deteksi dini, pemulihan dan pemberdayaan kembali individu paska stroke 
+
+untuk meningkatkan kualitas hidup dan mencegah terjadinya serangan berulang. 
+
+Pencegahan dan penanggulangan stroke di masyarakat perlu ditingkatkan dan dilakukan 
+
+secara terintegrasi antara tenaga kesehatan dengan keluarga atau masyarakat. 
+
+Berdasarkan uraian diatas maka Kementerian Kesehatan memandang perlu 
+
+melakukan penguatan kapasitas petugas kesehatan di layanan primer dalam 
+
+penanggulangan stroke di FKTP melalui penyelenggaraan Pelatihan Teknis 
+
+Penanggulangan Stroke di FKTP. Dengan pelatihan diharapkan tenaga kesehatan di 
+
+Puskesmas/ FKTP dapat mengimplementasikan Penanggulangan stroke dengan tepat 
+
+sebagai upaya pencegahan dan pengendalian stroke di Indonesia. 
+
+Sehubungan dengan hal tersebut diatas penyelenggaraan pelatihan Teknis 
+
+Penanggulangan Stroke di FKTP harus terstandar untuk menghasilkan kompetensi yang 
+
+sama bagi alumni pelatihan tersebut. Untuk itu disusunlah kurikulum pelatihan Teknis 
+
+Penanggulangan Stroke di FKTP yang akan menjadi acuan penyelenggara pelatihan 
+
+dalam melaksanakan pelatihan tersebut. 
+
+ 5 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+
+BAB II 
+KOMPONEN KURIKULUM 
+
+ 
+
+A. Tujuan 
+
+Setelah mengikuti pelatihan peserta mampu melakukan penanggulangan stroke di 
+
+FKTP. 
+
+ 
+B. Kompetensi 
+
+Setelah mengikuti pelatihan, peserta mampu : 
+
+1. Melakukan upaya pencegahan faktor risiko stroke 
+
+2. Melakukan penilaian prediksi risiko stroke 
+
+3. Melakukan penatalaksanaan stroke di FKTP 
+
+4. Melakukan pemberian terapi medik gizi pada pasien paska stroke 
+
+5. Melakukan pencegahan komplikasi pasien stroke 
+
+6. Melakukan pencatatan dan pelaporan stroke di FKTP 
+ 
+
+C. Struktur Kurikulum 
+
+Untuk mencapai tujuan yang ditetapkan, maka disusun materi yang akan diberikan 
+
+secara rinci pada tabel berikut : 
+
+ 6 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+
+STRUKTUR PROGRAM PELATIHAN TEKNIS 
+PENANGGULANGAN STROKE BAGI DOKTER DAN PERAWAT 
+
+DI FASILITAS KESEHATAN TINGKAT PERTAMA (FKTP) 
+ 
+
+WAKTU 
+No MATERI JPL 
+
+T P PL 
+A MATERI PELATIHAN DASAR (MPD) 
+
+Kebijakan dan Strategi Pencegahan dan Pengendalian 
+1 2 0 0 2 
+
+Stroke di Indonesia 
+ Sub Total 2 0 0 2 
+
+B MATERI PELATIHAN INTI (MPI) 
+1 Upaya Pencegahan Faktor Risiko Stroke 2 3 0 5 
+2 Penilaian prediksi risiko stroke 2 3 0 5 
+3 Penatalaksanaan Stroke di FKTP 2 3 0 5 
+4 Terapi medik gizi pada pasien paska stroke 2 3 0 5 
+5 Pencegahan komplikasi pasien stroke 2 4 0 6 
+6 Pencatatan dan Pelaporan 1 3 0 4 
+
+ Sub Total 11 19 0 30 
+C MATERI PELATIHAN PENUNJANG (MPP) 
+1 Membangun Komitmen Pembelajaran (BLC) 0 3 0 3 
+2 Rencana Tindak Lanjut 0 2 0 2 
+3 Antikorupsi 2 0 0 2 
+
+ Sub Total 2 5 0 7 
+ TOTAL 15 24 0 39 
+
+ 
+Keterangan: 
+T=Teori 
+P=Penugasan 
+PL=Praktik Lapangan 
+Satu (1) Jam Pelajaran (Jpl) @45 menit 
+
+ 
+D. Evaluasi Hasil Belajar 
+
+a. Evaluasi terhadap peserta 
+Evaluasi terhadap peserta dilakukan melalui : 
+1. Penjajagan awal melalui pretest. 
+2. Penjajagan peningkatan kemampuan yang diterima peserta melalui 
+
+posttest. 
+3. Penilaian penugasan simulasi dengan nilai minimal 80. 
+
+b. Evaluasi Terhadap Pelatih 
+Evaluasi terhadap pelatih dilakukan oleh peserta untuk mengetahui 
+keberhasilan pelatih dalam menyampaikan materi, meliputi : 
+1. Penguasaan materi 
+2. Sistematika pembelajaran 
+3. Ketepatan waktu 
+4. Penggunaan metode, media dan alat bantu 
+
+ 7 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+
+5. Gaya dan sikap terhadap peserta 
+6. Penggunaan bahasa 
+7. Pemberian motivasi kepada peserta 
+8. Pencapaian tujuan pembelajaran 
+9. Kerapihan. 
+
+ 
+c. Evaluasi Terhadap Penyelenggaraan 
+
+Evaluasi terhadap penyelenggaraan dilakukan oleh peserta terhadap 
+penyelenggaraan pelatihan, meliputi: 
+1. Tujuan pelatihan 
+2. Relevansi pelatihan dengan tugas peserta 
+3. Manfaat pelatihan 
+4. Mekanisme pelaksanaan pelatihan 
+5. Hubungan peserta dengan fasilitator, panitia pelaksana, dan antar peserta 
+6. Pelayanan kesekretariatan, tempat penyelenggaraan, konsumsi, 
+
+kesehatan (P3K), dan dokumentasi. 
+
+ 8 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+
+BAB III 
+DIAGRAM ALUR PROSES PEMBELAJARAN 
+
+ 
+
+PRE TEST 
+
+ 
+
+PEMBUKAAN 
+
+MEMBANGUN KOMITMEN BELAJAR 
+Metode: games, Diskusi 
+
+WAWASAN Pengetahuan dan Keterampilan 
+  
+
+Mata Pelatihan Mata Pelatihan Inti 
+E Dasar 1. Upaya Pencegahan Faktor Risiko 
+V 1. Kebijakan dan Stroke 
+
+A Strategi 2. Penilaian prediksi risiko stroke 
+Pencegahan 3. Penatalaksanaan stroke di FKTP 
+
+L dan 4. Terapi medik gizi pada pasien paska 
+U Pengendalian stroke 
+A Stroke di 5. Pencegahan komplikasi pasien stroke 
+S Indonesia 6. Pencatatan dan pelaporan 
+
+I   
+Metode Metode 
+1. Curah Pendapat 1. Curah Pendapat 
+2. CTJ 2. CTJ 
+
+3. Studi Kasus 
+4. Simulasi 
+5. Role Play 
+6. Latihan pengolahan dan analisis data 
+
+Anti Korupsi 
+ 
+
+RENCANA TINDAK LANJUT 
+
+ 
+
+PENUTUPAN Evaluasi Hasil Belajar 
+
+ 
+
+Keterangan Alur : 
+ 
+
+1. Alur proses pembelajaran pada pelatihan ini diawali dengan pre test untuk menilai 
+pengetahuan awal peserta. 
+
+2. Pembukaan pelatihan dilakukan oleh pejabat yang berwenang. 
+
+ 9 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+
+3. Mata pelatihan pertama yang disampaikan adalah membangun komitmen belajar, 
+menggunakan metode games dan diskusi sebagai pengantar untuk mencairkan 
+suasana belajar di kelas. 
+
+4. Mata pelatihan dasar, yaitu kebijakan dan strategi pencegahan dan pengendalian 
+stroke di Indonesia disampaikan untuk memberikan wawasan secara umum 
+mengenai penanggulangan stroke. Metode yang digunakan pada mata pelatihan ini 
+adalah curah pendapat dan tanya jawab. 
+
+5. Mata pelatihan inti disampaikan untuk meningkatkan pengetahuan dan 
+keterampilan peserta dalam melakukan penanggulangan stroke. Mata pelatihan inti 
+terdiri dari 6 mata pelatihan, yaitu upaya pencegahan faktor risiko stroke, penilaian 
+prediksi risiko stroke, penatalaksanaan stroke di FKTP, terapi medik gizi pada pasien 
+paska stroke, pencegahan komplikasi pasien stroke, dan pencatatan dan pelaporan. 
+Untuk mencapai tujuan pemnbelajaran, pada mata pelatihan ini digunakan berbagai 
+metode, diantaranya curah pendapat dan tanya jawab, studi kasus, simulasi, role 
+play, latihan pengolahan dan analisis data. 
+
+6. Mata pelatihan penunjang disampaikan untuk meningkatkan kualitas pelayanan 
+kesehatan, yaitu anti korupsi dan rencana tindak lanjut. 
+
+7. Proses berikutnya pada proses pembelajaran adalah evaluasi hasil belajar untuk 
+menilai peningkatan pengetahuan dan keterampilan peserta. 
+
+8. Penutupan kegiatan pelatihan dilaksanakan setelah semua alur kegiatan pelatihan 
+telah diselenggarakan secara tuntas. 
+
+ 10 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+ 
+
+LAMPIRAN 1 
+ 
+ 
+
+RANCANG BANGUN PEMBELAJARAN MATA PELATIHAN (RBPMP) 
+ 
+
+1. MATERI PELATIHAN DASAR 
+ 
+ 
+
+Nomor : Materi Pelatihan Dasar 1 
+Mata pelatihan : Kebijakan dan Strategi Pencegahan dan Pengendalian Stroke di Indonesia 
+Deskripsi mata : Mata pelatihan ini membahas 2 materi pokok, yaitu kebijakan dan strategi pencegahan dan 
+pelatihan pengendalian stroke di Indonesia. Kebijakan dalam penanggulangan stroke diatur dalam 
+
+Permenkes No.71 tahun 2015 yang menjadi dasar pijakan bagi tenaga kesehatan dalam 
+melaksanakan penanggulangan stroke di FKTP. 
+
+Hasil Belajar : Setelah mengikuti materi ini, peserta mampu menjelaskan Kebijakan dan Strategi Pencegahan dan 
+Pengendalian Stroke di Indonesia 
+
+Waktu : 2 Jpl (T = 2 Jpl; P = 0 Jpl; PL: 0 Jpl) 
+ 
+
+Materi Pokok dan Sub materi Media dan Alat 
+Indikator Hasil Belajar Metode Referensi 
+
+Pokok Bantu 
+
+Setelah mengikuti materi ini,  
+peserta mampu :    
+
+1. Kebijakan pencegahan dan • Curah • Modul 1. Undang-undang No 
+1. Menjelaskan kebijakan pengendalian stroke di pendapat • Bahan tayang 17 Tahun 2023 
+
+pencegahan dan pengendalian Indonesia: • Ceramah dan • Laptop tentang kesehatan 
+stroke di Indonesia a. Promosi kesehatan Tanya jawab • LCD 2. Undang-undang No. 
+
+b. Deteksi dini 23 tahun 2014 
+c. Penanganan kasus tentang 
+
+Pemerintahan 
+Daerah 
+
+ 11 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+ 
+
+2. Menjelaskan strategi 2. Strategi pencegahan dan   3. PP No.2 tahun 2018 
+pencegahan dan pengendalian pengendalian stroke di tentang Standar 
+stroke di Indonesia Indonesia Pelayanan Minimal 
+
+a. SDM 4. Peraturan Presiden 
+b. Sarana prasarana Republik Indonesia 
+c. Pembiayaan Nomor 2 Tahun 2015 
+
+tentang Rencana 
+Pembangunan Jangka 
+Menengah Nasional 
+Tahun 2015-2019 
+
+5. Permenkes Nomor 
+71 Tahun 2015 
+tentang 
+Penanggulangan 
+Penyakit Tidak 
+Menular 
+
+6. Permenkes No. 43 
+Tahun 2016 tentang 
+SPM Bidang 
+Kesehatan 
+
+ 12 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+ 
+
+2. MATERI PELATIHAN INTI 
+Nomor : Materi Pelatihan Inti 1 
+Mata pelatihan : Upaya pencegahan faktor risiko stroke 
+Deskripsi mata : Upaya pencegahan faktor risiko stroke merupakan hal yang sangat penting dalam penanggulangan 
+pelatihan stroke. Mata pelatihan ini menjelaskan materi pokok yang terdiri dari; konsep dasar stroke, 
+
+anatomi otak, faktor risiko stroke dan upaya pencegahan stroke. 
+Hasil Belajar : Setelah selesai mengikuti materi ini, peserta mampu melakukan upaya pencegahan faktor risiko 
+
+stroke 
+Waktu : 5 Jpl (T = 2 Jpl; P = 3 Jpl; PL: 0 Jpl) 
+
+Materi Pokok dan Sub Media dan Alat 
+Indikator Hasil Belajar Metode Referensi 
+
+materi Pokok Bantu 
+
+Setelah mengikuti materi ini,     
+peserta mampu :    
+
+1. Menjelaskan konsep 1. Konsep dasar stroke • Curah • Modul 
+dasar stroke a. Epidemiologi pendapat • Bahan 
+
+ b. Pengertian stroke • Ceramah Tanya tayang 
+ c. Klasifikasi stroke jawab • LCD 
+
+ d. Patofisiologi stroke • Studi Kasus • Laptop 
+
+ e. Diagnosis klinis • Flipchart 
+stroke • Spidol 
+
+ 
+ • Panduan 
+
+2. Menjelaskan anatomi 2. Anatomi otak studi kasus 
+otak a. Lobus frontal • Lembar 
+
+ b. Lobus parietal kasus 
+
+ c. Lobus oksipital 
+d. Lobus temporal 
+
+ 
+ 
+
+3. Menjelaskan Faktor 
+3. Faktor risiko stroke 
+
+resiko stroke 
+
+ 13 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+ 
+
+ a.  FR yang dapat    
+
+ dimodifikasi 
+
+ b. FR yang tidak 
+
+4. Melakukan Upaya dapat dimodifikasi 
+
+pencegahan stroke  
+4. Upaya pencegahan 
+
+stroke 
+a. Pencegahan 
+
+primer 
+b. Pencegahan 
+
+sekunder 
+
+ 14 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+ 
+
+Nomor : Materi Pelatihan Inti 2 
+Mata pelatihan : Penilaian prediksi risiko stroke 
+Deskripsi mata : Mata pelatihan ini membahas tentang instrumen penilaian prediksi stroke menggunakan tabel 
+pelatihan prediksi risiko PTM, Stroke Risk Assessment (AHA-ASA), dan ABCD Score pada TIA dan langkah- 
+
+langkah deteksi dini stroke menggunakan instrumen penilaian prediksi stroke tersebut. 
+Hasil Belajar : Setelah selesai mengikuti materi ini, peserta mampu melakukan penilaian prediksi risiko stroke 
+Waktu : 5 Jpl (T = 2 Jpl; P = 3 Jpl; PL: 0 Jpl) 
+
+ 
+Materi Pokok dan Sub Media dan Alat 
+
+Indikator Hasil Belajar Metode Referensi 
+materi Pokok Bantu 
+
+Setelah mengikuti materi ini,     
+peserta mampu :    
+
+1. Menjelaskan instrumen   
+1. Instrumen penilaian 
+
+penilaian prediksi risiko • Curah • Modul 
+prediksi risiko stroke 
+
+stroke pendapat • Bahan 
+a. Tabel Prediksi 
+
+ • Ceramah Tanya tayang 
+risiko PTM 
+
+jawab 
+ • LCD 
+
+(Stroke) 
+• Studi Kasus 
+
+ b. Stroke risk • Laptop 
+
+ assessment (AHA- • Flipchart 
+
+ASA) • Spidol 
+ 
+
+c. ABCD Score pada • Panduan 
+ TIA studi kasus 
+
+  • Lembar 
+kasus 
+
+2. Melakukan penilaian 2. Langkah-langkah 
+prediksi risiko stroke deteksi dini stroke • Instrumen 
+
+menggunakan carta 
+instrumen penilaian prediksi 
+prediksi stroke faktor risiko 
+
+PJPD 
+
+ 15 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+ 
+
+ a. Tabel Prediksi  • Instrumen  
+
+risiko PTM AHA ASA 
+(Stroke) • Instrumen 
+
+b. Stroke risk ABCD score 
+assessment (AHA- 
+ASA) 
+
+c. ABCD Score pada 
+TIA 
+
+ 16 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+ 
+
+Nomor : Materi Pelatihan Inti 3 
+Mata pelatihan : Penatalaksanaan stroke di FKTP 
+Deskripsi mata : Materi pada mata pelatihan ini terdiri dari penanganan pra hospital kegawatdaruratan di FKTP dan 
+pelatihan penanganan post rawatan pasien stroke. Penanganan pra hospital menitik beratkan tatalaksana 
+
+pasien stroke pada masa golden periode, yaitu <6jam sejak serangan pertama kali terjadi. 
+Penatalaksanaan yang tepat dan adekuat pada masa golden periode meningkatkan angka harapan 
+hidup dan menurunkan risiko disabilitas setelah serangan stroke. Materi penanganan post rawatan 
+pada pasien menjelaskan tentang peran FKTP dalam melakukan pendataan pasien post stroke, 
+melakukan pencegahan sekunder agar tidak terjadi serangan stroke berulang, dan evaluasi paska 
+rawat yang bertujuan mencegah terjadinya komplikasi paska rawatan. 
+
+Hasil Belajar : Setelah selesai mengikuti materi ini, peserta mampu melakukan penatalaksanaan stroke di FKTP. 
+Waktu : 5 Jpl (T = 2 Jpl; P = 3 Jpl; PL: 0 Jpl) 
+
+ 
+Materi Pokok dan Sub Media dan Alat 
+
+Indikator Hasil Belajar Metode Referensi 
+materi Pokok Bantu 
+
+ 17 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+ 
+
+Setelah mengikuti materi ini,     
+peserta mampu :    
+
+ 
+1. Melakukan penanganan 1. Penanganan pra • Curah • Modul 
+
+pra hospital hospital pendapat • Bahan 
+kegawatdaruratan stroke kegawatdaruratan • Ceramah Tanya tayang 
+di FKTP stroke di FKTP : jawab • LCD 
+
+ a. Penanganan pra • Studi Kasus • Laptop 
+ hospital stroke • Flipchart 
+ akut • Spidol 
+
+b. Manajemen pra 
+ • Panduan 
+
+rujukan studi kasus 
+  • Lembar 
+
+2. Melakukan penanganan 2. Penanganan post kasus 
+post rawatan pasien rawatan pasien stroke : 
+stroke a. Pendataan pasien 
+
+paska pulang rawat 
+(MRS) 
+
+b. Memastikan pasien 
+melakukan 
+tatalaksana 
+prevensi sekunder 
+dan rehabilitasi 
+optimal dalam 6 
+bulan pertama di 
+FKRTL 
+
+c. Evaluasi paska 
+rawat 
+
+d. Rujuk balik 
+
+ 18 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+ 
+
+Nomor : Materi Pelatihan Inti 4 
+Mata pelatihan : Terapi medik gizi pada pasien paska stroke 
+Deskripsi mata pelatihan : Mata pelatihan ini membahas tentang skrining status gizi menggunakan metode MST (Malnutrition 
+
+Screening Tool) dan MUST (Malnutrition Universal Screening Tool); asesmen status gizi dengan 
+melakukan beberapa langkah yaitu anamnesis, pemeriksaan fisik dan penegakkan diagnosis gizi, 
+selanjutnya memberikan terapi medik gizi berdasarkan diagnosis yang ditemukan. 
+
+Hasil Belajar : Setelah selesai mengikuti materi ini, peserta mampu melakukan pemberian terapi medik gizi 
+sederhana pada pasien paska stroke 
+
+Waktu : 5 Jpl (T = 2 Jpl; P = 3 Jpl; PL: 0 Jpl) 
+ 
+
+Materi Pokok dan Sub materi Media dan Alat 
+Indikator Hasil Belajar Pokok Metode Bantu Referensi 
+
+Setelah mengikuti materi ini,     
+peserta mampu :    
+
+ 
+1. Melakukan skrining 1. Skrining status gizi • Curah • Modul 
+
+status gizi a. Defenisi pendapat • Bahan tayang 
+ b. Tujuan • Ceramah • LCD 
+ c. Metode Tanya • Laptop 
+
+ jawab • Panduan studi 
+2. Melakukan asesmen 2. Asesmen status gizi • Studi Kasus kasus bagi 
+
+status gizi a. Anamnesis • Roleplay dokter 
+ b. Pemeriksaan fisik • Panduan studi 
+ c. Diagnosis gizi kasus bagi 
+
+ perawat 
+3. Melakukan terapi 3. Terapi medik gizi • Lembar kasus 
+
+medik gizi pada pasien a. Defenisi 
+• Skenario 
+
+paska stroke b. Tujuan roleplay 
+c. Kebutuhan nutrisi 
+d. Monitoring dan 
+
+edukasi gizi 
+
+ 19 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+ 
+
+ e. Hal-hal yang perlu    
+dibatasi 
+
+ 
+ 
+
+Nomor : Materi Pelatihan Inti 5 
+Mata pelatihan : Pencegahan komplikasi pasien stroke 
+Deskripsi mata : Mata pelatihan ini menjelaskan tentang penilaian tingkat kemandirian pasien paska stroke 
+pelatihan menggunakan instrumen MMSE, mRS, Barthel Indeks, dan model Kubler Ross; penilaian masalah 
+
+psikologis dan rehabilitasi pada pasien paska stroke. 
+Hasil Belajar : Setelah selesai mengikuti materi ini, peserta mampu melakukan pencegahan komplikasi Stroke 
+Waktu : 6 Jpl (T = 2 Jpl; P = 4 Jpl; PL: 0 Jpl) 
+
+ 
+
+ 
+Indikator Hasil Belajar Pokok Bahasan Metode Media dan Alat Referensi 
+
+Bantu 
+Setelah mengikuti materi ini,     
+peserta mampu :    
+
+ 
+1. Melakukan penilaian 1. Penilaian tingkat • Curah • Modul 
+
+tingkat kemandirian kemandirian pasien paska pendapat • Bahan tayang 
+pasien paska stroke stroke • Ceramah • LCD 
+
+ a. MMSE Tanya • Laptop 
+ b. mRS jawab • Instrumen 
+ c. Barthel Indeks • Simulasi MMSE 
+
+d. Model Kubler Ross 
+ • Instrumen 
+
+ mRS 
+2. Melakukan penilaian 2. Penilaian masalah • Instrumen 
+
+masalah psikologis psikologis Barthel index 
+a. Deteksi dini gejala • Instrumen BDI 
+
+neuropsikiatri • Matras 
+
+ 20 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+ 
+
+ b. Terapi  • Bantal  
+
+ c. Indikasi rujuk • Spuit 3 cc 
+ • Air mineral 
+
+3. Melakukan rehabilitasi 3. Rehabilitasi pada pasien 
+pada pasien paska paska stroke 
+stroke a. Pencegahan imobilisasi 
+
+b. Deteksi dini gangguan 
+fungsi dan komplikasi 
+
+ 
+ 
+
+Nomor : Materi Pelatihan Inti 6 
+Mata pelatihan : Pencatatan dan Pelaporan 
+Deskripsi mata : Mata pelatihan ini menjelaskan materi pokok tentang pencatatan dan pelaporan stroke, yang 
+pelatihan terdiri dari surveilans faktor risiko stroke, registri stroke, surveilans kematian stroke, serta 
+
+aplikasi pencatatan dan pelaporan deteksi dini faktor risiko stroke menggunakan ASIK. 
+Hasil Belajar : Setelah selesai mengikuti materi ini, peserta mampu melakukan pencatatan dan pelaporan Stroke 
+
+di FKTP. 
+Waktu : 4 Jpl (T = 1 Jpl; P = 3 Jpl; PL: 0 Jpl) 
+
+ 
+Materi Pokok dan Sub materi Media dan Alat 
+
+Indikator Hasil Belajar Pokok Metode Bantu Referensi 
+
+Setelah mengikuti materi ini,     
+peserta mampu :  
+
+ • Curah pendapat • Modul Buku Petunjuk Teknis 
+Melakukan pencatatan dan Langkah – langkah • Ceramah dan • Bahan tayang Surveilans PTM, 2014 
+pelaporan melakukan pencatatan dan Tanya jawab • LCD Juknis Posbindu PTM, 
+
+pelaporan stroke : • Latihan • Laptop 2014 
+pengolahan dan 
+
+ 21 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+ 
+
+ 1. Surveilans Faktor Risiko analisis data, • Data faktor  
+
+stroke pencatatan dan risiko dan 
+2. Registri stroke pelaporan PTM (Raw 
+3. Surveilans kematian Data) 
+
+stroke • Panduan 
+4. Aplikasi pencatatan dan latihan 
+
+pelaporan • Aplikasi SI 
+PTM 
+
+ 
+
+3. MATERI PELATIHAN PENUNJANG 
+ 
+ 
+
+Nomor : Materi Pelatihan Penunjang 1 
+Mata pelatihan : Building Learning Commitment (Membangun Komitmen Belajar) 
+Deskripsi mata pelatihan : Mata pelatihan ini membahas tentang Membangun Komitmen Belajar, yang teridiri dari 4 materi 
+
+sebagai pengantar untuk mencairkan suasana belajar dalam pelatihan. 
+Hasil Belajar : Setelah mengikuti materi ini peserta saling mengenal serta mampu mengaplikasikan konsep 
+
+membangun komitmen belajar. 
+Waktu : 3 Jpl (T = 0 Jpl; P = 3 Jpl; PL: 0 Jpl) 
+
+ 
+ 
+
+ Materi Pokok   
+Media dan Alat 
+
+Indikator Hasil Belajar dan Sub materi Metode Referensi 
+Bantu 
+
+Pokok 
+     
+Setelah mengikuti materi ini,     
+peserta mampu : 
+
+   • Modul  
+1. Melaksanakan perkenalan 1. Perkenalan • Curah • Bahan tayang 1. Buku Panduan Dinamika 
+
+antar peserta, fasilitator dan pendapat • LCD Kelompok (LAN 2010 
+panitia • Flipchart dan 
+
+Pusdiklat Aparatur) 
+
+ 22 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+ 
+
+2. Mencapai suasana pencairan 2. Pencairan • Ceramah dan • Spidol Depkes RI, Pusdiklat 
+sehingga peserta dapat lebih  Tanya jawab • Post it Kesehatan, 2004 
+siap dan berani  • Bermain Peran 2. Kumpuan Games dan 
+mengemukakan pengalaman  • Games Energizer, Jakarta. 
+dan 3. Dinamika Kelompok, 
+pandangannya/berpartisipasi  Penerapannya Dalam 
+aktif dalam pelatihan  Laboratorium Ilmu 
+
+  Perilaku, Munir, Baderal, 
+3. Merumuskan harapan- 3. Harapan 2001 
+
+harapan terhadap pelatihan kelas, 
+yang merupakan kesepakatan kekhawatiran 
+bersama dan menjadi norma mencapai 
+kelas yang disepakati harapan dan 
+bersama komitmen 
+
+ menjadi 
+
+ norma kelas 
+ 
+
+4. Menetapkan kontrol kolektif 4. Kontrol 
+terhadap pelaksanaan norma efektif 
+kelas 
+
+ 23 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+ 
+
+Nomor : Materi Pelatihan Penunjang 2 
+Mata pelatihan : Rencana Tindak Lanjut (RTL) 
+Deskripsi mata pelatihan : Mata pelatihan ini membahas tentang rencana tindak lanjut dengan format yang telah ditentukan, 
+
+dan menyusun rencana tindak lanjut yang akan dilaksanakan oleh peeserta setelah kembali ke 
+tempat kerja masing-masing. 
+
+Hasil Belajar : Setelah mengikuti materi ini, peserta mampu menyusun Rencana Tindak lanjut 
+Waktu : 2 Jpl (T = 0 Jpl; P = 2 Jpl; PL: 0 Jpl) 
+
+ 
+Materi Pokok dan Sub Media dan Alat 
+
+Indikator Hasil Belajar Metode Referensi 
+materi Pokok Bantu 
+
+Setelah mengikuti materi     
+ini, peserta mampu :     
+
+   
+1. Menjelaskan 1. Rencana Tindak 1. Pusdiklat SDM 
+
+• Presentasi • Modul 
+pengertian dan tujuan Lanjut : Kesehatan, BPPSDM, 
+
+• Diskusi kelompok • Bahan tayang 
+penyusunan RTL a. Pengertian RTL bekerjasama dengan 
+
+• Curah pendapat • LCD 
+ b. Tujuan Direktorat Komunitas, 
+
+dan Tanya jawab 
+ penyusunan • Format RTL Depkes RI, Modul 
+
+RTL • Petunjuk Pelatihan Manajemen 
+  pengisian Puskesmas, 2008 
+
+2. Menjelaskan format 2. Format dan 2. Pusdiklat SDM 
+penyusunan RTL penyusunan RTL kesehatan, BPPSDM 
+
+Depkes RI, 
+bekerjasama dengan 
+Pusat P2JK Depkes RI, 
+Modul Pelatihan 
+Verifikator 
+Jamkesmas, 2007 
+
+ 24 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+ 
+
+Nomor : Materi Pelatihan Penunjang 3 
+Mata pelatihan : Anti Korupsi 
+Deskripsi mata pelatihan : Mata pelatihan ini membahas tentang anti korupsi yang menjelaskan tentang konsep korupsi, 
+
+klasifikasi korupsi dan kegiatan antikorupsi yang dapat dilakukan sebagai solusi dalam 
+pemberantasan korupsi. 
+
+Hasil Belajar : Setelah mengikuti materi ini peserta mampu memahami anti korupsi pada pelayanan publik 
+Waktu : 2 Jpl (T = 0 Jpl; P = 2 Jpl; PL: 0 Jpl) 
+
+ 
+ 
+
+Materi Pokok dan Sub 
+Indikator Hasil Belajar Metode Media dan Alat Bantu Referensi 
+
+materi Pokok 
+
+     
+Setelah mengikuti materi     
+ini, peserta mampu :     
+
+     
+1. Menjelaskan konsep 1. Konsep Korupsi :    
+
+korupsi • Definisi Korupsi • Curah • Modul 
+ • Ciri-Ciri Korupsi pendapat • Bahan tayang  
+ • Bentuk/Jenis Korupsi • Ceramah dan • Laptop 1. UU RI No. 20 Tahun 2001 
+
+ • Tingkatan Korupsi • Tanya jawab • LCD tentang Perubahan Atas UU 
+
+ • Penyebab Korupsi No. 31 Tahun 1999. 
+2. Instruksi Presiden No. 1 
+
+• Dasar hukum 
+ Tahun 2013 
+
+ 
+ 3. Permenkes No. 14 Tahun 
+
+2. Anti Korupsi : 
+2. Menjelaskan anti 2014 Kebijakan tentang 
+
+• Konsep Anti Korupsi 
+korupsi Gratifikasi Bidang 
+
+• Nilai-Nilai Anti Kesehatan 
+Korupsi 4. KPK. Buku Saku Gratifikasi 
+
+• Prinsip-Prinsip Anti 
+Korupsi 
+
+ 25 
+
+
+
+ 
+Kurikulum Pelatihan Teknis 
+
+Penanggulangan Stroke Bagi Dokter dan Perawat di FKTP 
+ 
+
+3. Menjelaskan upaya 3. Upaya Pencegahan dan   Dr. Uhar Suharsaputra, 
+pencegahan dan Pemberantasan M.Pd Budaya Korupsi dan 
+pemberantasan korupsi Korupsi: Pendidikan Tantangan Bagi 
+
+ • Upaya Pencegahan Dunia Pendidikan 
+ Korupsi 
+
+ • Upaya Pemberantasan 5. Dr. Ir. Nana Rukmana D.W, 
+Korupsi 
+
+ MA, 2013, Etika & 
+• Strategi Komunikasi Integritas “Solusi 
+
+ Anti Korupsi Persoalan bangsa”, sarana 
+  Bhakti Media Publishing 
+
+4. Menjelaskan tata cara 4. Tata cara pelaporan 6. Dani, Elwi, prof, Dr, 2011, 
+pelaporan dugaan dugaan TPK: Korupsi, Konsep, Tindak 
+pelanggaran tindak • Laporan Pidana dan 
+pidana korupsi (TPK) • Tata Cara Pemberantasannya, 
+
+ Penyampaian Jakarta, PT. Raja Grafindo 
+ Pengaduan Persada 
+
+ • Pencatatan 
+pengaduan 
+
+  
+5. Menjelaskan gratifikasi 5. Gratifikasi 
+
+• Pengertian 
+• Contoh gratifikasi 
+• Sanksi gratifikasi 
+
+ 26 
+
+
+
+ 
+LAMPIRAN 
+
+ 27. 
+MASTER JADWAL PELATIHAN TEKNIS 
+
+PENANGGULANGAN STROKE DI FASILITAS KESEHATAN TINGKAT PERTAMA 
+ 
+
+      
+
+WAKTU  JPL  
+Hari Pertama ACARA PEMBICARA 
+
+T P PL 
+ 
+
+13.00 - 14.00 Registrasi Peserta    Panitia 
+14.00 - 14.30 Pre Test    Panitia 
+14.30 - 14.45 Coffee Break     
+
+14.45 - 15.30 Pembukaan    Direktur P2PTM 
+      
+
+Hari Kedua 
+08.00 - 10.15 Membangun Komitmen Pembelajaran (BLC)  3  MOT 
+10.15 - 10.30 Coffee Break 
+10.30 - 12.00 Kebijakan Pencegahan dan Pengendalian Stroke di Indonesia 2   Direktur P2PTM 
+12.00 - 13.00 ISHOMA 
+13.00 - 15.15 Upaya Pencegahan Faktor Risiko Stroke 2 1  Ketua Tim Kerja Gangguan Otak P2PTM 
+15.15 - 15.30 Coffee Break 
+15.30 - 17.00 Upaya Pencegahan Faktor Risiko Stroke  2  Ketua Tim Kerja Gangguan Otak P2PTM 
+
+      
+
+Hari Ketiga 
+08.00 - 08.15 Refleksi    Peserta/ MOT 
+08.15 - 09.45 Penilaian prediksi risiko stroke 2   Ketua Tim Kerja Gangguan Otak P2PTM 
+09.45 - 10.00 Coffee Break 
+10.00 - 12.15 Penilaian prediksi risiko stroke  3  Ketua Tim Kerja Gangguan Otak P2PTM 
+12.15 - 13.15 ISHOMA 
+13.15 - 15.30 Penatalaksanaan Stroke di FKTP 2 1  PERDOSNI 
+15.30 - 15.45 Coffee Break     
+
+15.45 - 17.15 Penatalaksanaan Stroke di FKTP  2  PERDOSNI 
+      
+
+Hari Keempat 
+08.00 - 08.15 Refleksi    Peserta/ MOT 
+08.15 - 09.45 Terapi Medik Gizi pada Pasien Paska Stroke 2   PDGKI 
+09.45 - 10.00 Coffee Break     
+
+10.00 - 12.15 Terapi Medik Gizi pada Pasien Paska Stroke  3  PDGKI 
+12.15 - 13.15 ISHOMA 
+13.15 - 14.45 Pencegahan komplikasi pasien stroke 2   PERDOSRI/ PDSKJI 
+14.45 - 15.00 Coffee Break 
+15.00 - 17.30 Pencegahan komplikasi pasien stroke  2  PERDOSRI/ PDSKJI 
+
+  
+
+Hari Kelima 
+08.00 - 08.15 Refleksi    Peserta/ MOT 
+08.15 - 09.45 Pencegahan komplikasi pasien stroke  2  PERDOSRI/ PDSKJI 
+09.45 - 10.00 Coffee Break 
+10.00 - 12.15 Pencatatan dan Pelaporan 1 2  Tim Kerja Gangguan Otak P2PTM 
+12.15 - 13.15 ISHOMA 
+13.15 - 14.00 Pencatatan dan Pelaporan  1  Tim Kerja Gangguan Otak P2PTM 
+14.00 - 15.30 Anti Korupsi 2   BBPK 
+15.30 - 15.45 Coffee Break 
+15.45 - 17.15 Rencana Tindak Lanjut  2  Ketua Tim Kerja Gangguan Otak P2PTM 
+
+Hari Keenam 
+08.00 - 08.30 Post Test    Panitia 
+08.30 - 09.00 Penutupan    Ketua Tim Kerja Gangguan Otak P2PTM 
+
+09.00 - selesai Penyelesaian Administrasi    Panitia 
+      
+
+ 27 
+
+
+
+ 
+LAMPIRAN 
+
+ 28. 
+PANDUAN PENUGASAN 
+
+ 
+
+MPI 1. Upaya Pencegahan Faktor Risiko Stroke 
+ 
+
+Panduan Diskusi Kelompok 
+ 
+
+Tujuan: 
+
+Setelah selesai mengikuti materi ini, peserta mampu melakukan upaya pencegahan 
+faktor risiko stroke 
+
+ 
+ 
+
+Langkah-langkah: 
+
+1. Fasilitator membagi peserta menjadi 6 kelompok, masing-masing kelompok 
+terdiri dari 5 peserta. 
+
+2. Fasilitator membagikan 1 lembar kasus kepada setiap kelompok. 
+3. Fasilitator meminta setiap peserta dalam kelompok untuk menganalisa, 
+
+mendiskusikan, dan memberi tanggapan terhadap kasus tersebut. (45 menit) 
+4. Fasilitator memberi kesempatan kepada setiap kelompok untuk 
+
+mempresentasikan hasil studi kasus yang telah didiskusikan. (10 menit/ 
+kelompok) 
+
+5. Fasilitator memberi kesempatan kepada kelompok lain untuk menanggapi hasil 
+presentasi kelompok yang sedang mempresentasikan hasilnya. (15 menit) 
+
+6. Fasilitator menilai hasil studi kasus kelompok berdasarkan analisa kelompok 
+yang dipresentasikan, kemudian memberi masukan / klarifikasi terhadap hal-hal 
+yang masih dirasa kurang tepat dari peserta dan memberi kesempatan untuk 
+mengulang dengan waktu yang masih tersisa. (10 menit) 
+
+7. Fasilitator memberikan klarifikasi dan kesimpulan terhadap jalannya diskusi 
+kelompok. (5 menit) 
+
+ 
+ 
+
+Waktu: 3 JPL x 45 menit = 135 menit 
+
+ 28 
+
+
+
+ 
+MPI 2. Penilaian Prediksi Risiko Stroke 
+
+ 
+ 
+ 
+
+Panduan Diskusi Kelompok 
+
+Tujuan : 
+ 
+
+Setelah selesai mengikuti materi ini, peserta mampu melakukan penilaian prediksi 
+risiko stroke 
+
+Langkah-langkah: 
+
+1. Fasilitator membagi peserta menjadi 6 kelompok, masing-masing kelompok 
+terdiri dari 5 peserta. 
+
+2. Fasilitator membagikan 1 lembar kasus dan instrumen penilaian prediksi risiko 
+stroke (Instrumen carta, AHA ASA dan ABCD score) kepada setiap kelompok. 
+
+3. Fasilitator meminta setiap peserta dalam kelompok untuk menganalisa, 
+mendiskusikan, dan memberikan penilaian prediksi terhadap risiko terjadinya 
+stroke dengan menggunakan tabel prediksi stroke, “Stroke Risk Assessment” 
+(AHA-ASA) serta ABCD Score. (45 menit) 
+
+4. Fasilitator memberi kesempatan kepada setiap kelompok untuk 
+mempresentasikan hasil studi kasus tersebut. (10 menit/ kelompok) 
+
+5. Fasilitator memberi kesempatan kepada kelompok lain untuk menanggapi hasil 
+presentasi kelompok yang sedang mempresentasikan hasilnya. (15 menit) 
+
+6. Fasilitator menilai hasil studi kasus kelompok berdasarkan analisa kelompok 
+yang dipresentasikan, kemudian memberi masukan / klarifikasi terhadap hal-hal 
+yang masih dirasa kurang tepat dari peserta dan memberi kesempatan untuk 
+mengulang dengan waktu yang masih tersisa. (10 menit) 
+
+7. Fasilitator memberikan klarifikasi dan kesimpulan terhadap jalannya diskusi 
+kelompok. (5 menit) 
+
+ 
+Waktu: 3 JPL x 45 menit = 135 menit 
+
+ 29 
+
+
+
+ 
+MPI 3. Penatalaksanaan Stroke di FKTP 
+
+ 
+ 
+
+Panduan Diskusi Kelompok 
+
+Tujuan : 
+ 
+
+Setelah selesai mengikuti materi ini, peserta mampu melakukan pencegahan 
+komplikasi Stroke 
+
+Langkah-langkah: 
+
+1. Fasilitator membagi peserta menjadi 6 kelompok, masing-masing kelompok 
+terdiri dari 5 peserta. 
+
+2. Fasilitator membagikan 1 lembar kasus kepada setiap kelompok. 
+3. Fasilitator meminta setiap peserta dalam kelompok untuk menganalisa, serta 
+
+mendiskusikan bagaimana penanganan stroke pra hospital (kegawatdaruratan 
+stroke di FKTP) dan penanganan post rawatan pasien stroke. (45 menit) 
+
+4. Fasilitator memberi kesempatan kepada setiap kelompok untuk 
+mempresentasikan hasil studi kasus tersebut. (10 menit/ kelompok) 
+
+5. Fasilitator memberi kesempatan kepada kelompok lain untuk menanggapi hasil 
+presentasi kelompok yang sedang mempresentasikan hasilnya. (15 menit) 
+
+6. Fasilitator menilai hasil studi kasus kelompok berdasarkan masing-masing kasus 
+sesuai analisa kelompok yang mempresentasikan, kemudian memberi masukan/ 
+klarifikasi terhadap hal-hal yang masih dirasa kurang tepat dari peserta dan 
+memberi kesempatan untuk mengulang dengan waktu yang masih tersisa. (10 
+menit) 
+
+7. Fasilitator memberikan klarifikasi dan kesimpulan terhadap jalannya diskusi 
+kelompok. (5 menit) 
+
+ 
+ 
+
+Waktu: 3 JPL x 45 menit = 135 menit 
+
+ 30 
+
+
+
+ 
+MPI 4. Terapi Medik Gizi pada Pasien Paska Stroke 
+
+ 
+ 
+
+Panduan Studi Kasus 
+ 
+
+Tujuan : 
+
+Setelah selesai mengikuti materi ini, peserta mampu melakukan pemberian terapi gizi 
+sederhana pada pasien paska stroke. 
+
+ 
+ 
+
+Panduan Studi Kasus Bagi Dokter 
+ 
+
+Langkah-langkah: 
+
+1. Fasilitator membagi peserta menjadi 3 kelompok, masing-masing kelompok 
+terdiri dari 5 peserta. 
+
+2. Fasilitator membagikan 1 lembar kasus kepada setiap kelompok. 
+3. Fasilitator meminta setiap peserta dalam kelompok untuk melakukan skrining 
+
+dan menilai status gizi dengan menggunakan MST (Malnutrition Screening Tool) 
+dan MUST (Malnutrition Universal Screening Tool). menganalisa, serta 
+mendiskusikan bagaimana pemberian terapi medik gizi bagi pasien paska stroke. 
+(15 menit) 
+
+4. Fasilitator memberi kesempatan kepada setiap kelompok untuk 
+mempresentasikan hasil studi kasus tersebut. (7 menit/kelompok) 
+
+5. Fasilitator memberi kesempatan kepada kelompok lain untuk menanggapi hasil 
+presentasi kelompok yang sedang mempresentasikan hasilnya. (5 menit) 
+
+6. Fasilitator menilai hasil studi kasus kelompok berdasarkan masing-masing kasus 
+sesuai analisa kelompok, kemudian memberi masukan / klarifikasi terhadap hal- 
+hal yang masih dirasa kurang tepat dari peserta dan memberi kesempatan untuk 
+mengulang dengan waktu yang masih tersisa. (3 menit) 
+
+7. Fasilitator memberikan klarifikasi dan kesimpulan terhadap jalannya diskusi 
+kelompok. (1 menit) 
+
+ 
+ 
+
+Panduan Studi Kasus Bagi Perawat 
+ 
+
+Langkah-langkah: 
+
+1. Fasilitator membagi peserta menjadi 3 kelompok, masing-masing kelompok 
+terdiri dari 5 peserta. 
+
+2. Fasilitator membagikan 1 lembar kasus kepada setiap kelompok. 
+3. Fasilitator meminta setiap peserta dalam kelompok untuk melakukan skrining 
+
+dengan menggunakan MST (Malnutrition Screening Tool) dan MUST 
+(Malnutrition Universal Screening Tool dan pemeriksaan antropometri pada 
+
+ 31 
+
+
+
+ 
+
+pasien paska stroke. (15 menit) 
+4. Fasilitator memberi kesempatan kepada setiap kelompok untuk 
+
+mempresentasikan hasil studi kasus tersebut. (7 menit/kelompok) 
+5. Fasilitator memberi kesempatan kepada kelompok lain untuk menanggapi hasil 
+
+presentasi kelompok yang sedang mempresentasikan hasilnya. (5 menit) 
+6. Fasilitator menilai hasil studi kasus kelompok berdasarkan masing-masing kasus 
+
+sesuai analisa kelompok yang mempresentasikan, kemudian memberi masukan / 
+klarifikasi terhadap hal-hal yang masih dirasa kurang tepat dari peserta dan 
+memberi kesempatan untuk mengulang dengan waktu yang masih tersisa. (3 
+menit) 
+
+7. Fasilitator memberikan klarifikasi dan kesimpulan terhadap jalannya diskusi 
+kelompok. (1 menit) 
+
+ 
+Waktu: 1 JPL x 45 menit = 45 menit 
+
+ 
+ 
+
+Panduan Bermain Peran 
+ 
+
+Tujuan : 
+ 
+
+Setelah selesai mengikuti materi ini, peserta mampu melakukan ketrampilan dalam 
+pemberian terapi gizi sederhana pada pasien paska stroke 
+
+ 
+
+Langkah-langkah : 
+
+1. Fasilitator membagi peserta menjadi 6 kelompok, masing-masing kelompok 
+terdiri dari 5 peserta. 
+
+2. Fasilitator membagikan kepada masing-masing kelompok 1 lembar skenario 
+3. Fasilitator memberi kesempatan kepada masing-masing kelompok untuk 
+
+berdiskusi mengenai skenario dan peran yang akan dimainkan. (20 menit) 
+4. Fasilitator memberi kesempatan kepada setiap kelompok mempresentasikan role 
+
+play tersebut. (10 menit/ kelompok) 
+5. Fasilitator memberi masukan terkait substansi role play tersebut. (10 menit) 
+
+Waktu: 2 JPL x 45 menit = 90 menit 
+
+ 32 
+
+
+
+ 
+MPI 5. Pencegahan Komplikasi Pasien Stroke 
+
+ 
+ 
+ 
+
+Panduan Simulasi 
+
+Tujuan : 
+
+Setelah selesai mengikuti materi ini, peserta mampu melakukan keterampilan dalam 
+pencegahan komplikasi stroke. 
+
+ 
+Langkah – langkah : 
+
+1. Fasilitator membagi peserta menjadi 5 kelompok, masing-masing kelompok 
+terdiri dari 6 peserta. 
+
+2. Fasilitator meminta setiap peserta secara bergantian melakukan penilaian 
+disabilitas, masalah psikologis dan kognitif menggunakan MMSE, Barthel Index, 
+dan BDI. (45 menit) 
+
+3. Fasilitator meminta setiap peserta dalam kelompok secara bergantian melakukan 
+pencegahan immobilisasi dengan cara positioning dan alih baring/alih duduk 
+dengan menggunakan bantal serta latihan lingkup gerak sendi, ankle pumping, 
+dan latihan pernafasan. (75 menit) 
+
+4. Fasilitator meminta setiap peserta dalam kelompok secara bergantian melakukan 
+penilaian fungsi menelan yang dapat dilakukan di FKTP dengan menggunakan 
+Repetitive Saliva Swallowing Test (RSST) Dan Modified Water Swallowing Test 
+(MWST). (50 menit) 
+
+5. Fasilitator memberikan masukan terkait hasil simulasi. (10 menit) 
+
+Waktu: 4 JPL x 45 menit = 180 menit 
+
+ 33 
+
+
+
+ 
+MPI 6. Pencatatan dan Pelaporan 
+
+ 
+
+A. Panduan Latihan Pencatatan Dan Pelaporan 
+ 
+ 
+
+PLATFORM PENCATATAN DAN PELAPORAN DETEKSI DINI PTM 
+ 
+
+Aplikasi Sehat Indonesia Ku (ASIK) Sistem Informasi PTM (SI PTM) 
+
+ 
+
+ 
+ 
+
+Aplikasi Mobile Asik (Sehat Indonesiaku) 
+
+• Aplikasi Android : 
+digunakan oleh tenaga Kesehatan dan kader untuk pencatatan data program UKM 
+(KIA, surveilans PM, sksrining PTM) serta program UKBM (Posyandu) 
+
+• Web based : 
+digunakan oleh tenaga Kesehatan di Puskesmas selain untuk pencatatan 
+Kesehatan individu, juga digunakan untuk pelaporan untuk Dinas Kesahatan atau 
+Kementerian Kesehatan 
+
+ 
+Tata Cara Pendaftaran ASIK 
+
+1. Kilk tombol daftar untuk mendaftarkan diri 
+
+pertama kali di dalam ASIK 
+
+ 
+ 
+ 
+
+ 
+2. Pilih peran pelayan Kesehatan yang sesuai, untuk peran selain 
+
+bidan, dokter, perawat, dapat pilih lainnya. 
+
+ 34 
+
+
+
+ 
+
+3. Silahkan memilih pelayanan Kesehatan dan isi data diri sesuai kolom yang 
+
+dibutuhkan 
+
+4. Jika profesi tidak ada dalam pilihan, maka pilih “lainnya” dan wajib mengisi 
+
+profesi yang sesuai 
+
+ 
+
+Login ASIK 
+
+1. Login dengan isi nomor WhatApp dan klik “Masuk” 
+2. Masukkan kode OTP yang dikirimkan jika tidak mendapatkan kode OTP, klik 
+
+kirim ulang kode pada bagian bawah 
+
+JANGAN BERIKAN KODE OTP 
+KEPADA SIAPAPUN 
+
+ 35 
+
+
+
+ 
+
+Pencatatan ASIK 
+
+1. Pastikan sudah login dengan nomor WhatsApp yang terdaftar 
+
+2. Masukkan tanggal dan Puskesmas tempat deteksi dini PTM dilakukan dan 
+
+mulai aktivitas dan tambah data 
+
+ 
+
+ 
+
+ 
+
+3. Cari data peserta berdasarkan NIK (lebih disarankan) atau tanggal lahir 
+4. Hasil pencarian akan menampilkan Nama dan NIK peserta 
+
+ 
+
+ 
+
+ 
+
+5. Pencatatan ASIK 
+6. Isi riwayat kesehatan peserta 
+
+ 36 
+
+
+
+ 
+
+7. Isi faktor risiko peserta 
+ 
+
+ 
+
+8. Isi hasil pengukuran dan pemeriksaan 
+ 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+9. Hasil pemeriksaan akan keluar secara otomatis 
+
+ 37 
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+SISTIM INFORMASI PTM (PTM) 
+ 
+ 
+
+ 38 
+
+
+
+ 
+
+Pencatatan Dan Pelaporan DD PTM Di Fasyankes Swasta 
+
+1. Petugas fasyankes swasta mengisi form excel offline 
+
+2. Data dikumpulkan ke Puskesmas/Dinkes Kab/Kota setiap bulan melalui email 
+
+dll 
+
+3. Dinkes Kab/Kota melakukan Upload/sinkronisasi data offline melalui SIPTM 
+
+4. Data masuk kedalam sistem dan dapat dilihat oleh Provinsi dan Pusat 
+ 
+
+Tata cara pengisisan form offline 
+
+1. Dibutuhkan minimal Microsoft Excell 2010 untuk membaca report excel 
+2. Dibutuhkan PC/Laptop dengan RAM minimal 1 GB 
+3. Aplikasi web Surveilans SIPTM dapat diakses melalui 
+
+https://surveilans-pptm.kemkes.go.id 
+ 
+
+Aturan pengisisan form offline : 
+
+1. NIK sebaiknya diisi 
+
+2. Tanggal pemeriksaan dan tanggal lahir diisi dengan format DD-MM-YYYY 
+
+3. Untuk kolom dengan dropdown options silahkan pilih salah satu, jangan diketik 
+
+4. Jangan copy paste 
+
+5. Jangan merubah format saat melakukan penyimpanan file 
+ 
+ 
+
+Waktu: 3 JPL x 45 menit = 135 menit 
+
+ 39 
+
+
+
+ 
+
+LAMPIRAN 4. 
+
+KASUS PENUGASAN 
+ 
+ 
+ 
+
+Materi Pelatihan Inti 1. Upaya Pencegahan FR Stroke 
+
+1. Seorang pasien laki-laki usia 67 tahun datang ke puskesmas dengan keluhan sakit 
+kepala, hilang timbul, sejak 2 hari yang lalu. Pasien memiliki riwayat hipertensi 
+sejak 10 tahun yang lalu. Merokok 1 bungkus per hari. Dari pemeriksaan fisik 
+didapatkan tekanan darah 170/100 mmHg, nadi 90 x/menit, pernafasan 
+22x/menit, suhu 37,2 °C. Pemeriksaan jantung, paru, abdomen dan ekstremitas 
+dalam batas normal. Pemeriksaan laboratorium menunjukkan hasil sebagai 
+berikut: kolesterol total 305mg/dl; GDP 180 mg/dl, GD 2 jam pp 250 mg/dl. 
+Diskusikanlah jawaban pertanyaan berikut berdasarkan kasus diatas : 
+
+a. Apa diagnosis pada pasien tersebut? 
+b. Jelaskan faktor risiko stroke yang ada pada pasien tersebut? 
+c. Pemeriksaan penunjang apa saja yang perlu dilakukan? 
+d. Apa saja upaya yang dapat dilakukan pada pasien tersebut untuk 
+
+menurunkan risiko terjadinya stroke? 
+
+ 
+2. Seorang perempuan berusia 56 tahun, datang ke IGD puskesmas dengan keluhan 
+
+pusing, berkeringat dingin, dan dada berdebar-debar. Sesak nafas di sangkal. 
+Pasien diketahui memiliki hipertensi sejak 5 tahun yang lalu, tidak merokok, dan 
+suka makan gorengan. Dari pemeriksaan fisik di dapatkan TD 160/90 mmHg, nadi 
+115x/mnt, pernafasan 20 x/mnt. Suhu 36,8 °C . Pemeriksaan jantung, paru, 
+abdomen dan ekstremitas dalam batas normal. Hasil pemeriksaan EKG 
+menunjukkan adanya aritmia. 
+Dilakukan pemeriksaan laboratorium dengan hasil sebagai berikut: Kolesterol total 
+pasien 280 mg/dl, gula darah puasa 90 mg/dl dan gula darah 2 jam PP 140 mg/dl. 
+Diskusikanlah jawaban pertanyaan berikut berdasarkan kasus diatas : 
+a. Apa diagnosis pada pasien tersebut? 
+b. Jelaskan faktor risiko stroke yang ada pada pasien tersebut? 
+c. Pemeriksaan penunjang apa saja yang perlu dilakukan? 
+d. Apa saja upaya yang dapat dilakukan pada pasien tersebut untuk menurunkan 
+
+risiko terjadinya stroke? 
+ 
+
+3. Seorang wanita, 49 tahun, datang ke puskesmas dengan keluhan sering lapar, 
+banyak makan, tapi badan tambah kurus. Dari hasil pemeriksaan fisik didapatkan 
+TB 150 cm, BB 55 kg, TD 130/85mmHg, HR 83x/menit, RR 18x/menit, T 36.5°C. 
+Dari hasil pemeriksaan laboratorium didapatkan GDS 190 mg/dl, GDP 150, GD 2 
+jam pp 240 mg/dl. 
+Diskusikanlah jawaban pertanyaan berikut berdasarkan kasus diatas : 
+a. Apa diagnosis pada pasien tersebut? 
+
+ 40 
+
+
+
+ 
+b. Jelaskan faktor risiko stroke yang ada pada pasien tersebut? 
+c. Pemeriksaan penunjang apa saja yang perlu dilakukan? 
+d. Apa saja upaya yang dapat dilakukan pada pasien tersebut untuk menurunkan 
+
+risiko terjadinya stroke? 
+ 
+
+4. Seorang perempuan, usia 58 thn datang ke puskesmas untuk kontrol tekanan 
+darah. Pasien ini pernah mendapat serangan stroke 8 tahun yang lalu, saat ini yang 
+dikeluhkan pasien adalah kelemahan pada anggota tubuh sebelah kanan, Hasil 
+pemeriksaan fisik menunjukkan hasil IMT 30 kg/m2, TD 150/90 mmHg, Nadi 
+80/menit, pernapasan 19x/menit, T 36,8 °C. Pemeriksaan laboratorium 
+menunjukkan hasil kolesterol total 220 mg/dl, HDL35 mg/dl, LDL 155 mg/dl, GDP 
+100 mg/ dl, GD 2 jam pp 190 mg/dl. 
+Diskusikanlah jawaban pertanyaan berikut berdasarkan kasus diatas : 
+a. Apa diagnosis pada pasien tersebut? 
+b. Jelaskan faktor risiko stroke yang ada pada pasien tersebut? 
+c. Pemeriksaan penunjang apa saja yang dianjurkan untuk dilakukan? 
+d. Apa yang dapat direkomendasikan pada pasien tersebut berdasarkan tabel list 
+
+AHA- ASA? 
+ 
+
+5. Seorang wanita, 55 tahun, datang ke puskesmas untuk kontrol rutin. Pasien 
+diketahui menyandang diabetes sejak 3 tahun yang lalu. Dari hasil pemeriksaan 
+fisik didapatkan TB 155 cm, BB 71 kg, TD 140/80mmHg, HR 86x/menit, RR 
+20x/menit, T 36.4°C. Dari hasil pemeriksaan laboratorium didapatkan GDS 210 
+mg/dl, kolesterol total 205 mg/dl. 
+Diskusikanlah jawaban pertanyaan berikut berdasarkan kasus diatas : 
+a. Apa diagnosis pada pasien tersebut? 
+b. Jelaskan faktor risiko stroke yang ada pada pasien tersebut? 
+c. Pemeriksaan penunjang apa saja yang perlu dilakukan? 
+d. Apa saja upaya yang dapat dilakukan pada pasien tersebut untuk menurunkan 
+
+risiko terjadinya stroke? 
+ 
+
+6. Seorang laki-laki berusia 62 tahun datang ke Puskesmas dengan keluhan sering 
+kencing dan sering haus dalam 2 minggu terakhir. Pasien diketahui menyandang 
+hipertensi sejak 7 th yang lalu dan saat ini mengonsumsi captopril dan amlodipine 
+setiap hari. Sesak napas dan nyeri dada di sangkal. Pasien tidak merokok. Dari 
+pemeriksaan fisik di dapatkan TB 160 cm, BB 74kg, Tekanan Darah 150/80 mmHg, 
+nadi 90 kali per menit, pernapasan 20 kali per menit dan suhu 37°C. Pemeriksaan 
+jantung, paru, abdomen dan ekstremitas dalam batas normal. Hasil pemeriksaan 
+laboratorium menunjukkan hasil kolesterol total 300 mg/dl, LDL 170 mg/dl, HDL 
+30 mg/dl, dan TG 200 mg/dl, gula darah sewaktu 300 mg/dl, pemeriksaan EKG 
+dalam batas normal. 
+Diskusikanlah jawaban pertanyaan berikut berdasarkan kasus diatas : 
+a. Apa diagnosis pada pasien tersebut? 
+
+ 41 
+
+
+
+ 
+b. Jelaskan faktor risiko stroke yang ada pada pasien tersebut? 
+c. Pemeriksaan penunjang apa saja yang perlu dilakukan? 
+d. Apa saja upaya yang dapat dilakukan pada pasien tersebut untuk menurunkan 
+
+risiko terjadinya stroke? 
+ 
+
+ 42 
+
+
+
+ 
+
+Materi Pelatihan Inti 2. Penilaian Prediksi Risiko Stroke 
+
+1. Seorang pria berusia 55 tahun datang ke klinik untuk kontrol tekanan darah dan 
+keluhan sering buang air kecil. Pasien ini sudah menyandang hipertensi sejak 5 
+tahun yang lalu. Saat ini, tekanan darahnya adalah 160/100 mmHg dan gula darah 
+puasanya adalah 180 mg/dl. 
+a. Apa saja faktor risiko stroke pada pasien tersebut ? 
+b. Jelaskan stratifikasi risiko stoke menggunakan tabel prediksi risiko PTM ? 
+c. Bagaimana risiko stroke pada pasien tersebut menggunakan stroke risk 
+
+assessment dari AHA-ASA ? 
+d. Apakah tatalaksana yang harus dilakukan untuk mengurangi risiko kejadian 
+
+stroke beserta target terapinya ? 
+ 
+
+2. Seorang wanita berusia 62 tahun datang ke rumah sakit dengan keluhan pusing, 
+mual, dan pandangan kabur. Dia telah mengidap diabetes melitus tipe 2 selama 15 
+tahun dan hipertensi selama 10 tahun. Tekanan darahnya saat ini adalah 180/95 
+mmHg dan gula darah puasanya adalah 240 mg/dl, GD 2 jam pp 360 mg/dl. 
+a. Apa saja faktor risiko stroke pada pasien tersebut ? 
+b. Jelaskan stratifikasi risiko stoke menggunakan tabel prediksi risiko PTM ? 
+c. Bagaimana risiko stroke pada pasien tersebut menggunakan stroke risk 
+
+assessment dari AHA-ASA ? 
+d. Apakah tatalaksana yang harus dilakukan untuk mengurangi risiko kejadian 
+
+stroke beserta target terapinya ? 
+ 
+
+3. Pasien berusia 60 tahun dengan kelemahan sisi datang ke fasilitas kesehatan 
+tempat TS bekerja dengan keluhan lemah 1 sisi mendadak sejak 2 jam yang lalu. 
+saat di periksa pasien juga memiliki kesulitan bicara dengan riwayat diabetes tidak 
+terkontrol. Didapatkan bahwa TD 160/70 mmHg, HR 93x/menit, RR 22x/menit, 
+Sp02 98%, Berapa ABCD2 s 
+a. Apa saja faktor risiko stroke pada pasien tersebut ? 
+b. Jelaskan stratifikasi risiko stoke menggunakan tabel prediksi risiko PTM ? 
+c. Bagaimana risiko stroke pada pasien tersebut menggunakan stroke risk 
+
+assessment dari AHA-ASA ? 
+d. Berapa ABCD2 score pasien tersebut? 
+e. Apakah tatalaksana yang harus dilakukan untuk mengurangi risiko kejadian 
+
+stroke beserta target terapinya ? 
+ 
+
+4. Seorang wanita berusia 70 tahun dengan riwayat merokok selama 30 tahun datang 
+dengan keluhan sesak napas saat melakukan aktivitas fisik ringan, seperti berjalan 
+sebentar. Dia juga sering batuk dengan dahak yang kental dan berwarna putih. 
+Pada pemeriksaan ditemukan TD 180/100 mmHg, kolesterol total 240 mg/dl, GDS 
+180 mg/dl. Apa yang mungkin diderita pasien ini, dan bagaimana Anda akan 
+menangani kasus ini? 
+a. Apa saja faktor risiko stroke pada pasien tersebut ? 
+
+ 43 
+
+
+
+ 
+
+b. Jelaskan stratifikasi risiko stoke menggunakan tabel prediksi risiko PTM ? 
+c. Bagaimana risiko stroke pada pasien tersebut menggunakan stroke risk 
+
+assessmentdari AHA-ASA ? 
+d. Apakah tatalaksana yang harus dilakukan untuk mengurangi risiko kejadian 
+
+stroke beserta target terapinya ? 
+ 
+
+5. Seorang Pasien, Ny. F, 40 tahun, dating dengan keluhan sering merasa lelah, sesak 
+saat beraktivitas fisik ringan, sakit punggung dan lutut sering terasa nyeri. Riwayat 
+keluarga dengan obesitas. Ibunya dan kakaknya juga mengalami obesitas. Pasien 
+memiliki pekerjaan kantoran yang membuatnya lebih banyak duduk. Dia juga 
+memiliki kebiasaan makan malam di luar dan jarang berolahraga. Pada 
+pemeriksaan fisik ditemukan TB 160 cm, BB 88 kg, TD 150/ 80 mmHg, GDS 180 
+mg/dl. 
+a. Apa saja faktor risiko stroke pada pasien tersebut ? 
+b. Jelaskan stratifikasi risiko stoke menggunakan tabel prediksi risiko PTM ? 
+c. Bagaimana risiko stroke pada pasien tersebut menggunakan stroke risk 
+
+assessment dari AHA-ASA ? 
+d. Apakah tatalaksana yang harus dilakukan untuk mengurangi risiko kejadian 
+
+stroke beserta target terapinya ? 
+ 
+
+6. Seorang pria berusia 55 tahun dengan riwayat merokok berat selama 25 tahun, 
+datang dengan keluhan sesak napas yang semakin memburuk dalam 2 tahun 
+terakhir. Dia juga sering mengalami infeksi saluran pernapasan atas. Pemeriksaan 
+fisik menunjukkan pemerian fisik tipikal PPOK. Pada pemeriksaan fisik ditemukan 
+Tb 168 cm, BB 90 kg, TD 170/90 mmHg, kolesterol total 245 mg/dl, GDS 150 mg/dl. 
+a. Apa saja faktor risiko stroke pada pasien tersebut ? 
+b. Jelaskan stratifikasi risiko stoke menggunakan tabel prediksi risiko PTM ? 
+c. Bagaimana risiko stroke pada pasien tersebut menggunakan stroke risk 
+
+assessment dari AHA-ASA ? 
+d. Apakah tatalaksana yang harus dilakukan untuk mengurangi risiko kejadian 
+
+stroke beserta target terapinya ? 
+
+ 44 
+
+
+
+ 
+
+Materi Pelatihan Inti 3. Penatalaksanaan stroke 
+ 
+
+1. Seorang pria berusia 64 tahun datang ke unit gawat darurat puskesmas dengan 
+keluhan tiba-tiba bicara pelo dan lemah separuh tubuh sejak 30 menit yang lalu. 
+Pasien menyangkal adanya nyeri kepala hebat atau muntah menyembur. Riw nyeri 
+dada disangkal, nyeri pada tungkai saat beraktifitas disangkal. Pasien diketahui 
+menyandang hipertensi sejak 15 tahun yang lalu. Pemeriksaan fisik menunjukkal 
+hasil KU=komposmentis kooperatif, GCS =E4M6V5, TD = 200/110, HR = 98x/menit, 
+RR = 20x/menit, Sp02 = 98%. 
+Diskusikanlah jawaban pertanyaan berikut berdasarkan kasus diatas : 
+a. Apa diagnosis pada pasien tersebut? 
+b. Lakukan penilaian NIHSS dan tentukan skala penilaian medis pasien 
+c. Lakukan identifikasi jenis stroke yang terjadi 
+d. Jelaskan tatalaksana yang harus dilakukan 
+
+ 
+2. Seorang wanita berusia 55 tahun datang ke puskesmas dengan penurunan 
+
+kesadaran mendadak sejak 1 jam yang lalu. Pemeriksaan fisik didapatkan 
+kesadaran menurun, mengeluh kelemahan pada anggota tubuh sisi kanan. Pasien 
+berespon membuka mata dengan perintah, kemudian tidur lagi, pasien tampak 
+menarik tangannya kembali saat diberikan rangsangan nyeri pada jari, serta 
+berbicara meracau. KU delirium, GCS E4M4V3, TD190/90 mmHg, HR=87x/menit, 
+RR=20x/menit, Sp02=98%, GDS 300 mg/dl, kolesterol total 280 mg/dl. 
+Diskusikanlah jawaban pertanyaan berikut berdasarkan kasus diatas : 
+a. Apa diagnosis pada pasien tersebut? 
+b. Lakukan penilaian NIHSS dan tentukan skala penilaian medis pasien 
+c. Lakukan identifikasi jenis stroke yang terjadi 
+d. Jelaskan tatalaksana yang harus dilakukan 
+
+ 
+3. Seorang pria berusia 75 tahun dengan riwayat atrial fibrilasi datang ke IGD 
+
+Puskesmas dengan keluhan lemah separuh tubuh dan kesulitan bicara sejak 2 jam 
+yang lalu. Dari hasil pemeriksaan didapatkan KU delirium, GCS E3M5V3, 
+TD190/100 mmHg, HR=90x/menit, RR=19x/menit, Sp02=98%, GDS 290 mg/dl, 
+kolesterol total 320 mg/dl. 
+Diskusikanlah jawaban pertanyaan berikut berdasarkan kasus diatas : 
+a. Apa diagnosis pada pasien tersebut? 
+b. Lakukan penilaian NIHSS dan tentukan skala penilaian medis pasien 
+c. Lakukan identifikasi jenis stroke yang terjadi 
+d. Jelaskan tindakan pra rujukan yang harus dilakukan pada pasien 
+
+ 
+4. Seorang pria berusia 60 tahun dengan diabetes yang tidak terkontrol datang 
+
+dengan gejala kelemahan sebelah tubuh dan kebingungan sejak 2 jam yang lalu. 
+Dari hasil pemeriksaan didapatkan KU delirium, GCS E4M6V5, TD190/100 mmHg, 
+
+ 45 
+
+
+
+ 
+
+HR=96x/menit, RR=20x/menit, Sp02=98%, GDS 400 mg/dl, kolesterol total 320 
+mg/dl. 
+Diskusikanlah jawaban pertanyaan berikut berdasarkan kasus diatas : 
+a. Apa diagnosis pada pasien tersebut? 
+b. Lakukan penilaian NIHSS dan tentukan skala penilaian medis pasien 
+c. Lakukan identifikasi jenis stroke yang terjadi 
+d. Jelaskan tindakan pra rujukan yang harus dilakukan pada pasien 
+
+ 
+5. Seorang pria usia 65 tahun tiba di puskesmas setelah pingsan dan kehilangan 
+
+kesadaran, 45 menit yang lalu. Meskipun pasien kembali sadar, ia mengalami 
+kelemahan pada setengah tubuh dan kesulitan berbicara. Puskesmas segera 
+melakukan evaluasi tekanan darah, memberikan aspirin, dan merujuk pasien ke 
+rumah sakit untuk penanganan lebih lanjut. 
+Diskusikanlah jawaban pertanyaan berikut berdasarkan kasus diatas : 
+a. Apa diagnosis pada pasien tersebut? 
+b. tentukan skala penilaian medis pasien 
+c. Lakukan identifikasi jenis stroke yang terjadi 
+d. Jelaskan tindakan pra rujukan yang harus dilakukan pada pasien 
+
+ 
+6. Seorang pria usia 70 tahun datang ke puskesmas dengan keluhan kesulitan 
+
+berjalan, koordinasi yang buruk, dan kebingungan. Riwayat medisnya mencakup 
+diabetes. Puskesmas melakukan pemeriksaan tekanan darah, gula darah, dan 
+memberikan aspirin sebelum merujuk pasien ke rumah sakit untuk penilaian lebih 
+lanjut. 
+Diskusikanlah jawaban pertanyaan berikut berdasarkan kasus diatas : 
+a. Apa diagnosis pada pasien tersebut? 
+b. Lakukan penilaian NIHSS dan tentukan skala penilaian medis pasien 
+c. Lakukan identifikasi jenis stroke yang terjadi 
+d. Jelaskan tindakan pra rujukan yang harus dilakukan pada pasien 
+
+ 46 
+
+
+
+ 
+
+Materi Pelatihan Inti 4. Terapi Medik Gizi Pada Pasien Paska Stroke 
+
+A. KASUS UNTUK PERAWAT 
+
+ 
+1. Tn. K, berumur 47 tahun dengan TB 165 cm BB 45 kg datang ke poli Puskesmas dengan 
+
+keluhan terasa ngilu pada persendian, pangkal ibu jari kaki terlihat bengkak dan warna 
+merah di sekitarnya. Pasien memiliki riwayat asam urat dan hipertensi tidak terkontrol. 
+Diskusikanlah jawaban pertanyaan berikut berdasarkan kasus diatas : 
+a. Tentukan nilai IMT pada pasien ini 
+b. Lakukan asesmen status gizi pada pasien ini menggunakan MUST 
+c. Apakah pada pasien ini terdapat risiko malnutrisi berdasarkan skor MST? 
+
+ 
+2. Ny. H 55 tahun datang ke PKM untuk kontrol post rawat. Pasien menderita stroke 
+
+selama 3 tahun dengan kelumpuhan anggota gerak kiri dan tirah baring lama. 
+Pasien memiliki ulkus di bagian bokong berukuran 6 cm. Setelah dilakukan 
+antropometri didapati hasil PB 156 cm dan BB 42 kg. 
+Diskusikanlah jawaban pertanyaan berikut berdasarkan kasus diatas : 
+a. Tentukan nilai IMT pada pasien ini 
+b. Lakukan asesmen status gizi pada pasien ini menggunakan MUST 
+c. Apakah pada pasien ini terdapat risiko malnutrisi berdasarkan skor MST? 
+
+ 
+3. Ny. D, dibawa ke PKM untuk kontrol rutin. Pasien mengeluh sulit menelan dan 
+
+kelemahan anggota gerak kanan. Selama 1 minggu terakhir pasien mengonsumsi bubur 
+saring. Hasil antropometri yang di dapat di PKM TB 153 cm, LILA 21 cm dan tanda tanda 
+vital TD 153/78 mmHg, HR 88 kali/menit, RR 20 kali/menit, suhu 36,6°C. Berdasarkan 
+keterangan keluarga, BB pasien 3 bulan yang lalu adalah 40 kg. Pasien juga menderita 
+hipertensi dan DM tidak terkontrol. 
+Diskusikanlah jawaban pertanyaan berikut berdasarkan kasus diatas : 
+a. Tentukan nilai IMT pada pasien ini 
+b. Lakukan asesmen status gizi pada pasien ini menggunakan MUST 
+c. Apakah pada pasien ini terdapat risiko malnutrisi berdasarkan skor MST? 
+
+ 
+
+B. KASUS UNTUK DOKTER 
+ 
+
+1. Tn. K, berumur 47 tahun dengan TB 165 cm BB 45 kg datang ke poli Puskesmas dengan 
+keluhan terasa ngilu pada persendian, pangkal ibu jari kaki terlihat bengkak dan warna 
+merah di sekitarnya. Pasien memiliki riwayat asam urat dan hipertensi tidak terkontrol. 
+Diskusikanlah jawaban pertanyaan berikut berdasarkan kasus diatas : 
+a. Tentukan nilai IMT pada pasien ini 
+b. Lakukan asesmen status gizi pada pasien ini menggunakan MUST 
+c. Apakah pada pasien ini terdapat risiko malnutrisi berdasarkan skor MST? 
+d. Apa diagnosis gizi pada pasien tersebut? 
+
+ 47 
+
+
+
+ 
+
+e. Jelaskan terapi medik gizi pada pasien 
+ 
+
+2. Ny. H 55 tahun datang ke PKM untuk kontrol rutin. Pasien menderita stroke selama 3 
+tahun dengan kelumpuhan anggota gerak kiri dan tirah baring lama. Pasien memiliki 
+ulkus di bagian bokong berukuran 6 cm. Setelah dilakukan antropometri didapatkan 
+hasil PB 156 cm dan BB 42 kg. 
+Diskusikanlah jawaban pertanyaan berikut berdasarkan kasus diatas : 
+a. Tentukan nilai IMT pada pasien ini 
+b. Lakukan asesmen status gizi pada pasien ini menggunakan MUST 
+c. Apakah pada pasien ini terdapat risiko malnutrisi berdasarkan skor MST? 
+d. Apa diagnosis gizi pada pasien tersebut? 
+e. Jelaskan terapi medik gizi pada pasien 
+
+ 
+3. Ny. D, dibawa ke PKM untuk kontrol rutin. Pasien mengeluh sulit menelan dan 
+
+kelemahan anggota gerak kanan. Selama 1 minggu terakhir pasien mengonsumsi bubur 
+saring. Hasil antropometri yang di dapat di PKM TB 153 cm, LILA 21 cm dan tanda tanda 
+vital TD 153/78 mmHg, HR 88 kali/menit, RR 20 kali/menit, suhu 36,6°C. Berdasarkan 
+keterangan keluarga, BB pasien 3 bulan yang lalu adalah 40 kg. Pasien juga menderita 
+hipertensi dan DM tidak terkontrol. 
+Diskusikanlah jawaban pertanyaan berikut berdasarkan kasus diatas : 
+a. Tentukan nilai IMT pada pasien ini 
+b. Lakukan asesmen status gizi pada pasien ini menggunakan MUST 
+c. Apakah pada pasien ini terdapat risiko malnutrisi berdasarkan skor MST? 
+d. Apa diagnosis gizi pada pasien tersebut? 
+e. Jelaskan terapi medik gizi pada pasien 
+
+ 
+C. SKENARIO ROLEPLAY 
+
+ 
+1. Skenario 1 
+
+Tn. S, berumur 53 tahun dengan TB 168 cm BB 49 kg datang ke poli Puskesmas dengan 
+keluhan terasa ngilu pada persendian, pangkal ibu jari kaki terlihat bengkak dan warna 
+merah di sekitarnya. Pasien memiliki riwayat asam urat dan hipertensi tidak terkontrol. 
+
+ 
+2. Skenario 2 
+
+Ny. D, 50 tahun datang ke PKM untuk kontrol post rawat. Pasien menderita stroke 
+selama 3 tahun dengan kelumpuhan anggota gerak kiri dan tirah baring lama. 
+Pasien memiliki ulkus di bagian bokong berukuran 6 cm. Setelah dilakukan 
+antropometri didapati hasil PB 156 cm dan BB 42 kg. 
+
+ 
+3. Skenario 3 
+
+Ny. K, dibawa ke PKM untuk kontrol rutin. Pasien mengeluh sulit menelan dan 
+kelemahan anggota gerak kanan. Selama 1 minggu terakhir pasien mengonsumsi bubur 
+
+ 48 
+
+
+
+ 
+
+saring. Hasil antropometri yang di dapat di PKM TB 153 cm, LILA 21 cm dan tanda tanda 
+vital TD 153/78 mmHg, HR 88 kali/menit, RR 20 kali/menit, suhu 36,6°C. Berdasarkan 
+keterangan keluarga, BB pasien 3 bulan yang lalu adalah 40 kg. Pasien juga menderita 
+hipertensi dan DM tidak terkontrol. 
+
+ 
+4. Skenario 4 
+
+Tn. P, berusia 64 tahun datang ke puskesmas untuk kontrol post rawat dengan 
+diagnosis stroke, 6 bulan yang lalu. Pasien diketahui menyandang hipertensi sejak 15 
+tahun yang lalu. Pemeriksaan fisik menunjukkan hasil TB 160 kg, BB 55kg, TD = 
+160/100, HR = 98x/menit, RR = 20x/menit, Sp02 = 98%. 
+
+ 
+5. Skenario 5 
+
+Ny. W, berusia 55 tahun datang ke puskesmas dengan keluhan sering tersedak kalau 
+minum air. Pasien diketahui memiliki riwayat stroke 4 tahun yang lalu, TB 149cm, BB 
+44 kg, TD140/90 mmHg, HR=87x/menit, RR=20x/menit, Sp02=98%, GDS 140 mg/dl, 
+kolesterol total 200 mg/dl. 
+
+ 
+6. Skenario 6 
+
+Tn. R, berusia 66 tahun dengan riwayat stroke 2 tahun yang lalu, datang ke puskesmas 
+untuk kontrol rutin. Diketahui sebelumnya pasien memiliki riwayat hipertensi dan 
+diabetes melitus. Pada pemeriksaan fisik ditemukan TB 160 cm, BB 88 kg, TD 170/90 
+mmHg, HR=94x/menit, RR=20x/menit, Sp02=98%, GDS 290 mg/dl, kolesterol total 310 
+mg/dl. 
+
+ 49 
+
+
+
+ 
+
+LAMPIRAN 5.  
+  
+ KETENTUAN PENYELENGGARAAN PELATIHAN 
+
+A. Peserta 
+1. Kriteria peserta 
+
+a. Dokter di Puskesmas/ FKTP 
+b. Perawat di Puskesmas/ FKTP 
+c. Minimal dalam dua tahun ke depan tidak akan pindah atau dimutasi 
+
+ 
+2. Efektifitas Pelatihan 
+
+Jumlah peserta dalam satu kelas maksimal 30 orang 
+ 
+
+B. Pelatih (Fasilitator/ Instruktur) 
+No Materi Kriteria Pelatih/ Narasumber 
+A MATA PELATIHAN DASAR 
+
+ Kebijakan dan Strategi Pencegahan 1. Mempunyai pengalaman melatih 
+dan Pengendalian Stroke di Indonesia 2. Pejabat/praktisi   yang 
+
+berkompeten di bidang 
+penanggulangan Stroke 
+
+3. Latar belakang pendidikan 
+minimal S1 
+
+B MATA PELATIHAN INTI 
+1 Upaya Pencegahan Faktor Risiko 1. Mempunyai pengalaman melatih 
+
+Stroke 2. Pakar/praktisi dan profesi yang 
+
+2 Penilaian prediksi risiko stroke berkompeten di bidang 
+penanggulangan Stroke 
+
+3 Penatalaksanaan Stroke di FKTP 
+3. Latar belakang pendidikan 
+
+4 Terapi medik gizi pada pasien paska minimal S1 
+stroke 4. Memahami kurikulum pelatihan 
+
+5 Pencegahan komplikasi pasien Teknis Penanggulangan Stroke di 
+stroke FKTP terutama Rancang Bangun 
+
+6 Pencatatan dan Pelaporan Pembelajaran Mata Pelatihan 
+(RBPMP) 
+
+C MATA PELATIHAN PENUNJANG 
+1 Membangun Komitmen 1. Mempunyai pengalaman melatih 
+
+Pembelajaran (BLC) 2. Pakar/praktisi/ widyaiswara yang 
+2 Rencana Tindak Lanjut berkompeten membangun 
+3 Antikorupsi komitmen belajar 
+
+3. Pakar/praktisi dan profesi yang 
+berkompeten di bidang 
+penanggulangan Stroke 
+
+4. Pakar/praktisi/ widyaiswara yang 
+berkompeten dibidang anti 
+korupsi 
+
+5. Latar belakang pendidikan 
+minimal S1 
+
+ 50 
+
+
+
+ 
+
+C. Ketentuan Penyelenggaraan Pelatihan 
+1. Penyelenggara 
+
+Penyelenggara Pelatihan Teknis Penanggulangan Stroke di FKTP adalah 
+BBPK/Bapelkes/Institusi Pelatihan yang terakreditasi. 
+
+ 
+2. Tempat Penyelenggaraan 
+
+Tempat penyelenggaraan Pelatihan Teknis Penanggulangan Stroke di FKTP 
+adalah BBPK/Bapelkes/Institusi lainnya yang memenuhi sarana dan 
+prasarana serta persyaratan untuk pelatihan. 
+
+ 
+B.     Sertifikat 
+
+Setiap peserta yang telah mengikuti pelatihan dengan ketentuan kehadiran 
+minimal 90% dari keseluruhan jumlah jam pembelajaran akan mendapatkan 
+‘Sertifikat Pelatihan’ yang dikeluarkan oleh Kementerian Kesehatan RI dengan 
+angka kredit 1 (satu). Sertifikat ditandatangani oleh pejabat yang berwenang dan 
+oleh panitia penyelenggara pelatihan. Apabila tidak memenuhi ketentuan 
+tersebut, maka peserta hanya akan mendapatkan ‘Surat Keterangan Telah 
+Mengikuti Pelatihan’ yang ditandatangani oleh penyelenggara pelatihan. 
+
+ 51 
+
+
+
+ 
+EVALUASI TERHADAP PELATIH/ FASILITATOR 
+
+PELATIHAN TEKNIS PENANGGULANGAN STROKE 
+
+BAGI DOKTER DAN PERAWAT DI FKTP 
+
+ 
+
+Nama Fasilitator : 
+Materi : 
+Hari/tanggal : 
+Waktu : 
+Berikan tanda (√) pada kolom berikut ini sesuai dengan penilaian Saudara. 
+
+ 
+
+  NILAI 
+NO ASPEK YANG DINILAI 
+
+10 20 30 40 50 60 70 80 90 100 
+
+1 Penguasaan Materi           
+
+2 Ketepatan Waktu           
+
+3 Sistematika Penyajian           
+
+4 Penggunaan Metode dan           
+Alat Bantu Diklat 
+
+5 Empati, Gaya dan Sikap           
+terhadap peserta 
+
+6 Penggunaan bahasa dan           
+volume suara 
+
+7 Pemberian motivasi belajar           
+kepada peserta 
+
+8 Pencapaian TIU           
+
+9 Kesempatan tanya jawab           
+
+10 Kemampuan menyajikan           
+
+11 Kerapihan pakaian           
+
+12 Kerjasama antar tim           
+pengajar 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 52 
+
+
+
+ 
+EVALUASI PENYELENGGARA 
+
+PELATIHAN TEKNIS PENANGGULANGAN STROKE 
+
+BAGI DOKTER DAN PERAWAT DI FKTP 
+
+ 
+
+Petunjuk Umum: 
+Berikan tanda √ pada kolom berikut ini sesuai dengan penilaian Saudara 
+
+ 
+
+  Nilai 
+NO ASPEK YG DINILAI 
+
+10 20 30 40 50 60 70 80 90 100 
+
+1 Efektifitas Penyelenggaraan           
+
+2 Relevansi Prog Diklat dengan           
+
+pelaksanaan tugas 
+3 Persiapan dan ketersediaan sarana diklat           
+
+4 Hubungan peserta dengan penyelenggara           
+
+pelatihan 
+5 Hubungan antar peserta           
+
+6 Pelayanan Kesekretariatan           
+
+7 Kebersihan & kenyamanan ruang kelas           
+
+8 Kebersihan & kenyamanan auditorium           
+
+9 Kebersihan & kenyamanan ruang makan           
+
+10 Kebersihan & kenyamanan asrama           
+
+11 Kebersihan Toilet           
+
+12 Kebersihan halaman           
+
+13 Pelayanan Petugas resepsionis           
+
+14 Pelayanan petugas ruang kelas           
+
+15 Pelayanan petugas auditorium           
+
+16 Pelayanan petugas ruang makan           
+
+17 Pelayanan petugas asrama           
+
+18 Pelayanan petugas keamanan           
+
+19 Ketersediaan fasilitas olah raga, ibadah,           
+
+kesehatan 
+
+ 53 
+
+
+
+ 
+
+Saran/ komentar terhadap: 
+ 
+
+ 
+1. Fasilitator : 
+
+ 
+ 
+ 
+ 
+ 
+2. Penyelenggara/ pelayanan panitia : 
+
+ 
+ 
+ 
+ 
+ 
+3. Master of Training (MOT) : 
+
+ 
+ 
+ 
+ 
+ 
+4. Sarana dan prasarana : 
+
+ 
+ 
+ 
+ 
+5. Yang dirasakan menghambat : 
+
+ 
+ 
+ 
+ 
+ 
+6. Yang dirasakan membantu : 
+
+ 
+ 
+ 
+ 
+ 
+7. Materi yang paling relevan : 
+8. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+62
