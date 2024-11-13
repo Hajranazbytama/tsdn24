@@ -13,8 +13,8 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain.schema import HumanMessage
 from dotenv import load_dotenv
-from sklearn.preprocessing import RobustScaler
-from sklearn.preprocessing import StandardScaler
+# from sklearn.preprocessing import RobustScaler
+# from sklearn.preprocessing import StandardScaler
 from home import home_section
 from about_us import about_us_section
 
@@ -26,7 +26,7 @@ with st.sidebar:
             'Home',
             'HT Prediction',
             'DM Prediction',
-            'Stroke Prediction',
+            'Lung Cancer Prediction',
             'Recommendation',
             'About Us'
         ],
@@ -42,7 +42,7 @@ def load_model(model_path):
 # Load models
 model_ht = load_model("../Model_Prediction/Output_Model/model_ht.pkl")
 model_dm = load_model("../Model_Prediction/Output_Model/model_dm.pkl")
-model_stroke = load_model("../Model_Prediction/Output_Model/xgboost_st.pkl")
+model_lc= load_model("../Model_Prediction/Output_Model/model_lc.pkl")
 
 @st.cache_resource
 def load_scaler(scaler_path):
@@ -52,37 +52,38 @@ def load_scaler(scaler_path):
 # Load scaler
 scaler_ht = load_scaler("../Model_Prediction/Output_Model/scaler_ht.pkl")
 scaler_dm = load_scaler("../Model_Prediction/Output_Model/scaler_dm.pkl")
+scaler_lc = load_scaler("../Model_Prediction/Output_Model/scaler_lc.pkl")
+
+# Daftar penyakit untuk inisialisasi retrievers
+disease_list = ["HT", "DM", "Stroke"]
 
 # Fungsi untuk memuat dokumen berbasis penyakit dalam format .txt
 def load_documents_by_disease(disease):
-    # Folder untuk setiap penyakit
-    txt_folder_path = os.path.normpath(f"../Data/{disease}")
+    txt_folder_path = f"../Data/{disease}"
     all_txt_paths = glob.glob(os.path.join(txt_folder_path, "*.txt"))
-    
+
     documents = []
     for txt_path in all_txt_paths:
-        # Convert path to use forward slashes
         txt_path = txt_path.replace(os.sep, '/')
-        print("Loading file:", txt_path)  # Debugging file
-
         loader = TextLoader(txt_path)
         txt_docs = loader.load()
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
         documents.extend(text_splitter.split_documents(txt_docs))
-    
+
     return documents
 
- # Inisialisasi RAG berdasarkan penyakit
+# Inisialisasi model LLM dan retrievers untuk semua penyakit
 @st.cache_resource
 def init_recommendation():
+    # Load API key dan model
     load_dotenv()
     GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
     embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=GEMINI_API_KEY)
     llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=GEMINI_API_KEY)
 
-    # Membuat retriever untuk setiap penyakit dengan database terpisah
+    # Membuat retriever untuk setiap penyakit
     retrievers = {}
-    for disease in ["HT", "DM", "Stroke"]:
+    for disease in disease_list:
         documents = load_documents_by_disease(disease)
         vector_db = FAISS.from_documents(documents, embeddings)
         retrievers[disease] = vector_db.as_retriever(search_type="similarity", search_kwargs={"k": 5})
@@ -289,53 +290,93 @@ def predict_dm():
             st.session_state.page = 'Recommendation'
             st.rerun()
 
-# Fungsi prediksi Stroke
-def predict_stroke():
-    st.markdown("<h1 style='text-align: center;'>Prediksi Stroke</h1>", unsafe_allow_html=True)
+def predict_lungcancer():
+    st.markdown("<h1 style='text-align: center;'>Prediksi Kanker Paru-Paru</h1>", unsafe_allow_html=True)
     inputs = {
-        "hypertension": {"label": "Hipertensi", "options": [0, 1], "type": "selectbox", 
-                         "format_func": lambda x: "Tidak" if x == 0 else "Ya"},
-        "heart_disease": {"label": "Penyakit Jantung", "options": [0, 1], "type": "selectbox", 
-                          "format_func": lambda x: "Tidak" if x == 0 else "Ya"},
-        "ever_married": {"label": "Pernikahan", "options": [0, 1], "type": "selectbox", 
-                         "format_func": lambda x: "Tidak" if x == 0 else "Ya"},
-        "work_type": {"label": "Tipe Pekerjaan", "options": [0, 1, 2, 3, 4], "type": "selectbox", 
-                      "format_func": lambda x: {0: "Tidak Bekerja", 1: "Anak-Anak", 2: "Govt Job", 3: "Self Employed", 4: "Private"}[x]},
-        "avg_glucose_level": {"label": "Rata-Rata Glukosa", "min_value": 50.0, "max_value": 300.0, "step": 0.1, "type": "number_input"},
-        "bmi": {"label": "BMI", "min_value": 10.0, "max_value": 50.0, "step": 0.1, "type": "number_input"}
+        "GENDER": {"label": "Jenis Kelamin", "options": [0, 1], "type": "selectbox", 
+                "format_func": lambda x: "Wanita" if x == 0 else "Pria"},
+        "AGE": {"label": "Umur", "min_value": 0, "max_value": 100, "step": 1, "type": "number_input"},
+        "SMOKING": {"label": "Merokok", "options": [1, 2], "type": "selectbox", 
+                "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
+        "YELLOW_FINGERS": {"label": "Jari Kuning", "options": [1, 2], "type": "selectbox", 
+                "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
+        "ANXIETY": {"label": "Mengalami Kecemasan", "options": [1, 2], "type": "selectbox", 
+                "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
+        "PEER_PRESSURE": {"label": "Tekanan Teman", "options": [1, 2], "type": "selectbox", 
+                "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
+        "CHRONIC_DISEASE": {"label": "Memiliki Penyakit Kronis?", "options": [1, 2], "type": "selectbox", 
+                "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
+        "FATIGUE": {"label": "Mengalami Kelelahan?", "options": [1, 2], "type": "selectbox", 
+                "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
+        "ALLERGY": {"label": "Memiliki Alergu?", "options": [1, 2], "type": "selectbox", 
+                "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
+        "WHEEZING": {"label": "Mengalami Mengi?", "options": [1, 2], "type": "selectbox", 
+                "format_func": lambda x: "Tidak" if x == 1 else "Ya"},      
+        "ALCOHOL_CONSUMING": {"label": "Konsumsi Alkohol?", "options": [1, 2], "type": "selectbox", 
+                "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
+        "COUGHING": {"label": "Mengalami Batuk?", "options": [1, 2], "type": "selectbox", 
+                "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
+        "SHORTNESS_OF_BREATH": {"label": "Mengalami Sesak Napas?", "options": [1, 2], "type": "selectbox", 
+                "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
+        "SWALLOWING_DIFFICULTY": {"label": "Mengalami Kesulitan Menelan?", "options": [1, 2], "type": "selectbox", 
+                "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
+        "CHEST_PAIN": {"label": "Mengalami Nyeri Dada?", "options": [1, 2], "type": "selectbox", 
+                "format_func": lambda x: "Tidak" if x == 1 else "Ya"}
     }
     triple_column_input(inputs)
-    
+
     if st.button("Prediksi"):
-        # Menangkap input pengguna
-        hypertension = st.session_state.hypertension
-        heart_disease = st.session_state.heart_disease
-        ever_married = st.session_state.ever_married
-        work_type = st.session_state.work_type
-        avg_glucose_level = st.session_state.avg_glucose_level
-        bmi = st.session_state.bmi
+        # Menangkap input pengguna dan memastikan nama variabel sesuai dengan model pelatihan
+        GENDER = st.session_state.GENDER
+        AGE = st.session_state.AGE
+        SMOKING = st.session_state.SMOKING
+        YELLOW_FINGERS = st.session_state.YELLOW_FINGERS
+        ANXIETY = st.session_state.ANXIETY
+        PEER_PRESSURE = st.session_state.PEER_PRESSURE
+        CHRONIC_DISEASE = st.session_state.CHRONIC_DISEASE
+        FATIGUE = st.session_state.FATIGUE
+        ALLERGY = st.session_state.ALLERGY
+        WHEEZING = st.session_state.WHEEZING
+        ALCOHOL_CONSUMING = st.session_state.ALCOHOL_CONSUMING
+        COUGHING = st.session_state.COUGHING
+        SHORTNESS_OF_BREATH = st.session_state.SHORTNESS_OF_BREATH
+        SWALLOWING_DIFFICULTY = st.session_state.SWALLOWING_DIFFICULTY
+        CHEST_PAIN = st.session_state.CHEST_PAIN
         
         # Membuat DataFrame untuk input
-        input_data = pd.DataFrame([[hypertension, heart_disease, ever_married, work_type, avg_glucose_level, bmi]], 
-                                  columns=['hypertension', 'heart_disease', 'ever_married', 'work_type', 'avg_glucose_level', 'bmi'])
-        
-        # Lakukan scaling pada data
-        scaler = RobustScaler()
-        input_data_scaled = scaler.fit_transform(input_data)
-        
+        input_data = pd.DataFrame([[GENDER, AGE, SMOKING, YELLOW_FINGERS, ANXIETY, PEER_PRESSURE, 
+                                    CHRONIC_DISEASE, FATIGUE, ALLERGY, WHEEZING, ALCOHOL_CONSUMING, 
+                                    COUGHING, SHORTNESS_OF_BREATH, SWALLOWING_DIFFICULTY, CHEST_PAIN]], 
+                                  columns=['GENDER', 'AGE', 'SMOKING', 'YELLOW_FINGERS', 'ANXIETY',
+                                           'PEER_PRESSURE', 'CHRONIC DISEASE', 'FATIGUE ', 'ALLERGY ', 'WHEEZING',
+                                           'ALCOHOL CONSUMING', 'COUGHING', 'SHORTNESS OF BREATH',
+                                           'SWALLOWING DIFFICULTY', 'CHEST PAIN'])
+
+        # Lakukan scaling pada data menggunakan scaler yang telah terfit
+        input_data_scaled = scaler_lc.transform(input_data)
+
         # Prediksi menggunakan model (model harus sudah terdefinisi)
-        predicted_label = model_dm.predict(input_data_scaled)[0]
-        hasil_prediksi = "Negatif" if predicted_label == 0 else "Positive"
+        predicted_label = model_lc.predict(input_data_scaled)[0]
+        proba = model_lc.predict_proba(input_data_scaled)[0]
+
+        st.write("Probabilitas Negatif:", proba[0])
+        st.write("Probabilitas Positif:", proba[1])
+        hasil_prediksi = "Negatif" if predicted_label == 0 else "Positif"
         st.write(f"### Hasil Prediksi: {hasil_prediksi}")
         
         # Menyimpan hasil prediksi di session_state untuk halaman rekomendasi
-        st.session_state['st_prediction'] = {
-            "hypertension": hypertension,
-            "heart_disease": heart_disease,
-            "ever_married": ever_married,
-            "work_type": work_type,
-            "avg_glucose_level": avg_glucose_level,
-            "bmi": bmi,
+        st.session_state['lc_prediction'] = {
+            "GENDER": GENDER,
+            "AGE": AGE,
+            "SMOKING": SMOKING,
+            "YELLOW_FINGERS": YELLOW_FINGERS,
+            "ANXIETY": ANXIETY,
+            "PEER_PRESSURE": PEER_PRESSURE,
+            "CHRONIC_DISEASE": CHRONIC_DISEASE,
+            "ALCOHOL_CONSUMING": ALCOHOL_CONSUMING,
+            "COUGHING": COUGHING,
+            "SWALLOWING_DIFFICULTY": SWALLOWING_DIFFICULTY,
+            "CHEST_PAIN": CHEST_PAIN,
             "hasil_prediksi": hasil_prediksi
         }
         
@@ -355,7 +396,7 @@ def show_recommendation():
     predictions = {
         'ht_prediction': 'Hipertensi',
         'dm_prediction': 'Diabetes',
-        'st_prediction': 'Stroke'
+        'lc_prediction': 'Kanker Paru-Paru'
     }
     available_predictions = {key: val for key, val in predictions.items() if key in st.session_state}
 
@@ -424,8 +465,8 @@ def main():
         predict_ht()
     elif selected == 'DM Prediction':
         predict_dm()
-    elif selected == 'Stroke Prediction':
-        predict_stroke()
+    elif selected == 'Lung Cancer Prediction':
+        predict_lungcancer()
     elif selected == 'Recommendation':
         show_recommendation()
     elif selected == 'About Us':

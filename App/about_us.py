@@ -38,7 +38,7 @@ def about_us_section():
 
         <!-- Anggota Tim 4 -->
         <div style="text-align: center;">
-            <img src="https://media.licdn.com/dms/image/v2/D5603AQFWHvsYJ9voEQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1672065689708?e=1736380800&v=beta&t=ur9zQ-LEIAQpGS7nP41KzFURjKmexG3uHFfITbzgIr8" 
+            <img src="https://media.licdn.com/dms/image/v2/D5603AQHp5Q0uiKN_ig/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731495589639?e=1736985600&v=beta&t=x8e7wA16V0B3UG_lGd8_31dmgPracnX90BWouwDgUtM" 
                 style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px;"/>
             <div style="font-weight: bold;">Rizky Anugrah</div>
             <div>SD (Software Developer)</div>
