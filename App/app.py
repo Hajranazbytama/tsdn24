@@ -14,6 +14,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmb
 from langchain.schema import HumanMessage
 from dotenv import load_dotenv
 from sklearn.preprocessing import RobustScaler
+from sklearn.preprocessing import StandardScaler
 from home import home_section
 from about_us import about_us_section
 
@@ -33,23 +34,37 @@ with st.sidebar:
         default_index=0
     )
 
-# Helper function to load model
 @st.cache_resource
 def load_model(model_path):
+# Helper function to load model
     return joblib.load(model_path)
 
 # Load models
-model_ht = load_model("../Model_Prediction/Output_Model/xgboost_ht.pkl")
-model_dm = load_model("../Model_Prediction/Output_Model/xgboost_dm.pkl")
+model_ht = load_model("../Model_Prediction/Output_Model/model_ht.pkl")
+model_dm = load_model("../Model_Prediction/Output_Model/model_dm.pkl")
 model_stroke = load_model("../Model_Prediction/Output_Model/xgboost_st.pkl")
+
+@st.cache_resource
+def load_scaler(scaler_path):
+# Helper function to load scaler
+    return joblib.load(scaler_path)
+
+# Load scaler
+scaler_ht = load_scaler("../Model_Prediction/Output_Model/scaler_ht.pkl")
+scaler_dm = load_scaler("../Model_Prediction/Output_Model/scaler_dm.pkl")
 
 # Fungsi untuk memuat dokumen berbasis penyakit dalam format .txt
 def load_documents_by_disease(disease):
-    txt_folder_path = f"../Data/{disease}"  # Folder untuk setiap penyakit
+    # Folder untuk setiap penyakit
+    txt_folder_path = os.path.normpath(f"../Data/{disease}")
     all_txt_paths = glob.glob(os.path.join(txt_folder_path, "*.txt"))
     
     documents = []
     for txt_path in all_txt_paths:
+        # Convert path to use forward slashes
+        txt_path = txt_path.replace(os.sep, '/')
+        print("Loading file:", txt_path)  # Debugging file
+
         loader = TextLoader(txt_path)
         txt_docs = loader.load()
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
@@ -86,7 +101,7 @@ def generate_treatment_prompt(query, context, selected_disease):
     {context}
 
     Berdasarkan informasi di atas, berikan rekomendasi pengobatan yang singkat namun spesifik dan jelas meliputi:
-    1. Obat yang disarankan beserta dosisnya (jika memungkinkan).
+    1. Obat yang disarankan beserta dosisnya.
     2. Metode pengobatan yang sesuai.
     3. Langkah perawatan yang harus dilakukan oleh petugas medis terhadap pasien.
     """
@@ -128,11 +143,11 @@ def generate_followup_prompt(query, context, selected_disease):
     """
     return prompt
 
-# Fungsi untuk menampilkan input dalam tiga kolom samping
+# Fungsi untuk menampilkan input
 def triple_column_input(inputs):
     col1, col2, col3 = st.columns(3)
     for i, (key, value) in enumerate(inputs.items()):
-        col = [col1, col2, col3][i % 3]  # Rotates among the three columns
+        col = [col1, col2, col3][i % 3]
         with col:
             if value['type'] == 'slider':
                 st.slider(label=value['label'], min_value=value['min_value'], max_value=value['max_value'], step=value['step'], key=key)
@@ -143,12 +158,11 @@ def triple_column_input(inputs):
 
 # Fungsi prediksi HT
 def predict_ht():
-    st.title("HT Prediction")
+    st.markdown("<h1 style='text-align: center;'>Prediksi Hipertensi</h1>", unsafe_allow_html=True)
     inputs = {
         "cp": {"label": "Tipe Sakit Data", "options": [0, 1, 2, 3], "type": "selectbox", 
                "format_func": lambda x: {0: "Asymptomatic", 1: "Typical Angina", 2: "Atypical Angina", 3: "Non-Anginal"}[x]},
         "trestbps": {"label": "Trestbps", "min_value": 50.0, "max_value": 200.0, "step": 0.1, "type": "number_input"},
-        "chol": {"label": "Serum cholestoral dalam mg/dl", "min_value": 100.0, "max_value": 600.0, "step": 0.1, "type": "number_input"},
         "restecg": {"label": "Hasil Resting ECG", "options": [0, 1], "type": "selectbox", 
                     "format_func": lambda x: "Normal" if x == 0 else "Abnormal"},
         "thalach": {"label": "Thalach", "min_value": 50.0, "max_value": 250.0, "step": 0.1, "type": "number_input"},
@@ -168,7 +182,6 @@ def predict_ht():
         # Menangkap input pengguna
         cp = st.session_state.cp
         trestbps = st.session_state.trestbps
-        chol = st.session_state.chol
         restecg = st.session_state.restecg
         thalach = st.session_state.thalach
         exang = st.session_state.exang
@@ -178,15 +191,18 @@ def predict_ht():
         thal = st.session_state.thal
         
         # Membuat DataFrame untuk input
-        input_data = pd.DataFrame([[cp, trestbps, chol, restecg, thalach, exang, oldpeak, slope, ca, thal]], 
-                                  columns=['cp', 'trestbps', 'chol', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal'])
+        input_data = pd.DataFrame([[cp, trestbps, restecg, thalach, exang, oldpeak, slope, ca, thal]], 
+                                  columns=['cp', 'trestbps', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal'])
         
         # Lakukan scaling pada data
-        scaler = RobustScaler()
-        input_data_scaled = scaler.fit_transform(input_data)
+        input_data_scaled = scaler_ht.transform(input_data)
         
         # Prediksi menggunakan model (model harus sudah terdefinisi)
         predicted_label = model_ht.predict(input_data_scaled)[0]
+        proba = model_ht.predict_proba(input_data_scaled)[0]
+
+        st.write("Probabilitas Negatif:", proba[0])
+        st.write("Probabilitas Positif:", proba[1])
         hasil_prediksi = "Negatif" if predicted_label == 0 else "Positive"
         st.write(f"### Hasil Prediksi: {hasil_prediksi}")
         
@@ -194,7 +210,6 @@ def predict_ht():
         st.session_state['ht_prediction'] = {
             "cp": cp,
             "trestbps": trestbps,
-            "chol": chol,
             "restecg": restecg,
             "thalach": thalach,
             "exang": exang,
@@ -212,47 +227,60 @@ def predict_ht():
 
 # Fungsi prediksi DM
 def predict_dm():
-    st.title("DM Prediction")
+    st.markdown("<h1 style='text-align: center;'>Prediksi Diabetes</h1>", unsafe_allow_html=True)
     inputs = {
-        "Age": {"label": "Umur", "min_value": 0, "max_value": 100, "step": 1, "type": "number_input"},
-        "HighCol": {"label": "Tinggi Kolestrol", "options": [0, 1], "type": "selectbox", 
-                    "format_func": lambda x: "Tidak" if x == 0 else "Ya"},
-        "BMI": {"label": "BMI", "min_value": 10.0, "max_value": 50.0, "step": 0.1, "type": "number_input"},
-        "GenHlth": {"label": "Kondisi Kesehatan Umum", "options": [1, 2, 3, 4, 5], "type": "selectbox", 
-                   "format_func": lambda x: {1: "Sangat Buruk", 2: "Buruk", 3: "Sedang", 4: "Baik", 5: "Sangat Baik"}[x]},
-        "HighBP": {"label": "Tekanan Darah Tinggi", "options": [0, 1], "type": "selectbox", 
-                   "format_func": lambda x: "Tidak" if x == 0 else "Ya"}
+        "Pregnancies": {"label": "Jumlah Kehamilan", "min_value": 0, "max_value": 20, "step": 1, "type": "number_input"},
+        "Glucose": {"label": "Glukosa", "min_value": 0, "max_value": 200, "step": 1, "type": "number_input"},
+        "BloodPressure": {"label": "Tekanan Darah Diastolik", "min_value": 0, "max_value": 150, "step": 1, "type": "number_input"},
+        "SkinThickness": {"label": "Ketebalan Kulit Trisep", "min_value": 0, "max_value": 100, "step": 1, "type": "number_input"},
+        "Insulin": {"label": "Insulin", "min_value": 0, "max_value": 1000, "step": 1, "type": "number_input"},
+        "BMI": {"label": "BMI", "min_value": 10.0, "max_value": 100.0, "step": 0.1, "type": "number_input"},
+        "DiabetesPedigreeFunction": {"label": "Peluang Diabetes-Riwayat Keluarga", "min_value": 0.050, "max_value": 2.500, "step": 0.001, "type": "number_input"},
+        "Age": {"label": "Umur", "min_value": 0, "max_value": 100, "step": 1, "type": "number_input"}
     }
     triple_column_input(inputs)
 
     if st.button("Prediksi"):
         # Menangkap input pengguna
-        Age = st.session_state.Age
-        HighCol = st.session_state.HighCol
-        Bmi = st.session_state.BMI
-        GenHlth = st.session_state.GenHlth
-        HighBP = st.session_state.HighBP
+        Pregnancies = st.session_state['Pregnancies']
+        Glucose = st.session_state['Glucose']
+        BloodPressure = st.session_state['BloodPressure']
+        SkinThickness = st.session_state['SkinThickness']
+        Insulin = st.session_state['Insulin']
+        BMI = st.session_state['BMI']
+        DiabetesPedigreeFunction = st.session_state['DiabetesPedigreeFunction']
+        Age = st.session_state['Age']
         
         # Membuat DataFrame untuk input
-        input_data = pd.DataFrame([[Age, HighCol, Bmi, GenHlth, HighBP]], 
-                                  columns=['Age', 'HighCol', 'BMI', 'GenHlth', 'HighBP'])
+        input_data = pd.DataFrame([[Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age]], 
+                                  columns=['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'])
         
         # Lakukan scaling pada data
-        scaler = RobustScaler()
-        input_data_scaled = scaler.fit_transform(input_data)
-        
+        # st.write(input_data)
+        input_data_scaled = scaler_dm.transform(input_data)
+        # st.write(input_data_scaled)
         # Prediksi menggunakan model (model harus sudah terdefinisi)
         predicted_label = model_dm.predict(input_data_scaled)[0]
+        # Prediksi probabilitas
+        proba = model_dm.predict_proba(input_data_scaled)[0]
+        st.write("Probabilitas Negatif:", proba[0])
+        st.write("Probabilitas Positif:", proba[1])
+        
+        # Prediksi label
+        #predicted_label = model_dm.predict(input_data_scaled)[0]
         hasil_prediksi = "Negatif" if predicted_label == 0 else "Positive"
         st.write(f"### Hasil Prediksi: {hasil_prediksi}")
         
         # Menyimpan hasil prediksi di session_state untuk halaman rekomendasi
         st.session_state['dm_prediction'] = {
+            "Pregnancies": Pregnancies,
+            "Glucose": Glucose,
+            "BloodPressure": BloodPressure,
+            "SkinThickness": SkinThickness,
+            "Insulin": Insulin,
+            "BMI": BMI,
+            "DiabetesPedigreeFunction": DiabetesPedigreeFunction,
             "Age": Age,
-            "HighCol": HighCol,
-            "BMI": Bmi,
-            "GenHlth": GenHlth,
-            "HighBP": HighBP,
             "hasil_prediksi": hasil_prediksi
         }
         
@@ -263,7 +291,7 @@ def predict_dm():
 
 # Fungsi prediksi Stroke
 def predict_stroke():
-    st.title("Stroke Prediction")
+    st.markdown("<h1 style='text-align: center;'>Prediksi Stroke</h1>", unsafe_allow_html=True)
     inputs = {
         "hypertension": {"label": "Hipertensi", "options": [0, 1], "type": "selectbox", 
                          "format_func": lambda x: "Tidak" if x == 0 else "Ya"},
@@ -383,7 +411,7 @@ def show_recommendation():
             answer = llm(messages=messages)
 
             # Menampilkan jawaban rekomendasi dengan pemusatan
-            st.markdown(f"<div style='text-align: center;'><strong>Rekomendasi {recommendation_type}:</strong><br>{answer.content}</div>", unsafe_allow_html=True)
+            st.markdown(f"**Rekomendasi {recommendation_type}:** {answer.content}")
     else:
         # Tampilkan pesan jika tidak ada prediksi yang tersedia
         st.markdown("<div style='text-align: center;'>Silakan lakukan prediksi terlebih dahulu untuk mendapatkan rekomendasi.</div>", unsafe_allow_html=True)

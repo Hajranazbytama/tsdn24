@@ -1,0 +1,786 @@
+Ganesha Medicina Journal, Vol 1 No 2 September 2021
+
+DIABETES MELITUS TIPE 2: FAKTOR RISIKO, DIAGNOSIS, DAN
+TATALAKSANA
+Kadek Resa Widiasari1, I Made Kusuma Wijaya2, Putu Adi Suputra3
+1
+
+Prodi Kedokteran, Universitas Pendidikan Ganesha
+Prodi Kedokteran, Universitas Pendidikan Ganesha
+3
+Prodi Kedokteran, Universitas Pendidikan Ganesha
+2
+
+e-mail: resa.widiasari@undiksha.ac.id, kusuma.wijaya@undiksha.ac.id,
+dr.adisuputra@gmail.com
+Abstrak
+Diabetes melitus menggambarkan sekelompok penyakit metabolik yang temuan
+umumnya adalah kadar glukosa darah yang meningkat. Pada usia 20-79 tahun, terdapat
+463 juta atau setara 9,3% orang di dunia menderita diabetes pada tahun 2019. Penulisan
+artikel ini menggunakan metode literature review dan diharapkan dapat dijadikan acuan
+kedepan dalam melakukan tindakan pencegahan dan pengobatan pasien diabetes
+melitus sehingga prevalensi berkurang dan komplikasi dapat dihindari. Diabetes melitus
+tipe 2 ditandai dengan defisiensi insulin relatif yang disebabkan oleh disfungsi sel
+pankreas dan resistensi insulin. Faktor risiko penyebabnya dibagi menjadi dua yaitu
+faktor risiko yang dapat dimodifikasi dan tidak dapat dimodifikasi. Gejala klasik diabetes
+seperti poliuria, polidipsia, polifagia dan penurunan berat badan yang tidak dapat
+dijelaskan sebabnya. Empat tes diagnostik untuk diabetes yaitu pengukuran glukosa
+plasma puasa, glukosa plasma 2 jam setelah TTGO 75 g, HbA1c, dan glukosa darah
+acak dengan adanya tanda dan gejala klasik diabetes. Tatalaksana dibagi menjadi dua,
+yaitu farmakologi dan non farmakologi. Tatalaksana non farmakologis terdiri atas
+edukasi, nutrisi medis, dan latihan fisik. Terapi farmakologis terdiri atas obat oral dan
+bentuk suntikan dalam bentu obat anti hiperglikemik dan insulin. Terapi farmakologi dan
+non farmakologi ini berjalan beriringan.
+Kata Kunci: Diabetes melitus, faktor risiko, diagnosis, tatalaksana
+Abstract
+Diabetes mellitus describes a group of metabolic diseases whose common finding is
+elevated blood glucose levels. At the age of 20-79 years, there were 463 million or 9.3%
+of people in the world suffer from diabetes in 2019. The writing of this article uses the
+literature review method and is expected to be used as a future reference in carrying out
+prevention and treatment of diabetes mellitus patients so that prevalence is reduced and
+complications can be avoided. Type 2 diabetes mellitus is characterized by relative insulin
+deficiency caused by pancreatic cell dysfunction and insulin resistance. The risk factors
+that cause it are divided into two, namely modifiable and non-modifiable risk factors. The
+classic symptoms of diabetes include polyuria, polydipsia, polyphagia and unexplained
+weight loss. The four diagnostic tests for diabetes are measurement of fasting plasma
+glucose, plasma glucose 2 hours after OGTT 75 g, HbA1c, and randomized blood
+glucose in the presence of classic signs and symptoms of diabetes. Treatment is divided
+into two, namely pharmacological and non-pharmacological. Non-pharmacological
+management consists of education, medical nutrition, and physical exercise.
+Pharmacological therapy consists of oral drugs and injections in the form of antihyperglycemic drugs and insulin. Pharmacological and non-pharmacological therapy
+goes hand in hand.
+Keywords: Diabetes mellitus, risk factors, diagnosis, management
+
+GMJ | 114
+
+Ganesha Medicina Journal, Vol 1 No 2 September 2021
+
+PENDAHULUAN
+Sebanyak 41 juta orang meninggal
+dunia karena Penyakit Tidak Menular
+(PTM) atau setara dengan 71% dari
+semua kematian di dunia setiap tahunnya.
+Terdapat 15 juta orang lebih dengan
+rentang usia 30 sampai 69 tahun
+meninggal karena PTM, 85% diantaranya
+berasal dari negara yang memiliki
+penghasilan menengah kebawah. Empat
+penyakit yang berkontribusi besar dalam
+kematian PTM ini antara lain, penyakit
+kardiovaskuler sebanyak 17,9 juta orang,
+penyakit kanker sebanyak 9,3 juta orang,
+penyakit pernapasan sebanyak 9,3 juta
+orang, dan diabetes sebanyak 1,5 juta
+orang setiap tahunnya (1). Diabetes
+melitus tipe 2 merupakan krisis global
+yang
+mengancam
+kesehatan
+dan
+perekonomian dunia. Sekitar 1 dari setiap
+11 orang dewasa menderita DM tipe 2
+secara global, dan sekitar 75% pasien
+diabetes melitus tinggal di negara
+berkembang (2).
+Organisasi International Diabetes
+Federation (IDF) memperkirakan bahwa
+pada kelompok usia 20-79 tahun, terdapat
+463 juta orang di dunia menderita
+diabetes pada tahun 2019 atau sama
+dengan 9,3% dari jumlah total penduduk
+pada usia tersebut. Di Asia Tenggara,
+dimana Indonesia salah satu negara di
+dalamnya, menempati peringkat ke-3
+dengan jumlah penderita diabetes melitus
+sebesar
+11,3%.
+Indonesia
+meraih
+peringkat 7 dari 10 jumlah penderita
+terbanyak dengan jumlah 10,7 juta orang
+(3). Prevalensi diabetes melitus meningkat
+dari 6,9% menjadi 10,9% pada penduduk
+usia ≥15 tahun (4).
+Diabetes melitus menggambarkan
+sekelompok penyakit metabolik, yang
+temuan umumnya adalah kadar glukosa
+darah yang meningkat, yang dikenal
+sebagai hiperglikemia. Hiperglikemia berat
+dapat menimbulkan gejala seperti poliuria,
+polidipsia, polifagia, penurunan berat
+badan yang tidak dapat dijelaskan,
+kelelahan
+dan
+penurunan
+kinerja,
+gangguan
+penglihatan
+dan
+rentan
+terhadap infeksi ketoasidosis atau nonketoasidosis. Hiperglikemia kronis juga
+menyebabkan gangguan sekresi dan/atau
+kerja insulin serta dikaitkan dengan
+kerusakan jangka panjang dan gangguan
+
+fungsional berbagai jaringan dan organ
+(5).
+Klasifikasi saat ini untuk diabetes
+melitus dibagi menjadi dua yaitu diabetes
+melitus tipe 1 dan tipe 2. Selanjutnya,
+kriteria untuk diagnosis biokimia yang
+dipakai yaitu pengukuran glukosa darah
+selama puasa dan tes toleransi glukosa
+oral serta penggunaan hemoglobin A1c
+(HbA1c) (5). Diabetes adalah krisis global
+yang terutama didorong oleh urbanisasi
+yang cepat, gaya hidup yang berubah,
+dan pola makan yang tidak merata.
+Sangat penting untuk memprediksi
+prevalensi diabetes pada individu untuk
+mengurangi
+risiko
+perkembangan
+diabetes melitus dan menyelamatkan
+nyawa pasien.
+Diabetes diperkirakan terjadi karena
+beberapa faktor risiko seperti asam urat
+serum tingkat tinggi, kualitas/kuantitas
+tidur yang buruk, merokok, depresi,
+penyakit kardiovaskular, dislipidemia,
+hipertensi,
+penuaan,
+etnis,
+riwayat
+keluarga diabetes, ketidakaktifan fisik, dan
+obesitas (6). Keseimbangan kalori yang
+tidak baik dari kebiasaan diet yang tidak
+sehat, penurunan aktivitas fisik, dan
+peningkatan kegiatan yang menggunakan
+energi
+yang
+sedikit
+menyebabkan
+peningkatan adipositas, yang pada
+akhirnya menyebabkan pembentukan
+kembali jaringan adiposa dan obesitas.
+Kelebihan adipositas ini, pada gilirannya,
+secara nyata meningkatkan risiko penyakit
+kardiometabolik,
+terutama
+diabetes
+melitus tipe 2 (7). Selain itu, kebiasaan
+merokok juga berhubungan, perokok aktif
+dan pasif sangat terkait dengan kejadian
+diabetes tipe 2 (6).
+Rekomendasi gaya hidup untuk
+menyeimbangkan kalori dengan aktivitas
+fisik sangatlah bijaksana untuk saat ini (8).
+Faktor risiko paling menonjol adalah
+obesitas yang lebih sering terjadi pada
+perempuan. Perkembangan, predisposisi,
+dan gejala klinis antara laki-laki dan
+perempuan dipengaruhi oleh beberapa
+hal, seperti perbedaan gaya hidup,
+lingkungan, biologis, dan sosial ekonomi
+(9).
+Penulisan artikel ini bertujuan untuk
+membahas mengenai faktor risiko,
+diagnosis, dan tatalaksana dari diabetes
+melitus sebagai penyakit tidak menular
+
+GMJ | 115
+
+Ganesha Medicina Journal, Vol 1 No 2 September 2021
+
+dengan prevalensi cukup tinggi di dunia
+dengan dampak yang serius apabila
+dibiarkan tanpa diberikan tatalaksana
+yang tepat. Diharapkan, artikel ini
+dijadikan sebagai acuan kedepan dalam
+melakukan tindakan pencegahan dan
+pengobatan pasien diabetes melitus tipe
+2 sehingga prevalensi berkurang dan
+komplikasi dapat dihindari.
+METODE
+Artikel ini ditulis menggunakan
+metode literature review atau tinjauan
+pustaka. Penulisan artikel ini mengambil
+sumber dari artikel, jurnal, dan web resmi
+(WHO, Kemenkes) yang berkaitan
+dengan artikel yang dibuat yaitu terkait
+faktor risiko, diagnosis, dan tatalaksana
+dari diabetes melitus tipe 2. Artikel dan
+jurnal penelitian didapat dari hasil
+pencarian menggunakan kata kunci yang
+telah ditetapkan pada platform Google
+Scholar, Science Direct, dan Pubmeds.
+Sumber yang dipilih merupakan sumber
+yang dipublikasikan minimal 10 tahun
+terakhir.
+HASIL DAN PEMBAHASAN
+Diabetes Melitus (DM) tipe 2 ditandai
+dengan defisiensi insulin relatif yang
+disebabkan oleh disfungsi sel beta
+pankreas dan resistensi insulin pada
+organ target (10). DM tipe 2 disebabkan
+oleh karena adanya kelainan dalam
+sekresi insulin, cara kerja insulin, ataupun
+kelainan pada keduanya (11). DM tipe 2
+terjadi dikaitkan dengan beberapa organ
+pada tubuh, yang dikenal dengan istilah
+ominous octet yaitu kegagalan sel beta
+pankreas dalam mensekresikan insulin
+yang cukup dalam upaya mengompensasi
+peningkatan resistensi insulin (11).
+a. Faktor Risiko
+Terdapat dua pembagian faktor
+risiko yang dapat memicu kejadian
+diabetes melitus, antara lain faktor risiko
+yang dapat dimodifikasi (di ubah) dan
+tidak dapat di modifikasi. Faktor risiko
+yang dapat dimodifikasi antara lain
+obesitas atau berat badan lebih dengan
+IMT ≥23 kg/m2, hipertensi dengan tekanan
+darah >140/90 mmHg, aktivitas fisik
+kurang, dislipidemia dengan kadar
+HDL<35 mg/dL dan/atau trigliserida >250
+
+mg/dL, mengonsumsi makanan yang tidak
+sehat, mengandung tinggi glukosa dan
+rendah serat dapat memberikan peluang
+tinggi untuk menderita intoleransi glukosa
+atau prediabetes dan DM tipe 2.
+Sedangkan beberapa faktor risiko yang
+tidak dapat dimodifikasi, seperti usia, jenis
+kelamin, riwayat keluarga menderita
+diabetes melitus, ras dan etnis, pernah
+melahirkan bayi dengan berat badan lahir
+bayi lebih dari 4 kg atau memiliki riwayat
+menderita diabetes melitus gestasional,
+riwayat lahir dengan berat badan rendah
+kurang dari 2500 gram (11)(12). Berbagai
+macam faktor gaya hidup juga sangat
+penting untuk perkembangan DM tipe 2,
+seperti
+kurangnya
+aktivitas
+fisik,
+kebiasaan
+merokok,
+dan
+sering
+mengonsumsi
+alkohol.
+Pada
+studi
+epidemiologis substansial menunjukkan
+bahwa obesitas adalah faktor risiko
+terpenting untuk DM tipe 2, yang dapat
+mempengaruhi perkembangan penyakit
+dan resistensi insulin (13) (2).
+Seiring meningkatnya usia, maka
+risiko untuk menderita intoleransi glukosa
+juga meningkat. Pada jenis kelamin,
+wanita lebih berisiko karena dilihat secara
+fisik wanita memiliki peluang yang lebih
+tinggi dalam peningkatan IMT (Indeks
+Massa Tubuh). Selain itu, sindrom
+sebelum
+menstruasi
+dan
+setelah
+menopause
+dapat
+mengakibatkan
+distribusi lemak tubuh terganggu sehingga
+mudah
+terakumulasi
+dan
+dapat
+meningkatkan risiko wanita menderita DM
+tipe 2 (14). Memiliki keluarga seperti ibu,
+ayah, dan saudara kandung yang
+menderita DM dapat meningkatkan risiko
+menderita DM (15). Obesitas merupakan
+penumpukan lemak di dalam tubuh yang
+dikarenakan oleh ketidak seimbangan
+antara jumlah kalori yang masuk dan
+kalori yang ke luar tubuh. Lebih tinggi
+kalori masuk dibandingkan dengan kalori
+yang ke luar disebabkan oleh kurangnya
+aktivitas fisik yang dilakukan sehingga
+lemak
+menumpuk
+di
+tubuh
+dan
+meningkatkan risiko diabetes melitus tipe
+2. (16). Pada perokok, cenderung memiliki
+akumulasi lemak sentral daripada bukan
+perokok, dan perokok diketahui memiliki
+resistensi insulin dan respons sekresi
+insulin
+kompensasi
+yang
+dapat
+
+GMJ | 116
+
+Ganesha Medicina Journal, Vol 1 No 2 September 2021
+
+menjelaskan peningkatan risiko DM tipe 2
+pada orang yang merokok (2).
+Manifestasi klinis dari penyandang
+diabetes melitus dapat dibagi menjadi dua
+yaitu gejala klinis klasik dan gejala umum.
+Gejala klasik dari diabetes melitus adalah
+4P (Polidipsia, Polifagia, Poliuria, dan
+Penurunan
+berat
+badan
+yang
+penyebabnya tidak dapat dijelaskan).
+Sedangkan gejala umum antara lain
+kelelahan, kegelisahan, nyeri tubuh,
+kesemutan, mata kabur, gatal, dan
+disfungsi ereksi pada pria, serta pruritus
+vulva pada wanita (11).
+b. Diagnosis
+Empat tes diagnostik untuk diabetes
+yang direkomendasikan saat ini, yaitu
+pengukuran glukosa plasma puasa,
+glukosa plasma 2 jam setelah TTGO 75 g,
+HbA1c, dan glukosa darah acak dengan
+adanya tanda dan gejala klasik diabetes.
+Orang dengan nilai glukosa plasma puasa
+≥7,0 mmol/L (126 mg/dL), glukosa plasma
+pasca-beban 2 jam ≥11,1 mmol/L (200
+mg/dL), HbA1c ≥ 6,5% (48 mmol/mol),
+atau glukosa darah acak ≥11,1 mmol/L
+(200) mg/dL) dengan adanya tanda dan
+gejala
+klasik
+dianggap
+menderita
+diabetes. Pada seseorang yang tidak
+memiliki gejala tetapi nilai tesnya
+meningkat, maka disarankan untuk
+melakukan pengujian ulang dengan tes
+yang sama sesegera mungkin agar
+diagnosis dapat dipastikan (17).
+c. Tatalaksana
+Tujuan terapi DM tentunya untuk
+mengurangi risiko komplikasi jangka
+pendek dan jangka panjang. Terapi obat
+memiliki efek menguntungkan pada risiko
+komplikasi, tetapi tidak cukup untuk
+membalikkannya. Indikasi terkuat yang
+dibagikan oleh pedoman terbaru dan
+dokumen konsensus tentang pengelolaan
+penyakit diabetes membutuhkan perhatian
+terus menerus untuk penerapan gaya
+hidup
+yang
+benar
+dan
+perlunya
+personalisasi terapi, dengan adaptasi
+farmakologis dan non-farmakologis (terapi
+nutrisi, latihan fisik) dengan profil
+metabolik dan klinis pasien individu (18).
+Tatalaksana non farmakologis terdiri
+atas edukasi, nutrisi medis, dan latihan
+fisik. Edukasi dilakukan dengan tujuan
+
+untuk promosi kesehatan, sebagai bagian
+dari upaya pencegahan dan pengelolaan
+DM secara holistik. Contohnya saja
+seperti cara merawat luka pada kaki yang
+terdapat ulkus dan selalu menggunakan
+alas kaki. Selanjutnya nutrisi medis, sama
+seperti anjuran makan untuk masyarakat
+umum, anjuran makan bagi penderita DM
+adalah
+makanan
+seimbang
+yang
+menyesuaikan dengan zat gizi dan
+kebutuhan kalori dari masing-masing
+individu. Penderita DM perlu diberikan
+edukasi mengenai betapa pentingnya
+keteraturan terhadap jenis makanan,
+jadwal makan, dan jumlah kalori yang
+terkandung dalam makanannya, terlebih
+pada penderita DM yang mengonsumsi
+obat-obatan
+yang
+berfungsi
+untuk
+meningkatkan
+sekresi
+insulin
+atau
+menggunakan terapi insulin. Komposisi
+karbohidrat 45-65%, lemak 20-25%, dan
+protein 30-35%, menggunakan pemanis
+tak berkalori. Ketiga adalah latihan fisik.
+Program latihan fisik secara teratur
+selama sekitar 30–45 menit sehari,
+dilakukan 3–5 hari dalam seminggu, dan
+total per minggu yaitu 150 menit.
+Usahakan jeda tidak lebih dari 2 hari
+berturut-turut antara dua latihan. Latihan
+fisik yang dianjurkan untuk penderita DM
+adalah latihan fisik dengan intensitas
+sedang dan bersifat aerobik seperti
+jogging, jalan cepat, bersepeda santai,
+dan berenang (11) .
+Terapi farmakologis pada DM tipe 2
+diberikan beriringan dengan pengaturan
+pola makan, latihan fisik, dan gaya hidup
+sehat. Terapi farmakologis terdiri atas
+obat yang diminum oral dan bentuk
+suntikan. Berikut adalah obat antidiabetes
+non-insulin umum antara lain golongan
+biguanida. Biguanida adalah salah satu
+kelas utama obat antidiabetes, di
+antaranya
+metformin.
+Metformin
+merupakan obat paling umum dan
+menjadi lini pertama untuk penderita DM
+dan telah terbukti bermanfaat dalam
+mengurangi angka kematian akibat DM
+tipe 2 karena dapat meningkatkan
+sensitivitas insulin, menurunkan glukosa
+darah, menekan risiko hipoglikemia dan
+kardiovaskuler serta merupakan satusatunya
+agen
+hipoglikemik
+untuk
+meningkatkan hasil makrovaskular (19).
+Sulfonilurea merupakan obat yang banyak
+
+GMJ | 117
+
+Ganesha Medicina Journal, Vol 1 No 2 September 2021
+
+digunakan sebagai terapi lini kedua dalam
+pengobatan pasien DM tipe 2 yang tidak
+mengalami obesitas berat, yang bekerja
+langsung pada sel pulau untuk menutup
+saluran K+ yang sensitif terhadap ATP
+dan merangsang sekresi insulin.
+Thiazolidinediones
+atau
+TZDs
+adalah kelas sensitizer insulin, termasuk
+zona
+troglita,
+rosiglitazone,
+dan
+pioglitazone. Mereka merupakan ligan
+peroxisome proliferator-activated receptor
+(PPAR-γ) yang mengontrol otot rangka
+normal dan sensitivitas insulin hati.
+Glucosidase inhibitors (AGIs), termasuk
+acarbose, voglibose dan miglitol, sangat
+efektif untuk hiperglikemia postprandial.
+Mereka
+dapat
+menghambat
+enzim
+mukosa usus (α-glucosidase) yang
+mengubah kompleks polisakarida menjadi
+monosakarida,
+sehingga
+dapat
+mengurangi
+penyerapan
+karbohidrat.
+Terapi berbasis inkretin, Inkretin adalah
+hormon yang merangsang sekresi insulin
+dan
+menekan
+sekresi
+glukagon
+postprandial
+dengan
+cara
+yang
+bergantung pada glukosa. Agonis reseptor
+GLP-1,
+termasuk
+exenatide
+dan
+liraglutide, dapat menurunkan kadar
+hemoglobin A1c (HbA1c) sebesar 0,8%
+menjadi 1,5 (13) (12).
+Dengan
+berbagai
+kemungkinan
+terapi antidiabetik oral dengan atau tanpa
+kombinasi dengan GLP-1-RA, terapi
+insulin dalam banyak kasus dapat ditunda
+ke tahap penyakit selanjutnya. Namun,
+pemberian insulin yang diperlukan tidak
+boleh ditunda selama bertahun-tahun.
+Terapi insulin dapat dengan mudah
+dikombinasikan dengan obat antidiabetes
+lainnya, dan sejumlah besar insulin dan
+alat
+bantu
+injeksi
+memfasilitasi
+individualisasi terapi (12). Jenis dan lama
+kerja insulin berbeda-beda, insulin terbagi
+menjadi 5 jenis, yakni: insulin kerja cepat,
+insulin kerja pendek, insulin kerja
+menengah, insulin kerja panjang, insulin
+kerja ultra panjang , dan insulin campuran
+tetap, kerja pendek dengan menengah
+dan kerja cepat dengan menengah
+(premixed insulin).
+Komplikasi diabetes melitus dibagi
+menjadi
+komplikasi
+makrovaskular
+(misalnya, penyakit kardiovaskular (CVD))
+dan komplikasi mikrovaskular (misalnya,
+komplikasi yang mempengaruhi ginjal,
+
+retina dan sistem saraf) (2). CVD,
+termasuk penyakit jantung koroner,
+penyakit pembuluh darah perifer dan
+penyakit
+serebrovaskular,
+adalah
+penyebab
+utama
+morbiditas
+dan
+mortalitas di Amerika Serikat. Sekitar 10%
+kematian pada orang dengan DM tipe 2
+disebabkan oleh gagal ginjal. Prevalensi
+retinopati diabetik adalah sekitar 28,5% di
+Amerika Serikat dan berkisar antara 16%
+hingga 35% di negara-negara Asia. DM
+tipe 2 adalah penyebab utama amputasi
+tungkai bawah non-trauma di Amerika
+Serikat. Di Inggris, sekitar satu dari tiga
+orang
+yang
+diamputasi
+menderita
+diabetes melitus (2).
+KESIMPULAN
+Diabetes
+melitus
+merupakan
+penyakit
+metabolik
+yang
+temuan
+umumnya adalah kadar glukosa darah
+yang meningkat. Sekitar 1 dari setiap 11
+orang dewasa menderita DM tipe 2
+secara global, dan sekitar 75% pasien
+diabetes mellitus tinggal di negara
+berkembang (2). Diabetes melitus tipe 2
+ditandai dengan defisiensi insulin relatif
+yang disebabkan oleh disfungsi sel
+pankreas dan resistensi insulin. Faktor
+risikonya dapat dimodifikasi dan tidak
+dapat dimodifikasi. Tatalaksana dibagi
+menjadi dua, yaitu farmakologi dan non
+farmakologi.
+Tatalaksana
+non
+farmakologis terdiri atas edukasi, nutrisi
+medis,
+dan
+latihan
+fisik.
+Terapi
+farmakologis terdiri atas obat oral dan
+bentuk suntikan dalam bentuk obat anti
+hiperglikemik
+dan
+insulin.
+Terapi
+farmakologi dan non farmakologi ini
+berjalan beriringan agar prevalensi DM
+tipe 2 dapat berkurang dan komplikasi
+dapat dihindari.
+Kasus DM tipe 2 ini dapat dicegah
+dengan menghindari faktor risiko yang
+dapat dimodifikasi seperti menjaga berat
+badan yang sehat dengan fokus menjaga
+keseimbangan energi dengan melakukan
+aktivitas fisik secara teratur dan
+mengonsumsi makanan yang sehat.
+Mencegah dan mengelola diabetes
+melitus gestasional untuk menghentikan
+lingkaran setan di mana diabetes melitus
+dapat melahirkan diabetes melitus. Untuk
+manajemen DM tipe 2, modifikasi gaya
+hidup, dukungan sosial, dan kepatuhan
+
+GMJ | 118
+
+Ganesha Medicina Journal, Vol 1 No 2 September 2021
+
+pengobatan penting dilakukan untuk
+menghindari komplikasi makrovaskular
+dan mikrovaskular.
+DAFTAR PUSTAKA
+WHO.
+
+Noncommunicable
+diseases
+[Internet]. 2018 [cited 2021 Apr 4].
+Available
+from:
+https://www.who.int/newsroom/factsheets/detail/noncommunicablediseases
+Zheng Y, Ley SH, Hu FB. Global aetiology
+and epidemiology of type 2
+diabetes
+mellitus
+and
+its
+complications. Nat Rev Endocrinol
+[Internet].
+2018;14(2):88–98.
+Available
+from:
+http://dx.doi.org/10.1038/nrendo.20
+17.151
+Kementrian Kesehatan RI. Infodatin:
+Tetap Produktif, Cegah, dan Atasi
+Diabetes Melitus. 2020.
+Direktorat Jenderal Pencegahan dan
+Pengendalian
+Penyakit.
+Buku
+Pedoman Penyakit Tidak Menular.
+Kementeri Kesehat RI [Internet].
+2019;101.
+Available
+from:
+http://p2ptm.kemkes.go.id/uploads/
+VHcrbkVobjRzUDN3UCs4eUJ0dVB
+ndz09/2019/03/Buku_Pedoman_Ma
+najemen_PTM.pdf
+Harreiter J, Roden M. Diabetes mellitus—
+Definition, classification, diagnosis,
+screening and prevention (Update
+2019). Wien Klin Wochenschr.
+2019;131(Update):6–15.
+Ismail L, Materwala H, Kaabi J Al.
+Association of Risk Factors with
+Type 2 Diabetes : A Systematic
+Review. Comput Struct Biotechnol J
+[Internet]. 2021; Available from:
+https://doi.org/10.1016/j.csbj.2021.0
+3.003
+Carbone S, Del Buono MG, Ozemek C,
+Lavie CJ. Obesity, risk of diabetes
+and role of physical activity,
+exercise
+training
+and
+cardiorespiratory
+fitness.
+Prog
+Cardiovasc
+Dis
+[Internet].
+2019;62(4):327–33. Available from:
+https://doi.org/10.1016/j.pcad.2019.
+08.004
+Rice Bradley BH. Dietary Fat and Risk for
+
+Type 2 Diabetes: a Review of
+Recent Research. Curr Nutr Rep.
+2018;7(4):214–26.
+Kautzky-Willer A, Harreiter J, Pacini G.
+Sex and gender differences in risk,
+pathophysiology and complications
+of type 2 diabetes mellitus. Endocr
+Rev. 2016;37(3):278–316.
+Chatterjee S, Khunti K, Davies MJ. Type 2
+diabetes.
+Lancet
+[Internet].
+2017;389(10085):2239–51.
+Available
+from:
+http://dx.doi.org/10.1016/S01406736(17)30058-2
+Parkeni. Konsesus Pengelolaan Dan
+Pencegahan
+Diabetes
+Melitus
+Tipe2 Di Indonesia 2015 [Internet].
+Perkeni. 2015. 82 p. Available from:
+https://www.google.com/url?sa=t&s
+ource=web&rct=j&url=https://pbperk
+eni.or.id/wpcontent/uploads/2019/01/4.Konsensus-Pengelolaan-danPencegahan-Diabetes-melitus-tipe2-di-Indonesia-PERKENI2015.pdf&ved=2ahUKEwjy8KOs8cf
+oAhXCb30KHQb1Ck0QFjADegQIB
+hAB&usg=AOv
+Landgraf R, Aberle J, Birkenfeld AL,
+Gallwitz B, Kellerer M, Klein HH, et
+al. Therapy of type 2 diabetes. Exp
+Clin
+Endocrinol
+Diabetes.
+2019;127(1):S73–92.
+Wu Y, Ding Y, Tanaka Y, Zhang W. Risk
+factors contributing to type 2
+diabetes and recent advances in
+the treatment and prevention. Int J
+Med Sci. 2014;11(11):1185–200.
+Setyorogo S, Trisnawati S. Faktor Resiko
+Kejadian Diabetes Melitus Tipe II Di
+Puskesmas
+Kecamatan
+Cengkareng Jakarta Barat Tahun
+2012. J Ilm Kesehat. 2013;5(1):6–
+11.
+Isnaini N, Ratnasari R. Faktor risiko
+mempengaruhi kejadian Diabetes
+mellitus tipe dua. J Kebidanan dan
+Keperawatan
+Aisyiyah.
+2018;14(1):59–68.
+Utomo AA, Aulia A, Rahmah S, Amalia R.
+Faktor Risiko Diabetes Mellitus Tipe
+2: A Systematic Review. J Kaji dan
+Pengemb Kesehat Masy [Internet].
+2020;1(1):44–52. Available from:
+https://jurnal.umj.ac.id/index.php/A
+
+GMJ | 119
+
+Ganesha Medicina Journal, Vol 1 No 2 September 2021
+
+N-NUR
+WHO. Classification of diabetes mellitus.
+Vol. 21, Clinics in Laboratory
+Medicine. 2019.
+Cannata F, Vadalà G, Russo F, Papalia R,
+Napoli N, Pozzilli P. Beneficial
+effects of physical activity in
+diabetic patients. J Funct Morphol
+Kinesiol. 2020;5(3).
+Sanchez-Rangel
+E,
+Inzucchi
+SE.
+Metformin: clinical use in type 2
+diabetes.
+Diabetologia.
+2017;60(9):1586–93.
+
+GMJ | 120
+
+

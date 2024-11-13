@@ -1,0 +1,1272 @@
+Unit Kerja Koordinasi Nefrologi
+IKATAN DOKTER ANAK INDONESIA
+
+KONSENSUS
+TATA LAKSANA
+HIPERTENSI
+PADA ANAK
+
+Disusun oleh:
+Prof. Dr. Nanan Sekarwana, dr., SpA(K)., MARS
+Dr. Dedi Rachmadi, dr., SpA(K),. M.Kes
+Prof. Dr. Dany Hilmanto, dr. SpA(K)., M.Kes
+
+Konsensus Tatalaksana Hipertensi pada Anak
+@ 2011 UKK Nefrologi
+Ikatan Dokter Anak Indonesia (IDAI)
+Hak cipta dilindungi oleh undang-undang
+Dilarang memperbanyak, mencetak, dan menerbitkan sebagian atau seluruh isi buku ini
+dengan cara dan dalam bentuk apapun tanpa seizin penulis dan penerbit.
+Diterbitkan pertama kali oleh:
+Unit Kerja Nefrologi
+Ikatan Dokter Anak Indonesia
+Tahun 2011
+
+Diterbitkan oleh:
+Badan Penerbit Ikatan Dokter Anak Indonesia
+
+ISBN………………..
+
+ii
+
+Konsensus Tata Laksana Hipertensi pada Anak
+
+PESERTA DISKUSI KONSENSUS
+Prof. Dr. Nanan Sekarwana, dr., SpA(K)., MARS
+Dr. Dedi Rachmadi, dr., SpA(K),. M.Kes
+Prof. Dr. Dany Hilmanto, dr. SpA(K)
+Prof. Adrian Umboh, dr., SpA(K)
+Aumas Pabuti, dr., SpA
+Dahler Bahrun, dr., SpA(K)
+Eka laksmi Hidayati, dr., SpA
+Endang Lestari, dr., SpA
+G.A.P. Nilawati, dr., SpA
+Hendratno Halim T, dr., SpA(K)
+Hertanti Indah Lestari, dr., SpA
+Prof. Husein Albar, dr., SpA(K)
+I Ketut Suarta, dr., SpA(K)
+Krisni Subandiyah, dr., SpA(K)
+M. Heru Muryawan, dr., SpA
+Prof. M. Sjaifullah Noer, dr., SpA(K)
+Ninik Asmaningsih, dr., SpA(K)
+Omega Mellyana, dr., SpA
+Pungky Ardany, dr., SpA(K)
+Risky Vitria Prasetyo, dr., SpA
+Rochmanadji Widajat, dr., SpA(K)
+Prof. Dr. Syarifuddin Rauf, dr., SpA(K)
+Prof. Husein Alatas, dr., SpA(K)
+Prof. Taralan Tambunan, dr., SpA(K)
+Syafruddin Haris, dr., SpA
+Selli Muljanto, dr., SpA
+Prof. Rusdidjas, dr., SpA(K)
+Prof. Rafita Ramayati, dr., SpA(K)
+Dr. Partini Pudjiastuti Trihono, dr., SpA(K), MM.Pa ed
+Sudung O Pardede, dr. SpA(K)
+Oke Rina Ramayani, dr., SpA
+M. Sjoekri Ridwan, dr., SpA
+Ina Zarlina, dr., SpA
+Etty Widyastuti, dr., SpA
+Konsensus ini disusun oleh UKK Nefrologi IDAI berdasarkan telaah literatur mutakhir dan diskusi
+bersama anggota UKK Nefrologi IDAI. Tujuan pembuatan Konsensus adalah untuk digunakan
+sebagai pedoman, baik untuk dokter spesialis anak maupun spesialis anak konsultan nefrologi.
+
+UKK Nefrologi
+
+iii
+
+SAMBUTAN KETUA UMUM PENGURUS PUSAT
+IKATAN DOKTER ANAK INDONESIA
+
+UKK Nefrologi
+
+v
+
+SAMBUTAN KETUA
+UNIT KERJA KOORDINASI NEFROLOGI-IDAI
+Assalamualikum warahmatullah wabarakatuh,
+Pertama-tama kita panjatkan puji syukur kehadirat Allah SWT yang telah memberikan
+rahmat dan hidayahNya kepada kita semua, sehingga Buku Konsensus Tata Laksana
+Hipertensi pada Anak dapat diterbitkan.
+Sampai saat ini perhatian para dokter anak ataupun dokter umum masih sangat
+kurang terhadap penyakit hipertensi pada anak, mereka kebanyakan beranggapan bahwa
+hipertensi merupakan penyakit pada orang dewasa. Sebetulnya penyakit hipertensi pada
+dewasa gejalanya banyak yang sudah dimulai sejak anak-anak. Oleh karena itu para dokter
+dituntuk untuk lebih cermat dalam mendeteksi gejala hipertensi pada anak agar tercapai
+derajat kesehatan yang optimal. Bila dokter terlambat mengetahui adanya hipertensi, maka
+penanganannya akan jauh lebih sulit dibandingkan bila hipertensi diketahui sejak dini.
+Selain itu terdapat banyak perbedaan antara hipertensi pada dewasa dan hipertensi pada
+anak, yaitu diantaranya dalam hal penyebabnya, faktor risiko, dan batasan hipertensi. Pada
+anak tekanan darah sangat dipengaruhi oleh jenis kelamin, usia dan tinggi badan. Perlu
+juga ditekankan mengenai adanya perbedaan dalam tata cara pengukuran tekanan darah,
+yaitu harus dilakukan dalam keadaan tenang setelah anak istirahat dan telah menyesuaikan
+dengan lingkungan sekitarnya, ukuran manset kira-kira 2/3 lengan atas, dan penentuan
+diastolik-sistolik yang berbeda dengan dewasa.
+Buku konsensus ini merupakan hasil diskusi para pakar nefrologi anak di Indonesia,
+diharapkan buku konsensus ini dapat digunakan sebagai acuan atau pedoman bagi para
+dokter spesialis anak anggota IDAI, dan dokter lainnya dalam menata laksana penderita
+hipertensi pada anak.
+Ucapan terima kasih yang tidak terhingga kami sampaikan kepada para pakar di
+Unit Kerja Nefrologi Bandung yang telah membuat konsep awal dari buku konsensus ini
+dan juga kami sampaikan ucapan terima kasih kepada para pakar Nefrologi anggota UKK
+Nefrologi IDAI yang ikut membahas dan memberi asupan sehingga buku konsensus ini
+dapat diterbitkan. Kami menyadari bahwa tidak ada gading yang tidak retak, begitupun
+buku konsensus ini masih banyak kekurangan, untuk itu kami sangat berterima kasih bila
+ada yang memberikan kritik, asupan dan saran yang membangun demi perbaikan buku
+konsesnsus ini.
+Semoga buku ini bermanfaat bagi kita semua dan pada ahirnya dapat meningkatkan
+kesehatan anak Indonesia pada umumnya.
+Wassalamualaikum warahmatullah wabarakatuh
+Bandung, Januari 2011.
+Prof. Dr. Nanan Sekarwana, dr., SpA(K)., MARS
+
+UKK Nefrologi
+
+vii
+
+Kata pengantar
+Meskipun hipertensi merupakan salah satu penyakit yang paling sering terjadi pada manusia,
+tetapi perhatian para dokter anak terhadap penyakit ini masih sangat kurang. Padahal bila
+dokter terlambat mengetahui adanya hipertensi, maka kondisi kesehatan anak tersebut
+menjadi semakin buruk.
+Sampai saat ini masih terdapat anggapan yang salah mengenai kejadian hipertensi
+pada anak, karena gejala hipertensi saat dewasa telah dimulai sejak anak-anak. Oleh
+karena itu para dokter dituntut untuk lebih cermat dalam mendeteksi gejala hipertensi
+pada anak agar tercapai derajat kesehatan yang optimal bagi anak tersebut. Selain itu
+perlu ditekankan bahwa batasan hipertensi pada anak tidak sama dengan dewasa. Faktorfaktor yang mempengaruhi tekanan darah pada anak adalah jenis kelamin, usia, dan tinggi
+badan.
+Konsensus ini disusun oleh UKK Nefrologi IDAI berdasarkan telaah literatur
+mutakhir dan diskusi bersama anggota UKK Nefrologi IDAI. Selain itu berbagai pelatihan
+tentang pengukuran tekanan darah yang dilaksanakan oleh UKK Nefrologi juga mendorong
+untuk diterbitkannya konsensus ini.
+Tujuan pembuatan konsensus ini adalah untuk digunakan sebagai pedoman
+tatalaksana hipertensi oleh dokter spesialis anak (SpA) maupun spesialis anak konsultan
+nefrologi (SpAK). Dalam konsensus ini diberikan tentang diagnosis, teknik pengukuran
+tekanan darah, tatalaksana, algoritma, serta pencegahan hipertensi pada anak. Tidak lupa
+dilampirkan nilai tekanan darah normal pada anak, baik berupa grafik maupun tabel.
+
+UKK Nefrologi
+
+ix
+
+Daftar Singkatan
+ABPM : Ambulatory blood pressure monitoring
+ACE
+: Angiotensin converting enzyme
+DMSA : Dimercapto succinic acid
+DTPA : Diethylenetriaminepentacetic acid
+MCU : Mictiocystourethrography
+NHBEP : National High Blood Pressure Education Program (NHBEP)
+PIV
+: Pielografi intravena
+
+x
+
+Konsensus Tata Laksana Hipertensi pada Anak
+
+Daftar isi
+
+Sambutan Ketua Umum Pengurus Pusat Ikatan Dokter anak Indonesia (IDAI) ........... iii
+Sambutan Ketua Umum Ketua Unit Kerja Koordinasi Nefrologi IDAI .......................... vi
+Kata Pengantar............................................................................................................... viii
+Daftar singkatan................................................................................................... ............ ix
+Daftar isi.......................................................................................................................... xii
+Pendahuluan ........................................................................................... .......................... 1
+Rekomendasi Tatalaksana Hipertensi pada anak ............................................................. 2
+Teknik Pengukuran tekanan darah ................................................................................... 2
+Batasan.............................................................................................................................. 3
+Evaluasi ........................................................................................................... .................. 4
+Evaluasi awal..................................................................................................................... 5
+Evaluasi tambahan ................................................................................. ........................... 5
+Pengobatan hipertensi pada anak ..................................................................................... 6
+Pengobatan nonfarmakologis ............................................................................. ............... 6
+Pengobatan farmakologis .................................................................................................. 7
+Penanganan hipertensi emergensi................................................................................ ... 11
+Pembedahan.................................................................................................................... 13
+Pencegahan ......................................................................................................... ............ 14
+
+UKK Nefrologi
+
+xi
+
+PENDAHULUAN
+Sampai saat ini masih terdapat anggapan dalam masyarakat bahwa hipertensi merupakan
+penyakit yang hanya terjadi pada orangtua atau dewasa. Padahal meski kasusnya tidak
+sesering orang dewasa, serangan hipertensi atau penyakit darah tinggi pada anak bukannya
+tidak mungkin, bahkan seringkali hipertensi yang terjadi pada orang dewasa sudah dimulai
+sejak masa anak. Hipertensi merupakan salah satu penyakit yang paling sering terjadi pada
+manusia dan diperkirakan prevalensnya lebih dari satu miliar di seluruh dunia.1 Meskipun
+demikian angka kejadian hipertensi pada anak belum diketahui dengan pasti. Salah satu
+laporan menunjukkan bahwa prevalens hipertensi pada anak adalah 1%. Akhir-akhir ini
+dilaporkan bahwa prevalens hipertensi pada anak, khususnya usia sekolah, mengalami
+peningkatan. Hal ini mungkin disebabkan meningkatnya prevalens obesitas pada kelompok
+usia tersebut.2
+Berdasarkan penyebabnya hipertensi dibagi atas primer (esensial) dan sekunder.3
+Penyebab hipertensi pada anak, terutama masa preadolesens, umumnya adalah sekunder.
+Di antara penyebab sekunder tersebut, penyakit parenkim ginjal merupakan bentuk yang
+paling banyak ditemukan (60-70%). Memasuki usia remaja, penyebab tersering hipertensi
+adalah primer, yaitu sekitar 85-95%. 4
+Pada umumnya hipertensi yang bersifat akut dan berat pada anak, terutama usia
+sekolah, disebabkan oleh glomerulonefritis, sedangkan hipertensi kronik terutama
+disebabkan oleh penyakit parenkim ginjal.5,6
+Bayi muda dalam keadaan hipertensi akut dapat menunjukkan gejala payah jantung
+kongestif. Setelah masa bayi, hipertensi biasanya bersifat asimtomatik. Penderita dengan
+hipertensi berat dapat menunjukkan gejala nyeri kepala, gangguan penglihatan, perdarahan
+hidung, dan nausea.7
+Hipertensi pada anak harus mendapat perhatian yang serius, karena bila tidak
+ditangani dengan baik, penyakit ini dapat menetap hingga dewasa.8-13 Agar hipertensi dapat
+dideteksi sedini mungkin sehingga dapat ditangani secara tepat, maka pemeriksaan tekanan
+darah yang cermat harus dilakukan secara berkala setiap tahun setelah anak berusia tiga
+tahun.14,15
+
+UKK Nefrologi
+
+1
+
+REKOMENDASI
+TATA LAKSANA HIPERTENSI PADA ANAK
+
+Teknik pengukuran tekanan darah
+Tekanan darah sebaiknya diukur dengan menggunakan sfigmomanometer air raksa,
+sedangkan sfigmomanometer aneroid memiliki kelemahan yaitu memerlukan kalibrasi
+secara berkala.16-18 Osilometrik otomatis merupakan alat pengukur tekanan darah yang
+sangat baik untuk bayi dan anak kecil, karena saat istirahat teknik auskultasi sulit dilakukan
+pada kelompok usia ini. Sayangnya alat ini harganya mahal dan memerlukan pemeliharaan
+serta kalibrasi berkala.15
+Panjang cuff manset harus melingkupi minimal 80% lingkar lengan atas, sedangkan
+lebar cuff harus lebih dari 40% lingkar lengan atas (jarak antara akromion dan olekranon,
+(lihat Gambar 1 dan 2). Ukuran cuff yang terlalu besar akan menghasilkan nilai
+tekanan darah yang lebih rendah, sedangkan ukuran cuff yang terlalu kecil akan
+menghasilkan nilai tekanan darah yang lebih tinggi.4
+
+Gambar 1 Lingkaran Lengan Atas Harus Diukur Tengah-tengah Antara Olekranon dan Akromion
+Dikutip dari: Gulati14
+
+2
+
+Konsensus Tata Laksana Hipertensi pada Anak
+
+Gambar 2 Cuff Pengukur Tekanan Darah
+Gambar 2. Cuff Pengukur Tekanan Darah
+Dikutip dari: Gulati14
+
+Tekanan darah sebaiknya diukur setelah istirahat selama 3-5 menit, suasana
+sekitarnya dalam keadaan tenang. Anak diukur dalam posisi duduk dengan lengan kanan
+diletakkan sejajar jantung, sedangkan bayi diukur dalam keadaan telentang. Jika tekanan
+darah menunjukkan angka di atas persentil ke-90, tekanan darah harus diulang dua kali
+pada kunjungan yang sama untuk menguji kesahihan hasil pengukuran.18
+Teknik pengukuran tekanan darah dengan ambulatory blood pressure monitoring
+(ABPM) menggunakan alat monitor portable yang dapat mencatat nilai tekanan darah selama
+selang waktu tertentu. ABPM biasanya digunakan pada keadaan hipertensi episodik, gagal
+ginjal kronik, anak remaja dengan hipertensi yang meragukan, serta menentukan dugaan
+adanya kerusakan organ target karena hipertensi. Tekanan darah sistolik ditentukan saat
+mulai terdengarnya bunyi Korotkoff ke-1. Tekanan darah diastolik sesungguhnya terletak
+antara mulai mengecil sampai menghilangnya bunyi Korotkoff. Teknik palpasi berguna
+untuk mengukur tekanan darah sistolik secara cepat, meskipun nilai tekanan darah palpasi
+biasanya sekitar 10 mmHg lebih rendah dibandingkan dengan auskultasi.4,8,12,15,17,19
+
+Batasan
+Batasan hipertensi menurut The Fourth Report on the Diagnosis, Evaluation, and Treatment of
+High Blood Pressure in Children and Adolescent adalah sebagai berikut :15
+- Hipertensi adalah nilai rata-rata tekanan darah sistolik dan atau diastolik lebih dari
+persentil ke-95 berdasarkan jenis kelamin, usia, dan tinggi badan pada pengukuran sebanyak 3 kali atau lebih
+- Prehipertensi adalah nilai rata-rata tekanan darah sistolik dan atau diastolik antara
+persentil ke-90 dan 95. Pada kelompok ini harus diperhatikan secara teliti adanya faktor
+risiko seperti obesitas. Berbagai penelitian menunjukkan bahwa kelompok ini memiliki
+
+UKK Nefrologi
+
+3
+
+kemungkinan yang lebih besar untuk menjadi hipertensi pada masa dewasa dibandingkan dengan anak yang normotensi.
+Anak remaja dengan nilai tekanan darah di atas 120/80 mmHg harus dianggap suatu
+prehipertensi.
+Seorang anak dengan nilai tekanan darah di atas persentil ke-95 pada saat diperiksa
+di tempat praktik atau rumah sakit, tetapi menunjukkan nilai yang normal saat diukur
+di luar praktik atau rumah sakit, disebut dengan white-coat hypertension. Kelompok ini
+memiliki prognosis yang lebih baik dibandingkan dengan yang mengalami hipertensi
+menetap untuk menderita hipertensi atau penyakit kardiovaskular di kemudian hari.
+Hipertensi emergensi adalah hipertensi berat disertai komplikasi yang mengancam jiwa,
+seperti ensefalopati (kejang, stroke, defisit fokal), payah jantung akut, edema paru,
+aneurisma aorta, atau gagal ginjal akut.7
+
+-
+
+-
+
+Pada Tabel 1 diperlihatkan klasifikasi hipertensi anak di atas usia 1 tahun dan remaja.20
+Sedangkan nilai tekanan darah berdasarkan usia, jenis kelamin dan tinggi badan
+diperlihatkan pada lampiran 1, 2 dan 3.
+
+Tabel 1 Klasifikasi Hipertensi pada Anak Usia 1 tahun atau Lebih dan Usia Remaja
+Klasifikasi
+
+Batasan
+
+Tekanan Darah Normal
+
+Sistolik dan diastolik kurang dari persentil ke-90
+
+Prehipertensi
+
+Sistolik atau diastolik lebih besar atau sama dengan presentil
+ke-90 tetapi lebih kecil dari persentil ke-95
+
+Hipertensi
+
+Sistolik atau diastolik lebih besar atau sama dengan persentil
+ke-95
+
+Hipertensi tingkat 1
+
+Sistolik dan diastolik antara presentil ke-95 dan 99 ditambah
+5 mmHg
+
+Hipertensi tingkat 2
+
+Sistolik atau diastolik di atas persentil ke-99 ditambah 5
+mmHg
+
+Evaluasi
+Setelah hipertensi dapat didiagnosis, maka perlu dilakukan anamnesis dan pemeriksaan
+fisis secara teliti agar dapat dideteksi adanya penyebab dasar serta kerusakan organ target.
+Informasi yang didapat secara akurat melalui anamnesis dan pemeriksaan fisis dapat
+menghindarkan pemeriksaan laboratorium dan radiologis yang tidak perlu dan mahal.21
+Evaluasi adanya hipertensi tergantung pada usia anak, beratnya tingkat hipertensi,
+adanya kerusakan organ target, dan faktor-faktor risiko jangka panjang yang bersifat
+individual.22
+
+4
+
+Konsensus Tata Laksana Hipertensi pada Anak
+
+Evaluasi Awal
+Evaluasi awal adanya hipertensi dapat dilakukan oleh seorang dokter anak (general
+pediatrician). Anamnesis terhadap pasien dan keluarganya serta pemeriksaan fisis harus
+diikuti dengan pemeriksaan urin rutin dan kimia dasar (Tabel 2). USG abdomen merupakan
+alat diagnostik yang tidak invasif tetapi sangat bermanfaat dalam mengevaluasi ukuran
+ginjal, deteksi tumor adrenal dan ginjal, penyakit ginjal kistik, batu ginjal, dilatasi sistem
+saluran kemih, ureterokel, dan penebalan dinding vesika urinaria.
+
+Evaluasi Tambahan
+Tidak jarang diperlukan evaluasi tambahan untuk membedakan hipertensi primer dan
+sekunder (lihat Tabel 2). Anak dengan riwayat infeksi saluran kencing harus dilakukan
+pemeriksaan dimercapto succinic acid (DMSA). Teknik ini lebih sensitif dibandingkan
+pielografi intravena (PIV), kurang radiatif dan merupakan baku emas untuk mendiagnosis
+adanya parut ginjal. Sidik diethylenetriaminepentacetic acid (DTPA) dapat dilakukan untuk
+melihat adanya uropati obstruktif. Mictiocystourethrography (MCU) dianjurkan dilakukan
+pada anak di bawah usia dua tahun dengan riwayat infeksi saluran kencing untuk
+mendiagnosis derajat refluks vesikoureter, serta merencanakan pengobatan jangka panjang
+terhadap penyakit tersebut. 23
+Kadar hormon dan pemeriksaan urin 24 jam dapat diperiksa oleh semua dokter, tetapi
+pemeriksaan khusus seperti angiografi ginjal harus dilakukan di rumah sakit khusus dengan
+fasilitas lengkap. Jika diagnosis penyebab hipertensi mengarah ke penyakit renovaskular,
+maka dianjurkan untuk dilakukan pemeriksaan angiografi. Teknik pemeriksaan ini bersifat
+invasif. Teknik lain yang sifatnya kurang invasif adalah magnetic resonance angiography.15
+Hipertrofi ventrikel kiri juga sering didapatkan pada anak yang mengalami
+hipertensi.15 Ekokardiografi merupakan teknik yang noninvasif, mudah dilakukan, dan
+lebih sensitif dibandingkan elektrokardiografi, sehingga teknik ini dapat dikerjakan sebagai
+pemeriksaan awal pada semua anak yang mengalami hipertensi. Teknik ini dapat diulang
+secara berkala.1
+
+Tabel 2 Evaluasi yang Harus Dilakukan pada Anak yang Menderita
+Tingkat
+
+Evaluasi yang dinilai
+
+I (Evaluasi awal)
+
+Darah lengkap, elektrolit serum, asam urat, uji fungsi ginjal, lemak
+darah, urinalisis, kultur, USG
+
+II (Tambahan bila perlu)
+
+Ekokardiografi, sidik nuklir (DMSA, DTPA), USG dopler pada arteri
+ginjal, T3, T4, TSH serum, katekolamin urin, aldosteron plasma,
+aktivitas renin plasma, arteriografi ginjal
+
+UKK Nefrologi
+
+5
+
+Setelah diagnosis hipertensi pada anak ditegakkan, maka pengobatan yang diberikan
+kepada pasien harus dilakukan secara menyeluruh dengan mempertimbangkan pengaruhnya
+terhadap masa depan anak tersebut.
+
+Pengobatan hipertensi pada anak
+Tujuan pengobatan hipertensi pada anak adalah mengurangi risiko jangka pendek maupun
+panjang terhadap penyakit kardiovaskular dan kerusakan organ target. Upaya mengurangi
+tekanan darah saja tidak cukup untuk mencapai tujuan ini. Selain menurunkan tekanan
+darah dan meredakan gejala klinis, juga harus diperhatikan faktor-faktor lain seperti
+kerusakan organ target, faktor komorbid, obesitas, hiperlipidemia, kebiasaan merokok, dan
+intoleransi glukosa. 20, 24
+Pada umumnya ahli nefrologi anak sepakat bahwa pengobatan hipertensi ditujukan
+terhadap anak yang menunjukkan peningkatan tekanan darah di atas persentil ke-99 yang
+menetap. Tujuan akhir pengobatan hipertensi adalah menurunkan tekanan darah hingga
+di bawah persentil ke-95 berdasarkan usia dan tinggi badan anak. Berbagai penelitian
+menunjukkan bahwa pengobatan yang dilakukan secara tepat sejak awal pada anak yang
+menderita hipertensi ringan-sedang akan menurunkan risiko terjadinya stroke dan penyakit
+jantung koroner di kemudian hari.9,14,24
+Pengobatan hipertensi pada anak dibagi ke dalam 2 golongan besar, yaitu nonfarmakologis dan farmakologis yang tergantung pada usia anak, tingkat hipertensi dan
+respons terhadap pengobatan.9,14,19,20,24,25
+
+Pengobatan Non-Farmakologis: Mengubah Gaya Hidup
+Anak dan remaja yang mengalami prehipertensi atau hipertensi tingkat 1 dianjurkan untuk
+mengubah gaya hidupnya. Pada tahap awal anak remaja yang menderita hipertensi primer
+paling baik diobati dengan cara non-farmakologis.20
+Pengobatan tahap awal hipertensi pada anak mencakup penurunan berat badan,
+diet rendah lemak dan garam, olahraga secara teratur, menghentikan rokok dan kebiasaan
+minum alkohol.
+Seorang anak yang tidak kooperatif dan tetap tidak dapat mengubah gaya hidupnya
+perlu dipertimbangkan untuk mendapatkan obat anti hipertensi.10,20,26
+Penurunan berat badan terbukti efektif mengobati hipertensi pada anak yang
+mengalami obesitas. Dalam upaya menurunkan berat badan anak ini, sangat penting untuk
+mengatur kualitas dan kuantitas makanan yang dikonsumsi. Banyaknya makanan yang
+dikonsumsi secara langsung akan memengaruhi berat badan dan massa tubuh, sehingga juga
+akan memengaruhi tekanan darah. Hindarilah mengkonsumsi makanan ringan di antara
+waktu makan yang pokok. Demikian juga makanan ringan yang mengandung banyak lemak
+atau terlampau manis sebaiknya dikurangi. Buatlah pola makan teratur dengan kandungan
+gizi seimbang dan lebih diutamakan untuk banyak mengkonsumsi buah dan sayuran.9,19,25
+Berbagai penelitian juga menunjukkan bahwa anak yang mendapat ASI eksklusif memiliki
+
+6
+
+Konsensus Tata Laksana Hipertensi pada Anak
+
+risiko yang lebih rendah untuk mengalami obesitas dan hipertensi dibandingkan dengan
+anak yang mendapat susu formula.
+Diet rendah garam yang dianjurkan adalah 1,2 g/hari pada anak usia 4-8 tahun
+dan 1,5 g/hari pada anak yang lebih besar.16 Diet rendah garam yang dikombinasikan
+dengan buah dan sayuran, serta diet rendah lemak menunjukkan hasil yang baik untuk
+menurunkan tekanan darah pada anak. Asupan makanan mengandung kalium dan kalsium
+juga merupakan salah satu upaya untuk menurunkan tekanan darah.
+Olahraga secara teratur merupakan cara yang sangat baik dalam upaya menurunkan
+berat badan dan tekanan darah sistolik maupun diastolik. Olahraga teratur akan menurunkan
+tekanan darah dengan cara meningkatkan aliran darah, mengurangi berat badan dan kadar
+kolesterol dalam darah, serta stres.14,19,21,25,26
+
+Pengobatan farmakologis:
+Pada saat memilih jenis obat yang akan diberikan kepada anak yang menderita hipertensi,
+harus dimengerti tentang mekanisme yang mendasari terjadinya penyakit hipertensi
+tersebut.
+Perlu ditekankan bahwa tidak ada satupun obat antihipertensi yang lebih superior
+dibandingkan dengan jenis yang lain dalam hal efektivitasnya untuk mengobati hipertensi
+pada anak.7 Menurut the National High Blood Pressure Education Program (NHBEP) Working
+Group on High Blood Pressure in Children and Adolescents obat yang diberikan sebagai
+antihipertensi harus mengikuti aturan berjenjang (step-up), dimulai dengan satu macam
+obat pada dosis terendah, kemudian ditingkatkan secara bertahap hingga mencapai efek
+terapoitik, atau munculnya efek samping, atau bila dosis maksimal telah tercapai. Kemudian
+obat kedua boleh diberikan, tetapi dianjurkan menggunakan obat yang memiliki mekanisme
+kerja yang berbeda.21
+Di bawah ini dicantumkan beberapa keadaan hipertensi pada anak yang merupakan
+indikasi dimulainya pemberian obat antihipertensi: 2
+1. Hipertensi simtomatik
+2. Kerusakan organ target, seperti retinopati, hipertrofi ventrikel kiri, dan proteinuria
+3. Hipertensi sekunder
+4. Diabetes melitus
+5. Hipertensi tingkat 1 yang tidak menunjukkan respons dengan perubahan gaya
+hidup
+6. Hipertensi tingkat 2.
+Pemilihan obat yang pertama kali diberikan sangat tergantung dari pengetahuan dan
+kebijakan dokter. Golongan diuretik dan β-blocker merupakan obat yang dianggap aman
+dan efektif untuk diberikan kepada anak. Golongan obat lain yang perlu dipertimbangkan
+untuk diberikan kepada anak hipertensi bila ada penyakit penyerta adalah penghambat
+ACE (angiotensin converting enzyme) pada anak yang menderita diabetes melitus atau
+
+UKK Nefrologi
+
+7
+
+terdapat proteinuria, serta β-adrenergic atau penghambat calcium-channel pada anak-anak
+yang mengalami migrain. Selain itu pemilihan obat antihipertensi juga tergantung dari
+penyebabnya, misalnya pada glomerulonefritis akut pascastreptokokus pemberian diuretik
+merupakan pilihan utama, karena hipertensi pada penyakit ini disebabkan oleh retensi
+natrium dan air. Golongan penghambat ACE dan reseptor angiotensin semakin banyak
+digunakan karena memiliki keuntungan mengurangi proteinuria.2,13
+Penggunaan obat penghambat ACE harus hati-hati pada anak yang mengalami
+penurunan fungsi ginjal. Meskipun kaptopril saat ini telah digunakan secara luas pada
+anak yang menderita hipertensi, tetapi saat ini banyak pula dokter yang menggunakan obat
+penghambat ACE yang baru, yaitu enalapril. Obat ini memiliki masa kerja yang panjang,
+sehingga dapat diberikan dengan interval yang lebih panjang dibandingkan dengan
+kaptopril.19,24,25,27
+Obat yang memiliki mekanisme kerja hampir serupa dengan penghambat ACE
+adalah penghambat reseptor angiotensin II (AII receptor blockers). Obat ini lebih selektif
+dalam mekanisme kerjanya dan memiliki efek samping yang lebih sedikit (misalnya terhadap
+timbulnya batuk) dibandingkan dengan golongan penghambat ACE.19,24,25,28
+Pada Tabel 3 diperlihatkan klasifikasi obat hipertensi berdasarkan mekanisme
+kerjanya serta dosis obat anti hipertensi oral yang digunakan pada anak.20
+Tabel 3 Obat antihipertensi yang digunakan pada anak dan remaja
+Golongan obat
+
+Jenis obat
+
+Dosis dan interval
+
+Efek samping
+
+A n g io te n s in
+Converting
+Enzyme inhibitor
+(ACEi)
+
+Kaptopril
+
+Dosis: 0,3 s/d 0,5 mg/kg/
+kali
+Maksimum 6 mg/kg/hari
+Dosis: 0,08 mg/kg/hari
+sampai 5 mg/hari
+Dosis: 0,2 mg/kg/hari
+sampai 10 mg/hari
+Maksimum: 0,6 mg/kg/hari
+sampai 40 mg/hari
+Dosis: 0,07 mg/kg/hari
+sampai 40 mg/hari
+Anak > 50 kg: dosis 5 s/d
+10 mg/hari
+Dosis maksimum: 40 mg/
+hari
+Dosis: 5 s/d 10 mg/hari
+Dosis maksimum: 80 mg/
+hari
+
+Kontraindikasi pada ibu hamil
+Pemeriksaan serum kreatinin
+dan kalium
+Dapat dibuat suspensi Hati hati
+pemakaian pada penyakit ginjal
+dengan proteinuria dan diabetes
+mellitus
+
+Enalapril
+
+Benazepril
+
+Lisinopril
+
+Fosinopril
+
+Kuinapril
+
+8
+
+Konsensus Tata Laksana Hipertensi pada Anak
+
+A n g io te n s in
+Receptor Blocker
+(ARB)
+
+Irbesartan
+
+Losartan
+
+C a l c i u m
+C h a n n e l
+Blocker
+
+Amlodipin
+
+Felodipin
+
+Isradipin
+
+Extended release
+nifedipin
+Alpha dan Beta
+Blocker
+
+Labetalol
+
+Beta Blocker
+
+Atenolol
+
+Metoprolol
+
+Propanolol
+
+UKK Nefrologi
+
+6 s/d 12 tahun: 75 sampai
+150 mg/hari (satu kali
+perhari)
+≥13 tahun: 150 s/d
+300
+mg/hari
+Dosis: 0,7 mg/kg/hari
+sampai 50 mg/hari (satu
+kali sehari)
+Dosis maksimum: 1,4 mg/
+kg/hari sampai 100 mg/
+hari
+Anak usia 6 sampai 17
+tahun: 2,5 sampai 5 mg
+satu kali sehari
+Dosis:
+2,5
+mg/hari
+Dosis
+maksimum: 10
+mg/
+hari
+Dosis: 0,15 sampai 0,2 mg/
+kg/hari (dibagi 3 sampai 4
+dosis)
+Dosis maksimum: 0,8 mg/
+kg/hari sampai 20 mg/hari
+Dosis 0,25 sampai 0,5 mg/
+kg/hari (satu sampai dua
+kali perhari)
+Dosis
+maksimum:
+3
+Dosis: 1 s/d 3 mg/kg/hari
+Dosis maksimum: 10 s/d
+12 mg/kg/hari sampai 1200
+mg/hari
+
+Semua ARB dikontra
+indikasikan pada ibu hamil
+Pemeriksaan kadar serum
+kreatinin dan kalium.
+Losartan dapat dibuat menjadi
+suspensi
+FDA membatasi pemakaian
+losartan hanya untuk anak ≥6
+tahun dan kreatinin klirens ≥
+30 mL/min per 1,73 m²
+Dapat menyebabkan takikardi
+dan edema
+
+Kontraindikasi pada penderita
+asma dan gagal jantung
+Tidak digunakan pada pasien
+diabetes yang insulin dependent
+
+Dosis: 0,5 s/d 1 mg/hari Noncardioselective agents
+(satu sampai dua kali Tidak digunakan pada pasien
+perhari)
+diabetes mellitus
+Dosis maksimum: 2 mg/kg/
+hari sampai 100 mg/hari
+Dosis: 1 s/d 2 mg/kg/
+hari(dua kali perhari)
+Dosis maksimum: 6 mg/kg/
+hari sampai 200 mg/hari
+Dosis: 1-2 mg/kg/hari
+(dibagi dua sampai tiga
+dosis)
+Dosis maksimum: 4 mg/kg/
+hari sampai 640 mg/hari
+
+9
+
+Central
+Blocker
+
+Alpha
+
+Vasodilator
+
+Klonidin
+
+Anak ≥ 12 tahun:
+Dosis: 0,2 mg/hari (dibagi
+dua dosis)
+Dosis maksimum: 2,4 mg/
+hari
+
+Dapat menyebabkan mulut
+kering atau sedasi
+Penghentian terapi yang tiba
+tiba dapat menyebabkan rebound
+hypertension
+
+Hidralazin
+
+Dosis: 0,75 mg/kg/hari
+Dosis maximal: 7,5 mg/kg/
+hari sampai 200 mg/hari
+Anak < 12 tahun:
+Dosis: 0,2 mg/kg/hari
+(dibagi satu sampai 3
+dosis)
+Dosis maksimum: 50 mg/
+hari
+
+Sering menyebabkan takikardi
+dan retensi cairan
+Dapat menyebabkan lupus like
+syndrome
+Kontraindikasi pada efusi
+pericardium, supraventrikular
+takikardia, dan takidisritmia
+Minoxidil biasanya digunakan
+pada pasien hipertensi yang
+resisten terhadap multiple drug
+
+Dosis: 1 mg /kg/hari
+(sekali sehari)
+Dosis: 0,5 mg s/d 2 mg/kg/
+hari
+Dosis maksimum: 6 mg/kg/
+hari
+Dosis: 1 mg/kg/hari (dibagi
+1-2 dosis)
+Dosis: 1 s/d 2 mg/kg/hari
+Dosis maksimum: 3 s/d 4
+mg/hari sampai 300 mg/
+hari
+
+Harus dimonitor kadar elektrolit
+secara periodik
+Diuretik hemat kalium dapat
+menyebabkan hiperkalemia
+berat terutama bila
+dikombinasikan dengan ACEi
+atau ARB
+Furosemid berguna sebagai
+terapi tambahan pada penyakit
+ginjal
+
+Minoxidil
+
+Diuretik
+
+Hidroklorotiazid
+Furosemid
+
+Spironolakton
+Triamteren
+
+10
+
+Konsensus Tata Laksana Hipertensi pada Anak
+
+Secara skematis langkah-langkah pendekatan pengobatan farmakologis pada anak dengan
+hipertensi terlihat pada Gambar 3.
+
+Langkah 1.
+
+Diuretik, mulai dengan dosis
+minimal
+
+atau
+
+Penghambat Adrenergik
+(alpha atau beta) mulai
+dengan dosis minimal
+
+Jika diperlukan, dosis dapat dinaikkan
+sampai mencapai dosis maksimal
+Tekanan Darah Tidak Turun
+Langkah 2. Tambahkan atau ganti dengan
+penghambat adrenergik
+atau
+
+Tambahkan atau ganti
+dengan diuretik (tiazid)
+
+Lanjutkan sampai mencapai dosis
+maksimal
+•
+Tekanan darah tidak turun
+Langkah 3. Tambahkan golongan
+vasodilator (hidralazin)
+
+atau
+
+Rujuk kepada SpA(K) Nefrologi
+
+Gambar 3. Langkah-langkah pendekatan pengobatan hipertensi
+
+Penanganan Hipertensi Emergensi
+Hipertensi emergensi adalah suatu keadaan yang menunjukkan tekanan darah yang harus
+diturunkan dalam waktu satu jam, karena pada penderita didapatkan kejang, nyeri kepala,
+gangguan penglihatan, atau payah jantung. Pemberian nifedipin secara oral atau sublingual
+sangat membantu pada tahap awal pengobatan, sambil mencari cara agar obat suntikan
+dapat segera diberikan.19,29
+Pengobatan secara intravena yang harus segera diberikan adalah natrium nitroprusid
+atau infus labetolol bila tersedia. Bolus hidralazin secara intravena dapat diberikan bila obat
+infus tersebut di atas tidak tersedia. Pada anak yang menderita hipertensi kronik dianjurkan
+untuk menurunkan tekanan darah sebesar 20-30% dalam waktu 60-90 menit.29
+Anak yang menderita hipertensi urgensi harus diberi nifedipin yang kerjanya cepat
+dan harus dirawat untuk memantau keadaan dan melihat efek samping. Tekanan darah
+harus diturunkan dalam waktu 24 jam dengan nifedipin. Meskipun demikian diperlukan
+obat-obat lain yang memilki masa kerja panjang. Hipertensi urgensi biasanya terjadi pada
+penderita glomerulonefritis akut, hipertensi akselerasi, dan setelah dilakukan transplantasi
+ginjal.2
+
+UKK Nefrologi
+
+11
+
+Salah satu bentuk hipertensi emergensi adalah krisis hipertensi, yaitu tekanan darah
+meningkat dengan cepat hingga mencapai sistolik ≥ 180 mmHg atau diastolik ≥ 120
+mmHg, sehingga perlu ditangani dengan obat-obatan seperti terlihat pada Tabel 4.
+Tabel 4 Obat-obat Antihipertensi untuk Penanggulangan Krisis Hipertensi
+Obat
+
+C a r a
+Pemberian
+
+Dosis Awal
+
+Respon Awal
+
+Lamanya
+Respon
+
+Efek Samping/Komentar
+
+Diazoksid
+
+Intrav ena
+cepat (1-2
+menit)
+
+2-5
+mg/kg
+dalam 30 menit
+respon
+(-)
+ulangi
+
+3-5 menit
+
+4-24 jam
+
+Nausea,
+hiperglikemia, retensi
+natrium, obat pilihan
+
+Natrium
+nitroprusid
+
+Pompa infus
+
+50 mg/l dalam Segera
+larutan D5%
+(5 mikrogram/
+ml)
+0,5-8
+mikrogram /
+kg/menit atau
+0,01-0,16 ml/
+kg/menit
+
+Selama
+infus
+
+M e m b u t u h kan
+pengawasan
+terus
+menerus,
+risiko
+keracunan tiosianat
+
+Hidralazin
+
+IV atau IM
+
+0,1-0,2 mg/kg
+
+10-30 menit
+
+2-6 jam
+
+Takikardia, flushing, sakit
+kepala
+
+Reserpin
+
+IM
+
+0,07
+mg/kg,
+maksimal 2,5
+mg
+
+1,5-3 jam
+
+2-12 jam
+
+Hidung
+tersumbat,
+respon awal lambat
+
+Alfa metildopa
+
+Pompa infus
+
+5-10
+mg
+dalam 50 ml
+D5% (50 mg/
+ml diberikan
+sekitar 30-60
+menit) ulangi
+tiap 6-8 jam
+
+2-6 jam
+
+6-18 jam
+
+Mengantuk, respon awal
+lambat
+
+Klonidin
+
+IV
+IM
+
+0,002 mg/kg/
+kali
+ulangi
+tiap 4-6 jam.
+Dosis
+bisa
+d i t i n g ka t ka n
+sampai 3x lipat
+
+IV: 5 menit
+IM: beberapa
+menit
+lebih lama
+
+Bebera-pa
+jam
+
+Mengantuk,
+mulut
+kering,
+Rebound
+hypertension
+
+Pada anak dengan hipertensi kronis atau yang kurang terkontrol, masalah pengobatan
+menjadi lebih rumit. Beberapa anak dengan keadaan tersebut seringkali memerlukan
+obat antihipertensi kombinasi untuk memantau kenaikan tekanan darah. Prinsip dasar
+pengobatan anti hipertensi kombinasi adalah menggunakan obat-obatan dengan tempat
+dan mekanisme kerja yang berbeda. Pemilihan obat juga harus sesederhana mungkin, yaitu
+
+12
+
+Konsensus Tata Laksana Hipertensi pada Anak
+
+dengan menggunakan obat dengan masa kerja panjang, sehingga obat cukup diberikan satu
+atau dua kali sehari.18,30
+Lama pengobatan yang tepat pada anak dan remaja hipertensi tidak diketahui dengan
+pasti. Beberapa keadaan memerlukan pengobatan jangka panjang, sedangkan keadaan yang
+lain dapat membaik dalam waktu singkat. Oleh karena itu, bila tekanan darah terkontrol
+dan tidak terdapat kerusakan organ, maka obat dapat diturunkan secara bertahap, kemudian
+dihentikan dengan pengawasan yang ketat setelah penyebabnya diperbaiki. Tekanan darah
+harus dipantau secara ketat dan berkala karena banyak penderita akan kembali mengalami
+hipertensi di masa yang akan datang.14,18
+Pada Tabel 5 dibawah ini diperlihatkan petunjuk untuk menurunkan secara bertahap
+pengobatan hipertensi bila tekanan darah telah terkontrol.
+Tabel 5 Petunjuk Untuk Step-down Therapy pada Bayi, Anak atau Remaja
+Bayi
+
+Anak atau remaja
+
+Kenaikan tekanan darah terkontrol untuk 1 bulan
+Dosis obat tidak meningkat, dan bayi terus tumbuh
+Tekanan darah tetap konstan dan terkontrol
+Dosis obat diturunkan sekali seminggu dan berangsur-angsur dihentikan
+Tekanan darah terkontrol dalam batas normal untuk 6 bulan sampai 1 tahun
+Kontrol tekanan darah dengan interval waktu 6-8 minggu.
+Ubah menjadi monoterapi.
+Setelah terkontrol berlangsung kira-kira 6 minggu, turunkan monoterapi setiap
+minggu dan bila memungkinkan berangsur-angsur dihentikan.
+Jelaskan pentingnya arti pengobatan non farmakologik untuk pengontrolan
+tekanan darah.
+Jelaskan pentingnya untuk memonitor tekanan darah secara terus menerus, dan
+bahwa terapi farmakologik dapat dibutuhkan pada setiap waktu
+
+Pada anak dengan penyakit ginjal kronik, penanganan hipertensi memiliki tujuan
+untuk sedapat mungkin mempertahankan fungsi ginjal, berupaya menurunkan tekanan
+darah ke dalam batas normal, serta mengurangi risiko morbiditas. Penggunaan obat
+penghambat ACE pada penderita penyakit ginjal kronik harus dilakukan secara hati-hati,
+karena dapat menurunkan fungsi ginjal.
+
+Pembedahan
+Penderita dengan stenosis arteri renalis perlu dilakukan pembedahan dengan angioplasti
+balon atau operasi by pass untuk mengatasi hipertensi dan memperbaiki fungsi ginjal.
+Demikian juga pada penderita infark ginjal segmental, hipoplasia ginjal unilateral yang sudah
+tidak berfungsi perlu dipertimbangkan untuk dilakukan nefrektomi parsial atau lengkap.
+Untuk memaksimalkan pengobatan hipertensi, ginjal yang terkena dan kontralateralnya
+harus dievaluasi secara seksama, termasuk menilai kadar renin vena renalis setelah tindakan
+bedah. Pembedahan juga dapat dilakukan pada feokromositoma.2
+
+UKK Nefrologi
+
+13
+
+Pencegahan
+Upaya pencegahan terhadap penyakit hipertensi pada anak harus mencakup pencegahan
+primer, sekunder, maupun tersier.
+Pencegahan primer hipertensi harus dilihat sebagai bagian dari pencegahan terhadap
+penyakit lain seperti penyakit kardiovaskular dan stroke yang merupakan penyebab utama
+kematian pada orang dewasa. Penting pula diperhatikan faktor-faktor risiko untuk terjadinya
+penyakit kardiovaskular seperti obesitas, kadar kolesterol darah yang meningkat, diet tinggi
+garam, gaya hidup yang salah, serta penggunaan rokok dan alkohol.
+Sejak usia sekolah, sebaiknya dilakukan pencegahan terhadap hipertensi primer dengan
+cara mengurangi asupan natrium dan melakukan olah raga teratur.9,19,20,30 Konsumsi natrium
+perlu diimbangi dengan kalium. Rasio konsumsi natrium dan kalium yang dianjurkan adalah
+1:1. Sumber kalium yang baik adalah buah-buahan seperti pisang dan jeruk. Secara alami,
+banyak bahan pangan yang memiliki kandungan kalium dengan rasio lebih tinggi dibandingkan
+dengan natrium. Rasio tersebut kemudian menjadi terbalik akibat proses pengolahan yang
+banyak menambahkan garam ke dalamnya. Sebagai contoh, rasio kalium terhadap natrium
+pada tomat segar adalah 100:1, menjadi 10:6 pada makanan kaleng dan 1:28 pada saus tomat.
+Contoh lain adalah rasio kalium terhadap natrium pada kentang bakar 100:1, menjadi 10:9
+pada keripik dan 1:1,7 pada salad kentang. Memberikan ASI eksklusif pada bayi merupakan
+cara penting untuk mengurangi faktor risiko terjadinya hipertensi.
+Pencegahan sekunder dilakukan bila anak sudah menderita hipertensi untuk mencegah
+terjadinya komplikasi seperti infark miokard, stroke, gagal ginjal atau kelainan organ target.
+Pencegahan ini meliputi modifikasi gaya hidup menjadi lebih benar, seperti menurunkan
+berat badan, olahraga secara teratur, diet rendah lemak dan garam, menghentikan kebiasaan
+merokok atau minum alkohol.10,20
+Olah raga yang baik pada anak yang menderita hipertensi sebagai bagian dari
+pencegahan sekunder merupakan kombinasi dari jenis aerobik dan statik. Olah raga yang
+bersifat kompetitif diperbolehkan pada anak dengan prehipertensi, hipertensi stadium 1
+dan 2 yang terkontrol, tanpa disertai gejala atau kerusakan organ target. Selain itu secara
+umum olahraga yang teratur akan membuat badan kita sehat dan terasa nyaman. Olahraga
+teratur sering dikaitkan juga dengan pelepasan zat yang disebut endorphins, yang membuat
+perasaan menjadi lebih nyaman dan santai.
+Asupan makanan mengandung kalsium dapat dilakukan sebagai pengobatan alternatif
+untuk mengatasi hipertensi. Kadar kalsium yang tinggi dalam darah akan menurunkan
+kadar natrium.25,31,32
+Apabila komplikasi sudah terjadi, misalnya stroke dan retinopati, maka upaya
+rehabilitatif dan promotif yang merupakan bagian dari pencegahan tersier dapat dilakukan
+untuk mencegah kematian dan mempertahankan fungsi organ yang terkena seefektif
+mungkin.
+
+Daftar Pustaka
+1.
+
+The Sixth Report of Joint National Committee on Prevention Detection, Evaluation and
+Treatment of High Blood Pressure. Arch Intern Med. 1997; 157:2413-46.
+
+2. Sorof JM, Lai D, Turner J, Poffenberg T, Portman PJ. Overweight, ethnicity and the prevalence of
+hypertension in school-aged children. Pediatrics. 2004;113:475-82.
+3. Flynn JT. Evaluation and management of hypertension in chillhood. Prog Pediatr Cardiol.
+2001;12:177-88.
+4. Flynn JT. Differentiation between primary and secondary hipertension in children using
+ambulatory blood pressure monitoring. Pediatrics. 2002;110:89-93.
+5. Bartosh SM, Aronson AJ. Childhood hypertension. An update on etiology, diagnosis and
+treatment. Pediatr Clin Nort Am. 1999;46:235-53
+6. McTaggari SJ, Gulati S. Evaluation and long term outcome of pediatric renovascular hypertension.
+Pediatr Nephrol.2000:14:1022-9.
+7. Sinaiko AR. Current concepts: hypertension in children. N Engl J Med. 1996; 335: 1968-73.
+8. Bonilla-Felix MA, Bender JU, Portman RJ. Epidemiology of hypertension. Dalam Barratt TM,
+Avner ED, Harmon WE (penyunting). Pediatric nephrology. Edisi ke-5.Baltimore: Lippincott
+Williams and Wilkins.2004:h.1126-44
+9. Bernstein D.Diseases of the peripheral vascular system. Dalam Behrman RE, Kliegman RM,
+Jenson HB (penyunting). Nelson textbook of pediatrics. Edisi ke-17. Philadelphia: International
+edition.2004:h.1591-8
+10. Goonasekera CDA, Dillon MJ. The child with hypertension. Dalam Webb N, Postlethwaite
+R (penyunting). Clinical pediatric nephrology. Edisi ke-3. Oxford: Oxford University
+Press.2003:h.152-61
+11. Flynn JT, Alderman MH. Characteristics of children with primary hypertension seen at referral
+centre.Pediatr Nephrol.2005;20:961-6
+12. Gregoric A, Andre JL, Soergel M. Normal blood pressure and epidemiology of hypertension.
+Dalam Cochat P (penyunting). European society for pediatric nephrology handbook.
+Lyon.2002:h.3003-7.
+13. Whitworth JA. Progression of renal failure-the role of hypertension. Ann Acad Med Singapore.
+2005;34:8-15.
+14. Gulati S. Childhood hypertension. Indian Pediatrics 2006;43:326-33.
+15. National High Blood Pressure Education Program Working Group on High Blood Pressure in
+Children and Adolescents. The fourth report on the diagnosis, evaluation, and treatment of
+high blood pressure in children and adolescent. Pediatrics. 2004;114:555-76.
+16. National High Blood Pressure Education Program Working Group on High Blood Pressure
+in Children and Adolescents. Update on the 1987 task force report on high blood pressure
+in children and adolescent: a working group report from the national high blood pressure
+educational program. Pediatrics. 1996;98: 649-58.
+17. Gallermann J, Kraft S, Ehrich JH. Twenty-four-hour ambulatory blood pressure monitoring in
+young children. Pediatr Nephrol. 1997; 11:707-10.
+18. Tumbull F. Blood pressure lowering treatment trialistr collaboration. Effects of different blood
+pressure-lowering regiment on major cardiovascular events: results of prospectively-designed
+overviews of randomized trials. Lancet. 2003;362:1527-35.
+19. Feld LG, Corey H. Hypertension in childhood. Pediatr Rev.2007;28:283-98.
+20. Luma GB, Spiotta RT. Hypertention in children and adolescent.Am Fam Physician.2006;
+73:1158-68.
+21. Muntmer P, He J, Cutler JA, Wildman RP, Whelton PK. Trends in blood pressure among children
+and adolescents.JAMA. 2004;291:2107-13.
+14
+
+Konsensus Tata Laksana Hipertensi pada Anak
+
+22. Mahoney LT, Clarke WR, Burn TL, Lauer RM. Childhood predictors of high blood pressure.
+Am J Hypertens. 1991; 4: 608-10S.
+23. Freedman DS, Dietz WH, Srinivasan SR, Berenson GS. The relation of overweight to
+cardiovascular risk factors among children and adolescents: The Bogalusa Heart Study.
+Pediatrics. 1999;103:1175-82.
+24. Seeman T. Management of arterial hypertension. Dalam Cochat P (penyunting). European
+society for pediatric nephrology handbook.Lyon.2002:h.312-5.
+25. Vogt BA, Davis ID. Treatment of hypertension. Dalam Barratt TM, Avner ED, Harmon
+WE (penyunting). Pediatric nephrology. Edisi ke-5.Baltimore: Lippincott Williams and
+Wilkins.2004:h.1199-1216.
+26. Heart support Australia. Duggan K (penyunting).Princeton healthworks blood pressure. Sydney:
+Princeton Publishing Pty limited
+27. Hogg RJ, Delucchi A, Sakihara G, Wells TG, Tenney F, Batisky DL et al. A multicenter
+study of the pharmacokinetics of hisinopril in pediatric patients with hypertension.Pediatr
+Nephrol.2007;22:695-701.
+28. Bianchetti MG, Ammenti A, Avolio L, Bettinelli A, Bosio M, Fossoli E et al. Prescription of drugs
+blocking the rennin angiotensin system in Italian children. Pediatr Nephrol.2007;22:144-8.
+29. Fivush B, Neu A, Furth S. Acute hypertensive crises in children: emergencies and urgencies.
+Curr Opin Pediatr. 1997;9:233-6
+30. BrewerED.Evaluation of hypertension. DalamBarratt TM, Avner ED, HarmonWE (penyunting).
+Pediatric nephrology. Edisi ke-5.Baltimore: Lippincott Williams and Wilkins.2004:h.1179-94
+31. Zemel MB. Calcium modulation of hypertension and obesity: Mechanisms and implications.
+Journal of the American collageof nutrition.2001;20(90005):428 S-35S
+32. Kageyama Y, Suzuki H, Arima K, Saruta T. Oral calcium treatment lowers blood
+pressure in renovascular hypertensive rats by suppressing the rennin-angiotensin system.
+Hypertension.1987;10:375-82.
+
+UKK Nefrologi
+
+15
+
+Lampiran 1
+Persentil ke-95 tekanan darah anak dan remaja menurut usia dan jenis kelamin pada
+persentil tinggi badan ke-5,50, dan 95.
+Dikutip dari The fourth report on the diagnosis, evaluation, and treatment of high blood pressure
+in children and adolescent
+
+16
+
+Konsensus Tata Laksana Hipertensi pada Anak
+
+Lampiran 2
+Tabel tekanan darah anak laki-laki berdasarkan usia dan persentil tinggi badan
+Dikutip dari The fourth report on the diagnosis, evaluation, and treatment of high blood pressure
+in children and adolescent
+
+UKK Nefrologi
+
+17
+
+Lampiran 3
+Tabel tekanan darah anak perempuan berdasarkan usia dan persentil tinggi badan
+Dikutip dari The fourth report on the diagnosis, evaluation, and treatment of high blood pressure
+in children and adolescent
+
+18
+
+Konsensus Tata Laksana Hipertensi pada Anak
+
+Lampiran 4
+Pada bayi usia 0-12 bulan, digunakan kurva tekanan darah berdasarkan jenis kelamin
+sebagai berikut:
+
+Dikutip dari Report on the Second Task Force Blood Pressure Control 1987Task Force on the Blood Pressure in Children. National Heart, Lung and Blood
+Institute, Bethesda, Maryland. Pediatrics. 1987: 79; 1-25.
+
+UKK Nefrologi
+
+19
+
+Lampiran 5
+Penatalaksanaan Hipertensi pada Anak
+Dikutip dari Luma GB, Spiotta RT.
+Pengukuran tekanan darah, tinggi badan dan memperhitungkan IMT
+Penggolongan tekanan darah berdasarkan jenis kelamin, umur dan tinggi badan
+
+Hipertensi tingkat 2
+
+Hipertensi tingkat 1
+
+Penegakan Diagnosis termasuk evaluasi
+kerusakan organ target
+
+Antara persentil 90-95
+atau 120/80 mmHg
+
+Penegakan Diagnosis termasuk
+evaluasi kerusakan organ target
+Pertimbangkan untuk
+merujuk ke dokter ahli dalam
+bidang hipertensi anak
+
+IMT normal
+
+Hipertensi
+sekunder
+
+Berat badan lebih
+
+Penurunan
+berat badan,
+dan mulai
+pengobatan
+
+Persentil 95
+atau lebih
+
+Terapi yang direkomendasikan perubahan gaya
+hidup (modifikasi diet dan aktivitas fisis)
+
+Hipertensi
+primer
+
+Mencari penyebab
+hipertensi
+Mulai
+pengobatan
+
+Tekanan darah normal
+
+Pengulangan pengukuran tekanan darah
+pada tiga kali kunjungan
+
+Persentil 95 atau lebih
+
+Hipertensi sekunder atau
+hipertensi primer
+
+Pre Hipertensi
+
+Antara persentil 90-95
+atau 120/80 mmHg
+
+Lebih rendah
+dari persentil 90
+
+Terapi yang direkomendasikan
+perubahan gaya hidup
+
+Pengukuran Tekanan
+Darah di ulang dalam
+6 bulan
+IMT normal Berat badan lebih
+Penurunan
+berat badan
+Tekanan darah masih
+persentil ke-95 atau lebih
+
+Pendidikan gaya hidup
+untuk keluarga
+
+Penegakan diagnosis
+lanjut dan evaluasi
+kerusakan organ target
+jika ada berat badan
+lebih atau komorbid
+
+IMT normal Berat badan lebih
+Mulai Pengobatan*
+Direkomendasikan untuk
+menurunkan berat badan
+*_Terutama bila pasien lebih mud a usianya; tekanan darah
+sangat tinggi; sedikit atau tanpa riwayat hipertensi keluarga;
+dengan diabetes atau faktor risiko lain
+
+20
+
+Monitor tekanan darah
+tiap 6 bulan
+
+Konsensus Tata Laksana Hipertensi pada Anak
+
+Catatan :
+
+

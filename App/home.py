@@ -18,9 +18,9 @@ def home_section():
         st.markdown(
             """
             <div style="text-align: center;">
-                <img src="https://img.freepik.com/free-vector/hand-drawn-flat-copd-illustration_23-2149101819.jpg?t=st=1731041425~exp=1731045025~hmac=28548e56f9f3ee68fee82388c9a3035669beab1f5a10f012b010fdd0d2b849df&w=826" 
+                <img src="https://img.freepik.com/free-vector/flat-world-hypertension-day-illustration_23-2148896416.jpg?t=st=1731311231~exp=1731314831~hmac=736c93a326b4e2f747a6a56da3cc212cedcc535081f6df5cdc3af7e17f52e86a&w=740" 
                      style="width: 150px; height: 150px; border-radius: 50%; margin-bottom: 10px;"/>
-                <div style="font-weight: bold;">PPOK</div>
+                <div style="font-weight: bold;">Hipertensi</div>
             </div>
             """, unsafe_allow_html=True)
     
@@ -30,7 +30,7 @@ def home_section():
             <div style="text-align: center;">
                 <img src="https://img.freepik.com/free-vector/diabetes-flat-composition-medical-with-patient-symptoms-complications-blood-sugar-meter-treatments-medication_1284-28998.jpg?t=st=1731047428~exp=1731051028~hmac=6f72be42ef12428bc36df67f0e63bdd9583450f7d315343f7231a35bd8261467&w=826" 
                      style="width: 150px; height: 150px; border-radius: 50%; margin-bottom: 10px;"/>
-                <div style="font-weight: bold;">Diabetes Melitus</div>
+                <div style="font-weight: bold;">Diabetes</div>
             </div>
             """, unsafe_allow_html=True)
     
@@ -38,9 +38,9 @@ def home_section():
         st.markdown(
             """
             <div style="text-align: center;">
-                <img src="https://img.freepik.com/free-photo/cartoon-anatomical-heart-with-band-aids_23-2149767960.jpg?t=st=1731047336~exp=1731050936~hmac=95550ab4faa09b26a437b6b93ab810892cebf94f77be08836a1d84d7c6fdc460&w=826" 
+                <img src="https://img.freepik.com/free-vector/hand-drawn-cancer-infographic-template_23-2149225784.jpg?t=st=1731490910~exp=1731494510~hmac=d6fc2aea086765dbf3aa75c090c3fa73b82417682252d50ddc7fcb0df7db34e2&w=740" 
                      style="width: 150px; height: 150px; border-radius: 50%; margin-bottom: 10px;"/>
-                <div style="font-weight: bold;">Penyakit Jantung</div>
+                <div style="font-weight: bold;">Kanker Paru-Paru</div>
             </div>
             """, unsafe_allow_html=True)
 
@@ -50,13 +50,13 @@ def home_section():
         <h3 style="font-weight: bold;">Fun Facts 💭</h3>
         <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
             <div style="display: inline-block; width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
-                <strong>Penyakit Tidak Menular (PTM)</strong> seperti PPOK, Diabetes, dan Penyakit Jantung merupakan penyebab utama kematian di seluruh dunia.
+               Hipertensi disebut  <strong>pembunuh senyap</strong> karena komplikasi seriusnya yang bisa muncul mendadak meskipun seringkali <strong>tidak bergejala</strong>.
             </div>
             <div style="display: inline-block; width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
-                PTM sering kali disebabkan oleh faktor gaya hidup seperti pola makan yang buruk, kurangnya aktivitas fisik, dan merokok.
+                <strong>Diabetes</strong> tidak hanya mempengaruhi gula darah, tapi juga bisa merusak organ-organ penting seperti <strong>ginjal, saraf, dan jantung</strong>.
             </div>
             <div style="display: inline-block; width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
-                <strong>Diabetes Melitus</strong> dapat menyebabkan komplikasi serius seperti kerusakan ginjal, kebutaan, dan serangan jantung.
+                Meskipun <strong>merokok</strong> adalah penyebab utama, kanker paru-paru juga bisa menyerang <strong>non-perokok</strong> akibat paparan asap rokok bekas, polusi, dan faktor genetik.
             </div>
         </div>
     </div>
