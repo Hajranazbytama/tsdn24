@@ -1,0 +1,1440 @@
+CONTINUING MEDICAL EDUCATION
+Akreditasi PB IDI–2 SKP
+
+Penatalaksanaan Hipertensi Emergensi
+Martinova Sari Panggabean
+Dokter Umum, Medan, Sumatera Utara, Indonesia
+
+ABSTRAK
+Hipertensi emergensi didefinisikan sebagai tekanan darah sistolik >180 mmHg dan/atau tekanan darah diastolik >120 mmHg disertai bukti
+kerusakan organ target (target organ damage). Target penurunan tekanan darah pada hipertensi emergensi adalah segera dalam hitungan
+menit hingga 1-2 jam, sehingga diperlukan obat antihipertensi intravena dengan onset kerja cepat dan durasi kerja pendek (short acting). Prinsip
+pemilihan obat antihipertensi injeksi adalah berdasarkan presentasi klinis, obat pilihan pertama atau kedua, faktor komorbid, kontraindikasi, dan
+ketersediaan obat. Labetalol dan nicardipine adalah dua obat antihipertensi yang paling banyak direkomendasikan dalam berbagai guideline
+sebagai terapi lini pertama berbagai bentuk klinis hipertensi emergensi. Tujuan pengobatan hipertensi emergensi adalah mencegah atau
+membatasi kerusakan organ target lebih lanjut. Penurunan tekanan darah dilakukan secara gradual untuk mengembalikan autoregulasi organ,
+sehingga perfusi organ yang normal dapat dipertahankan.
+Kata kunci: Antihipertensi, hipertensi emergensi, organ target, tekanan darah
+
+ABSTRACT
+Hypertensive emergency is defined as systolic blood pressure >180 mmHg and/or diastolic blood pressure >120 mmHg with evidence of target
+organ damage. The target of lowering blood pressure in hypertensive emergency is immediately within minutes to 1-2 hours, so intravenous
+antihypertensive drugs with a rapid onset of action and short acting duration are needed. The principle of drug selection is based on the
+clinical presentation with consideration of the target organ damage, the first or second drug of choice, comorbid factors, contraindications, and
+availability. Labetalol and nicardipine are the two most widely recommended antihypertensive drugs in various guidelines as first-line therapy in
+various forms of clinical presentation of hypertensive emergency. The goal of treatment is to prevent or limit further target organ damage. Blood
+pressure reduction is conducted gradually to restore organ autoregulation, to maintain normal organ perfusion. Martinova Sari Panggabean.
+Management of Hypertensive Emergency
+Keywords: Antihypertensive, hypertensive emergency, target organ, blood pressure
+
+Cermin Dunia Kedokteran is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+
+HIPERTENSI EMERGENSI
+Dalam kasus hipertensi, dapat terjadi tekanan
+darah (TD) meningkat sangat tinggi secara
+tiba-tiba, sehingga memerlukan penanganan
+secepatnya. Kondisi ini disebut hipertensi
+krisis.1 Terminologi hipertensi krisis terdiri dari
+hipertensi emergensi dan hipertensi urgensi.1,2
+Hipertensi emergensi didefinisikan sebagai
+peningkatan tekanan darah sistolik >180
+mmHg dan/atau tekanan darah diastolik >120
+mmHg disertai bukti kerusakan organ target
+(target organ damage). Sedangkan hipertensi
+urgensi adalah peningkatan tekanan darah
+sistolik >180 mmHg dan/atau tekanan darah
+Alamat Korespondensi
+
+82
+
+diastolik >120 mmHg tanpa disertai kerusakan
+organ target.2 Organ target yang dimaksud
+meliputi jantung, otak, ginjal, mata, dan
+pembuluh darah.1,2
+Pada hipertensi emergensi terjadi kerusakan
+organ target yang mengancam nyawa,
+sehingga memerlukan intervensi penurunan
+tekanan darah segera dalam kurun waktu
+menit atau jam. Oleh karena itu, pada kondisi
+ini dibutuhkan obat-obat antihipertensi yang
+bereaksi cepat, yaitu yang pemberiannya
+secara intravena. Pasien hipertensi emergensi
+juga harus dirawat inap di ruang intensif (ICU/
+
+intensive care unit) untuk pemantauan ketat
+TD.1,2 Hipertensi urgensi merupakan hipertensi
+berat tanpa bukti klinis keterlibatan organ
+target, sehingga pasien dapat diberi obat
+antihipertensi oral dengan target penurunan
+darah perlahan-lahan dalam 24-48 jam,
+umumnya tidak memerlukan rawat inap.2,3
+EPIDEMIOLOGI
+Prevalensi hipertensi di seluruh dunia
+dilaporkan sekitar 31%, melebihi 1,3 miliar
+orang. Dari jumlah tersebut, diperkirakan 1%2% pasien akan mengalami hipertensi krisis.4
+Di Amerika, sekitar 50-75 juta orang menderita
+
+email: martinova.gabe@gmail.com
+
+CDK-313/ vol. 50 no. 2 th. 2023
+
+CONTINUING MEDICAL EDUCATION
+hipertensi dan menyumbang 110 juta
+kunjungan pasien ke unit gawat darurat (UGD)
+per tahun, dengan perkiraan 0,5% dari semua
+kunjungan UGD dikaitkan dengan hipertensi
+krisis.5 Data epidemiologi lain menyebutkan
+bahwa 3%-5% pasien yang ke UGD karena
+gejala hipertensi akan didiagnosis hipertensi
+krisis dan sepertiganya merupakan hipertensi
+emergensi.6 Angka kematian dalam 1 tahun
+pasien hipertensi emergensi mencapai >79%.7
+Data prevalensi hipertensi krisis di Indonesia
+belum jelas.
+ETIOLOGI
+Penyebab paling sering hipertensi emergensi
+adalah pasien hipertensi kronis yang tidak
+terdiagnosis dan pasien yang tidak patuh
+minum obat antihipertensi (medication
+noncompliance).1,3,4 Penyebab lain hipertensi
+emergensi dapat dilihat pada Tabel 1.
+PRESENTASI KLINIS
+Sindrom klinis yang biasanya terkait dengan
+hipertensi emergensi termasuk ensefalopati
+hipertensi, perdarahan intraserebral, infark
+miokard akut (MI), gagal jantung akut, edema
+paru, angina tidak stabil, aneurisma aorta
+diseksi, atau preeklamsia/eklampsia.9
+Manifestasi klinis tergantung kerusakan
+organ target, seperti sakit kepala, pusing,
+gangguan penglihatan, mual/muntah, nyeri
+dada, sesak napas, epistaksis, kecemasan yang
+berat, pingsan atau penurunan kesadaran.10,11
+Gejala klinis ensefalopati hipertensi berupa
+somnolen, letargi, kejang tonik klonik
+dan kebutaan kortikal, hingga gangguan
+kesadaran. Lesi neurologis fokal jarang terjadi
+dan jika ada, hendaknya dicurigai sebagai
+stroke. Penurunan tekanan darah hendaknya
+dilakukan dengan hati-hati.11
+PATOGENESIS DAN PATOFISIOLOGI
+Patofisiologi pasti hipertensi krisis hingga saat
+ini masih belum diketahui secara jelas. Terdapat
+dua mekanisme berbeda saling terkait yang
+diduga berperan dalam patofisiologi hipertensi
+krisis. Pertama, kegagalan mekanisme
+autoregulasi. Autoregulasi didefinisikan sebagai
+kemampuan organ (otak, jantung, dan ginjal)
+untuk mempertahankan aliran darah yang
+stabil saat terjadi perubahan tekanan perfusi.
+Autoregulasi menyebabkan pembuluh darah
+berdilatasi atau berkonstriksi sebagai respons
+terhadap perubahan tekanan perfusi agar
+perfusi organ normal dapat dipertahankan.
+
+CDK-313/ vol. 50 no. 2 th. 2023
+
+Aliran darah serebral dipertahankan pada
+individu normotensif dengan tekanan arteri
+rata-rata (mean arterial pressure/MAP) antara
+60 mmHg hingga 150 mmHg. Dalam kasus
+kegagalan autoregulasi, saat terjadi kenaikan
+tekanan darah mendadak yang melampaui
+batas autoregulasi, pembuluh darah gagal
+berkonstriksi sehingga terjadi vasodilatasi. Hal
+ini menyebabkan tekanan perfusi jaringan
+menurun akibat penurunan aliran darah ke
+jaringan.12,13
+Hipertensi emergensi dapat terjadi pada
+berbagai keadaan klinis, namun paling
+umum terjadi pada pasien hipertensi kronis
+yang tidak diobati atau hipertensi yang
+tidak terkontrol, dengan TD biasanya di atas
+180/110 mmHg.11 Pada pasien tersebut,
+peningkatan tekanan darah secara kronis tidak
+mempengaruhi perfusi organ target karena
+adanya mekanisme autoregulasi tubuh.11
+Pada individu normotensif, aliran darah dapat
+dipertahankan pada rentang tekanan darah
+rata-rata yang luas, biasanya antara 60 dan
+150 mmHg. Peningkatan kronis tekanan darah
+dapat menyebabkan kompensasi berupa
+perubahan fungsional dan struktural pada
+sirkulasi arteri serebral dan menggeser kurva
+autoregulasi ke kanan (shift to the right), yang
+memungkinkan pasien hipertensi kronis
+untuk mempertahankan perfusi normal dan
+menghindari aliran darah yang berlebihan
+pada tingkat tekanan darah yang lebih
+
+tinggi.11 Namun, walaupun terjadi pergeseran
+autoregulasi, breakthrough hyperperfusion
+akan tetap terjadi bila MAP meningkat tinggi
+melebihi 180 mmHg (220/110 mHg).15
+Mekanisme kedua adalah aktivasi sistem
+renin-angiotensin
+yang
+menyebabkan
+vasokonstriksi lebih lanjut, peningkatan
+tekanan darah, natriuresis, hipovolemia,
+dan produksi sitokin proinflamasi, seperti
+interleukin. Selain itu, aktivasi platelet juga
+diduga berperan dalam hipertensi krisis.12,14
+DIAGNOSIS
+Tujuan utama adalah membedakan hipertensi
+emergensi dan hipertensi urgensi adalah
+karena masing-masing memiliki pendekatan
+teraupetik yang berbeda. Tujuan kedua adalah
+menilai jenis dan tingkat keparahan kerusakan
+organ target yang sedang berlangsung.
+Evaluasi diagnostik yang cepat dan akurat
+sangat diperlukan untuk menentukan
+kemungkinan keterlibatan kerusakan organ
+target, dengan demikian menentukan jenis
+pengobatannya.16
+Pendekatan diagnostik antara lain:
+A. Anamnesis12,16,18
+ Riwayat hipertensi sebelumnya (durasi,
+pengobatan hipertensi sebelumnya,
+terkontrol atau tidak).
+ Riwayat penggunaan obat-obatan yang
+dapat meningkatkan tekanan darah;
+
+Gambar 1. Perbedaan hipertensi emergensi dan hipertensi urgensi.2
+
+83
+
+CONTINUING MEDICAL EDUCATION
+CONTINUING MEDICAL EDUCATION
+simpatomimetik (cocaine, amphetamine,
+phenylpropanolamine,
+phencyclidine,
+simpatomimetik (cocaine, amphetamine,
+ecstasy), steroid, estrogen, cyclosporine.
+phenylpropanolamine,
+phencyclidine,
+ Riwayat penyakit komorbid lainnya
+ecstasy), steroid, estrogen, cyclosporine.
+(kardiovaskular, ginjal, neurologi, dll).
+ Riwayat penyakit komorbid lainnya
+ Riwayat kehamilan pada wanita usia
+(kardiovaskular, ginjal, neurologi, dll).
+reproduktif.
+ Riwayat kehamilan pada wanita usia
+reproduktif.
+B. Pemeriksaan fisik4,6,12,16
+ Pembacaan tekanan darah harus dilakukan
+B. Pemeriksaan fisik4,6,12,16
+pada kedua lengan dan pembacaan
+ Pembacaan tekanan darah harus dilakukan
+diulang setelah 5 menit untuk konfirmasi.
+pada kedua lengan dan pembacaan
+Jika terdapat perbedaan tekanan lebih
+
+dari 20 mmHg antara kedua lengan, maka
+diseksi aorta harus dipertimbangkan.
+diulang setelah 5 menit untuk konfirmasi.
+ Saturasi oksigen dan detak jantung.
+Jika terdapat perbedaan tekanan lebih
+ Auskultasi untuk mendengar ada tidaknya
+dari 20 mmHg antara kedua lengan, maka
+murmur/bruit pada pembuluh darah besar,
+diseksi aorta harus dipertimbangkan.
+bising jantung, murmur pada abdomen,
+ Saturasi oksigen dan detak jantung.
+dan ronkhi paru.
+ Auskultasi untuk mendengar ada tidaknya
+ Ada tidaknya defisit neurologis.
+murmur/bruit pada pembuluh darah besar,
+ Funduskopi untuk menilai retinopati.
+bising jantung, murmur pada abdomen,
+ Palpasi denyut nadi pada keempat
+dan ronkhi paru.
+ekstremitas.
+ Ada tidaknya defisit neurologis.
+ Penurunan tekanan darah ortostatik
+ Funduskopi untuk menilai retinopati.
+(untuk mengidentifikasi deplesi volume).
+
+Tabel 1. Etiologi hipertensi emergensi8
+Tabel 1. Etiologi hipertensi emergensi8Hipertensi Esensial
+Penyakit Renovaskular
+Hipertensi Esensial
+Stenosis arteri ginjal: ateroma atau displasia fibromuskular
+Penyakit Renovaskular
+Poliarteritis nodosa
+Stenosis arteri ginjal: ateroma atau displasia fibromuskular
+Takayasu arteritis
+Poliarteritis nodosa
+Penyakit Parenkim Ginjal
+Takayasu arteritis
+Glomerulonefritis
+Penyakit Parenkim Ginjal
+Nefritis tubulointerstitial
+Glomerulonefritis
+Sklerosis sistemik
+Nefritis tubulointerstitial
+Sindrom uremik hemolitik
+Sklerosis sistemik
+Purpura trombositopenik trombotik
+Sindrom uremik hemolitik
+Diabetes melitus
+Purpura trombositopenik trombotik
+Lupus eritematosus sistemik
+Diabetes melitus
+Aplasia ginjal
+Lupus eritematosus sistemik
+Karsinoma sel ginjal
+Aplasia ginjal
+Endokrin
+Karsinoma sel ginjal
+Feokromositoma
+Endokrin
+Sindrom Cushing
+Feokromositoma
+Hiperaldosteronisme primer
+Sindrom Cushing
+Tumor yang mensekresi renin
+Hiperaldosteronisme primer
+Obat-obatan
+Tumor yang mensekresi renin
+Cocaine, phencyclidine, simpatomimetik, erythropoietin, cyclosporine
+Obat-obatan
+Sindrom withdrawal obat antihipertensi
+Cocaine, phencyclidine, simpatomimetik, erythropoietin, cyclosporine
+Amphetamine
+Sindrom withdrawal obat antihipertensi
+Keracunan timbal
+Amphetamine
+Interaksi dengan monoamine oxidase inhibitor
+Keracunan timbal
+Hiperreaktivitas Otonom
+Interaksi dengan monoamine oxidase inhibitor
+Sindrom Guillain-Barre
+Hiperreaktivitas Otonom
+Porfiria intermiten akut
+Sindrom Guillain-Barre
+Kehamilan
+Porfiria intermiten akut
+Preeklampsia
+Kehamilan
+Eklampsia
+Preeklampsia
+Gangguan Sistem Saraf Pusat
+Eklampsia
+Cedera kepala
+Gangguan Sistem Saraf Pusat
+Infark serebral
+Cedera kepala
+Perdarahan otak
+Infark serebral
+Tumor otak
+Perdarahan otak
+Cedera saraf tulang belakang
+Tumor otak
+Koarktasio aorta
+Cedera saraf tulang belakang
+Luka bakar
+Koarktasio aorta
+Nyeri pasca-operasi dan/atau komplikasi anestesi
+
+84
+84
+
+C. Pemeriksaan Penunjang
+Pemeriksaaan
+Umumnadiuntuk
+
+Palpasi denyut
+pada Hipertensi
+keempat
+15
+Emergensi
+ekstremitas.
+ Penurunan
+Funduskopi tekanan darah ortostatik
+
+ (untuk
+Elektrokardiogram
+12 sadapan
+mengidentifikasi
+deplesi volume).
+ Hemoglobin dan hitung trombosit
+ Kreatinin, eLFG (estimasi laju filtrasi
+C. Pemeriksaan Penunjang
+glomerulus), elektrolit
+Pemeriksaaan Umum untuk Hipertensi
+ Rasio albumin-kreatinin urin
+Emergensi15
+urinalisis lengkap
+ Funduskopi
+ Dipertimbangkan kemungkinan hamil
+ Elektrokardiogram 12 sadapan
+pada perempuan usia reproduktif
+ Hemoglobin dan hitung trombosit
+ Kreatinin, eLFG (estimasi laju filtrasi
+Pemeriksaan Spesifik Berdasarkan Indikasi15
+glomerulus), elektrolit
+ Troponin, CK-MB, atau NT-proBNP (bila
+ Rasio albumin-kreatinin urin
+ada kecurigaan masalah jantung, misalnya
+urinalisis lengkap
+nyeri dada akut atau gagal jantung akut)
+ Dipertimbangkan kemungkinan hamil
+ Foto toraks (bila ada kecurigaan
+pada perempuan usia reproduktif
+bendungan di paru)
+ Ekokardiografi (bila ada kecurigaan diseksi
+Pemeriksaan Spesifik Berdasarkan Indikasi15
+aorta, gagal jantung, atau iskemi miokard)
+ Troponin, CK-MB, atau NT-proBNP (bila
+ CT angiografi toraks dan/atau abdomen
+ada kecurigaan masalah jantung, misalnya
+(bila ada kecurigaan diseksi aorta akut)
+nyeri dada akut atau gagal jantung akut)
+ CT atau MRI otak (bila ada kecurigaan
+ Foto toraks (bila ada kecurigaan
+masalah sistem saraf )
+bendungan di paru)
+ USG ginjal (bila ada kecurigaan gangguan
+ Ekokardiografi (bila ada kecurigaan diseksi
+ginjal atau stenosis arteri renalis)
+aorta, gagal jantung, atau iskemi miokard)
+ P
+ CT angiografi toraks dan/atau abdomen
+(bila ada kecurigaan diseksi aorta akut)
+ CT atau MRI otak (bila ada kecurigaan
+masalah sistem saraf )
+TATA LAKSANA HIPERTENSI EMERGENSI
+ USG ginjal (bila ada kecurigaan gangguan
+American College of Cardiologi/American
+ginjal atau stenosis arteri renalis)
+Heart
+Association
+(ACC/AHA)
+2017
+ Penapisan obat dalam urin (bila
+mengeluarkan pedoman algoritma diagnosis
+ada
+kecurigaan
+penggunaan
+dan manajemen hipertensi krisis (Gambar
+methamphetamine atau cocaine)
+4). Pasien hipertensi emergensi dianjurkan
+dirawat di unit perawatan intensif (ICU) agar
+TATA LAKSANA HIPERTENSI EMERGENSI
+pemantauan berkesinambungan terhadap TD
+American College of Cardiologi/American
+dan kerusakan organ target dapat dilakukan
+Heart
+Association
+(ACC/AHA)
+2017
+dan untuk pemberian agen antihipertensi
+mengeluarkan pedoman algoritma diagnosis
+parenteral yang tepat. Pada hipertensi
+dan manajemen hipertensi krisis (Gambar
+emergensi, dipilih antihipertensi injeksi.2,12,16
+4). Pasien hipertensi emergensi dianjurkan
+dirawat di unit perawatan intensif (ICU) agar
+Perlu diketahui bahwa level TD spesifik tidak
+pemantauan berkesinambungan terhadap TD
+menentukan tingkat keparahan dan keadaan
+dan kerusakan organ target dapat dilakukan
+emergensi, karena perubahan autoregulasi
+dan untuk pemberian agen antihipertensi
+secara struktural dan fungsional akan
+parenteral yang tepat. Pada hipertensi
+memungkinkan pasien hipertensi kronis untuk
+emergensi, dipilih antihipertensi injeksi.2,12,16
+menoleransi kadar TD yang sangat tinggi,
+sedangkan pasien dengan onset baru atau
+Perlu diketahui bahwa level TD spesifik tidak
+peningkatan TD yang mendadak cepat dapat
+menentukan tingkat keparahan dan keadaan
+timbul kerusakan organ target pada tingkat
+emergensi, karena perubahan16 autoregulasi
+TD yang relatif lebih rendah. Pemahaman
+secara struktural dan fungsional akan
+tentang autoregulasi ini sangat penting dalam
+memungkinkan pasien hipertensi kronis untuk
+tata laksana hipertensi emergensi, karena
+menoleransi kadar TD yang sangat tinggi,
+sedangkan pasien dengan onset baru atau
+CDK-313/ vol. 50 no. 2 th. 2023
+CDK-313/ vol. 50 no. 2 th. 2023
+
+CONTINUING MEDICAL EDUCATION
+penurunan tekanan darah secara mendadak/
+tiba-tiba ke kisaran yang dianggap ‘normal’
+dapat menurunkan tekanan darah di bawah
+kapasitas autoregulasi ‘baru’ dari sirkulasi
+hipertensi dan menyebabkan hipoperfusi
+pada jaringan. Terdapat banyak bukti klinis
+yang menunjukkan bahwa dalam konteks
+hipertensi emergensi, penurunan tekanan
+darah secara tiba-tiba dapat berbahaya;
+misalnya penggunaan nifedipine sublingual
+yang menghasilkan efek penurunan tekanan
+darah yang kuat, tetapi tidak dapat diprediksi,
+dikaitkan dengan peningkatan morbiditas
+dan mortalitas.16
+
+OBAT-OBAT
+ANTIHIPERTENSI
+PADA
+HIPERTENSI EMERGENSI
+Pemilihan obat antihipertensi injeksi pada
+hipertensi emergensi bergantung pada
+presentasi klinis atau kerusakan organ target.
+Secara umum, prinsipnya adalah harus
+memiliki onset kerja cepat dan durasi kerja
+pendek (short acting) dengan memperhatikan
+tipe kerusakan organ target, presentasi
+klinis tertentu, obat pilihan pertama atau
+kedua, faktor komorbid, obat yang dihindari/
+
+kontraindikasi, dan ketersediaan obat.16,18
+Obat intravena dengan waktu paruh pendek
+merupakan pilihan ideal untuk titrasi hatihati tekanan darah.15,16,18 Hal ini untuk
+memungkinkan pengendalian TD dengan
+segera bila terjadi respons penurunan TD yang
+berlebihan.18
+Labetalol dan nicardipine paling banyak
+direkomendasikan sebagai terapi lini pertama
+(first-line therapy) pada hipertensi emergensi.
+
+Tabel 2. Contoh kerusakan organ target dan manifestasi klinis hipertensi emergensi.9
+Organ Target
+
+Penurunan tekanan darah yang mendadak
+dapat memicu iskemia ginjal, serebral, atau
+koroner, sehingga harus dihindari. Sebagian
+besar literatur merekomendasikan penurunan
+tekanan darah arteri rata-rata tidak lebih dari
+20%-25% MAP dalam beberapa menit hingga
+1 sampai 2 jam. Target tekanan darah diastolik
+adalah antara 100 dan 110 mmHg yang dapat
+dicapai dalam 2-6 jam berikutnya.16 Penurunan
+tekanan darah diastolik hingga <90 mmHg
+atau sedikitnya 35% dari MAP telah dikaitkan
+dengan disfungsi organ utama, koma, dan
+kematian.11 Dengan demikian, tujuan terapi
+antihipertensi bukanlah untuk menormalkan
+tekanan darah dengan cepat, tetapi untuk
+mencegah kerusakan organ target dengan
+menurunkan tekanan darah secara bertahap,
+sambil meminimalkan risiko hipoperfusi.16
+
+NEUROLOGIS
+Infark serebral
+Ensefalopati hipertensi
+Perdarahan intraserebral dan subarakhnoid
+KARDIOVASKULAR
+Edema paru akut (gagal ventrikel kiri)
+Gagal jantung kongestif akut (gagal ventrikel kiri dan/atau kanan)
+Iskemia koroner akut (infark miokard atau angina tidak stabil)
+GINJAL
+Gagal ginjal akut
+HATI
+Peningkatan enzim hati (paling sering dikaitkan dengan sindrom HELLP)
+MATA
+Perdarahan/eksudat retina
+PEMBULUH DARAH
+Eklampsia
+Diseksi aorta (tipe A atau B)
+HELLP = hemolysis, elevated liver enzymes
+
+Prevalensi (%)
+24,5
+16,3
+4,5
+22,5
+14,3
+12
+<10
+0,1-0,8
+0,01-0,02
+4,5
+2
+
+Nilai absolut tekanan darah pada hipertensi emergensi bukanlah tanda patognomonik.
+Pada pedoman ACC/AHA 2017 target
+penurunan
+TD
+dibedakan
+dengan
+melihat ada atau tidaknya kondisi yang
+memaksa/compelling condition
+(diseksi
+aorta, preeklampsia berat atau eklampsia,
+dan krisis pheochromocytoma). Bila tidak
+ditemukan compelling condition, tata laksana
+HT emergensi adalah dengan melakukan
+penurunan TD maksimal 25% MAP dalam
+jam pertama, kemudian target penurunan
+TD mencapai 160/100-110 mmHg dalam
+2 sampai 6 jam, selanjutnya TD mencapai
+normal dalam 24 sampai 48 jam. Sementara
+jika
+didapatkan
+compelling condition,
+dilakukan penurunan TD yang lebih agresif,
+yaitu penurunan TD di bawah 140 mmHg
+dalam jam pertama dan di bawah 120 mmHg
+pada diseksi aorta. Penurunan TD yang kurang
+agresif dilakukan pada hipertensi emergensi
+dengan kondisi komorbid penyakit serebrovaskular (perdarahan intraserebral akut dan
+stroke iskemik akut).2
+
+CDK-313/ vol. 50 no. 2 th. 2023
+
+85
+
+CONTINUING MEDICAL EDUCATION
+Kedua obat ini secara umum aman digunakan
+dalam semua kasus kegawatdaruratan
+hipertensi dan disarankan untuk tersedia
+di unit gawat darurat atau ICU. Nitroglycerin
+dan nitroprusside secara khusus dipilih dalam
+hipertensi emergensi dengan keterlibatan
+organ target jantung dan aorta.16,18 Beberapa
+kondisi spesifik lain dan rekomendasi obat
+antihipertensinya dapat dilihat pada tabel 4.
+Karakteristik
+farmakologis
+obat-obat
+antihipertensi injeksi pada hipertensi
+emergensi dapat dilihat pada tabel 5.
+Labetalol
+Labetalol termasuk obat antihipertensi pilihan
+pertama pada kebanyakan kasus hipertensi
+emergensi.18 Labetalol adalah penghambat
+reseptor α1 secara selektif dan reseptor β
+secara nonselektif, namun aktivitas kerjanya
+lebih dominan pada reseptor beta (dengan
+perbandingan 1:7). Efek hipotensi labetalol
+dimulai dalam 2-5 menit setelah pemberian
+intravena, mencapai puncaknya pada 5-15
+menit, dan berlangsung selama 2-4 jam.16,20
+
+Karena efek penghambatannya terhadap
+reseptor β, labetalol dapat mempertahankan
+atau sedikit menurunkan detak jantung. Tidak
+seperti agen penghambat β-adrenergik murni
+yang menurunkan curah jantung, labetalol
+tetap mempertahankan curah jantung.
+Labetalol tidak menimbulkan refleks takikardia
+dan penurunan bermakna denyut jantung.16,20
+Labetalol mengurangi resistensi vaskular
+sistemik tanpa mengurangi aliran darah perifer
+total. Selain itu, labetalol mempertahankan
+aliran darah ke otak, ginjal, dan pembuluh darah
+koroner. Labetalol merupakan terapi pilihan
+pertama hipertensi emergensi pada kehamilan
+(preeklampsia berat atau eklampsia) karena
+hanya sedikit yang melewati plasenta.16,20
+Obat ini dimetabolisme di hati dalam bentuk
+konjugat inaktif dan memiliki efek minimal
+terhadap fungsi ginjal, sehingga menjadi
+preferensi pada pasien dengan penurunan
+fungsi ginjal. Kontraindikasi labetalol antara
+lain pasien gagal jantung, COPD/penyakit paru
+obstruktif kronik, asma, bradikardia sinus berat,
+AV blok derajat 2 dan 3.16,20
+
+Gambar 3. Endotelium memiliki peran sentral dalam homeostasis tekanan darah dengan
+mensekresi nitrit oksida (nitric oxide/NO) dan prostasiklin (PGI2), zat yang memodulasi tonus
+pembuluh darah melalui vasodilatasi. Pada normotensi atau hipertensi kronis, endotelium
+memodulasi resistensi vaskular melalui pelepasan autokrin/parakrin dari molekul vasoaktif seperti
+NO dan PGI2. Pada hipertensi urgensi, perubahan akut resistensi vaskular terjadi sebagai respons
+terhadap produksi berlebihan zat katekolamin, angiotensin II (ATII), vasopresin (ADH), aldosteron,
+tromboksan (TxA2), dan endotelin 1 (ET1), atau berkurangnya produksi vasodilator endogen,
+seperti NO dan PGI2. Peningkatan akut tekanan darah juga dapat meningkatkan ekspresi molekul
+adhesi seluler (cellular adhesion molecules/CAM) oleh endotelium. Pada hipertensi emergensi,
+terjadi kehilangan kontrol endotelium terhadap tonus vaskular yang menyebabkan hiperperfusi
+organ target, nekrosis fibrinoid arteriol, dan peningkatan permeabilitas endotelium disertai
+edema perivaskular. Hilangnya aktivitas fibrinolitik endotelium disertai dengan aktivasi koagulasi
+dan trombosit mengakibatkan terjadinya koagulasi intravaskular diseminata (disseminated
+intravascular coagulation/DIC).15
+
+86
+
+Dosis awal labetalol dimulai dari 20 mg, diikuti
+dengan dosis tambahan berulang 20-80 mg
+dengan interval 10 menit sampai tekanan
+darah yang diinginkan tercapai. Alternatif
+lain, setelah pemberian dosis inisial, dapat
+diberikan infus 1-2 mg/menit dan dititrasi
+sampai efek hipotensi yang diinginkan
+tercapai. Injeksi bolus 1-2 mg/kg labetalol
+telah dilaporkan menyebabkan penurunan
+tekanan darah yang drastis, sehingga harus
+dihindari.20,21
+Nicardipine
+Nicardipine merupakan penghambat kanal
+kalsium (calcium channel blocker) derivat
+dihydropyridine generasi kedua yang juga
+banyak direkomendasikan sebagai terapi
+pilihan pertama hipertensi emergensi.
+Nicardipine memiliki onset kerja 5 - 15 menit
+dan durasi kerja 4-6 jam dengan aktivitas
+vasodilatasi arteri serebral dan koroner yang
+kuat. Obat ini dimetabolisme di hati secara
+ekstensif.16,20 Manfaat terapeutik nicardipine
+yaitu dapat meningkatkan volume sekuncup
+dan aliran darah koroner dengan efek yang
+menguntungkan terhadap keseimbangan
+oksigen miokardium. Karakteristik ini
+menjadikan nicardipine bermanfaat pada
+pasien penyakit arteri koroner dan gagal
+jantung sistolik. Pemberian nicardipine
+intravena telah terbukti mengurangi iskemia
+jantung dan serebral.16,20
+Dosis nicardipine tidak tergantung berat
+badan dan dapat dimulai dengan dosis 5
+mg/jam, ditingkatkan 2,5 mg/jam setiap 5
+menit hingga target penurunan tekanan
+darah tercapai dengan dosis maksimum 15
+mg/jam.16,20 Nicardipine dapat mencetuskan
+refleks takikardia.19 Pemberian pada pasien
+pasca-operasi perlu diperhatikan karena
+dapat berinteraksi dengan obat anestesi
+inhalasi.16 Kontraindikasi nicardipine antara lain
+gangguan hati.19
+Nitroglycerin
+Nitroglycerin adalah venodilator kuat,
+namun pada dosis tinggi dapat melebarkan
+arteri.16,20 Obat ini mengurangi preload
+sehingga menurunkan curah jantung,
+menekan vasospasme koroner, sehingga
+meningkatkan aliran darah koroner dan
+menurunkan kebutuhan oksigen jantung.
+Dengan demikian, dengan karakteristik
+tersebut obat ini terutama diindikasikan
+pada pasien hipertensi emergensi dengan
+
+CDK-313/ vol. 50 no. 2 th. 2023
+
+CONTINUING MEDICAL EDUCATION
+sindrom koroner akut dan edema paru akut.
+Di sisi lain, akibat penurunan curah jantung
+yang ditimbulkannya, nitroglycerin dapat
+merugikan pasien yang telah mengalami
+gangguan aliran darah serebral atau ginjal.
+Oleh karena itu, nitroglycerin hanya diberikan
+pada kasus hipertensi emergensi disertai
+sindrom koroner akut, edema paru jantung
+akut, dan diseksi aorta.16,20,21
+Nitroglycerin memiliki onset aksi segera
+dan durasi kerja 3 sampai 5 menit dan
+dimetabolisme di sel darah merah, hati, dan
+dinding pembuluh darah. Dosis awal 5 mcg/
+menit dengan infus kontinu dan ditingkatkan
+setiap 5 menit hingga tercapai dosis 20 mcg/
+menit. Jika respons tidak memadai, dosis
+dapat ditingkatkan 10 sampai 20 mcg/menit
+setiap 5 menit sampai dosis maksimum 200
+mcg/menit tercapai.21 Refleks takikardia dan
+hipotensi dapat timbul akibat penurunan
+volume. Nyeri kepala adalah efek samping
+yang paling umum dilaporkan, dan toleransi
+dicapai dalam 24 jam setelah pemberian.20,21
+Pengobatan
+berkepanjangan
+dapat
+mengakibatkan methemoglobinemia, kondisi
+hemoglobin mengandung oksida besi,
+sehingga menghambat transportasi oksigen.21
+
+dekompensasi, pasien yang sudah menjalani
+terapi beta blocker, bradikardia, blok jantung,
+asma, penyakit paru obstruktif kronik.16,20,21
+Nitroprusside
+Nitroprusside merupakan agen antihipertensi
+yang sangat kuat, dengan onset kerja dalam
+hitungan detik, durasi kerja 1 sampai 2 menit,
+dan waktu paruh plasma 3 sampai 4 menit.
+Obat ini juga merupakan vasodilator arteri dan
+vena, sehingga menurunkan afterload dan
+preload. Nitroprusside tidak disarankan pada
+kasus neurologis, seperti stroke dan sindrom
+koroner akut karena dapat mengganggu
+autoregulasi serebral, meningkatkan tekanan
+intrakranial, serta mengurangi aliran darah
+koroner.16,20
+Nitroprusside mengandung 44% sianida
+menurut beratnya.20 Nitroprusside dapat
+berinteraksi
+dengan
+oksihemoglobin,
+berdisosiasi, dan membentuk methemoglobin
+sambil melepaskan sianida, tiosianat, dan nitric
+oxide/NO terutama pada durasi penggunaan
+lebih dari 48 jam dan pada pasien gagal
+
+ginjal atau hati. Cyanide dilepaskan secara
+non-enzimatik, jumlahnya tergantung dosis.
+Cyanide dimetabolisme di hati menjadi
+thiocyanate melalui perantaraan thiosulfate.
+Thiocyanate 100 kali lebih toksik daripada
+cyanide. Oleh karena itu, nitroprusside
+dapat menyebabkan sitotoksisitas karena
+pelepasan senyawa cyanide dan thiocyanate
+yang menimbulkan gangguan respirasi
+seluler.20 Tanda-tanda toksisitas cyanide/
+thiocyanate yaitu hiperrefleksia, delirium, dan
+psikosis. Toksisitas cyanide dapat terjadi pada
+kecepatan infus >4 mcg/kg/menit dalam
+beberapa jam.21 Thiocyanate diekskresikan
+sebagian besar melalui ginjal. Oleh karena itu,
+ekskresi cyanide membutuhkan fungsi hati
+dan ginjal dan bioavailabilitas thiosulfate yang
+memadai.16,20 Beberapa ahli menyarankan
+nitroprusside harus ditinggalkan dalam
+pengobatan hipertensi darurat karena
+potensi efek toksiknya. Obat ini hanya boleh
+digunakan bila agen antihipertensi injeksi
+lainnya tidak tersedia dan terbatas hanya
+dalam keadaan klinis tertentu seperti edema
+paru akut dan diseksi aorta, serta hanya pada
+
+Esmolol
+Esmolol merupakan penghambat reseptor
+beta selektif yang bekerja sangat singkat
+(ultrashort-acting). Onset kerja esmolol adalah
+60 detik dan durasi kerja 10-20 menit. Hal
+ini menyebabkan esmolol mudah reversibel.
+Obat ini dimetabolisme melalui hidrolisis
+ikatan ester oleh esterase sel darah merah dan
+tidak bergantung pada fungsi hati atau ginjal,
+namun waktu paruhnya dapat memanjang
+pada pasien anemia. Esmolol secara khusus
+menjadi agen pilihan pada hipertensi berat
+pasca-operasi. Efek samping esmolol adalah
+bradikardia, sehingga esmolol ideal untuk
+kondisi yang berhubungan dengan takikardia,
+peningkatan curah jantung, dan tekanan
+darah.16,20,21 Esmolol juga merupakan pilihan
+terapi pertama pada hipertensi emergensi
+dengan diseksi aorta menurut International
+Society of Hypertension 2020.18
+Pemberian infus esmolol dapat dimulai
+dengan dosis 0,5-2 mg/kg selama 1 menit,
+diikuti dengan infus 50-100 mcg/kg/menit
+yang dapat dititrasi hingga 300 mcg/kg/
+menit jika perlu. Penggunaan esmolol tidak
+dianjurkan pada pasien gagal jantung
+
+CDK-313/ vol. 50 no. 2 th. 2023
+
+Gambar 4. Algoritma diagnosis dan tata laksana hipertensi krisis menurut AHA 2017.2
+
+87
+
+CONTINUING MEDICAL EDUCATION
+Tabel 3. Gambaran target penurunan tekanan darah dan pilihan obat antihipertensi injeksi yang
+direkomendasikan berdasarkan presentasi klinis.18
+Waktu dan Target
+Penurunan TD
+
+Presentasi Klinis
+
+Terapi Lini Pertama
+
+Alternatif
+
+Hipertensi maligna dengan
+atau tanpa
+TMA (thrombotic
+microangiopathy) atau gagal
+ginjal akut
+
+Beberapa jam
+menurunkan MAP
+sebesar 20%-25%
+
+Labetalol
+Nicardipine
+
+Nitroprusside
+Urapidil
+
+Hipertensi ensefalopati
+
+Segera turunkan MAP
+sebesar 20%-25%
+Dalam 1 jam turunkan
+MAP sebesar 15%
+
+Labetalol
+Nicardipine
+Labetalol
+Nicardipine
+
+Nitroprusside
+
+Dalam 1 jam turunkan
+MAP sebesar 15%
+
+Labetalol
+Nicardipine
+
+Nitroprusside
+
+Stroke iskemik akut dan TDS
+>220 mmHg atau TDD >120
+mmHg
+Stroke iskemik akut dengan
+indikasi untuk terapi trombolitik
+dan TDS >185 mmHg atau TDD
+>110 mmHg
+Stroke perdarahan akut dan TDS
+>180 mmHg
+Kejadian koroner akut
+Edema paru kardiogenik akut
+
+Diseksi aorta akut
+
+Eklampsia dan pre-eklampsia
+berat/HELLP
+
+Labetalol
+Nicardipine
+Nitroglycerin
+Labetalol
+Nitroprusside atau
+nitroglycerin (dengan
+loop diuretik)
+Segera turunkan TDS
+Esmolol dan
+hingga <120 mmHg
+nitroprusside atau
+dan denyut nadi hingga nitroglycerin atau
+<60 x/menit
+nicardipine
+Segera turunkan TDS
+Labetalol atau
+hingga <160 mmHg
+nicardipine dan
+dan TDD <105 mmHg
+magnesium sulfate
+Segera turunkan TDS
+antara 130-180 mmHg
+Segera turunkan TDS
+sampai <140 mmHg
+Segera turunkan TDS
+sampai <140 mmHg
+
+Nitroprusside
+
+Urapidil
+Urapidil
+Urapidil (dengan loop
+diuretik)
+Labetalol atau
+metoprolol
+
+TDS: Tekanan darah sistolik, TDD: Tekanan darah diastolik
+Tabel 4. Kondisi spesifik lain dan rekomendasi obat antihipertensinya.16,18
+Rekomendasi Obat
+Antihipertensi
+
+Presentasi Klinis
+Cathecolamine excess
+
+Hipertensi emergensi
+perioperatif/postoperatif
+
+Hiperaktivitas simpatis:
+Intoksikasi amphetamine,
+simpatomimetik, cocaine
+Pheochromocytoma
+Coronary artery surgery
+
+Non-cardiac surgery
+
+Glomerulus nefritis akut
+Stenosis arteri renal
+Penyakit kolagen-vaskular ginjal
+
+fungsi ginjal dan hati yang normal.20
+
+Clonidine
+
+88
+
+Phentolamine
+Clonidine
+
+Alternatif
+Nicardipine
+Nitroprusside
+
+Phentolamine
+
+Urapidil
+Nitroprusside
+Nitroglycerin Nicardipine Labetalol
+Clevidipine
+Esmolol
+Fenoldopam
+Esmolol
+Clevidipine
+Labetalol
+Fenoldopam
+Nitroglycerin
+Fenoldopam
+Nicardipine
+Labetalol
+Clevidipine
+
+Clonidine
+merupakan
+agonis
+alfa-2
+adrenergik (alfa-2 agonist). Clonidine bekerja
+menurunkan tonus simpatis perifer melalui
+stimulasi reseptor alfa-2 di pusat vasomotor
+medula oblongata dan penurunan renin dan
+
+aldosteron.22 Onset kerja clonidine adalah 1530 menit dan durasi kerja selama 2-8 jam.21
+Clonidine memiliki efek sedatif-analgesik,
+sehingga dapat digunakan pada hipertensi
+berat yang berhubungan dengan nyeri dan
+kecemasan. Penghentian clonidine secara
+mendadak dapat menimbulkan gejala
+clonidine withdrawal syndrome berupa rebound
+hipertensi.22 Efek samping yaitu mulut kering,
+sedasi, hipotensi ortostatik, dan rebound
+hipertensi. Dosis loading dapat dimulai dari
+0,1 hingga 0,2 mg diikuti 0,05 hingga 0,1
+mg setiap jam hingga tekanan darah yang
+diinginkan tercapai, atau dosis maksimum 0,8
+mg tercapai.21
+Fenoldopam
+Fenoldopam merupakan agonis reseptor
+dopamine-1
+selektif
+yang
+bekerja
+meningkatkan
+aliran
+darah
+ginjal,
+meningkatkan fungsi ginjal, dan merangsang
+natriuresis. Obat ini memiliki onset kerja 5-10
+menit dengan durasi kerja 30-60 menit.20,21
+Obat ini dengan cepat dimetabolisme oleh
+metilasi hati tanpa melibatkan enzim sitokrom
+P450, dan diekskresikan sebagian besar melalui
+urin (90%).22 Fenoldopam merupakan pilihan
+terapi pada hipertensi emergensi dengan
+kerusakan organ target ginjal karena memiliki
+sifat renoprotektif, yaitu meningkatkan aliran
+darah ginjal, meningkatkan fungsi ginjal dan
+ekskresi natrium pada pasien hipertensi, serta
+merangsang natriuresis. Fenoldopam dapat
+juga digunakan pada hipertensi emergensi
+perioperatif. Fenoldopam intravena tidak
+melewati sawar darah otak, sehingga tidak
+memengaruhi sistem saraf pusat.16,20,22 Dosis
+rekomendasi fenoldopam adalah 0,01–1,5
+mcg/kg/menit dan dapat dititrasi dengan
+peningkatan 0,05–0,1 mcg/kg/menit setiap
+15 menit, dosis maksimum 1,5 mcg/kg/
+menit.16,22 Fenoldopam dikontraindikasikan
+pada glaukoma karena dapat meningkatkan
+tekanan intraokular.16
+Enalaprilat
+Enalaprilat saat ini merupakan satu-satunya
+ACE inhibitor (angiotensin-converting enzyme)
+yang tersedia dalam formulasi parenteral.
+Enalaprilat memiliki onset kerja 15 menit
+dan durasi kerja 12 sampai 24 jam, sehingga
+bermandaat bagi pasien yang membutuhkan
+kontrol tekanan darah berkepanjangan.
+Namun, sifat ini mengakibatkan obat ini sulit
+dititrasi.21 Enalaprilat juga meningkatkan risiko
+hipotensi, terutama pada stenosis arteri ginjal
+
+CDK-313/ vol. 50 no. 2 th. 2023
+
+CONTINUING MEDICAL EDUCATION
+atau hipovolemia.16,21 Obat ini berpotensi
+menimbulkan refleks takikardia terkait
+hipotensi yang ditimbulkannya.22 Dosis awal
+yang lebih rendah harus dipertimbangkan jika
+bersamaan dengan terapi diuretik, mengalami
+penurunan volume, atau hiponatremia.
+Enalaprilat harus dihindari pada gagal jantung
+dekompensasi atau infark miokard akut dan
+dikontraindikasikan pada stenosis arteri ginjal
+bilateral atau sedang hamil.21
+Phentolamine
+Phentolamine merupakan antagonis reseptor
+α-1-and α-2 reversibel. Phentolamine
+sebagian besar digunakan pada hipertensi
+emergensi karena hiperaktivitas/krisis simpatis
+(catecholamine-driven hypertensive crisis)
+seperti pheochromocytoma, interaksi antara
+inhibitor monoamine oxidase dengan obat
+atau makanan, toksisitas cocaine, overdosis
+amphetamine, atau clonidine withdrawal.21,22
+
+Clevidipine
+Clevidipine adalah antihipertensi generasi
+terbaru golongan calcium channel blocker
+derivat dihydropyridine generasi ketiga yang
+kerjanya sangat pendek (ultrashort-acting).16
+Clevidipine memiliki onset kerja 2-3 menit dan
+durasi kerja sangat pendek, yaitu 5-15 menit.19
+Penurunan 15% pertama tekanan darah
+sistolik dicapai dalam 5-6 menit.22 Clevidipine
+merupakan arteriodilator murni dan tidak
+memengaruhi tonus vena atau kontraktilitas
+otot
+jantung.
+Studi
+eksperimental
+menunjukkan
+bahwa
+clevidipine
+mempertahankan aliran darah splanknik dan
+perfusi ginjal serta dapat melindungi jantung
+dari cedera iskemia pada iskemia miokard.16
+Tidak seperti golongan dihydropyridine lainnya,
+clevidipine umumnya tidak mencetuskan
+refleks takikardia.21 Eliminasi clevidipine tidak
+dipengaruhi oleh disfungsi hati dan ginjal.
+Sifat farmakodinamik dan farmakokinetik
+
+pemberian obat antihipertensi.16
+Saat ini efikasi dan keamanan clevidipine
+telah diteliti pada pasien hipertensi berat
+di unit gawat darurat, unit perawatan
+intensif, dan hipertensi perioperatif.16,21 Studi
+ECLIPSE, yang mengevaluasi efek clevidipine
+dibandingkan nitroglycerin, nitroprusside, dan
+nicardipine dalam pengobatan hipertensi
+akut perioperatif pasien yang menjalani
+operasi jantung, menunjukkan tidak ada
+perbedaan signifikan dalam kejadian infark
+miokard, stroke, dan disfungsi ginjal antara
+clevidipine dengan nitroglycerin, nitroprusside,
+dan nicardipine. Clevidipine secara signifikan
+menurunkan angka kematian dibandingkan
+nitroprusside dan juga lebih efektif
+dibandingkan nitroglycerin dan nitroprusside
+dalam mempertahankan tekanan darah
+dalam kisaran target yang telah ditentukan.16
+
+Tabel 5. Karakteristik dan dosis obat-obat antihipertensi injeksi pada hipertensi emergensi.19
+Nama Obat
+
+Onset
+
+Durasi Kerja
+
+Dosis
+
+Kontraindikasi
+
+0,5–1 mg/kg bolus; 50–300 mg/kg/
+menit infus kontinu
+15 mg iv, biasanya diberikan 5 mg iv,
+dan diulangi dengan interval 5 menit
+sesuai kebutuhan
+0,25–0,5 mg/kg; 2–4 mg/mnt sampai
+target TD tercapai, setelah itu 5–20 mg/
+jam
+0,1 mcg/kg/mnt, tingkatkan setiap 15
+menit hingga target TD tercapai
+2 mg/jam, tingkatkan setiap 2 menit
+dengan 2 mg/jam sampai target TD
+tercapai.
+5–15 mg/jam dalam infus kontinu, dosis
+awal 5 mg/jam, naikkan 2,5 mg setiap
+15–30 menit hingga target TD tercapai,
+kemudian turunkan menjadi 3 mg/jam.
+5-200 mg/mnt, naikkan 5 mg/mnt
+setiap 5 menit
+0,3–10 mg/kg/mnt, naikkan 0,5 mg/kg/
+mnt setiap 5 menit hingga target TD
+tercapai
+0,62-1,25 mg iv
+12,5–25 mg dalam injeksi bolus; 5–40
+mg/jam dalam infus kontinu
+150–300 mcg iv lebih dari 5-10 menit
+
+Blok AV derajat kedua atau ketiga, gagal
+jantung sistolik, asma, bradikardia
+Blok AV derajat kedua atau ketiga, gagal
+jantung sistolik, asma, bradikardia
+
+Esmolol
+
+1–2 menit
+
+10–30 menit
+
+Metoprolol
+
+1–2 menit
+
+5-8 jam
+
+Labetalol
+
+5-10 menit
+
+3-6 jam
+
+Fenoldopam
+
+5-15 menit
+
+30-60 menit
+
+Clevidipine
+
+2-3 menit
+
+5-15 menit
+
+Nicardipine
+
+5-15 menit
+
+30-40 menit
+
+Nitroglycerin
+
+1-5 menit
+
+3-5 menit
+
+Nitroprusside
+
+Segera
+
+1-2 menit
+
+Enalaprilat
+Urapidil
+
+5-15 menit
+3-5 menit
+
+4-6 jam
+4-6 jam
+
+Clonidine
+
+30 menit
+
+4-6 jam
+
+Phentolamine
+
+1-2 jam
+
+10-30 menit
+
+Onset kerja phentolamine adalah 1-2 menit
+dan durasi kerja 10-30 menit. Dosis adalah 0,51 mg/kg injeksi bolus atau 50-300 mcg/kg/
+menit dalam infus kontinu.19
+
+CDK-313/ vol. 50 no. 2 th. 2023
+
+Blok AV derajat kedua atau ketiga, gagal
+jantung sistolik, asma, bradikardia
+
+Efek Samping
+Bradikardia
+Bradikardia
+
+Bronkokonstriksi,
+Bradikardia pada janin
+
+Perhatian pada glaukoma
+Sakit kepala, refleks
+takikardia
+Gagal hati
+
+Sakit kepala, refleks
+takikardia
+
+Gagal hati/ginjal (relatif )
+
+Sakit kepala, refleks
+takikardia
+Keracunan sianida
+
+Riwayat angioedema
+
+0,5-1 mg/kg injeksi bolus atau 50-300
+mcg/kg/menit dalam infus kontinu
+
+yang unik ini memungkinkan penggunaan
+clevidipine pada pasien sakit kritis dan juga
+meminimalkan risiko akibat aksi obat yang
+berkepanjangan dan hipotensi akibat
+
+Sedasi, rebound
+hipertensi
+Takiaritmia, nyeri dada
+
+Clevidipine tidak larut dalam air, sehingga
+diformulasikan dalam bentuk emulsi lipid
+dalam air. Hal ini juga menyebabkan obat ini
+dikontraindikasikan pada pasien yang memiliki
+
+89
+
+CONTINUING MEDICAL EDUCATION
+riwayat alergi terhadap telur dan kedelai.16,21,22
+Infus clevidipine intravena dapat dimulai pada
+dosis 1 - 2 mg/jam dan kemudian dititrasi
+dengan menggandakan dosis setiap 2 menit
+sampai target tekanan darah tercapai, hingga
+dosis maksimum 16 mg/jam.16,21
+Hydralazine
+Hydralazine merupakan vasodilator arteri
+langsung yang menyebabkan penurunan
+resistensi sistemik. Hydralazine sebelumnya
+dianggap sebagai obat pilihan pada
+gangguan hipertensi selama kehamilan
+karena obat ini dapat meningkatkan aliran
+darah uterus. Namun, bukti terbaru dari
+studi klinis yang membandingkan efikasi
+dan keamanan hydralazine dengan agen
+antihipertensi lainnya menunjukkan bahwa
+hydralazine dikaitkan dengan peningkatan
+risiko hipotensi maternal dan kelainan denyut
+jantung janin; oleh karena itu hydralazine
+disarankan untuk dihindari dalam tata laksana
+preeklamsia dan eklampsia; labetalol atau
+
+urapidil lebih dianjurkan.16,21,22 Hydralazine
+memiliki onset kerja 5-15 menit dan waktu
+paruh tiga jam. Namun, efek antihipertensinya
+dapat bertahan hingga 24 jam dan tidak
+dapat diprediksi.22 Oleh karena itu, hydralazine
+umumnya tidak digunakan sebagai agen
+antihipertensi lini pertama pada hipertensi
+emergensi.21
+SIMPULAN
+Hipertensi emergensi adalah peningkatan
+tekanan darah sistolik di atas 180 mmHg
+atau diastolik di atas 120 mmHg disertai
+dengan kerusakan organ. Diperlukan obat
+antihipertensi
+injeksi/parenteral
+pada
+tata laksana hipertensi emergensi. Target
+penurunan tekanan darah pada hipertensi
+emergensi adalah segera dalam hitungan
+menit hingga 1-2 jam, sehingga diperlukan
+obat antihipertensi intravena dengan onset
+kerja cepat dan durasi kerja pendek (short
+acting) untuk memungkinkan pengendalian
+TD dengan segera bila terjadi respons
+
+penurunan TD yang berlebihan.
+Prinsip pemilihan obat antihipertensi injeksi
+pada hipertensi emergensi adalah tergantung
+presentasi klinis dengan memperhatikan
+jenis kerusakan organ target, obat pilihan
+pertama atau kedua, faktor komorbid,
+obat yang dihindari/kontraindikasi, dan
+ketersediaan obat. Tidak ada obat tunggal
+yang diketahui lebih superior dibandingkan
+lainnya pada semua bentuk presentasi
+klinis hipertensi emergensi. Labetalol dan
+nicardipine adalah dua obat antihipertensi
+yang paling banyak direkomendasikan dalam
+berbagai guideline sebagai terapi lini pertama
+dalam berbagai bentuk presentasi klinis
+hipertensi emergensi. Tujuan pengobatan
+hipertensi emergensi adalah mencegah atau
+membatasi kerusakan organ target lebih
+lanjut. Penurunan TD dilakukan secara gradual
+untuk mengembalikan autoregulasi organ,
+sehingga perfusi organ yang normal dapat
+dipertahankan.
+
+DAFTAR PUSTAKA
+1.
+
+Rossi GP, Rossitto G, Maifredini C, Barchitta A, Bettella A, Latella R, et al. Management of hypertensive emergencies: A practical approach. Blood Press. 2021;30(4):20819. doi:10.1080/08037051.2021.1917983
+
+2.
+
+Whelton PK, Carey RM, Aronow WS, CaseyJr DE, Collins KJ, Himmelfarb CD, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/ APhA/ASH/ASPC/NMA/PCNA Guideline
+for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart
+Association Task Force on Clinical Practice Guidelines [published correction appears in Hypertension. 2018;71(6):140-4]. Hypertension 2018;71(6):13-115.
+doi:10.1161/HYP.0000000000000065
+
+3.
+
+Alley WD, Copelin II EL. Hypertensive urgency. StatPearls [Internet]. 2022 Jan. Available from: https://www.ncbi.nlm.nih.gov/books/NBK513351/
+
+4.
+
+Sanders ML, Suneja M. Best practise hypertensive emergensies. BMJ; 2022.
+
+5.
+
+Governatori N, Pollack CV. Hypertensive crisis [Internet]. 2018. Available from: https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceuticalscience/hypertensive-crisis
+
+6.
+
+Baumann BM, Townsend RR (2012). Hypertensive crisis. Cardiovascular therapeutics: A companion to Braunwald’s heart disease: Fourth edition. Elsevier; 2013 .p.
+510-20.
+
+7.
+
+Balahura AM, Moroi ȘI, Scafa-Udrişte A, Weiss E, Japie C, Bartos D, et al. The management of hypertensive emergencies-Is there a “magical” prescription for all? J Clin
+Med. 2022;11(11):3138. doi:10.3390/jcm11113138
+
+8.
+
+Johnson W, Nguyen ML, Patel R. Hypertension crisis in the emergency department. Cardiol Clin. 2012;30(4):533-43
+
+9.
+
+Benken ST. Hypertensive emergencies. CCSAP 2018 Book 1: Medical Issues in the ICU [Internet]. 2018. Available from: https://www.accp.com/docs/bookstore/
+ccsap/ccsap2018b1_sample.pdf
+
+10. Kaplan NM, Victor RG, Flynn JT. Hypertensive emergencies. Kaplan’s clinical hypertension 2015. 11th edition. Philadelphia: Wolters Kluwer; 2015 .p. 263-74
+11. PERKI. Pedoman tatalaksana hipertensi pada penyakit kardiovaskular. Perhimpunan Dokter Spesialis Kardiovaskular Indonesia; 2015.
+12. Varounis C, Katsi V, Nihoyannopoulos P, Lekakis J, Tousoulis D. Cardiovascular hypertensive crisis: Recent evidence and review of the literature. Front Cardiovasc Med.
+2017;3:51. doi:10.3389/fcvm.2016.00051
+13. Peixoto AJ. Acute severe hypertension. N Engl J Med. 2019;381(19):1843-52. doi:10.1056/NEJMcp1901117
+14. Marik PE, Mayer SA, Varon J. Hypertensive crises in the critical care setting: Current perspectives and practice challenges. American College of Chest Physicians
+(ACCP). 2007.
+15. Vaughan CJ, Delanty N. Hypertensive emergencies. Lancet 2000;356(9227):411-7. doi:10.1016/S0140-6736(00)02539-3
+16. Sarafidis PA, Georgianos PI, Malindretos P, Liakopoulos V. Pharmacological management of hypertensive emergencies and urgencies: Focus on newer agents. Expert
+Opin Investig Drugs. 2012;21(8):1089-106. doi:10.1517/13543784.2012.693477
+17. van den Born BH, Lip GYH, Brguljan-Hitij J, Cremer A, Segura J, Morales E, et al. ESC council on hypertension position document on the management of hypertensive
+emergencies. Eur Heart J Cardiovasc Pharmacother. 2019;5(1):37-46. doi:10.1093/ehjcvp/pvy032
+18. Unger T, Borghi C, Charchar F, Khan NA, Poulter NR, Prabhakaran D, et al. 2020 International Society of Hypertension global hypertension practice guidelines. J
+Hypertens. 2020;38(6):982-1004. doi:10.1097/HJH.0000000000002453
+19. Williams B, Mancia G, Spiering W, Rosei EA, Azizi M, Burnier M, et al. 2018 ESC/ESH guidelines for the management of arterial hypertension. Eur Heart J.
+2018;39(33):3021-104. doi:10.1093/eurheartj/ehy339
+
+90
+
+CDK-313/ vol. 50 no. 2 th. 2023
+
+CONTINUING MEDICAL EDUCATION
+20. Marik PE, Varon J. Hypertensive crises: Challenges and management. Chest 2007;131(6):1949-62. doi:10.1378/ chest.06-2490
+21. Hardy Y, Jenkins A. Hypertensive crises: Urgencies and emergencies. US Pharm. 2011;36(3):Epub. Available from: https://www.uspharmacist.com
+22. Alshami A, Romero C, Avila A, Varon J. Management of hypertensive crises in the elderly. J Geriatr Cardiol. 2018;15(7):504-512. doi: 10.11909/j.issn.16715411.2018.07.007. PMID: 30364798; PMCID: PMC6198269
+
+CDK-313/ vol. 50 no. 2 th. 2023
+
+91
+
+

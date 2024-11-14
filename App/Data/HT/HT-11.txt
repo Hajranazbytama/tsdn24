@@ -1,0 +1,675 @@
+﻿Laporan Kasus 
+ 
+GALENICAL: Jurnal Kedokteran dan Kesehatan Mahasiswa Malikussaleh Vol.2 No.6 November 2023 
+
+ 
+
+ 
+ 
+
+Hipertensi Emergensi 
+ 
+
+Harida Fitri1, Suhaemi Siregar2* 
+ 
+
+1Mahasiswa Profesi Dokter, Fakultas Kedokteran Universitas Malikussaleh,  
+Lhokseumawe, 24351, Indonesia 
+
+2Departemen Ilmu Penyakit Dalam, RSU Cut Meutia, Aceh Utara, 24412, Indonesia 
+ 
+
+*Corresponding Author : suhaemi@unimal.ac.id  
+ 
+
+ 
+
+Abstrak  
+ 
+
+Hipertensi emergensi adalah keadaan gawat medis ditandai dengan tekanan darah sistolik > 180 mmHg dan 
+atau diastolik > 120 mmHg atau keduanya, yang terkait dengan tanda atau gejala kerusakan organ akut 
+(yaitu sistem saraf, kardiovaskular, ginjal). Hal ini dapat terjadi sebagai kejadian serebrovaskular akut atau 
+fungsi serebral yang tidak teratur, sindrom koroner akut dengan iskemia atau infark, edema paru akut, atau 
+disfungsi ginjal akut. Angka kejadian krisis HT menurut laporan dari hasil penelitian dekade lalu di negara 
+maju berkisar 2 – 7% dari populasi HT, terutama pada usia 40 – 60 tahun dengan pengobatan yang tidak 
+teratur selama 2 – 10 tahun. Pasien an. MY, 58 tahun dengan riwayat darah tinggi ± 5 tahun ini tiba-tiba 
+mengeluhkan pusing disertai nyeri kepala berdenyut di belakang leher ± 1 hari ini dan tidak berkurang 
+dengan istirahat. Temuan fisik didapatkan keadaan umum baik, composmentis, tekanan darah 200/110 
+mmhg, nadi 67x/menit, suhu 37,0°C, pernafasan 20x/menit, dan hasil pemeriksaan laboratorium ditemukan 
+peningkatan Kadar Glukosa Sewaktu, Glukosa Puasa, Glukosa 2 jam Post Pandrial, HbA1c, Kolesterol 
+Total dan Trigliseri darah. Status gizi pasien adalah Obesitas dimana berat badan pasien 75 kg dan tinggi 
+badan 165 cm. Pasien didiagnosis dengan Hipertensi Emergensi, Diabetes Mellitus Type 2, dan 
+Dislipidemia. Kemudian diberikan tatalaksana farmakologi serta tatalaksana nonfarmakologi. Dilakukan 
+pemantauan di Rumah Sakit selama 6 hari, pasien di pulangkan serta diberikan edukasi terkait dengan Diet 
+DASH, Pemantauan TD dan KGD berkala, Olahraga, Pembatasan konsumsi garam dan Penurunan berat 
+badan.  
+ 
+
+Kata Kunci : Hipertensi emergensi, HMOD, Diabetes Mellitus tipe 2, dislipidemia 
+ 
+
+Abstract 
+ 
+
+Hypertension emergency is a medical emergency characterized by systolic blood pressure > 180 mmHg 
+and/or diastolic > 120 mmHg or both, associated with signs or symptoms of acute organ damage (ie 
+nervous system, cardiovascular, kidney). This may present as an acute cerebrovascular event or 
+dysregulated cerebral function, acute coronary syndrome with ischemia or infarction, acute pulmonary 
+edema, or acute renal dysfunction. The incidence of HT crisis according to reports from research decades 
+ago in developed countries ranges from 2-7% of the HT population, especially at the age of 40-60 years 
+with irregular treatment for 2-10 years. patient a. MY, 58 years old with a history of high blood pressure 
+for ± 5 years, suddenly complained of dizziness accompanied by a throbbing headache in the back of the 
+neck for ± 1 day today and did not decrease with rest. Physical findings found the general condition was 
+good, composmentis, blood pressure 200/110 mmHg, pulse 67x/minute, temperature 37.0°C, respiration 
+20x/minute, and the results of laboratory tests found an increase in Glucose Levels During, Fasting 
+Glucose, Glucose 2 hours Post Pandrial, HbA1c, Total Cholesterol and Triglycerides direction . The 
+patient's nutritional status is obesity where the patient's weight is 75 kg and height is 165 cm. The patient 
+was diagnosed with Hypertension Emergency, Diabetes Mellitus Type 2, and Dyslipidemia. Then given 
+pharmacological management and non-pharmacological management. Monitoring is carried out at the 
+hospital for 6 days, the patient is sent home and given education related to the DASH Diet, regular BP and 
+KGD monitoring, exercise, salt consumption restriction and weight loss. 
+ 
+Keywords : Emergency hypertension, HMOD, Diabetes Mellitus type 2, dyslipidemia 
+
+JURNAL KEDOKTERAN DAN KESEHATAN MAHASISWA MALIKUSSALEH | 37  
+                             Galenical is licensed under a Creative Commons Attribution-ShareAlike  
+                             4.0 International License 
+
+
+
+Hipertensi Emergensi  
+(Harida Fitri, Suhaemi Siregar) 
+
+GALENICAL Volume 2 Nomor 6. Bulan November, Tahun 2023. Hal. 37-45 
+
+1. PENDAHULUAN 
+ 
+
+Hipertensi emergensi adalah keadaan gawat medis ditandai dengan tekanan darah 
+
+sistolik > 180 mmHg dan atau diastolik > 120 mmHg atau keduanya, yang terkait dengan 
+
+tanda atau gejala kerusakan organ akut (yaitu sistem saraf, kardiovaskular, ginjal) (1). 
+
+Hal ini dapat terjadi sebagai kejadian serebrovaskular akut atau fungsi serebral yang 
+
+tidak teratur, sindrom koroner akut dengan iskemia atau infark, edema paru akut, atau 
+
+disfungsi ginjal akut. Tekanan darah sangat tinggi pada pasien dengan kerusakan organ 
+
+target akut yang sedang berlangsung, dan merupakan keadaan gawat medis yang 
+
+sebenarnya, yang memerlukan pengurangan tekanan darah segera (tidak harus 
+
+normalisasi), untuk melindungi fungsi organ vital dengan pemberian obat antihipertensi 
+
+secara intravena (2).  
+
+Dari populasi Hipertensi (HT), ditaksir 70% menderita HT ringan, 20% HT sedang 
+
+dan 10% HT berat. Pada setiap jenis HT ini dapat timbul krisis hipertensi dimana 
+
+tekanan darah (TD) diastolik sangat meningkat sampai 120-130 mmHg yang merupakan 
+
+suatu kegawatan medik dan memerlukan pengelolaan yang cepat dan tepat untuk 
+
+menyelamatkan jiwa penderita (3). Angka kejadian krisis HT menurut laporan dari hasil 
+
+penelitian dekade lalu di negara maju berkisar 2 – 7% dari populasi HT, terutama pada 
+
+usia 40 – 60 tahun dengan pengobatan yang tidak teratur selama 2 – 10 tahun. Angka ini 
+
+menjadi lebih rendah lagi dalam 10 tahun belakangan ini karena kemajuan dalam 
+
+pengobatan HT, seperti di Amerika hanya lebih kurang 1% dari 60 juta penduduk yang 
+
+menderita hipertensi (4). 
+
+Penanggulangan krisis HT dengan obat anti hipertensi, memerlukan pemahaman 
+
+mengenai autoregulasi TD dan aliran darah, pengobatan yang selektif dan terarah 
+
+terhadap masalah medis yang menyertai, pengetahuan mengenai obat parenteral dan oral 
+
+anti hipertensi, variasi regimen pengobatan untuk mendapatkan hasil pengobatan yang 
+
+memadai dan efek samping yang minimal (5,6) 
+
+ 
+
+2. ILUSTRASI KASUS 
+
+    2.1 Identitas Pasien  
+
+Nama : Tn. MY 
+
+Umur : 58 Tahun 
+Jenis Kelamin  : Laki-laki 
+Agama : Islam 
+Alamat : Meucat, Syamtalira Aron 
+
+JURNAL KEDOKTERAN DAN KESEHATAN MAHASISWA MALIKUSSALEH | 38  
+ 
+
+
+
+Hipertensi Emergensi  
+(Harida Fitri, Suhaemi Siregar) 
+
+GALENICAL Volume 2 Nomor 6. Bulan November, Tahun 2023. Hal. 37-45 
+
+ 2.2 Anamnesis 
+
+ 2.2.1 Keluhan Utama 
+
+      Pusing dan nyeri kepala berdenyut di leher bagian belakang 
+ 
+
+ 2.2.2 Keluhan Tambahan 
+
+     Nyeri ulu hati, lemas, mual 
+ 
+
+ 2.2.3 Riwayat Penyakit Sekarang 
+
+Pasien datang ke IGD RSU Cut Meutia dengan keluhan pusing dan sakit kepala 
+
+terasa berdenyut di leher bagian belakang sejak 1 hari SMRS. Keluhan ini 
+
+dirasakan terus menerus selama 1 hari SMRS tidak hilang dengan istirahat ataupun 
+
+perubahan posisi, serta tidak memberat saat pasien menunduk ataupun sujud saat 
+
+shalat.  Selain itu, pasien juga mengeluh nyeri pada ulu hati dan mual sejak 6 jam 
+
+SMRS, pasien tidak mengkonsumsi makanan apa pun sejak kepalanya terasa sakit, 
+
+pasien hanya minum air putih dan teh manis. Muntah disangkal. Keluhan 
+
+pandangan kabur, lemah separuh badan, ataupun kesemutan separuh badan 
+
+disangkal pasien. BAK dan BAB dalam batas normal. Pasien memiliki riwayat 
+
+hipertensi ± 5 tahun ini tapi pasien hanya mengkonsumsi obat bila berobat ke 
+
+puskesmas dan mendapat obat darah tinggi, bila obat habis pasien tidak melakukan 
+
+kontrol ulangan. Pasien menyangkal adanya riwayat penyakit lain seperti  kencing 
+
+manis dan sakit jantung. 
+ 
+
+ 2.2.4 Riwayat Penyakit Dahulu 
+
+- Riwayat Hipertensi (+) ± 5 tahun 
+
+- Riwayat kencing manis (DM) disangkal 
+
+- Riwayat dislipidemia disangkal 
+ 
+
+ 2.2.5 Riwayat Penyakit Keluarga/Lingkungan Sekitar 
+
+Pasien mengatakan tidak ada keluarga yang memiliki keluhan serupa ataupun 
+
+penyakit lainnya. 
+ 
+
+ 
+
+ 2.2.6 Riwayat Penggunaan Obat 
+
+Pasien tidak rutin mengonsumsi obat antihipertensi, hanya sesekali bila pasien 
+
+berobat di puskesmas yaitu Amlodipin 5 mg. 
+ 
+
+2.2.7 Riwayat Kebiasaan 
+
+Pasien makan 3x sehari, suka makan dan minum manis, bersantan, asin. Kebiasaan 
+
+ JURNAL KEDOKTERAN DAN KESEHATAN MAHASISWA MALIKUSSALEH | 39  
+
+
+
+Hipertensi Emergensi  
+(Harida Fitri, Suhaemi Siregar) 
+
+GALENICAL Volume 2 Nomor 6. Bulan November, Tahun 2023. Hal. 37-45 
+
+merokok (+) 1 bungkus perhari dan konsumsi alkohol disangkal. 
+ 
+
+2.2.8 Riwayat Sosial dan Ekonomi 
+
+Pasien bekerja sebagai petani padi, dengan penghasilan kurang lebih 1.000.000-
+
+2.000.000. 
+
+ 
+
+3. HASIL PEMERIKSAAN 
+
+3.1 Status Generalikus 
+ 
+
+ Keadaan Umum  : Baik 
+ Kesan Sakit   : Sedang 
+ Kesadaran   : Compos Mentis 
+
+   Vital Sign  
+ Nadi   : 67 x/menit 
+ Suhu badan  : 37,0°C 
+ Pernafasan  : 21 x/menit 
+
+ Antropometri Khusus 
+ Umur   : 58 tahun 
+
+ Berat badan  : 75 kg 
+ Tinggi badan  : 165 cm 
+ Status Gizi  : Obesitas 
+  
+
+ 3.2 Keadaan Spesifik 
+ 
+
+Mata : Konjungtiva anemis (-/-), sclera ikterik (-/-), palpebra edema  
+   (-/-), ptosis (-/-), eksoftalmus (-/-) 
+
+Telinga : Normotia (+/+), Sekret (-/-) 
+
+Hidung : Simetris (+), Sekret (-/-)  
+
+Mulut : Mukosa bibir tampak pucat (-) sianosis (-) 
+
+Leher : Simetris, perbesaran tiroid (-), perbesaran KGB (-) 
+
+Thoraks  
+Jantung : Inspeksi : ictus cordis tidak tampak 
+
+   Palpasi : ictus cordis tidak teraba 
+   Perkusi : Tidak dilakukan 
+   Auskultasi : murmur (-), gallop (-) 
+
+Paru : Inspeksi : normochest, simetris 
+
+   Palpasi : stem fremitus normal (kanan = kiri) 
+
+   Perkusi : sonor pada kedua lapangan paru 
+
+   Auskultasi : SP: vesikuler (+/+), wheezing (-/-),        
+
+          rhonki (-/-) 
+
+Abdomen : Inspeksi : distensi (-), pelebaran vena (-) 
+
+JURNAL KEDOKTERAN DAN KESEHATAN MAHASISWA MALIKUSSALEH | 40  
+ 
+
+
+
+Hipertensi Emergensi  
+(Harida Fitri, Suhaemi Siregar) 
+
+GALENICAL Volume 2 Nomor 6. Bulan November, Tahun 2023. Hal. 37-45 
+
+   Palpasi : soepel (+) 
+
+   Perkusi : timpani 
+
+   Auskultasi : peristaltik (+), normal 
+
+Genitalia : Tidak dilakukan pemeriksaan 
+
+Ekstremitas Superior: Akral hangat (+/+), sianosis (-) 
+
+Ekstremitas Inferior : Akral hangat (+/+), sianosis (-) 
+
+Anus : Tidak dilakukan pemeriksaan 
+ 
+
+4. PEMERIKSAAN PENUNJANG 
+
+1. Laboratorium 
+2. EKG 
+3. Rontgen thorax 
+
+ 
+5. DIAGNOSIS 
+
+5.1 Diagnosis Kerja 
+ 
+
+Hipertensi Emergensi + DM Tipe 2 + Dislipidemia 
+ 
+
+5.2 Diagnosis Banding 
+
+1. HT Emergency + DM Tipe 2 + Dislipidemia 
+
+2. HT Urgensi + DM Tipe 2 + Dislipidemia 
+
+ 
+
+6. TATALAKSANA 
+
+6.1 Non farmakologi 
+ 
+
+- Edukasi : (1) Memberikan informasi dengan cara yang sederhana dan mudah 
+
+dimengerti; (2) Memberikan dukungan, nasihat dan motivasi; (3) Melibatkan 
+
+keluarga pasien; (4) Diskusi program pengobatan dengan pasien; (5) Program 
+
+penurunan BB; (6) Mengurangi asupan garam; (7) Diet DASH; (8) Olahraga; (9) 
+
+Berhenti merokok. 
+ 
+
+6.2 Farmakologi 
+
+- IVFD RL 20 gtt/i 
+
+- Inj. Furosemid 40 mg amp/12 jam 
+
+- Inj. Ondancetron 4mg amp/12 jam 
+
+- Inj. Omeprazole 40mg vial/12 jam 
+
+- Inj. Ketorolac 30 mg  amp/8 jam 
+
+- Amlodipin 1x10 mg 
+
+- Sucralfat syr 3xCII 
+
+ JURNAL KEDOKTERAN DAN KESEHATAN MAHASISWA MALIKUSSALEH | 41  
+
+
+
+Hipertensi Emergensi  
+(Harida Fitri, Suhaemi Siregar) 
+
+GALENICAL Volume 2 Nomor 6. Bulan November, Tahun 2023. Hal. 37-45 
+
+7. PROGNOSIS 
+
+Quo ad Vitam  : dubia ad bonam 
+
+Quo ad Sanationam : dubia ad bonam 
+
+Quo ad Functionam : dubia ad bonam 
+
+ 
+
+8.  PEMBAHASAN 
+ 
+
+Hipertensi (HT) emergensi didefinisikan sebagai peningkatan tekanan darah (TD) 
+
+yang berat (>180/120 mm Hg) disertai bukti kerusakan baru atau perburukan kerusakan 
+
+organ target (target organ damage=TOD) (8). Pada kondisi klinis ini terjadi kerusakan 
+
+organ diperantarai hipertensi (hypertensive mediated organ damage=HMOD) yang 
+
+mengancam nyawa, sehingga memerlukan intervensi penurunan TD segera dalam kurun 
+
+waktu menit/jam dengan obat-obatan intravena (IV) (7,8,9). 
+
+Sedangkan HT urgensi merupakan situasi terkait peningkatan TD yang berat pada 
+
+kondisi klinis stabil tanpa adanya perubahan akut atau ancaman kerusakan organ target 
+
+atau disfungsi organ (1). Pada kondisi ini tidak terdapat bukti klinis kerusakan organ akut 
+
+diperantarai hipertensi, sehingga Kaplan et al-2015 menggantikannya dengan istilah HT 
+
+berat yang tidak terkontrol (“uncontrolled severe hypertension”), sedangkan ACC/AHA 
+
+guidelines-2017 juga menyebutnya peningkatan TD dengan nyata (“markedly elevated 
+
+bloodpressure”) (7,9). Penurunan TD pada keadaan ini dilaksanakan dalam kurun waktu 
+
+24-48 jam (7,8). 
+
+ Etiologi dari krisis hipertensi dipengaruhi oleh banyak hal. Berikut ini adalah 
+
+beberapa penyebab dari krisis hipertensi (3,6) : (a) Pengobatan tidak terkontrol; (b) 
+
+Kelainan pada parenkim ginjal; (c) Kelainan vaskular ginjal; (d) Efek konsumsi obat 
+
+tertentu; (e) Kelainan kolagen pada vaskular; (f) Penyakit Cushing; (g) 
+
+Pheokromositoma; (h) Pre-eklampsia dan eklampsia; (i) Kondisi paska operasi. 
+
+Beberapa gejala yang harus digali pada krisis hipertensi (10) : (a) Gejala 
+
+neurobehaviour : penurunan kesadaran, parestesia, kejang, agitasi psikomotor, defisit 
+
+neurologis; (b) Gejala kardiorespirasi : nyeri dada, sesak nafas, aritmia; (c) Lainnya : 
+
+pandangan kabur, edema, epistaksis, kelainan pada saluran kemih (oliguria, hematuria); 
+
+(d) Gejala klinis pada kerusakan organ target yang dapat ditemukan di antara nya infark 
+
+serebral (24,5%), edema paru (22,5%), hipertensif ensefalopati (16,3%) dan gagal 
+
+jantung kongestif (12%). Kondisi lainnya yang juga termasuk ke dalam kerusakan organ 
+
+target adalah perdarahan intrakranial, diseksi aorta, infark miokard, gangguan retina dan 
+
+JURNAL KEDOKTERAN DAN KESEHATAN MAHASISWA MALIKUSSALEH | 42  
+ 
+
+
+
+Hipertensi Emergensi  
+(Harida Fitri, Suhaemi Siregar) 
+
+GALENICAL Volume 2 Nomor 6. Bulan November, Tahun 2023. Hal. 37-45 
+
+ginjal (kerusakan ginjal akut), hingga eklampsia. 
+
+Prinsip umum tatalaksana HT emergensi adalah therapi anti-HT parenteral mulai 
+
+diberikan segera saat diagnosis ditegakkan di UGD sebelum keseluruhan hasil 
+
+pemeriksaan laboratorium diperoleh. Dilakukan perawatan diruang intensif 
+
+(ICU/intensive care unit) untuk memonitor ketat TD dan kerusakan organ target. 
+
+Penurunan TD secara gradual bertujuan mengembalikan autoregulasi organ, sehinnga 
+
+perfusi organ yang normal dapat dipertahankan. Hindari penurunan TD agresif pada HT 
+
+non-emergensi dan juga penurunan TD yang terlalu cepat (6,9). American College of 
+
+Cardiologi/American Heart Association (ACC/AHA) - 2017 mengeluarkan pedoman 
+
+algoritme diagnosis dan manajemen krisis HT (7). 
+
+Pada pedoman ACC/AHA-2017 target penurunan TD dibedakan dengan melihat 
+
+ada atau tidaknya kondisi yang memaksa (with or without compelling condition). Secara 
+
+umum bila tidak didapatkan compelling condition, tatalaksana HT emergensi adalah 
+
+dengan melakukan penurunan TD maksimal 25% dalam jam pertama, kemudian target 
+
+penurunan TD mencapai 160/100-110 mm Hg dalam 2 sampai 6 jam, selanjutnya TD 
+
+mencapai normal dalam 24 sampai 48 jam (7). Penurunan TD yang lebih agresif 
+
+dilakukan bila didapatkan compelling condition (aorta dissekan, pre-eclampsia berat 
+
+atau eclampsia, dan krisis pheochromocytoma). Sedangkan penurunan TD yang kurang 
+
+agresif dilakukan pada HT dengan kondisi komorbid penyakit serebro-vaskuler 
+
+(perdarahan intraserebral akut dan stroke iskhemik akut) (7,11). 
+
+Diabetes Mellitus (DM) merupakan suatu kelompok penyakit metabolik dengan 
+
+karakteristik hiperglikemia yang terjadi karena kelainan sekresi insulin, kerja insulin atau 
+
+keduanya. Untuk mendiagnosis DM mengikuti panduan dari PERKENI 2019 : (a) 
+
+Pemeriksaan glukosa plasma puasa ≥ 126 mg/dL. Puasa adalah kondisi tidak ada asupan 
+
+kalori minimal 8 jam, atau Pemeriksaan glukosa plasma ≥ 200 mg/dL 2-jam setelah Tes 
+
+Toleransi Glukosa Oral (TTGO) dengan beban glukosa 75 gram, atau Pemeriksaan 
+
+glukosa plasma sewaktu ≥ 200 mg/Dl dengan keluhan klasik, atau Pemeriksaan HbA1c 
+
+≥ 6,5% dengan menggunakan metode yang terstandarisasi oleh National 
+
+Glycohaemoglobin Standarization Program (NGSP). 
+
+Hasil pemeriksaan yang tidak memenuhi kriteria normal atau kriteria DM 
+
+digolongkan ke dalam kelompok prediabetes yang meliputi toleransi glukosa terganggu 
+
+(TGT) dan glukosa darah puasa terganggu (GDPT) : (a) Glukosa Darah Puasa Terganggu 
+
+(GDPT) : Hasil pemeriksaan glukosa plasma puasa antara 100–125mg/dL dan 
+
+ JURNAL KEDOKTERAN DAN KESEHATAN MAHASISWA MALIKUSSALEH | 43  
+
+
+
+Hipertensi Emergensi  
+(Harida Fitri, Suhaemi Siregar) 
+
+GALENICAL Volume 2 Nomor 6. Bulan November, Tahun 2023. Hal. 37-45 
+
+pemeriksaan TTGO glukosa  < 140 mg/dL; (b) Toleransi Glukosa Terganggu (TGT): 
+
+Hasil pemeriksaan glukosa plasma 2 - jam setelah TTGO antara 140 – 199 mg/dL dan 
+
+glukosa plasma puasa < 100 mg/dL Bersama-sama didapatkan GDPT dan TGT; (c) Hasil 
+
+pemeriksaan HbA1c yang menunjukkan angka 5,7–6,4%. 
+
+Dislipidemia adalah kelainan metabolisme lipid yang ditandai dengan peningkatan 
+
+atau penurunan fraksi lipid dalam plasma. Kelainan fraksi lipid yang utama adalah 
+
+kenaikan kadar kolesterol total, Low Density Lipoprotein (LDL) dan trigliserida serta 
+
+penurunan kadar High Density Lipoprotein (HDL). Klasifikasi European Atherosclerosis 
+
+Society (EAS) : (a) Hiperkolestrolemia bila terjadi peningkatan kadar kolestrol >240 
+
+mg/dl; (b) Hipertrigliseridemia bila terjadi peningkatan kadar trigliserida >200 mg/dl; (c) 
+
+Dislipidemia campuran bila terjadi peninggian kadar kolestrol (>240 mg/dl) dan 
+
+trigliserida (>200 mg/dl).  
+
+ 
+
+9. KESIMPULAN 
+ 
+
+Hipertensi emergensi didefinisikan sebagai peningkatan TD yang berat (>180/120 
+
+mm Hg) disertai kerusakan orgat target - baru/progresif/perburukan, memerlukan 
+
+intervensi penurunan TD segera dalam kurun waktu menit/jam dengan obat-obatan 
+
+parenteral (ntravena). Monitoring ketat dilakukan di unit perawatan intensif (intensive 
+
+care unit=ICU) terhadap target penurunan TD dan kerusakan organ target. Pathogenesis 
+
+HT emergensi terkait mekanisme autoregulasi pada vaskuler otak dan ginjal melibatkan 
+
+saluran kalsium tipe-L (L-type calcium channels). Presentasi klinis pada organ target akan 
+
+terjadi bila peningkatan TD melewati “set-point” autoregulasi (breakthrough 
+
+hyperperfuion). Evaluasi diagnostik berdasarkan: anamnesis, pemeriksaan fisik, 
+
+pemeriksaan penunjang. Prinsip umum tatalaksana HT emergensi adalah penurunan TD 
+
+gradual bertujuan memulihkan autoregulasi dan menghindari kerusakan organ target 
+
+lebih lanjut. 
+
+Pada laporan kasus ini pasien An. Tn MY 58 tahun dengan keluhan pusing dan sakit 
+
+kepala terasa berdenyut di leher bagian belakang sejak 1 hari SMRS. Keluhan ini 
+
+dirasakan terus menerus selama 1 hari SMRS tidak hilang dengan istirahat ataupun 
+
+perubahan posisi, Riwayat HT ± 5 tahun lalu, Riwayat DM dan Dislipidemia disangkal. 
+
+Penegakan diagnosis untuk pasien ini didasarkan pada anamnesis, pemeriksaan 
+
+fisik dan penunjang. Pada pasien ini memiliki risiko terhadap keluhannya yaitu risiko usia 
+
+dan obesitas serta tidak rutin dalam meminum obat Antihipertensi dan tidak menjagagaya 
+JURNAL KEDOKTERAN DAN KESEHATAN MAHASISWA MALIKUSSALEH | 44  
+
+ 
+
+
+
+Hipertensi Emergensi  
+(Harida Fitri, Suhaemi Siregar) 
+
+GALENICAL Volume 2 Nomor 6. Bulan November, Tahun 2023. Hal. 37-45 
+
+hidup sehat. Pada pasien ini dilakukan penatalaksanaan yang komprehensif meliputi 
+
+tatalaksana farmakologis dan non farmakologis. 
+
+ 
+
+Daftar Pustaka 
+ 
+
+1. Aronow, W.S., 2017. Treatment of hypertensive emergencies. Annals of 
+Translational  Medicine. Vol 5. 
+
+2. Cuspidi, C. and Pessina, A.C., 2014. Hypertensive Emergencies and Urgencies. 
+In:  Mancia, G., Grassi, G., and Redon, J., Manual of Hypertension of the 
+European  Society of Hypertension 2nd Edition Ch 38, Pp 367-72. CRC 
+Press. London. 
+
+3. Hopkins, C., 2018. Hipertensive Emergencies. https://emedicine. 
+medscape.com/ article/ 1952052-overview. 8 Maret 2018. 
+
+4. Janke, A.T., McNaughton, C.D., Brody, A.M., et al., 2016. Trends in the 
+Incidence of  Hypertensive Emergencies in US Emergency Departments 
+ From 2006 to2013.  Journal of the American Heart Association. Vol 5  (12): 
+e004511. 
+
+5. Varon J and Marik PE. Clinical Review: The Management of Hypertensive 
+ Crises. Crit Care. 2003; 7(5): 374–384 
+
+6. Chakraborty S. Hypertension Urgencies & Emergencies. Updated 2017. 
+7. Whelton PK, Carey RM, Aronow WS, Casery DE, Collins KJ, Himmelfarb CD, 
+
+et al.  2017 ACC/ AHA/ AAPA/ ABC/ ACPM/ AGS/APhA/ ASH/ ASPC/ 
+NMA / PCNA  Guideline for the Prevention, Detection, Evaluation, and 
+Management of High Blood Pressure in Adults. Hypertension 2018;71:e13-e115  
+
+8. Williams B, Mancia G, Spiering W, Rosei EA, Azizi M, Burnier M, et al. 2018 
+ ESC/ESH Guidelines for the management of arterial hypertension.  J 
+Hypertens 2018;  36:1953-2041 and Eur Heart J 2018;39:3021-3104  
+
+9. Kaplan NM, Victor RG, Flynn JT. Hypertensive Emergencies. Kaplan’s Clinical 
+Hypertension 2015. 11th edition. Wolters Kluwer.p.263-274 
+
+10. Sudharsanan N. The Demography of Hypertension in Indonesia: The Past and 
+Future Implications of Changing Weight Dynamics and Population  Aging. 
+
+11. Sarafidis PA, Bakris GL. Evaluation and Treatment of Hypertensive 
+ Emergencies and Urgencies. In: Feehally J, Floege J, Tonelli M, Johnson RJ, 
+editors. Comprehensive  Clinical Nephrology 2019. 6th edition. 
+ Elsevier.p. 444-452 
+
+ JURNAL KEDOKTERAN DAN KESEHATAN MAHASISWA MALIKUSSALEH | 45

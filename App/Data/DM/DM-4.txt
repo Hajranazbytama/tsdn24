@@ -1,0 +1,734 @@
+PANDUAN PRAKTIK KLINIS
+IKATAN DOKTER ANAK INDONESIA
+Diagnosis dan Tata Laksana
+Diabetes Melitus Tipe-1
+pada Anak dan Remaja
+IKATAN DOKTER ANAK INDONESIA
+2017
+
+PANDUAN PRAKTIK KLINIS
+IKATAN DOKTER ANAK INDONESIA
+Diagnosis dan Tata Laksana
+Diabetes Melitus Tipe-1
+pada Anak dan Remaja
+Penyunting
+Niken Prita Yati
+Bambang Tridjaja A.A.P.
+ IKATAN DOKTER ANAK INDONESIA
+2017
+
+Panduan Praktik Klinis Ikatan Dokter Anak Indonesia
+Diagnosis dan Tata Laksana Diabetes Melitus Tipe-1 pada Anak dan 
+Remaja
+Disusun oleh: Unit Kerja Koordinasi Endokrinologi 
+Ikatan Dokter Anak Indonesia
+Hak Cipta Dilindungi Undang-Undang
+Dilarang memperbanyak, mencetak, dan menerbitkan sebagian atau seluruh 
+isi buku ini dengan cara dan bentuk apa pun juga tanpa seizin penulis dan 
+penerbit
+Copy Editor: Fenny D’Silva
+Cetakan Pertama 2017
+
+Tim Kontributor
+Niken Prita Yati
+Andi Nanis Sacharina Marzuki
+Annang Giri Moelyo
+Frida Soesanti
+Muhammad Faizi
+Bambang Tridjaja A.A.P.
+Ukk  Endokrinologi IDAI iii
+
+iv Diabetes Melitus Tipe-1 Anak dan Remaja
+
+Kata Sambutan
+Ketua UKK Endokrinologi
+Panduan  Praktik  Klinis  (PPK)  Ikatan  Dokter  Anak  Indonesia  mengenai  
+Diabetes  Melitus  tipe-1  pada  anak  dan  remaja  merupakan  panduan  yang  
+akan  digunakan  oleh  dokter  spesialis  anak  dan  petugas  kesehatan  lainnya  
+dalam menangani pasien anak dan remaja yang menderita diabetes melitus 
+tipe-1 (DM tipe-1). Panduan ini perlu dibuat supaya ada keseragaman dan 
+pedoman dalam mendiagnosis dan melakukan tatalaksana pasien dengan DM 
+tipe-1. DM tipe-1 merupakan penyakit kronis yang dalam penanganannya 
+memerlukan suntikan insulin setiap hari secara rutin. 
+DM tipe-1 adalah berkurangnya produksi insulin secara absolut atau 
+relatif yang mengakibatkan meningkatnya kadar gula darah lebih atau sama 
+dengan  200  mg/dl  yang  diperiksa  secara  acak  atau  2  jam  setelah  makan.  
+Penderita DM tipe-1 membutuhkan suntikan insulin secara terus menerus 
+untuk  mempertahankan  kadar  gula  darah  dalam  batas  normal.  Dalam  
+penanganan pasien DM tipe-1 membutuhkan pengetahuan dan kemandirian 
+orang  tua  dalam  mengatur  dosis  insulin,  mengatur  nutrisi,  mengatur  olah  
+raga,  dan  memantau  kadar  gula  darah  untuk  menghindari  komplikasi  
+jangka  panjang  dan  komplikasi  jangka  pendek  serta  tumbuh  kembang  
+yang optimal dari anak tersebut. Adapun komplikasi jangka pendek berupa 
+ketoasidosis  diabetikum  (KAD)  dan  hipoglikemia  sedangkan  komplikasi  
+jangka  panjang  berupa  retinopati,  nefropati,  neuropati,  dan  komplikasi  
+lain  akibat  gangguan  mikro  dan  makrovaskuler  serta  gangguan  tumbuh  
+kembang. Dalam penyusunan PPK DM tipe-1 pada anak dan remaja kami 
+mengacu pada pedoman ISPAD. 
+Kami berharap PPK ini dapat digunakan oleh semua pihak baik dokter 
+spesialis  anak,  petugas  kesehatan  lainnya  dan  pemegang  kebijakan  dalam  
+menangani  pasien  anak  dan  remaja  yang  menderita  DM  tipe-1.  Dengan  
+selesainya  PPK  DM  tipe-1  pada  anak  dan  remaja  kami  mengucapkan  
+banyak terima kasih kepada tim penyususun PPK ini yaitu dr. Niken Prita 
+Yati,  Sp.A(K),  dr.  Bambang  Tridjaja  A.A.P,  MM-Paed,  Sp.A(K),  dr.  A.  
+Ukk  Endokrinologi IDAI v
+
+Nanis  Sacharina  Marzuki,  Sp.A(K),  dr.  Annang  Giri  Moelyo,  Sp.A(K),  dr.  
+Frida Soesanti, Sp.A(K), dr. Muhammad Faizi, Sp.A(K). Kami juga mohon 
+maaf  apabila  masih  ada  kekurangan  dalam  PPK  ini,  dan  semoga  PPK  ini  
+bermanfaat untuk semua, terima kasih. 
+I Wayan Bikin Suryawan
+Ketua UKK Endokrinologi IDAI
+vi Diabetes Melitus Tipe-1 Anak dan Remaja
+
+Kata Sambutan Pengurus Pusat 
+Ikatan Dokter Anak Indonesia
+Salam hormat dari Pengurus Pusat Ikatan Dokter Anak Indonesia
+Pertama-tama marilah kita panjatkan puji dan syukur atas kehadirat Allah 
+SWT  atas  berkah  dan  karuniaNya  sehingga  kita  diberi  kesehatan  dan  
+kekuatan untuk dapat terus mengembangkan ilmu pengetahuan di bidang 
+Ilmu Kesehatan Anak.
+Pengendalian  Penyakit  Tidak  Menular  (PTM)  merupakan  salah  satu  
+agenda  dari  Tujuan  Pembangunan  Berkelanjutan  ( Sustainable  Development  
+Goals ;  SDGs).  Angka  kejadian  PTM  seperti  Diabetes  Melitus  (DM)  
+mengalami peningkatan setiap tahun. Lebih dari 90% kasus diabetes pada 
+anak  dan  remaja  adalah  DM  tipe-1.  Hingga  saat  ini,  DM  tipe-1  tidak  
+dapat  disembuhkan  dan  memerlukan  pengobatan  seumur  hidup.  Dengan  
+tata  laksana  yang  adekuat,  anak  dengan  DM  tipe-1  dapat  tumbuh  dan  
+berkembang dengan optimal layaknya anak sehat. Dengan demikian penting 
+untuk  disusun  suatu  pedoman  berbasis  bukti  mengenai  DM  Tipe-1  pada  
+anak dan remaja.
+Atas nama Pengurus Pusat IDAI, kami mengucapkan selamat kepada 
+Unit Kerja Koordinasi (UKK) Endokrinologi Ikatan Dokter Anak Indonesia 
+(IDAI)  yang  telah  menerbitkan  Panduan  Praktik  Klinis  “Diagnosis  dan  
+Tata  Laksana  Diabetes  Melitus  Tipe-1  pada  Anak  dan  Remaja”.  Kami  
+berharap  buku  ini  dapat  digunakan  sebagai  pedoman  dalam  disiplin  ilmu  
+endokrinologi oleh seluruh anggota IDAI maupun praktisi kesehatan yang 
+membutuhkan, sehingga kualitas pelayanan dan kualitas hidup anak dengan 
+DM Tipe-1 dapat meningkat.
+Aman B. Pulungan
+Ketua Umum Pengurus Pusat Ikatan Dokter Anak Indonesia
+Ukk  Endokrinologi IDAI vii
+
+viii Diabetes Melitus Tipe-1 Anak dan Remaja
+
+Daftar Isi
+Tim Kontributor ................................................................................. iii
+Kata Sambutan Ketua UKK Endokrinologi .......................................... v
+Kata Sambutan Pengurus Pusat Ikatan Dokter Anak Indonesia ......... vii
+Daftar Singkatan ................................................................................... x
+PENDAHULUAN .................................................................................1
+KRITERIA DIAGNOSIS ......................................................................1
+TATA LAKSANA ...................................................................................3
+Pemberian insulin  ............................................................................ 3
+Penyesuaian dosis insulin  ................................................................. 4
+Pengaturan makan  ........................................................................... 5
+Olah raga ......................................................................................... 5
+Puasa di Bulan Ramadan .................................................................. 7
+PEMANTAUAN  ...................................................................................9
+Pemantauan glukosa darah mandiri ................................................ 10
+Pemeriksaan  keton  ......................................................................... 11
+HbA1c  (Hemoglobin  terglikosilasi) ............................................... 11
+Komplikasi .................................................................................... 12
+Edukasi ................................................................................................... 13
+RINGKASAN REKOMENDASI .........................................................14
+DAFTAR KEPUSTAKAAN .................................................................15
+Ukk  Endokrinologi IDAI ix
+
+Daftar Tabel
+Tabel 1.  Jenis sediaan insulin dan profil kerjanya 
+Tabel 2.  Target glukosa darah berdasarkan ISPAD dan IDF 
+Tabel 3.  Target kadar HbA1c berdasarkan ISPAD dan IDF 
+Tabel    4.         Tahapan    pemeriksaan    penapisan    komplikasi    mikrovaskular    
+berdasarkan ISPAD dan IDF   
+Tabel 5.   Tekanan darah berdasar tinggi badan dan jenis kelamin berdasarkan 
+ISPAD dan IDF
+Tabel   6.       Tahapan   pemeriksaan   komplikasi   mikrovaskular   berdasarkan   
+ISPAD dan IDF 
+Daftar Singkatan
+ACE  :   Angiotensin Converting Enzyme
+AER  :   Albumin Excretion Rate 
+ARB  :   Angiotensin Receptor Blocker
+DCCT  :   Diabetes Control and Complications Trial
+DM  :    Diabetes Melitus
+DMT1  :    Diabetes Melitus Tipe-1
+IDF  :   International Diabetes Federation
+IFCC   :   The   International   Federation   of   Clinical   Chemistry   and   
+Laboratory Medicine
+IGF  :   Impaired Fasting Glucose
+IGT  :   Impaired Glucose Tolerance
+ISPAD  :   International Society for Pediatric and Adolescent Diabetes
+LDL  :   Low-density Lipoprotein
+NGSP  :   National Glycohemoglobin Standardization Program
+RAK  :    Rasio Albumin/Kreatinin
+TD  :    Tekanan Darah
+ 
+x Diabetes Melitus Tipe-1 Anak dan Remaja
+
+PENDAHULUAN
+Diabetes    Melitus    tipe-1    (DMT1)    adalah    kelainan    sistemik    akibat    
+terjadinya  gangguan   metabolisme glukosa yang ditandai oleh hiperglikemia 
+kronik.  Keadaan   ini  disebabkan  oleh  kerusakan  sel   β   pankreas  baik  oleh  
+  maupun  idiopatik  sehingga  produksi  insulin  berkurang   proses  autoimun
+bahkan terhenti.   Sekresi insulin yang rendah mengakibatkan gangguan pada 
+metabolisme   karbohidrat, lemak, dan protein. 
+  Insidens DMT1 sangat bervariasi baik antar negara maupun di dalam suatu
+negara.  Di  beberapa  negara  barat  kasus  DMT1  mencakup  5-10%  dari  
+seluruh  jumlah  penderita  diabetes  di  negara  masing-masing,  dan  lebih  dari  
+90% penderita diabetes   pada  anak  dan  remaja  adalah  DMT1.  Data  registri  
+nasional  DMT1  pada  anak  dari  Ikatan  Dokter  Anak  Indonesia  hingga  
+tahun 2014 tercatat 1021 kasus dengan  2  puncak  insidens  yaitu pada usia 
+5-6  tahun  dan  11  tahun.  
+  Sebagian   besar   penderita   DMT1   mempunyai   riwayat   perjalanan
+klinis   yang   akut.   Poliuria,   polidipsia,  polifagia  tetapi  disertai  penurunan  
+berat  badan  yang  cepat  dalam  2-6  minggu  sebelum  diagnosis  ditegakkan,  
+kadang-kadang  disertai  gangguan  penglihatan.  Apabila   gejala-gejala  klinis  
+ini disertai dengan hiperglikemia maka diagnosis DM   tidak diragukan lagi.
+KRITERIA DIAGNOSIS
+Glukosa   plasma   puasa   dianggap   normal   bila   kadar   glukosa   darah  
+plasma <126 mg/dL (7 mmol/L). Glukosuria saja tidak spesifik untuk   DM 
+sehingga perlu dikonfirmasi dengan pemeriksaan glukosa darah.
+  Diagnosis   DM   dapat   ditegakkan   apabila   memenuhi   salah   satu
+kriteria  sebagai  berikut:
+1.  Gejala klasik diabetes atau krisis hiperglikemi dengan kadar plasma glu-
+kosa ≥200 mg/dL (11.1 mmol/L. Atau,
+2.  Kadar plasma glukosa puasa ≥126 mg/dL (7.0 mmol/L). Puasa adalah 
+tidak ada asupan kalori selama 8 jam terakhir. Atau,
+3.  Kadar glukosa 2 jam postprandial ≥200 mg/dL 11.1 mmol/L) dengan 
+Uji Toleransi Glukosa Oral. Uji Toleransi Glukosa Oral dilakukan den-
+Ukk  Endokrinologi IDAI 1
+
+gan pemberian beban glukosa setara dengan 75g anhydrous glukosa di-
+larutkan dalam air atau 1.75g/kgBB dengan maksimum 75g. atau,
+4.  HbA1c > 6.5%
+   Petanda  ini  harus  dilakukan  sesuai  standar   National  Glycohemoglobin  
+Standardization Program  (NGSP) pada laboratorium yang tersertifikasi 
+dan  terstandar  dengan  assay   Diabetes  Control  and  Complications  Trial  
+(DCCT).
+Pada  kasus-kasus  yang  meragukan  seperti  penderita  yang  asimtomatis  
+dengan  hiperglikemia  (>200  mg/dL)  harus  dikonfirmasi  untuk  menentukan  
+ada  tidaknya  diabetes.  Konfirmasi  dapat  dilakukan  dengan   berbagai  cara  
+seperti  pemeriksaan  HbA1c,    kadar   glukosa   plasma   puasa   dan  2  jam  
+postprandial    atau   uji   toleransi   glukosa   oral.   Konfirmasi  tidak  boleh  
+dilakukan  dengan  pemeriksaan  darah  glukosa  kapiler.  Konfirmasi  harus  
+segera dilakukan dengan sampel darah yang baru. Apabila HbA1C adalah 
+7%  dan  konfirmasi  menghasilkan  6,8%  maka  diagnosis  diabetes  dapat  
+ditegakkan.  Apabila  menggunakan  dua  jenis  pemeriksaan  dan  keduanya  
+menghasilkan  data  yang  lebih  tinggi  dari  standar  normal  maka  diagnosis  
+diabetes terbukti. Tetapi, apabila kedua pemeriksaan hasilnya tidak sesuai 
+maka  yang  diulang  cukup  yang  menghasilkan  data  yang  diatas  standar.  
+Diagnosis diabetes ditentukan berdasar hasil konfirmasi tersebut.
+Penilaian glukosa plasma Puasa:
+•	 Normal: < 100 mg/dL (5.6 mmol/L)
+•	 Gangguan  glukosa  plasma  puasa  ( Impaired  Fasting  Glucose   =  IFG):  
+100–125 mg/dL (5.6–6.9 mmol/L)
+•	 Diabetes: ≥ 126 mg/dL (7.0 mmol/L)
+Penilaian tes toleransi glukosa oral:
+•	 Normal: <140 mg/dL (7.8 mmol/L)
+•	 Gangguan  glukosa  toleransi  ( Impaired  Glucose  Tolerance   =IGT):  140–
+200 mg/dL (7.8–<11.1 mmol/L)
+•	 Diabetes: ≥ 200 mg/dL (11.1 mmol/L)
+Diabetes Melitus Tipe-1 Anak dan Remaja 2
+
+TATA LAKSANA
+Komponen  pengelolaan  DMT1  meliputi  pemberian  insulin,  pengaturan  
+makan, olah raga, edukasi, dan pemantauan mandiri.
+Pemberian insulin
+•	 Tujuan  terapi  insulin  adalah  menjamin  kadar  insulin  yang  cukup  di  
+dalam  tubuh  selama  24  jam  untuk  memenuhi  kebutuhan  metabolisme  
+sebagai  insulin  basal  maupun  insulin  koreksi  dengan  kadar  yang  lebih  
+tinggi (bolus) akibat efek glikemik makanan.
+•	 Regimen insulin sangat bersifat individual, sehingga tidak ada regimen yang 
+seragam untuk semua penderita DMT1. Regimen apapun yang digunakan 
+bertujuan  untuk  mengikuti  pola  fisiologi  sekresi  insulin  orang  normal  
+sehingga  mampu  menormalkan  metabolisme  gula  atau  paling  tidak  
+mendekati normal.
+•	 Pemilihan  regimen  insulin  harus  memperhatikan  beberapa  faktor  yaitu:  
+umur, lama menderita diabetes melitus, gaya hidup penderita (pola  makan, 
+jadwal  latihan,  sekolah  dsb),  target  kontrol  metabolik,  dan  kebiasaan  
+individu maupun keluarganya. 
+•	 Regimen  apapun  yang  digunakan,  insulin  tidak  boleh  dihentikan  pada  
+keadaan  sakit.  Dosis  insulin  disesuaikan  dengan  sakit  penderita  dan  
+sebaiknya dikonsulkan kepada dokter. 
+•	 Bagi  anak-anak  sangat  dianjurkan  paling  tidak  menggunakan  2  kali  
+injeksi  insulin  per  hari  (campuran  insulin  kerja  cepat/  pendek  dengan  
+insulin basal).
+•	 Dosis  insulin  harian,  tergantung  pada:  Umur,  berat  badan,  status  
+pubertas, lama menderita, fase diabetes, asupan makanan, pola olahraga, 
+aktifitas  harian,  hasil  monitoring  glukosa  darah  dan  HbA1c,  serta  ada  
+tidaknya komorbiditas.
+•	 Dosis insulin (empiris):
+-   Dosis  selama fase remisi parsial, total dosis harian insulin <0,5 IU/
+kg/ hari. 
+-   Prepubertas (diluar fase remisi parsial) dalam kisaran dosis 0,7–1 
+IU/kg/hari.
+-   Selama  pubertas  kebutuhan  biasanya  meningkat  menjadi  1.2–2  
+IU/kg/hari.
+Ukk  Endokrinologi IDAI 3
+
+Tabel 1. Jenis sediaan insulin dan profil kerjanya
+Jenis insulin Awitan (jam) Puncak  Lama  Waktu pemberian
+kerja (jam) kerja (jam)
+Kerja cepat 0.15 – 0.35  1 – 3  3 – 5 Bersamaan dengan makan
+(Aspart, Glulisin, Lispro)
+Kerja pendek 0.5 – 1  2 – 4  5 – 8  30 menit sebelum makan
+(Reguler/soluble)
+Kerja menengah 1-2 4 – 10 8 – 6  30 menit sebelum makan
+Semilente 2-4 4 – 12  12 – 24
+NPH 3-4 6 – 15  18 – 24 
+Tipe lente IZS
+Kerja panjang 4 – 8  12 – 24  20 – 30  30 menit sebelum makan
+Tipe ultra lente
+Basal analog 2 – 4  Tidak ada 24* Diberikan 1 – 2 kali per hari
+Glargine 1 – 2  6 – 12  20 – 24 
+Detemir
+Campuran 0.5 1 – 12 16 – 24  30 menit sebelum makan
+Cepat-menengah 0.5 1 – 12  16 – 24 
+Pendek-menengah
+Penyesuaian dosis insulin
+•	 Penyesuaian     dosis     insulin     bolus     dapat     dilakukan     dengan     
+memperhitungkan   rasio   insulin   bolus-karbohidrat,   yaitu   dengan   
+cara  memperhitungkan  rasio  dosis  insulin  bolus  harian  dengan  total  
+karbohidrat harian.
+•	 Penyesuaian   dosis   insulin    juga   dapat   dilakukan   dengan    jalan   
+memperhitungkan   rasio   insulin-karbohidrat   (menggunakan   rumus   
+500).  Angka  500  dibagi  dengan  dosis  insulin  total  harian  hasilnya  
+dinyatakan   dalam   gram,   artinya   1   unit   insulin   dapat   mencakup   
+sejumlah gram karbohidrat dalam diet penderita. 
+•	 Koreksi  hiperglikemia:    dapat  dilakukan  dengan  rumus  1800  bila  
+menggunakan insulin kerja cepat, dan rumus 1500 bila menggunakan 
+insulin  kerja  pendek.  Angka  1800  atau  1500  dibagi  dengan  insulin  
+total   harian   hasilnya   dalam   mg/dL,   artinya  1  unit   insulin   akan  
+menurunkan  kadar  glukosa  darah  sebesar  hasil  pembagian  tersebut   dalam  
+mg/dL.   Hasil   perhitungan   dosis   koreksi   ini   bersifat   individual   dan   
+harus  mempertimbangkan faktor lain misalnya latihan.
+Diabetes Melitus Tipe-1 Anak dan Remaja 4
+
+Pengaturan makan
+•	 Pada      regimen      konvensional,      pengaturan      makan      dengan      
+memperhitungkan asupan dalam bentuk kalori.
+•	 Pada regimen basal-bolus, pengaturan makan dengan memperhitungkan 
+asupan dalam bentuk gram karbohidrat.
+•	 Pemilihan   jenis   makanan   dianjurkan   karbohidrat   dengan   indeks   
+glikemik dan  glicemic load  yang rendah.
+Olah raga
+•	 Hal-hal  yang  perlu  diperhatikan  oleh  anak  dan  remaja   DMT1  saat  
+melakukan olahraga:
+-   Diskusikan  jumlah  pengurangan  dosis  insulin  sebelum  olahraga 
+dengan dokter.
+-   jika  olahraga  akan  dilakukan  pada  saat  puncak  kerja  insulin  maka 
+dosis insulin harus diturunkan secara bermakna.
+-   Pompa insulin harus dilepas atau insulin basal terakhir paling tidak 
+diberikan 90 menit sebelum mulai latihan.
+-   Jangan  suntik  insulin  pada  bagian  tubuh  yang  banyak  digunakan  
+untuk latihan.
+•	 Jika  glukosa  darah  tinggi,  glukosa  darah  >  250  mg/dL  (14  mmol/L)  
+dengan ketonuria /ketonemia (> 0,5 mmol/L)
+-   Olahraga atau latihan fisik harus dihindari
+-   Berikan  insulin  kerja  cepat  ( rapid  acting )  sekitar  0,05  U/kg  atau  
+5% dari dosis total harian.
+-   Tunda aktivitas fisik sampai keton sudah negatif.
+•	 Konsumsi  1,0-1,5  gram  karbohidrat  per  kg  massa  tubuh  per  jam  
+untuk  olahraga  yang  lebih  lama  atau  lebih  berat  jika  kadar  insulin  yang  
+bersirkulasi tinggi atau insulin sebelum latihan tidak dikurangi.
+•	 Makanan  yang  mengandung  tinggi  karbohidrat  harus  dikonsumsi  
+segera  setelah  latihan  untuk  mencegah  terjadinya  hipoglikemia  pasca  
+latihan fisik.
+•	 Hipoglikemia dapat terjadi sampai 24 jam setelah olahraga.
+-   Ukur  kadar  glukosa  darah  sebelum  tidur  dan  kurangi  insulin  basal  
+sebelum  tidur  (atau  basal  pompa  insulin)  sebesar  10-20%  setelah  
+Ukk  Endokrinologi IDAI 5
+
+olahraga  di  siang  atau  sore  hari  jika  latihannya  lebih  intensif  dari  
+biasanya atau jika aktivitasnya tidak dilakukan secara reguler.
+-   Karbohidrat  ekstra  setelah  aktivitas  biasanya  merupakan  pilihan  
+terbaik   untuk   mencegah   hipoglikemia   pasca   latihan   setelah   
+olahraga anerobik dengan intensitas tinggi.
+-   Olahraga   yang   merupakan   kombinasi   antara   latihan   aerobik   
+(sepeda,  lari,  berenang)  dan  anaerobik  memerlukan  tambahan  
+ekstra karbohidrat sebelum, selama, dan setelah aktivitas.
+-   Hiperglikemia  setelah  latihan  dapat  dicegah  dengan  memberikan  
+tambahan kecil dosis insulin kerja cepat saat pertengahan atau segera 
+setelah selesai olahraga.
+•	 Risiko  terjadinya  hipoglikemia  nokturnal  pasca  olahraga  cukup  tinggi  
+terutama  jika  kadar  glukosa  darah  sebelum  tidur  <  125  mg/dL  (<7.0  
+mmol/L). Dosis insulin basal sebelum tidur sebaiknya dikurangi.
+•	 Pasien  dengan  retinopati  proliferatif  atau  nefropati  harus  menghindari  
+olahraga yang bersifat anaerobik atau yang membutuhkan ketahanan fisik 
+karena dapat menyebabkan tekanan darah tinggi.
+•	 Kudapan  dengan  indeks  glikemik  tinggi  harus  selalu  siap  di  sekolah.
+Berikut ini adalah petunjuk mengenai beberapa   penyesuaian  diet,  
+insulin,  dan  cara  monitoring  gula  darah  agar  aman   berolahraga  bagi  anak  
+dan  remaja  DMT 1.
+1.  Sebelum berolahraga
+a.     Tentukan   waktu,   lama,   jenis,   intensitas   olahraga.   Diskusikan   
+dengan  pelatih/guru  olah  raga  dan  konsultasikan  dengan  dokter.
+b.  Asupan karbohidrat dalam 1-3 jam sebelum olahraga.
+c.  Cek kontrol metabolik, minimal 2 kali sebelum berolahraga. 
+d.     Jika  glukosa  darah  <90  mg/dL  (<  5  mmol/L)  dan  cenderung  
+turun, tambahkan ekstra karbohidrat 
+e.     Jika   glukosa   darah   90-250   mg/dL   (5-14   mmol/L)   tidak   
+diperlukan   ekstra   karbohidrat   (tergantung   lama   aktifitas   dan   
+respons individual). 
+f.    Jika  glukosa  darah  >250  mg/dL  dan  keton  urin/darah  (+),  tunda  
+olah raga sampai glukosa darah normal dengan insulin
+Diabetes Melitus Tipe-1 Anak dan Remaja 6
+
+g.     Bila  olah  raga  aerobik,  perkirakan  energi  yang  dikeluarkan  dan  
+tentukan  apakah  penyesuaian  insulin  atau  tambahan  karbohidrat  
+diperlukan
+h.       Bila  olah  raga  anaerobik  atau  olah  raga  saat  panas,  atau  olahraga  
+kompetisi sebaiknya insulin dinaikkan
+i.   Pertimbangkan pemberian cairan untuk menjaga hidrasi (250 mL 
+pada 20 menit sebelum olahraga)
+2.  Selama berolah raga
+a.   Monitor glukosa darah tiap 30 menit.
+b.   Teruskan asupan cairan (250 ml tiap 20-30 menit).
+c.   Konsumsi karbohidrat tiap 20-30 menit, bila diperlukan.
+3.  Setelah berolah raga
+a.    Monitor  glukosa  darah,  termasuk  sepanjang  malam  (terutama  bila  
+tidak biasa dengan program olahraga yang sedang dijalani).
+b.     Pertimbangkan  mengubah  terapi  insulin,  dengan  menurunkan  
+dosis insulin basal.
+c.   Pertimbangkan tambahan karbohidrat kerja lambat dalam 1-2 jam 
+setelah  olahraga  untuk  menghindari  hipoglikemia  awitan  lambat.  
+Hipoglikemia  awitan  lambat  dapat  terjadi  dalam  interval  2  x  24  
+jam setelah latihan.
+Puasa di Bulan Ramadan
+  adalah  •	 Risiko    yang    perlu    diwaspadai    bila    diabetisi    berpuasa
+hipoglikemia, hiperglikemia dengan atau tanpa ketoasidosis.
+•	 Kelompok pasien DMT1 yang berisiko tinggi mengalami   kondisi yang 
+memperburuk   penyakitnya,   dan   dianjurkan   untuk   tidak   berpuasa 
+adalah:
+-   Penderita DM yang pernah mengalami hipoglikemia berat dalam 3 
+bulan sebelum Ramadan.
+-   Riwayat hipoglikemia berulang atau riwayat  hypoglycemia unawareness.
+-   Kontrol glikemik kurang baik (HbA1c  > 8).
+-   Riwayat ketoasidosis diabetik dalam 3 bulan sebelum Ramadan.
+Ukk  Endokrinologi IDAI 7
+
+-   Riwayat koma hiperglikemik hiperosmolar dalam 3 bulan terakhir.
+-   Sedang  sakit  lainnya:  demam,  diare,  muntah,  dan  lain-lain  yang  
+memberatkan.
+-   Sedang hamil atau melahirkan.
+-   Menjalani dialisis kronis.
+  •	 Beberapa   rekomendasi   bagi   anak   dan   remaja   DMT1   yang   akan
+beribadah  puasa  Ramadan:
+a)     Nutrisi
+–   Konsumsi  makanan  yang  kaya  karbohidrat  dalam  jumlah  besar  
+saat berbuka puasa, sebaiknya dihindari.
+–   Saat  sahur  sebaiknya  makan  makanan  yang  mengandung  
+karbohidrat kompleks, dan sebaiknya makan di waktu selambat 
+mungkin yang diperbolehkan (mendekati akhir waktu sahur). 
+Makanan  termasuk  buah,  sayur,  kacang-kacangan,  yoghurt,  
+sereal, nasi.
+–   Banyak minum saat di luar waktu berpuasa.
+b)      Olahraga dan aktivitas fisik.
+–   Aktivitas fisik seperti biasa sebaiknya tetap dilakukan.
+–   Olahraga berat sebaiknya dihindari selama jam-jam berpuasa.
+c)   Pantau status glikemik.
+–   Bila kadar glukosa darah tinggi (≥250 mg/dL atau 14 mmol/L).
+–   Keton urin sebaiknya diperiksa.
+d)      Batalkan puasa bila:
+–   Kadar  glukosa  darah  ≤70  mg/dL  (4  mmol/L)  atau  mengalami  
+gejala dan tanda hipoglikemia.
+–   Kadar glukosa darah >300 mg/dL (16,6 mmol/L) atau bila ≥250 
+mg/dL (14 mmol/L) dengan keton positif.
+–   Sedang sakit.
+  Regimen  insulin  perlu  disesuaikan  selama  bulan  puasa  Ramadan
+untuk  menjaga  kontrol  metabolik  yang  baik.  Rekomendasi  penyesuaian  
+regimen insulin adalah sebagai berikut:
+1.      Regimen Insulin Basal Bolus
+-   Menurunkan  dosis  insulin  basal  (misalnya  glargine,  detemir)  10-
+20% dari dosis semula (dan dapat diturunkan lagi bila diperlukan).
+Diabetes Melitus Tipe-1 Anak dan Remaja 8
+
+-   Menggunakan  insulin  analog  kerja  cepat  (misalnya  aspart)  untuk  
+makanan.
+-   Bila  kadar  glukosa  darah  >250  mg/dL  (14  mmol/L),  dosis  koreksi  
+dengan insulin kerja cepat sebaiknya diberikan.
+-   Menggunakan  penghitungan  karbohidrat  untuk  makanan  yang  
+dimakan agar disesuaikan dengan dosis insulin.
+-   Bila  insulin  analog  kerja  cepat  dan  panjang  tidak  tersedia,  dapat  
+digunakan insulin kerja menengah dan kerja pendek.
+2.      Regimen Insulin Dua Dosis
+-   Saat  Iftar  insulin  yang  diberikan  adalah  kombinasi  insulin  kerja  
+pendek  dan  kerja  menengah  dengan  dosis  sama  dengan  dosis  pagi  
+hari sebelum berpuasa.
+-   Saat  sahur  insulin  yang  diberikan  hanya  insulin  kerja  pendek  
+dengan dosis 0,1-0,2 U/kg.
+3.      Regimen Insulin Tiga Dosis
+-   Dua  dosis  insulin  kerja  pendek  sebelum  Iftar  dan  Sahur,  dan  1  
+dosis  insulin  kerja  menengah  saat  tengah  malam/sebelum  tidur.
+  4.      Pemantauan  glukosa  darah  teratur  dan  sering  sebaiknya  dilakukan,
+terutama  sebelum  Iftar  dan  3  jam  setelahnya,  dan  sebelum  dan  2  jam  
+sesudah sahur. Hal ini diperlukan untuk menyesuaikan dosis insulin dan  
+mencegah  hipoglikemia  dan  hiperglikemia  setelah  makan.
+PEMANTAUAN 
+•	 Tujuan  pemantauan  gula  darah  mandiri  pada  pasien  dengan  DMT1  
+adalah   mencapai  target  kontrol  glikemik  yang  optimal,  menghindari  
+komplikasi   akut berupa hipoglikemia dan ketoasidosis dan komplikasi 
+kronis   yaitu  penyakit  akibat  ganggaun  mikro  dan  makrovaskuler,  
+menimalisasi  akibat  hipoglikemia  dan   hiperglikemia  terhadap  fungsi  
+kognitif.
+•	 Pemantauan    kontrol    glikemik    dilakukan    dengan    melakukan  
+pemantauan  glukosa  darah  mandiri,  HbA1c,  keton,  dan  pemantauan  
+glukosa  darah  berkelanjutan.
+•	 Pemantauan   tumbuh   kembang   merupakan   bagian   integral   dari   
+pemantauan diabetes.
+Ukk  Endokrinologi IDAI 9
+
+Pemantauan glukosa darah mandiri
+•	 Pemantauan   glukosa   darah   mandiri   memungkinkan   pasien   untuk   
+melakukan  penyesuaian  insulin  terhadap  makanan  yang  dikonsumsi  
+menjadi    lebih    baik    dan    memungkinkan    pasien    DM    untuk    
+mengkoreksi  kadar  glukosa  darah  yang  berada  diluar  target  sehingga  
+dapat memperbaiki kadar HbA1c.
+•	 Pemantauan  glukosa  darah  mandiri  selama  olahraga  memungkinkan  
+penyesuaian   dosis   insulin   sebelum   dan   selama   olahraga   sehingga   
+mengurangi risiko terjadinya hipoglikemia selama dan setelah olahraga.
+•	 Frekuensi  pemantauan  glukosa  darah  mandiri  berbeda-beda  untuk  
+masing-masing   individu   tergantung   dari   ketersediaan   alat   dan   
+kemampuan  anak  untuk  mengidentifikasikan  hipoglikemia.  Untuk  
+mengoptimalkan  kontrol  glikemik  maka  pemantauan  glukosa  darah  
+mandiri harus dilakukan 4-6 kali sehari.
+-   Pagi  hari  setelah  bangun  tidur  untuk  melihat  kadar  glukosa  darah  
+setelah puasa malam hari.
+-   Setiap sebelum makan.
+-   Pada      malam      hari      untuk      mendeteksi      hipoglikemia      atau  
+hiperglikemia.
+-   1,5-2 jam setelah makan.
+•	 Pemantauan  glukosa  darah  mandiri   dilakukan secara  lebih  sering   pada 
+olahraga  dengan  intensitas  tinggi  yaitu  sebelum,   selama  dan  setelah  
+melakukan kegiatan tersebut.
+Tabel 2. Target Glukosa Darah Berdasarkan ISPAD dan IDF
+Derajat kontrol Ideal Optimal Suboptimal Risiko tinggi
+(non diabetik)
+Glukosa darah  65 – 100 mg/dL 90 – 145 mg/dL >145 mg/dL >162 mg/dL
+sebelum makan (3.6 – 5.6 mmol/L (5 – 8 mmol/L) (>8 mmol/L) (>9 mmol/L)
+Glukosa darah  80 – 126 mg/dL 90 – 180 mg/dL 180 – 250 mg/dL >250 mg/dL
+setelah makan (4.5 – 7.0 mmol/L) (5 – 10 mmol/L) (10 – 14 mmol/L) (>14 mmol/L)
+Glukosa darah  80 – 100 mg/dL 120 – 180 mg/dL <120 mg/dL atau 200 mg/dL <80 mg/dL atau >200 mg/dL
+sebelum tidur (4.0 – 5.6 mmol/L) (6.7 – 10 mmol/L) (<6.7 mmol/L atau 10 – 11  (<4.4 mmol/L atau >11 
+mmol/L) mmol/L)
+70 mg/dL atau >200 mg/dL 65 – 100 mg/dL 80 – 162 mg/dL <75 mg/dL atau >162 mg/dL Glukosa darah 
+(<4.0 mmol/L atau >11  (3.6 – 5.6 mmol/L) (4.5 – 9 mmol/L) (<4.3 mmol/L atau >9  malam hari saat 
+mmol/L) mmol/L tidur
+Diabetes Melitus Tipe-1 Anak dan Remaja 10
+
+•	 Target  glukosa  darah  diharapkan   sedapat mungkin mendekati  normal  
+tanpa membahayakan penderita. 
+Pemeriksaan  keton
+•	 Normal keton darah: <0.6 mmol/L
+•	 Pemeriksaan keton darah lebih baik dari pada keton urin.
+-   Keton   darah   >3,0   mmol/L   biasanya   disertai   dengan   asidosis   
+sehingga  harus  segera  dibawa  ke  IGD.  Keton  darah  <0,6  mmol/L  
+biasa ditemukan setelah puasa malam hari.
+•	 Pemeriksaan keton harus tersedia dan dilakukan pada saat:
+-   Sakit yang disertai demam dan/atau muntah.
+-   Jika  glukosa  darah  di  atas  14  mmol/L  (250  mg/dL)  pada  anak  
+yang tidak sehat atau jika kadar glukosa darah meningkat diatas 14 
+mmol/L (250 mg/dL) secara persisten.
+-   Ketika   terdapat   poliuria   persisten   disertai   peningkatan   kadar   
+glukosa darah, terutama jika disertai nyeri abdomen atau napas cepat.
+-   Pemeriksaan  keton  darah  sebaiknya  tersedia  bagi  anak  yang  lebih  
+muda atau pasien yang menggunakan pompa insulin.
+HbA1c  (Hemoglobin  terglikosilasi)
+•	 HbA1c  mencerminkan  kondisi  glikemia  selama  8-12  minggu  terakhir.
+•	 Fasilitas   untuk   pengukuran   HbA1c   harus   tersedia   disemua   pusat   
+kesehatan yang menangani anak dan remaja dengan diabetes.
+•	 HbA1c harus dipantau sebanyak 4-6 kali per tahun pada anak yang lebih 
+muda dan 3-4 kali per tahun pada anak yang lebih besar.
+•	 Target  HbA1c  untuk  semua  kelompok  usia  adalah  kurang  dari  7,5%  
+(5,8 mmol/L).
+•	 Nilai  HbA1c  berdasarkan  DCCT  dinyatakan  dalam  persen  (%)  dan  
+berdasarkan   the  International  Federation  of  Clinical  Chemistry   and 
+Laboratory Medicine  (IFCC) dalam mmol/mol.
+Tabel 3. Target kadar HbA1c  berdasarkan ISPAD dan IDF
+Derajat kontrol Ideal Optimal Suboptimal Risiko tinggi
+DCCT <6,05 <7,5 7,5-9,0 >9,0
+IFCC  (mmol/mol) <43 <58 58-75 > 75
+Ukk  Endokrinologi IDAI 11
+
+Komplikasi
+Tabel  4.      Tahapan  Pemeriksaan  Penapisan  Komplikasi  Mikrovaskular   berdasarkan ISPAD 
+dan IDF.
+Komplikasi Penapisan awal Pemantauan
+Retinopati Pemeriksaan mata segera (dalam 3 bu- Penapisan retinopati sebaiknya 
+lan) setelah diagnosis untuk mendeteksi  dilakukan setiap tahun atau lebih 
+katarak atau gangguan refraksi yang  sering bila terdapat risiko tinggi keb -
+membutuhkan koreksi kacamata. utaan. Terapi laser dapat menurunkan 
+Pemeriksaan retina dimulai sejak usia 11  kejadian kebutaan karena retinopati.
+tahun dan 2 tahun setelah terdiagnosis.
+Nefropati Pemeriksaan mikroalbuminuria dimulai  Mikroalbuminemia diperiksa setiap 
+sejak usia 11 tahun dan 2 tahun setelah  tahun
+terdiagnosis. Perlu 2 atau 3 sampel urin  Mikroalbuminemia dapat meng-
+untuk membuktikan microalbuminuria  hilang, intermiten, atau menetap
+yang didafinisikan sebagai berikut: Penyebab lain mikroalbuminemia: 
+Kecepatan ekskresi albumin ( Albumin  infeksi saluran kemih, olahraga, dan 
+Excretion Rate / AER): 20 – 200 mg/min  menstruasi
+atau AER 30 – 300 mg/hari Untuk microalbuminuria  ACE-inhibitor  
+Rasio Albumin/Kreatinin (RAK) pada  atau ARB dapat mengurangi dan 
+pemeriksaan urin pagi: mencegah proteinuria (protein >500 
+Laki-laki 2.5 – 25 mg/mmol mg/hari atau 300mg/L pada pemerik -
+Perempuan 3.5 – 25 mg/mmol saan urin pagi)
+Konsentrasi albumin: 30 – 300 mg/L 
+pada pemeriksaan urin pagi
+Neuropati Pemeriksaan klinis di usia 11 tahun dan  Setiap tahun
+telah terdiagnosis selama 2 tahun
+ACE:  Angiotensin Converting Enzyme;  ARB : Angiotensin Receptor Blocker
+•	 Tekanan  darah  antara  persentil  ke  90-95  dianggap  sebagai  pra-hipertensi  
+(Tabel  5).  Dalam  menentukan  hipertensi  pada  anak  digunakan  table  
+tekanan darah menurut tinggi badan dan jenis kelamin seperti pada Tabel 5.
+•	 ACE  inhibitor  direkomendasikan  sebagai  terapi  hipertensi  pada  anak  
+dan  remaja.  Dosis  awal  kaptopril  adalah  6,25  mg  (dinaikkan  sampai  
+12,5-25-75  mg  sehari  dalam  dosis  terbagi  2  atau  3  kali  sehari)  dan  
+enalapril 5 mg (dinaikkan sampai 10-40 mg/ haridalam dosis terbagi 1 
+atau 2 kali sehari).
+Diabetes Melitus Tipe-1 Anak dan Remaja 12
+
+Tabel 5. Tekanan darah berdasar tinggi badan dan jenis kelamin  berdasarkan ISPAD dan IDF
+Tinggi Laki-laki Laki-laki Laki-laki Laki-laki
+  (cm) TD  Sistolik TD  Sistolik TD  Diastolik TD  Diastolik
+persentil  90 persentil  95 persentil  90 persentil  95
+110 113 118 68 72
+120 115 120 70 73
+130 117 122 72 74
+140 120 124 73 75
+150 125 130 74 77
+160 133 138 75 79
+170 140 146 77 81
+180 144 151 79 83
+190 143 148 81 84
+Perempuan Perempuan Tinggi Perempuan Perempuan
+  TD  Diastolik TD  Diastolik (cm) TD  Sistolik   TD  Sistolik
+persentil  95 persentil  90 persentil  95 persentil  90
+110 110 113 66 70
+120 112 115 68 72
+130 114 118 70 74
+140 118 123 72 75
+150 122 126 73 76
+160 125 130 74 77
+170 129 134 75 78
+180 133 138 76 80
+  digu- TD:  Tekanan  Darah,  diukur  dalam  mmHg.  Pada  orang  dengan  diabetes  terapi  antipertensi
+nakan jika TD > persentil 95 atau > 130/80.
+Tabel 6. Tahapan Pemeriksaan Komplikasi Makrovaskular berdasarkan  ISPAD  dan  IDF
+Komplikasi Penapisan pemeriksaan Pemantauan
+HIpertensi Sejak terdiagnosis sebaiknya tekanan  ACE inhibitor merupakan terapi yang 
+darah dipantau pada setiap kunjun- direkomendasikan. Stop merokok
+gan
+Bila hasil normal, diulang setiap 5  Profil lipid Sejak usia >12 tahun
+tahun. Target kolesterol LDL: <100  Bila terdapat riwayat keluarga hiper -
+mg/dL (2.6 mmol/L). Bila intervensi  kolesterolemia, penyakit kardiovasku-
+penyesuaian diet untuk mengoptimal- lar dini, atau riwayat keluarga tidak 
+kan kontrol metabolik dan tidak dapat  diketahui, penapisan dimulai sejak 
+menurunkan ke target, maka dapat  usia 2 tahun
+dipikirkan pemberian statin.
+Ukk  Endokrinologi IDAI 13
+
+Edukasi
+•	 Edukasi/pendidikan  merupakan  unsur  strategis  pada  pengelolaan  DM  
+tipe-1,   harus  dilakukan  secara  terus  menerus  dan  bertahap  sesuai  tingkat  
+pengetahuan serta status sosial penderita/keluarga. 
+  tua,  •	 Sasaran edukasi adalah pasien (anak atau remaja) dan kedua orang
+serta  pengasuhnya.  
+•	 Edukasi  tahap  pertama  dilakukan  saat  diagnosis  ditegakkan  (biasanya  
+selama  perawatan  di  rumah  sakit).  Edukasi  ini  meliputi:  pengetahuan  
+dasar tentang DMT1 (terutama perbedaan dengan tipe   lain), pengaturan 
+makanan, insulin (jenis, cara pemberian, efek samping, penyesuaian dosis 
+sederhana   dll), dan pertolongan pertama pada kedaruratan medik akibat 
+DMT1 (hipoglikemia, pemberian insulin pada saat sakit).
+  •	 Edukasi   tahap   kedua   selanjutnya   berlangsung   selama   konsultasi   di
+poliklinik. Pada tahap ini, edukasi berisi penjelasan lebih terperinci tentang  
+patofisiologi,  olahraga,  komplikasi,   pengulangann  terhadap  apa  yang  
+pernah diberikan  serta  bagaimana  menghadapi   lingkungan sosial. 
+RINGKASAN REKOMENDASI
+•	 Komponen pengelolaan DMT1 meliputi pemberian insulin, pengaturan 
+makan, olah raga, edukasi, dan pemantauan mandiri.
+•	 Pasien  DMT1  minimal  sebaiknya  dilakukan  berkonsultasi  setiap  3  
+bulan dengan tujuan
+-   Mendiskusikan hasil pemantauan gula darah mandiri dan langkah-
+langkah untuk memperbaiki kontrol glikemiknya termasuk edukasi 
+penyesuaian dosis insulin, kebutuhan nutrisi dan aktivitas fisik untuk 
+tumbuh kembang yang optimal dan menghindari komplikasi.
+-   Mendiskusikan hasil HbA1C dengan prognosisnya 
+-   Apabila   sudah   saatnya   melakukan   skrining   komplikasi   dan   
+mendiskusikan pencegahannya
+•	 Regimen insulin sangat bersifat individual, sehingga tidak ada regimen yang 
+seragam untuk semua penderita DM tipe-1.
+•	 Regimen  apapun  yang  digunakan,  insulin  tidak  boleh  dihentikan  pada  
+keadaan sakit. 
+•	 Pemilihan   jenis   makanan   dianjurkan   karbohidrat   dengan   indeks   
+Diabetes Melitus Tipe-1 Anak dan Remaja 14
+
+glikemik dan  glycemic load  yang rendah.
+•	 Makanan  yang  mengandung  tinggi  karbohidrat  harus  dikonsumsi  
+segera setelah latihan/olahraga untuk mencegah terjadinya hipoglikemia 
+pasca latihan fisik.
+•	 Bagi  yang  ingin  berpuasa  di  bulan  Ramadan,  perlu  edukasi  untuk  
+menghindari  komplikasi  berpuasa  dengan  penyesuaian  dosis  insulin,  
+  terutama sebelum  pemantauan glukosa darah dilakukan secara teratur,
+Iftar  dan  3  jam  setelahnya,  dan  sebelum  dan  2  jam   sesudah  sahur,  
+indikasi  pembatalan  puasa,  dan  mengingatkan  kemballi  tata  cara  
+mengatasi komplikasi di rumah.
+•	 Pemantauan    kontrol    glikemik    sehari-hari    dilakukan    dengan    
+melakukan   hasil   pemantauan  glukosa  darah  mandiri,  HbA1c  dan  
+tumbuh kembang.
+•	 Target   HbA1c   untuk   semua   kelompok   usia   adalah   <   7,5%   (5,8   
+mmol/L).
+DAFTAR KEPUSTAKAAN
+1.  Azad K, Mohsin F, Zargar AH, Zabeen B, Ahmad J, dkk. South Asian Guide-
+lines  for  management  of  endocrine  dsorders  in  ramadan:  Fasting  guide-
+lines  for  diabetic  children  and  adolescents.  Indian  J  Endocrinol  Metab.  
+2012;16:516-18.
+2.  Couper JJ, HallerMJ, Ziegler A-G, KnipM, Ludvigsson J, dkk. ISPAD Clinical 
+Practice Consensus Guidelines 2014 Compendium :  Phases of type 1 diabetes 
+in children and adolescents. Pediatric Diabetes. 2014: 15 (Suppl. 20): 18–25.
+3.  Craig  ME,  Jefferies  C,  Dabelea  D,  Balde  N,  Seth  A,  dkk.  ISPAD  Clinical  
+Practice Consensus Guidelines 2014 Compendium :  Definition, epidemiology, 
+and  classification  of  diabetes  in  children  and  adolescents.  Pediatric  Diabetes.  
+2014: 15 (Suppl. 20): 4–17.
+4.  Danne  T,  Bangstad  H-J,  Deeb  L,  Jarosz-Chobot  P,  Mungaie  L,  dkk.  ISPAD  
+Clinical Practice Consensus Guidelines 2014 Compendium :  Insulin treatment 
+in children and adolescents with diabetes. Pediatric Diabetes 2014: 15 (Suppl. 
+20): 115–34.
+5.  Donaghue  KC,  Wadwa  RP,  Dimeglio  LA,  Wong  TY,  Chiarelli  F,  dkk.  ISPAD  
+Clinical  Practice  Consensus  Guidelines  2014  Compendium :  Microvascular 
+and  macrovascular  complications  in  children  and  adolescents.  Pediatric  Dia-
+betes. 2014: 15 (Suppl. 20): 257–69.
+Ukk  Endokrinologi IDAI 15
+
+6.  Global IDF/ISPAD Guideline for Diabetes in Childhood and Adolesence. In-
+ternational Diabetes Federation. 2011: 8-128.
+7.  Holt RIG, Hanley NA. Type 1 Diabetes. Dalam: Essential Endocrinology and 
+Diabetes. Edisi ke-6. Wiley-Blackwell 2012;12:258-84.
+8.  Kordonouri  O,  Klingensmith  G,  Knip  M,  Holl  RW,  Menon  PSN,  dkk. 
+ISPAD  Clinical  Practice  Consensus  Guidelines  2014  Compendium :  Other 
+complications and diabetes-associated conditions in children and adolescents. 
+Pediatric Diabetes. 2014: 15 (Suppl. 20): 270–78.
+9.  Lange K, Swift P, Pankowska E, Danne T. ISPAD Clinical Practice Consensus 
+Guidelines 2014 Compendium :  Diabetes education in children and adolescents. 
+Pediatric Diabetes 2014: 15 (Suppl. 20): 77–85.
+10.  Pocketbook for management of diabetes in childhood and adolescence in un-
+der-resourced countries. International Diabetes Federation 2013:10-20.
+11.  Raine  JE,  Donaldson  MDC,  Gregory  JW,  Van  Vliet  G.  Diabetes  Mellitus.  
+Dalam: Practical Endocrinology and Diabetes in Children. Edisi ke-3. Wiley-
+Blackwell 2011;1:8-13.
+12.  Rewers  MJ,  Pillay  K,  de  Beaufort  C,  Craig  ME,  Hanas  R,  dkk.  ISPAD  
+Clinical  Practice  Consensus  Guidelines  2014  Compendium :  Assessment  and  
+monitoring  of  glycemic  control  in  children  and  adolescents  with  diabetes.  
+Pediatric Diabetes 2014: 15 (Suppl. 20): 102–14.
+13.  Robertson  K,  Riddell  MC,  Guinhouya  BC,  Adolfsson  P,  Hanas  R.  ISPAD  
+Clinical  Practice  Consensus  Guidelines  2014  Compendium :  Exercise in chil-
+dren and adolescents with diabetes. Pediatric Diabetes. 2014: 15 (Suppl. 20): 
+203–23.
+14.  Salti  I,  Benard  E,  Detourney  B,  Bianchi-Biscay  M,  Le  Brigand  C,  dkk.  
+A population-based study of diabetes and its characteristics during the fasting 
+month  of  ramadan  in  13  countries:  results  of  the  Epidemiology  of  Diabetes  
+and Ramadan 1422/2001 (EPIDIAR) study. Diab Care. 2005;27:2306-11.
+15.  Smart  CE,  Annan  F,  Bruno  LPC,  Higgins  LA,  Acerini  CL.  ISPAD  Clinical  
+Practice Consensus Guidelines 2014 Compendium :  Nutritional management 
+in children and adolescents with diabetes. Pediatric Diabetes. 2014: 15 (Suppl. 
+20): 115–35
+Diabetes Melitus Tipe-1 Anak dan Remaja 16

@@ -1,0 +1,959 @@
+﻿Health & Medical Sciences  Volume: 2, Nomor 1, 2024,  Hal: 1-13 
+
+ 
+
+Eksplorasi Imunoterapi dalam Pengobatan Kanker Paru 
+
+Samhana Dzikra Fairuzzahra Yusuf, Rizkia Nadia Al Afifah, Sabila Ramadhani* 
+
+Universitas Lampung 
+
+ 
+
+Abstrak: Kanker paru merupakan salah satu penyakit yang paling mematikan di seluruh dunia, dengan tingkat kesintasan 
+yang rendah terutama pada tahap lanjut. Pengobatan konvensional seperti kemoterapi dan radioterapi seringkali memiliki 
+efek samping yang signifikan dan memberikan hasil yang terbatas. Oleh karena itu, diperlukan pendekatan terapi baru 
+yang lebih efektif dan kurang toksik. Imunoterapi telah muncul sebagai terapi yang menjanjikan dalam pengobatan 
+kanker paru, dengan memanfaatkan kemampuan sistem kekebalan tubuh untuk melawan sel kanker.  Artikel ini 
+menyajikan eksplorasi terbaru dalam penggunaan imunoterapi untuk mengobati kanker paru. Ini mencakup berbagai 
+pendekatan imunoterapi, termasuk penghambatan checkpoint imun, terapi sel T berbasis reseptor antigen khusus (CAR-
+T), dan vaksinasi terapeutik. Imunoterapi telah menunjukkan hasil yang menjanjikan dalam meningkatkan tingkat 
+kesintasan dan kualitas hidup pasien dengan kanker paru, terutama pada mereka yang tidak responsif terhadap terapi 
+konvensional. Namun, tantangan utama dalam penerapan imunoterapi adalah keberhasilan dalam mengidentifikasi 
+pasien yang paling mungkin mendapat manfaat serta pengelolaan efek samping yang mungkin timbul. Dengan 
+pemahaman yang terus berkembang tentang mekanisme imunologi kanker dan kemajuan dalam teknologi imunoterapi, 
+masa depan terapi kanker paru nampaknya cerah. Diharapkan bahwa dengan terus meningkatnya penelitian dan 
+pengembangan, imunoterapi akan menjadi bagian integral dari pengobatan kanker paru, membawa harapan baru bagi 
+pasien yang terkena dampak penyakit ini. 
+ 
+Kata kunci: Immunoteraphy, Lung Cancer, Treatment 
+ 
+
+DOI:  Abstract : Lung cancer is one of the most deadly diseases worldwide, with a low survival 
+https://doi.org/10.47134/phms.v2i1.23 rate, especially in advanced stages. Conventional treatments such as chemotherapy and 
+9 radiotherapy often have significant side effects and provide limited results. Therefore, new 
+
+*Correspondence: Sabila Ramadhani   therapeutic approaches are needed that are more effective and less toxic. Immunotherapy has 
+
+Email: sabilarmdhn@gmail.com  emerged as a promising therapy in the treatment of lung cancer, by harnessing the immune 
+
+ system's ability to fight cancer cells. This article presents the latest exploration in the use of 
+
+Received: 12-06-2024 immunotherapy to treat lung cancer. These include a variety of immunotherapy approaches, 
+
+Accepted: 14-06-2024 including immune checkpoint inhibition, specific antigen receptor-based T cell therapy 
+
+Published: 19-06-2024 (CAR-T), and therapeutic vaccination. Immunotherapy has shown promising results in 
+improving survival rates and quality of life in patients with lung cancer, especially in those 
+
+ who are unresponsive to conventional therapy. However, the main challenge in implementing 
+immunotherapy is successfully identifying patients most likely to benefit and managing 
+
+Copyright: © 2024 by the authors. possible side effects. With the ever-growing understanding of the immunological mechanisms 
+Submitted for open access publication of cancer and advances in immunotherapy technology, the future of lung cancer therapy 
+
+under the terms and conditions of the appears bright. It is hoped that as research and development continues to increase, 
+
+Creative Commons Attribution (CC immunotherapy will become an integral part of lung cancer treatment, bringing new hope to 
+
+BY) license patients affected by this disease. 
+
+(http://creativecommons.org/licenses/  
+
+by/4.0/). Keywords: Immunotherapy, Lung Cancer, Treatment 
+
+ 
+
+ 
+
+https://digital-science.pubmedia.id/index.php/phms 
+
+
+
+Health & Medical Sciences Volume: 2, Nomor 1, 2024 2 of 13 
+
+ 
+
+Pendahuluan 
+
+Kanker paru, terutama kanker paru tipe non-sel kecil (NSCLC), merupakan salah satu 
+
+penyebab utama kematian akibat kanker di seluruh dunia. Meskipun perkembangan dalam 
+
+deteksi dini dan terapi telah dicapai, prognosis pasien dengan NSCLC stadium lanjut masih 
+
+buruk, dengan tingkat kelangsungan hidup yang rendah. Oleh karena itu, pengembangan 
+
+strategi pengobatan yang lebih efektif dan inovatif sangat dibutuhkan untuk meningkatkan 
+
+hasil klinis bagi pasien dengan NSCLC stadium lanjut. Dalam beberapa tahun terakhir, 
+
+imunoterapi telah muncul sebagai pendekatan yang menjanjikan dalam pengobatan 
+
+kanker, termasuk NSCLC. Imunoterapi bekerja dengan memanipulasi sistem kekebalan 
+
+tubuh untuk mengenali dan menyerang sel-sel kanker dengan lebih efektif. Salah satu 
+
+modalitas imunoterapi yang paling banyak dieksplorasi adalah penghambat checkpoint 
+
+imun, seperti penghambat PD-1 (Programmed Death-1) dan PD-L1 (Programmed Death-
+
+Ligand 1). 
+
+Penghambat checkpoint imun bekerja dengan memblokir interaksi antara PD-1 pada 
+
+sel-sel T dan PD-L1 pada sel-sel kanker, yang normalnya dapat menyebabkan penekanan 
+
+respons kekebalan tubuh terhadap sel-sel kanker. Dengan menghambat interaksi ini, 
+
+penghambat checkpoint imun dapat memulihkan kemampuan sistem kekebalan tubuh 
+
+untuk mendeteksi dan menyerang sel-sel kanker (Robot et al., 2021). 
+
+Beberapa obat penghambat checkpoint imun, seperti pembrolizumab, nivolumab, dan 
+
+atezolizumab, telah disetujui untuk penggunaan klinis dalam pengobatan NSCLC stadium 
+
+lanjut. Penggunaan obat-obat ini, baik sebagai terapi tunggal maupun dalam kombinasi 
+
+dengan modalitas pengobatan lain seperti kemoterapi dan terapi antiangiogenik, telah 
+
+menunjukkan hasil yang menjanjikan dalam meningkatkan kelangsungan hidup pasien 
+
+dengan NSCLC stadium lanjut (Kristianto & Rahman, 2019). 
+
+Pemahaman yang lebih baik tentang pendekatan imunoterapi ini diharapkan dapat 
+
+membuka jalan bagi pengembangan strategi pengobatan yang lebih efektif dan 
+
+meningkatkan hasil klinis bagi pasien dengan NSCLC stadium lanjut. Menurut data dari 
+
+global cancer observatory (GLOBOCAN) tahun 2020 yang didapatkan dari International 
+
+Agency for Research On Cancer (WHO), data kanker paru menduduki posisi ke-2 di seluruh 
+
+dunia sebesar 11,4 %. Urutan pertama ditempati oleh kanker payudara sebesar 11.7%, 
+
+dilanjut pada urutan ke3 kanker prostat (10,0%), prostat (7,3%), dan kanker lambung (5,6%). 
+
+sedangkan pada data penyebab kematian kanker terbesar, menempati peringkat pertama 
+
+yaitu kanker paru sebanyak 1.8  juta kasus kematian (18%), dilanjutkan oleh kanker 
+
+kolorektal diposisi ke2 (9,4%), liver (8,3%). lambung (7,7%), dan kanker payudadara (6,9%). 
+
+di Indonesia, menurut data GLOBOCAN 2020 jumlah kasus baru kanker paru menduduki 
+
+ 
+
+https://digital-science.pubmedia.id/index.php/phms 
+
+
+
+Health & Medical Sciences Volume: 2, Nomor 1, 2024 3 of 13 
+
+ 
+
+posisi ke 3 sebesar (8,8 %), setelah kanker payudara pada posisi pertama (16,6%) dan kanker 
+
+serviks pada posisi ke-2 (9,2%). kanker paru lebih banyak menyerang laki laki dibandingkan 
+
+dengan perempuan (14,1%) (Andayani & Julisafrida, 2020) 
+
+WHO membagi kanker paru menjadi 2, yaitu small cell carcinoma lung cancer (SCLC) 
+
+dan non-small cell carcinoma lung cancer (NSCLC). Kasus kanker paru yang paling sering 
+
+dijumpai merupakan kanker paru bukan sel kecil (KPBSK) atau Non-small cell Lung Cancer 
+
+(NSCLC) sebanyak 80-85%, yang terdiri atas adenocarcinoma, squamous cell carcinoma, 
+
+dan large cell carcinoma. Sedangkan kanker small cell carcinoma lung cancer (SCLC) 
+
+sebesar 10-15%. Dalam artikel ini, kami akan mengeksplorasi peran imunoterapi, terutama 
+
+penghambat checkpoint imun, dalam pengobatan NSCLC stadium lanjut. Kami akan 
+
+menyajikan hasil-hasil terbaru dari studi klinis dan membahas potensi serta tantangan 
+
+dalam penggunaan imunoterapi untuk pengobatan NSCLC. 
+
+Metode Penelitian 
+
+Metode  yang  digunakan dalam penelitian  ini  adalah   studi  literatur  dengan  
+
+memuat analisis  beberapa  artikel  lalu  meninjau dokumen  dan  mengevaluasi  penelitian  
+
+serupa  sebelumnya (Sugiyono, 2021). Tahapan  metode literatur  review yang  pertama 
+
+adalah pemilihan  naskah.  Artikel  yang  dianalisis  dapat  diperoleh  dengan mencari  
+
+literatur  yang  relevan  menggunakan  beberapa  platform  penelitian  online  terkenal yaitu 
+
+Google Scholar dan PubMed.  Artikel  yang  digunakan ialah yang dipublikasi dalam lima 
+
+tahun terakhir  (2018-2023), baik   dalam bahasa Indonesia maupun bahasa Inggris. Jumlah 
+
+artikel kurang  lebih  25  artikel yang  memberikan  gambaran jelas mengenai imunoterapi 
+
+dalam pengobatan kanker. Kedua,  analisis  menggunakan  konten  kualitatif dengan   
+
+korelasi   antara   konten   dan   konteks.   Artikel   penelitian   yang   dianalisis   berdasarkan 
+
+subkategori pembahasan yang sesuai dengan pertanyaan peneliti (Nurwahyunani, 2021; 
+
+Rusdiyana et al., 2021. Dalam penelitian ini, kami melakukan tinjauan literatur sistematis 
+
+untuk mengeksplorasi peran imunoterapi, khususnya penghambat checkpoint imun, dalam 
+
+pengobatan kanker paru tipe non-sel kecil (NSCLC) stadium lanjut.Untuk memastikan data 
+
+yang diambil relevan dan akurat, kriteria inklusi dan eksklusi diterapkan dalam pemilihan 
+
+sampel. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+https://digital-science.pubmedia.id/index.php/phms 
+
+
+
+Health & Medical Sciences Volume: 2, Nomor 1, 2024 4 of 13 
+
+ 
+
+Tabel 1. kriteria inklusi dan eksklusi diterapkan dalam pemilihan sampel 
+
+Kriteria Inklusi Kriteria Eksklusi  
+
+1. Pasien dengan diagnosis kanker  
+paru 1. Pasien dengan jenis kanker lain.  
+tipe tertentu (misalnya NSCLC). 
+
+2. Pasien yang telah menerima atau   
+2. Pasien yang belum pernah menerima imunoterapi. 
+
+sedang menjalani imunoterapi. 
+
+3. Pasien yang bersedia  
+memberikan  
+
+3. Pasien yang tidak bersedia mengikuti wawancara. 
+informasi dan mengikuti 
+wawancara. 
+
+4. Pasien dengan usia di atas 18 4. Pasien dengan kondisi kesehatan yang tidak stabil dan tidak mampu  
+tahun. mengikuti penelitian. 
+
+5. Rekam medis yang lengkap dan  
+5. Rekam medis yang tidak lengkap atau hilang. 
+
+tersedia. 
+
+6. Dokter dan tenaga medis yang   
+bersedia berpartisipasi dalam 6.Tenaga medis yang tidak bersedia berpartisipasi. 
+wawancara. 
+
+ 
+
+Hasil dan Pembahasan 
+
+Tabel 2. Penelitian yang digunakan dalam penelitian ini 
+Judul Penulis Tahun 
+
+Prediksi Tingkat Keberhasilan Pengobatan Kanker Okky Putra Barus & Toni 2020 
+Menggunakan Imunoterapi Dengan Metode Naive Bayes   Sanjaya   
+
+Imunoterapi pada Kanker Payudara   Putu Nita Cahyawati 2018 
+
+Lung Cancer. The Dialogue of Indonesian Lung Cancer Andarini, S 2021 
+
+MultiStakeholder (Representative from Perhimpunan   
+
+Dokter Paru Indonesia 
+
+Market segmentation and travel choice prediction in Spa Ahani, A 2019 
+
+hotels through TripAdvisor's online reviews  
+
+Machine learning application for prediction of Alabi, R. O. et al 2019 
+
+locoregional recurrences in early oral tongue cancer: a  
+
+Web-based prognostic tool 
+
+Morfologi, Patogenesis, dan Imunoterapi Kanker Paru Renita Y. Robot (2021) 2021 
+
+Tipe Adenokarsinoma. 
+
+Pembrilizumab Sebagai Smunoterapi Pada Nonsmall Cell Kristianto A, Rahman A 2019 
+
+Lung Carcinoma 
+
+Peranan Immunoterapi Pada Kanker Paru Andayani N, Julisafrida L 2020 
+
+Systemic Therapy in Lung Cancer. The Dialogue Atmakusuma, T 2017 
+
+ of Indonesian Lung Cancer Multi-Stakeholder 
+
+ 
+
+https://digital-science.pubmedia.id/index.php/phms 
+
+
+
+Health & Medical Sciences Volume: 2, Nomor 1, 2024 5 of 13 
+
+ 
+
+(Representative from Perhimpunan  Dokter Onkologi 
+
+Medik Indonesia) 
+
+Lung cancer survival prediction via machine learning Bartholomai dan  2021 
+regression, classification, and statistical techniques Frieboes 
+
+The Eighth Edition TNM Stage Classification For Lung Detterbeck, F 2018 
+
+ Cancer: What does it mean on main street?  
+
+Biomarker of Lung Cancer and Testing Flow of NSCLC in Lisnawati 2021 
+
+Indonesia 
+
+Current Lung Cancer Claim of National Health Insurance. Permatasari, M 2021 
+The Dialogue of Indonesian Lung Cancer Multi-
+Stakeholder (Representative from  National Health 
+Insurance Agency/BPJS Kesehatan) 
+BI inspired meta-optimization Chou dan Nguyen 2020 
+
+Deadliest Cancer in  Indonesia: Challenges & Putri, A 2021 
+Expectation. The Dialogue of Indonesian Lung Cancer 
+Multi-Stakeholder (Representative from Cancer 
+Information & Support Center) 
+Recent research trends in genetic algorithm based flexible Amjad, M. K. et al. 2018 
+
+job shop scheduling problems 
+
+Efek aktivasi programmed death  ligand  1 (PD-L1)   pada Pramono  M, et al 2019 
+adenokarsinoma paru.Pratista Patologi 
+Breast Cancer Classification Using Machine Learning Amrane, M, et al 2020 
+
+Non-small-cell  lung  cancer  signaling  path-ways,   Santarpia  M,  et al 2020 
+metabolism,   and   PD-1/PD-L1 anti-bodies.Cancers(Basel 
+Targeted therapy and checkpoint immunotherapy in lung Ruiz-cordero R, Devine 2021 
+cancer WP, 
+Gambaran klinik,  histopatologik,  dan   molekuler fusi   Lay  FK, et  al 2019 
+gen RET   (Rearranged   During Transfection   )   pada  
+adenokarsinoma paru. Pratista Patologi 
+
+Benefit-based consumer segmentation and performance Arunachalam dan Kumar 2018 
+
+evaluation of clustering approaches 
+
+Comparison of the Efficacy of Generation 1 and 2 Tyrosine Suwandi, L. 2021 
+Kinase Inhibitors in Non-Small Cell Lung Cancer Patients Wulandari, Gatot 
+with EGFR Positive Mutations Soegiarto 
+
+Application of metaheuristic algorithms to optimal Aryafar, et al 2018 
+
+clustering of sawing machine vibration 
+
+SEER Stat Fact Sheets: Lung and Bronchus Cancer National Cancer Institute 2019 
+
+ 
+
+Pembahasan 
+Imunoterapi telah membawa harapan baru dalam pengobatan kanker paru tipe 
+
+NSCLC, yang sebelumnya memiliki prognosis buruk dan pilihan pengobatan yang terbatas. 
+
+Pendekatan ini memanfaatkan sistem kekebalan tubuh sendiri untuk menyerang sel-sel 
+
+ 
+
+https://digital-science.pubmedia.id/index.php/phms 
+
+
+
+Health & Medical Sciences Volume: 2, Nomor 1, 2024 6 of 13 
+
+ 
+
+kanker dengan cara menonaktifkan mekanisme penghambat yang digunakan oleh sel 
+
+kanker untuk menghindari deteksi oleh sistem kekebalan. Penghambat checkpoint imun, 
+
+seperti pembrolizumab, nivolumab, dan atezolizumab, telah terbukti efektif dalam 
+
+meningkatkan kelangsungan hidup pasien dengan NSCLC stadium lanjut. Mereka bekerja 
+
+dengan memblokir interaksi antara PD-1 pada sel-sel T dan PD-L1 pada sel-sel kanker, yang 
+
+normalnya menyebabkan penekanan sistem kekebalan tubuh terhadap sel-sel kanker. 
+
+Interaksi antara PD-1 dan PD-L1 merupakan salah satu mekanisme yang digunakan oleh 
+
+sel-sel kanker untuk menghindari deteksi dan serangan dari sel-sel T, yang merupakan 
+
+komponen utama dalam sistem kekebalan tubuh. Sel-sel T berperan penting dalam respons 
+
+imun dengan mengenali dan menyerang sel-sel yang terlanjur berubah menjadi sel kanker. 
+
+Sel-sel T merupakan komponen utama dalam sistem kekebalan tubuh yang bertanggung 
+
+jawab untuk melawan ancaman seperti infeksi dan pertumbuhan sel-sel kanker (Kristianto 
+
+& Rahman, 2019).   
+
+Sel-sel T terdiri dari beberapa jenis sel, termasuk sel T sitotoksik (CD8+) dan sel T 
+
+helper (CD4+). Sel T sitotoksik berperan langsung dalam membunuh sel-sel yang terinfeksi 
+
+atau sel-sel kanker, sementara sel T helper membantu mengatur dan mengkoordinasikan 
+
+respons imun secara keseluruhan. 
+
+Ketika sel-sel T mendeteksi antigen asing atau sel-sel yang bermutasi, seperti sel-sel 
+
+kanker, mereka akan mengalami aktivasi dan memulai respons imun. Sel T sitotoksik akan 
+
+melepaskan protein sitotoksik, seperti perforin dan granzim, yang dapat membunuh sel-sel 
+
+kanker secara langsung. Sementara itu, sel T helper akan melepaskan sitokin (molekul 
+
+sinyal) yang membantu mengaktifkan sel-sel imun lainnya, seperti sel B dan sel pembunuh 
+
+alami (natural killer cells), untuk bergabung dalam respons imun terhadap sel-sel kanker. 
+
+Namun, sel-sel kanker seringkali mengembangkan mekanisme untuk menghindari deteksi 
+
+dan serangan dari sel-sel T. Salah satu mekanisme yang digunakan adalah dengan 
+
+mengekspresikan molekul penghambat seperti PD-L1 (Programmed Death-Ligand 1) pada 
+
+permukaan sel mereka. PD-L1 dapat berinteraksi dengan reseptor PD-1 pada sel-sel T, 
+
+mengirimkan sinyal penghambatan yang menyebabkan sel-sel T menjadi tidak aktif dan 
+
+gagal menghancurkan sel-sel kanker. 
+
+Penghambat checkpoint imun, seperti pembrolizumab, nivolumab, dan atezolizumab, 
+
+bekerja dengan memblokir interaksi antara PD-1 dan PD-L1, sehingga mencegah 
+
+penghambatan sel-sel T dan memungkinkan mereka untuk tetap aktif dalam mengenali dan 
+
+menyerang sel-sel kanker. Dengan memulihkan kemampuan sel-sel T untuk melawan sel-
+
+sel ka nker, penghambat checkpoint imun telah memberikan harapan baru bagi pengobatan 
+
+ 
+
+https://digital-science.pubmedia.id/index.php/phms 
+
+
+
+Health & Medical Sciences Volume: 2, Nomor 1, 2024 7 of 13 
+
+ 
+
+kanker, termasuk kanker paru tipe non-sel kecil (NSCLC) stadium lanjut (Andayani & 
+
+Julisafrida, 2020). 
+
+Selain itu, beberapa strategi lain dalam imunoterapi juga bertujuan untuk 
+
+meningkatkan aktivitas sel-sel T terhadap sel-sel kanker, seperti penggunaan vaksin kanker 
+
+dan transfer sel T yang dimodifikasi secara genetik (CAR-T cells). Pendekatan-pendekatan 
+
+ini bertujuan untuk meningkatkan kemampuan sistem kekebalan tubuh, terutama sel-sel T, 
+
+dalam mengenali dan menyerang sel-sel kanker secara lebih efektif. 
+
+PD-1 (Programmed Death-1) adalah reseptor yang diekspresikan pada permukaan sel-
+
+sel T, sedangkan PD-L1 (Programmed Death-Ligand 1) adalah protein yang diekspresikan 
+
+pada permukaan sel-sel kanker maupun sel-sel normal tertentu. Ketika PD-1 pada sel-sel T 
+
+berinteraksi dengan PD-L1 pada sel-sel kanker, sinyal penghamb atan akan dikirimkan ke 
+
+sel-sel T, menyebabkan mereka menjadi tidak aktif dan gagal menghancurkan sel-sel 
+
+kanker. 
+
+Mekanisme ini merupakan salah satu strategi yang digunakan oleh sel-sel kanker 
+
+untuk menghindari deteksi dan serangan dari sistem kekebalan tubuh. Dengan 
+
+menginaktivasi sel-sel T, sel-sel kanker dapat terus berkembang dan menyebar tanpa 
+
+gangguan dari respons imun. Selain itu, beberapa jenis sel normal juga mengekspresikan 
+
+PD-L1, yang berperan dalam menjaga toleransi kekebalan tubuh dan mencegah respons 
+
+autoimun yang berlebihan. Namun, sel-sel kanker memanfaatkan mekanisme ini untuk 
+
+menghindari deteksi dan serangan dari sel-sel T. 
+
+Pemahaman tentang mekanisme penghambatan ini telah mendorong pengembangan 
+
+terapi imunoterapi dengan penghambat checkpoint imun, seperti pembrolizumab, 
+
+nivolumab, dan atezolizumab. Obat-obatan ini bekerja dengan memblokir interaksi antara 
+
+PD-1 dan PD-L1, sehingga mencegah penghambatan sel-sel T dan memungkinkan mereka 
+
+untuk tetap aktif dalam mendeteksi dan menyerang sel-sel kanker. 
+
+Dengan memulihkan kemampuan sel-sel T untuk melawan sel-sel kanker, 
+
+penghambat checkpoint imun telah memberikan harapan baru bagi pengobatan kanker, 
+
+termasuk kanker paru tipe non-sel kecil (NSCLC) stadium lanjut. Studi klinis telah 
+
+menunjukkan peningkatan signifikan dalam kelangsungan hidup pasien yang menerima 
+
+terapi ini dibandingkan dengan terapi konvensional seperti kemoterapi. 
+
+Ketika sel-sel T mendeteksi antigen asing atau sel-sel yang bermutasi, seperti sel-sel 
+
+kanker, mereka akan mengalami aktivasi dan memulai respons imun untuk menyerang dan 
+
+menghancurkan sel-sel tersebut. Namun, sel-sel kanker seringkali mengekspresikan PD-L1 
+
+pada permukaan mereka, yang dapat berinteraksi dengan reseptor PD-1 pada sel-sel T. 
+
+ 
+
+https://digital-science.pubmedia.id/index.php/phms 
+
+
+
+Health & Medical Sciences Volume: 2, Nomor 1, 2024 8 of 13 
+
+ 
+
+Interaksi ini menginduksi sinyal penghambatan pada sel-sel T, menyebabkan mereka 
+
+menjadi tidak aktif dan gagal menghancurkan sel-sel kanker. 
+
+Penghambat checkpoint imun, seperti pembrolizumab, nivolumab, dan atezolizumab, 
+
+bekerja dengan mengikat dan memblokir interaksi antara PD-1 dan PD-L1. Dengan 
+
+memblokir interaksi ini, sinyal penghambatan pada sel-sel T dihilangkan, sehingga sel-sel 
+
+T dapat tetap aktif dan meningkatkan kemampuan mereka untuk mendeteksi dan 
+
+menyerang sel-sel kanker dengan lebih efektif. 
+
+Selain itu, beberapa penelitian juga menunjukkan bahwa penghambat checkpoint 
+
+imun dapat memiliki efek sistemik pada lingkungan tumor, seperti meningkatkan infiltrasi 
+
+sel-sel T ke dalam tumor dan mengubah ekspresi molekul-molekul lain yang terlibat dalam 
+
+respons kekebalan tubuh. Hal ini dapat membantu memperkuat respons imun terhadap 
+
+sel-sel kanker secara keseluruhan. Dengan memulihkan kemampuan sistem kekebalan 
+
+tubuh untuk mengenali dan menyerang sel-sel kanker, penghambat checkpoint imun telah 
+
+membuka jalan baru dalam pengobatan kanker, termasuk NSCLC stadium lanjut.  
+
+Selain penggunaan tunggal, kombinasi imunoter Pendekatan imunoterapi dengan 
+
+penghambat checkpoint imun telah menunjukkan peningkatan signifikan dalam 
+
+kelangsungan hidup pasien dibandingkan dengan terapi konvensional seperti kemoterapi. 
+
+Hasil ini telah dibuktikan dalam beberapa studi klinis besar yang melibatkan penghambat 
+
+checkpoint imun seperti pembrolizumab, nivolumab, dan atezolizumab dalam pengobatan 
+
+kanker paru tipe non-sel kecil (NSCLC) stadium lanjut. 
+
+Dalam sebuah studi klinis fase III yang melibatkan pasien dengan NSCLC stadium 
+
+lanjut yang telah menerima pengobatan sebelumnya, nivolumab menunjukkan 
+
+peningkatan yang signifikan dalam kelangsungan hidup keseluruhan dibandingkan 
+
+dengan docetaxel, yang merupakan kemoterapi standar untuk pengobatan lini kedua. Hasil 
+
+ini mengonfirmasi efektivitas nivolumab sebagai pilihan terapi untuk pasien dengan 
+
+NSCLC stadium lanjut yang telah resistan terhadap pengobatan lini pertama atau bahkan 
+
+lini kedua. 
+
+Selain peningkatan dalam kelangsungan hidup keseluruhan, nivolumab juga 
+
+menunjukkan profil keamanan yang lebih baik dibandingkan dengan docetaxel. Pasien 
+
+yang menerima nivolumab dilaporkan mengalami efek samping yang lebih ringan dan 
+
+lebih dapat ditoleransi, sehingga meningkatkan kualitas hidup mereka selama pengobatan. 
+
+Ini merupakan salah satu keunggulan utama dari penggunaan penghambat checkpoint 
+
+imun seperti nivolumab dibandingkan dengan kemoterapi tradisional. 
+
+Kemoterapi sering kali menyebabkan efek samping yang signifikan, seperti mual, 
+
+muntah, rambut rontok, kelelahan, bahkan risiko infeksi dan perdarahan. Efek samping ini 
+
+ 
+
+https://digital-science.pubmedia.id/index.php/phms 
+
+
+
+Health & Medical Sciences Volume: 2, Nomor 1, 2024 9 of 13 
+
+ 
+
+dapat berdampak buruk pada kualitas hidup pasien dan membatasi aktivitas sehari-hari 
+
+mereka selama menjalani pengobatan. 
+
+Di sisi lain, nivolumab bekerja dengan memanipulasi sistem kekebalan tubuh sendiri 
+
+untuk menyerang sel-sel kanker, sehingga memiliki profil toksisitas yang lebih baik 
+
+dibandingkan kemoterapi. Meskipun masih ada kemungkinan terjadinya efek samping, 
+
+seperti reaksi autoimun, namun efek samping ini cenderung lebih ringan dan lebih dapat 
+
+ditoleransi oleh pasien. Dalam studi klinis yang mengevaluasi nivolumab pada pasien 
+
+dengan NSCLC stadium lanjut, pasien yang menerima nivolumab dilaporkan mengalami 
+
+tingkat efek samping seperti kelelahan, mual, dan diare yang lebih rendah dibandingkan 
+
+dengan pasien yang menerima kemoterapi docetaxel. 
+
+Selain itu, nivolumab juga tidak menyebabkan efek samping yang sering terjadi pada 
+
+kemoterapi, seperti rambut rontok, penurunan jumlah sel darah, dan gangguan fungsi 
+
+organ. Hal ini memungkinkan pasien untuk mempertahankan kualitas hidup yang lebih 
+
+baik selama menjalani pengobatan dengan nivolumab. Peningkatan kualitas hidup yang 
+
+diamati pada pasien yang menerima nivolumab sangat penting, terutama dalam konteks 
+
+pengobatan kanker stadium lanjut. Pasien dengan kanker stadium lanjut seringkali 
+
+menghadapi tantangan yang signifikan dalam mempertahankan kualitas hidup mereka 
+
+akibat beban penyakit dan efek samping dari pengobatan. 
+
+Dengan profil toksisitas yang lebih baik, nivolumab memberikan peluang bagi pasien 
+
+untuk menjalani pengobatan dengan lebih baik dan mempertahankan aktivitas sehari-hari 
+
+mereka, sehingga meningkatkan kualitas hidup secara keseluruhan. Ini merupakan aspek 
+
+penting dalam perawatan pasien kanker, di samping upaya untuk meningkatkan 
+
+kelangsungan hidup (Kristianto & Rahman, 2019).   
+
+Temuan dari studi ini memperkuat posisi nivolumab sebagai salah satu pilihan terapi 
+
+imunoterapi yang penting dalam pengobatan NSCLC stadium lanjut. Dengan 
+
+kemampuannya untuk memulihkan respons kekebalan tubuh terhadap sel-sel kanker, 
+
+nivolumab memberikan harapan baru bagi pasien yang sebelumnya memiliki opsi 
+
+pengobatan yang terbatas dan prognosis yang buruk. 
+
+Meskipun demikian, seperti halnya dengan penghambat checkpoint imun lainnya, 
+
+nivolumab juga memiliki potensi efek samping terkait peningkatan aktivitas sistem 
+
+kekebalan tubuh, seperti reaksi autoimun. Oleh karena itu, pemantauan ketat dan 
+
+manajemen efek samping tetap menjadi faktor kunci dalam penggunaan nivolumab untuk 
+
+pengobatan NSCLC. 
+
+Penelitian lebih lanjut masih terus dilakukan untuk mengoptimalkan penggunaan 
+
+nivolumab, baik sebagai terapi tunggal maupun dalam kombinasi dengan modalitas 
+
+ 
+
+https://digital-science.pubmedia.id/index.php/phms 
+
+
+
+Health & Medical Sciences Volume: 2, Nomor 1, 2024 10 of 13 
+
+ 
+
+pengobatan lain, serta untuk mengidentifikasi biomarker prediktif yang dapat membantu 
+
+memilih pasien yang paling mungkin mendapatkan manfaat dari terapi ini. 
+
+Selain digunakan sebagai terapi tunggal, penghambat checkpoint imun juga telah 
+
+dieksplorasi dalam kombinasi dengan modalitas pengobatan lain, seperti kemoterapi dan 
+
+terapi antiangiogenik. Kombinasi pembrolizumab dengan kemoterapi berbasis platinum, 
+
+misalnya, telah menunjukkan peningkatan signifikan dalam kelangsungan hidup 
+
+keseluruhan dan kelangsungan hidup bebas progresif dibandingkan dengan hanya 
+
+menggunakan kemoterapi saja pada pasien dengan NSCLC stadium lanjut tanpa mutasi 
+
+EGFR atau translokasi ALK (Kristianto & Rahman, 2019). 
+
+Peningkatan kelangsungan hidup yang diamati dengan penggunaan penghambat 
+
+checkpoint imun dapat dikaitkan dengan kemampuan mereka untuk memulihkan respons 
+
+kekebalan tubuh terhadap sel-sel kanker. Dengan memblokir mekanisme penghambatan 
+
+yang digunakan oleh sel-sel kanker untuk menghindari deteksi oleh sistem kekebalan 
+
+tubuh, penghambat checkpoint imun dapat membantu sel-sel T untuk lebih efektif 
+
+mengenali dan menyerang sel-sel kanker (Kementerian Kesehatan Republik Indonesia, 
+
+2023). 
+
+Simpulan 
+
+Imunoterapi, terutama dengan menggunakan penghambat checkpoint imun, telah 
+
+membawa harapan baru dalam pengobatan kanker paru tipe non-sel kecil (NSCLC) 
+
+stadium lanjut. Melalui tinjauan literatur ini, kami dapat menyimpulkan beberapa poin 
+
+utama: 
+
+1. Penghambat checkpoint imun, seperti pembrolizumab, nivolumab, dan atezolizumab, 
+
+telah terbukti efektif dalam meningkatkan kelangsungan hidup keseluruhan dan 
+
+kelangsungan hidup bebas progresif pada pasien dengan NSCLC stadium lanjut, baik 
+
+sebagai terapi tunggal maupun dalam kombinasi dengan modalitas pengobatan lain. 
+
+2. Pembrolizumab, dalam kombinasi dengan kemoterapi berbasis platinum, menunjukkan 
+
+peningkatan signifikan dalam hasil klinis dibandingkan dengan kemoterapi saja pada 
+
+pasien dengan NSCLC stadium lanjut tanpa mutasi EGFR atau translokasi ALK. 
+
+3. Nivolumab telah menunjukkan hasil yang menggembirakan dalam meningkatkan 
+
+kelangsungan hidup pasien dengan NSCLC stadium lanjut yang telah menerima 
+
+pengobatan sebelumnya, menjadikannya pilihan terapi yang berharga untuk pasien 
+
+dengan penyakit yang resistan terhadap pengobatan lini pertama atau kedua. 
+
+4. Atezolizumab, dalam kombinasi dengan kemoterapi berbasis platinum dan 
+
+bevacizumab, memberikan peningkatan yang signifikan dalam kelangsungan hidup 
+
+keseluruhan dan kelangsungan hidup bebas progresif dibandingkan dengan hanya 
+
+ 
+
+https://digital-science.pubmedia.id/index.php/phms 
+
+
+
+Health & Medical Sciences Volume: 2, Nomor 1, 2024 11 of 13 
+
+ 
+
+menggunakan kemoterapi dan bevacizumab saja pada pasien dengan NSCLC stadium 
+
+lanjut tanpa mutasi EGFR atau translokasi ALK. 
+
+5. Meskipun menunjukkan hasil yang menjanjikan, imunoterapi dengan penghambat 
+
+checkpoint imun juga memiliki potensi efek samping terkait peningkatan aktivitas sistem 
+
+kekebalan tubuh, seperti reaksi autoimun. Oleh karena itu, pemilihan pasien yang tepat 
+
+dan pemantauan ketat selama pengobatan sangat penting. 
+
+Secara keseluruhan, eksplorasi imunoterapi dengan penghambat checkpoint imun 
+telah membuka jalan baru dalam pengobatan NSCLC stadium lanjut. Penelitian lebih lanjut 
+masih terus dilakukan untuk mengoptimalkan penggunaan imunoterapi, baik sebagai 
+terapi tunggal maupun dalam kombinasi dengan modalitas pengobatan lain, serta untuk 
+mengidentifikasi biomarker yang dapat membantu memilih pasien yang paling mungkin 
+mendapatkan manfaat dari pendekatan ini. 
+
+Ucapan terima kasih 
+
+Peneliti mengucapkan terima kasih banyak kepada dosen pembimbing: 
+
+1. dr. Ratna Dewi Puspita Sari, S. Ked., Sp. OG 
+
+2. dr. Winda Trijayanthi Utama, S. Ked., M. K.K. 
+
+3. Suryani Agustina Daulay, STr.Keb.,M.K.M 
+
+karena telah dibimbing dan diarahkan sehingga penelitian ini dapat berjalan dengan 
+lancar. 
+
+ 
+
+Daftar Pustaka  
+
+Ahani, A. (2019). Market segmentation and travel choice prediction in Spa hotels through 
+
+TripAdvisor's online reviews. 
+
+Alabi, R. O. et al. (2019). Machine learning application for prediction of locoregional 
+
+recurrences in early oral tongue cancer: a Web-based prognostic tool 
+
+Andarini, S. (2021). Lung Cancer. The Dialogue of Indonesian Lung Cancer 
+
+MultiStakeholder (Representative from Perhimpunan Dokter Paru Indonesia. 
+
+Andayani dan  Julisafrida. (2020). Peranan Immunoterapi Pada Kanker Paru. Jurnal 
+
+Kedokteran Syiah Kuala, 20(2), 70–77. https://doi.org/10.24815/jks.v20i2.18499. 
+
+Amjad, M. K. et al. (2018). Recent research trends in genetic algorithm based flexible job 
+
+ 
+
+https://digital-science.pubmedia.id/index.php/phms 
+
+
+
+Health & Medical Sciences Volume: 2, Nomor 1, 2024 12 of 13 
+
+ 
+
+shop scheduling problems. 
+
+Amrane, M, et al. (2020). Breast Cancer Classification Using Machine Learning 
+
+Aryafar, et al. (2018). Application of metaheuristic algorithms to optimal clustering of 
+
+sawing machine vibration. Measurement, Volume 124, pp. 20-31Lung Cancer 
+
+MultiStakeholder (Representative from Perhimpunan Dokter Paru Indonesia). 
+
+Jakarta 
+
+Arunachalam dan Kumar. (2018). Benefit-based consumer segmentation and performance 
+
+evaluation of clustering approaches: An evidence of datadriven decision-making. 
+
+Expert Systems With Applications, Volume 111, pp. 11-34.  
+
+Aryafar, et al. (2018). Application of metaheuristic algorithms to optimal clustering of 
+
+sawing machine vibration. Measurement, Volume 124, pp. 20-31. 
+
+Atmakusuma, T. (2021, February 7). Systemic Therapy in Lung Cancer. The Dialogue  of 
+
+Indonesian Lung Cancer Multi-Stakeholder (Representative from Perhimpunan 
+
+Dokter Onkologi Medik Indonesia). Jakarta.  
+
+Bartholomai dan  Frieboes. (2021). Lung cancer survival prediction via machine learning 
+
+regression, classification, and statistical techniques. Network Biology, 11(2). 
+
+Barus OP, Sanjaya T. (2020) Prediksi    Tingkat    Keberhasilan    Pengobatan    Kanker 
+Menggunakan Imunoterapi Dengan Metode Naive Bayes. Inf Syst Dev. 2020;5(1):6–
+11. 
+
+Chou dan Nguyen. (2020). FBI inspired meta-optimization. Applied Soft Computing, 
+Volume 93, pp. 1-28. 
+
+Detterbeck, F. (2018). The Eighth Edition TNM Stage Classification For Lung  Cancer: 
+What does it mean on main street? The Journal of Thoracic and  Cardiovascular 
+Surgery. 
+
+Kementerian Kesehatan Republik Indonesia. (2023). Pedoman Nasional Pelayanan Kesehatan 
+Tata Laksana Kanker Paru. 1–90. 
+
+Kristianto dan Rahman. (2019). Pembrilizumab Sebagai Smunoterapi Pada Nonsmall Cell 
+Lung Carcinoma. Indonesian Journal Chest, 6(2), 96–108. 
+
+ 
+
+https://digital-science.pubmedia.id/index.php/phms 
+
+
+
+Health & Medical Sciences Volume: 2, Nomor 1, 2024 13 of 13 
+
+ 
+
+Lay  FK, et  al. (2019). Gambaran klinik,  histopatologik,  dan   molekuler fusi   gen RET   
+(Rearranged   During Transfection)   pada adenokarsinoma paru. Pratista Patologi. 
+2019;6(1).32 
+
+Lisnawati. (2021). Biomarker of Lung Cancer and Testing Flow of NSCLC in 
+ Indonesia. The Dialogue of Indonesian Lung Cancer Multi-Stakeholder 
+ (Representative from Perhimpunan Dokter Spesialis Patologi Indonesia). Jakarta.  
+
+National Cancer Institute. (2019). SEER Stat Fact Sheets: Lung and Bronchus Cancer. 2019  
+
+Permatasari, M. (2021). Current Lung Cancer Claim of National Health Insurance. 
+ The Dialogue of Indonesian Lung Cancer Multi-Stakeholder (Representative from 
+ National Health Insurance Agency/BPJS Kesehatan). Jakarta.  
+
+PN Cahyawati, (2018). Wicaksana: Jurnal Lingkungan dan Pembangunan. 
+
+Putri, A. (2021). Deadliest Cancer in  Indonesia: Challenges & Expectation. The 
+Dialogue of Indonesian Lung Cancer  Multi-Stakeholder (Representative from 
+Cancer Information & Support Center).  Jakarta. 
+
+Pramono  M, et al. (2019).  Efek aktivasi  programmed   death  ligand  1 (PD-L1)   pada 
+adenokarsinoma   paru.Pratista Patologi. ;6(2).28. 
+
+Robot et al. (2021). Morfologi, Patogenesis, dan Imunoterapi Kanker Paru Tipe 
+Adenokarsinoma. Medical Scope Journal, 3(1), 74-82. 
+https://doi.org/10.35790/msj.v3i1.33544 
+
+Ruiz-cordero R, Devine WP. (2021).  Targeted therapy and checkpoint immunotherapy in 
+lung cancer. Surg Pathol. 2021;13(1):17-33.31 
+
+Santarpia  M,  et al. (2020). Non-small-cell  lung  cancer  signaling  path-ways,   metabolism,   
+and   PD-1/PD-L1 anti-bodies.Cancers(Basel).2020;12(6):1475. 30 
+
+Sugiyono. (2021). Metode Penelitian Pendidikan Kuantitatif, Kualitatif, R&D dan Penelitian 
+Pendidikan. Alfabeta. 
+
+Suwandi, L. Wulandari, Gatot Soegiarto. (2021). Comparison of the Efficacy of Generation 
+
+1 and 2 Tyrosine Kinase Inhibitors in Non-Small Cell Lung Cancer Patients with 
+
+EGFR Positive Mutations 
+
+ 
+
+ 
+
+https://digital-science.pubmedia.id/index.php/phms

@@ -1,0 +1,6435 @@
+﻿-i- 
+ 
+
+ 
+ 
+
+
+
+-i- 
+ 
+
+ 
+
+KEMENTERIAN KESEHATAN REPUBLIK INDONESIA 
+
+ 
+
+ 
+
+PEDOMAN NASIONAL 
+
+PELAYANAN KEDOKTERAN 
+
+KANKER PARU 
+
+Disetujui oleh: 
+
+ 
+
+Perhimpunan Dokter Paru Indonesia (PDPI) 
+
+Perhimpunan Dokter Spesialis Penyakit Dalam Indonesia (PAPDI) 
+
+Perhimpunan Hematologi Onkologi Medik Penyakit Dalam Indonesia 
+
+(PERHOMPEDIN) 
+
+Perhimpunan Dokter Spesialis Onkologi Radiasi Indonesia (PORI) 
+
+Ikatan Ahli Patologi Anatomi Indonesia (IAPI) 
+
+Perhimpunan Dokter Spesialis Radiologi Indonesia (PDSRI) 
+
+Perhimpunan Dokter Spesialis Kedokteran Fisik & Rehabilitasi Indonesia 
+
+(PERDOSRI) 
+
+Perhimpunan Dokter Spesialis Gizi Klinik (PDGKI) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+
+
+-ii- 
+ 
+
+DAFTAR KONTRIBUTOR 
+
+ 
+
+dr. Achmad Hudoyo, Sp.P(K) 
+
+dr. Agung Wibawanto, Sp.BTKV(K) 
+
+dr. Aida Lutfi,Sp.OnkRad 
+
+dr. Ana Rima, Sp.P(K) 
+
+dr. Andika C. Putra, PhD, Sp.P 
+
+dr. Anita Ratnawati, Sp.RM 
+
+dr. Anna Febriani, Sp.P 
+
+Prof. dr. Anwar Jusuf, Sp.P(K) 
+
+dr. Asrul Harsal, Sp.PD-KHOM 
+
+dr. ATW Westi, Sp.Rad(K)OnkRad 
+
+DR. dr. Aziza G. Icksan, Sp.Rad(K) 
+
+dr. Bambang Heru, Sp.P 
+
+dr. dr. Demak L. Tobing, Sp.PK 
+
+dr. Dewi S. Soeis, Sp.Rad 
+
+dr. Diana Paramita, Sp.PD-KHOM 
+
+dr. Elisna Syahruddin, PhD, Sp.P(K) 
+
+dr. Eric Daniel Tenda, Sp.PD 
+
+dr. Eva S. Diana, Sp.P 
+
+dr. Evelina Suzanna, Sp.PA 
+
+dr. Fenny Lovitha Dewi, Sp.KFR 
+
+DR. dr. Fielda Djuita, Sp.Rad(K)OnkRad 
+
+dr. Gregorius Ben Prajogi, Sp.OnkRad 
+
+dr. Harun Iskandar, Sp.P 
+
+dr. Heriawaty Hidayat, Sp.PA 
+
+dr. Indriani, Sp.KFR(K) 
+
+dr. Isnu Pradjoko, Sp.P(K) 
+
+dr. Jamal Zaini, PhD, Sp.P(K) 
+
+dr. Juniarti, Sp.OnkRad 
+
+dr. Johan Kurnianda, Sp.PD-KHOM 
+
+dr. Kardinah, Sp.Rad 
+
+dr. Kartika W. Rukmi 
+
+dr. Kumara Bakti Hera Pratiwi, SpKFR(K) 
+
+DR. dr. Laksmi Wulandari, Sp.P(K) 
+
+dr. Lisnawati, Sp.PA 
+
+dr. Maryastuti, Sp.Rad 
+
+ 
+ 
+
+
+
+-iii- 
+ 
+
+dr. Nana Supriana, Sp.Rad(K)OnkRad 
+
+dr. Netty Lubis, Sp.Rad(K) 
+
+dr. Noni N. Soeroso, Sp.P(K) 
+
+dr. Noorwati Soetandyo, Sp.PD-KHOM 
+
+dr. Siti Annisa Nuhonni, Sp.KFR 
+
+dr. Nurjati Siregar, PhD, Sp.PA 
+
+dr. Pad Dilangga, Sp.P 
+
+dr. Prasenohadi, PhD, Sp.P(K) 
+
+dr. Puji Astuti, Sp.P 
+
+dr. Ratih Pahlesia, Sp.P 
+
+dr. Ruth E. Sembiring, Sp.PA 
+
+dr. Sabrina Ermayanti, Sp.P 
+
+dr. Selly C. Anggoro, Sp.KFR 
+
+dr. Setia P. Tarigan, Sp.P 
+
+dr. Sita L. Andarini, PhD, Sp.P(K) 
+
+Prof. DR. Dr. Soehartati Gondhowiardjo, Sp.Rad(K)OnkRad 
+
+dr. Sri M. Munir, Sp.P 
+
+dr. Suryanti D. Pratiwi, Sp.P 
+
+dr. R. Suryo Seto, Sp.Rad(K)OnkRad 
+
+dr. Susan H. Mety, Sp.BTKV 
+
+dr. Sutjahjo Endardjo, Sp.PA(K) 
+
+DR. dr. Wahju Aniwidyaningsih, Sp.P(K) 
+
+dr. Wahyuningsih Soeharno, Sp.P 
+
+DR. dr. Zulkifli Amin, Sp.PD(KP), FCCP 
+
+  
+
+ 
+ 
+
+
+
+-iv- 
+ 
+
+KATA PENGANTAR 
+
+ 
+
+Sambutan 
+
+Ketua Komite Penanggulangan Kanker Nasional (KPKN) 
+
+ 
+
+ 
+
+Puji dan syukur kehadirat Allah SWT atas ridho dan karuniaNya,  sehingga 
+
+Pedoman Nasional Pelayanan Kedokteran (PNPK) dapat selesai disusun dan 
+
+kami menyambut gembira  diterbitkannya PNPK ini, yang kami harapkan 
+
+dapat  bermanfaat bagi seluruh institusi pelayanan kesehatan dan seluruh 
+
+tenaga medis dalam upaya mendukung peningkatan kualitas pelayanan 
+
+kedokteran terkait kanker di Indonesia. 
+
+ 
+
+Pedoman nasional ini merupakan cita-cita kita bersama untuk terwujudnya 
+
+pelayanan kanker yang berkualitas dan terstandar sesuai dengan Evidence 
+
+Based Medicine, sehingga dapat meningkatkan hasil pengobatan terhadap 
+
+pasien kanker di Indonesia.   Pedoman nasional ini dapat digunakan sebagai 
+
+acuan dalam pembuatan Panduan Praktik Klinis (PPK) di fasilitas 
+
+kesehatan, dengan menyesuaikan sarana prasarana dan SDM yang tersedia.  
+
+ 
+
+Kami mengucapkan terima kasih dan memberikan apresiasi setinggi-
+
+tingginya kepada para penyusun PNPK atas seluruh sumbangsihnya 
+
+sehingga pedoman ini dapat terselesaikan dengan baik. 
+
+ 
+
+Semoga buku Pedoman Nasional ini dapat digunakan sebaik-baiknya dan 
+
+memberikan banyak manfaat dalam mendukung pengendalian kanker di 
+
+Indonesia. 
+
+ 
+
+ 
+
+Jakarta, Juli 2017 
+
+Ketua Komite Penanggulangan Kanker Nasional 
+
+ 
+
+ 
+
+ 
+
+Prof. DR. Dr. Soehartati Gondhowiardjo, Sp.Rad(K). Onk.Rad 
+
+ 
+
+  
+
+ 
+ 
+
+
+
+-v- 
+ 
+
+RINGKASAN EKSEKUTIF 
+ 
+
+ 
+
+Pedoman Nasional Pelayanan Kedokteran (PNPK) untuk kanker paru adalah 
+
+suatu pedoman yang dipublikasikan oleh Kementrian Kesehatan RI sebagai 
+
+hasil diskusi dan masukan dari para ahli di berbagai profesi dan pusat yang 
+
+memberikan layanan atas pasien kanker paru. Hasil diskusi dan masukan 
+
+tersebut dirangkum oleh tim penyusun yang juga berasal dari berbagai 
+
+disiplin ilmu dan pusat yang terkait. 
+
+ 
+
+PNPK Kanker Paru ini disusun sesuai dengan amanat Permenkes no. 
+
+1438/MENKES/Per/IX/2010 tentang STANDAR PELAYANAN KEDOKTERAN 
+
+karena sampai saat ini kanker paru masih mempunyai angka kejadian dan 
+
+prevalensi yang tinggi, beban psikis dan ekonomi yang besar, serta masih 
+
+banyaknya variasi dalam penanganannya di institusi-institusi layanan 
+
+kesehatan. 
+
+ 
+
+PNPK ini dimaksudkan sebagai arahan bagi para dokter di institusi layanan 
+
+kesehatan, baik tingkat I, II dan III, untuk menyusun suatu Panduan 
+
+Praktik Klinik (PPK) sesuai kemampuan tempatnya masing-masing. PNPK 
+
+ini dapat juga secara langsung digunakan sebagai panduan dalam melayani 
+
+pasien kanker paru dengan penyesuaian pasien secara individual dan 
+
+kearifan setempat bila PPK belum dibuat. 
+
+ 
+
+Insiden kanker paru termasuk rendah pada usia di bawah 40 tahun, namun 
+
+meningkat sampai dengan usia 70 tahun. Faktor risiko utama kanker paru 
+
+adalah merokok. Faktor risiko kanker paru lainnya adalah pajanan radiasi, 
+
+paparan okupasi terhadap bahan kimia karsinogenik, riwayat kanker pada 
+
+pasien atau keluarga pasien, dan riwayat penyakit paru seperti PPOK atau 
+
+fibrosis paru. 
+
+ 
+
+Bronkoskopi adalah prosedur utama untuk mendiagnosis kanker paru. 
+
+Prosedur ini dapat membantu menentukan lokasi lesi primer, pertumbuhan 
+
+tumor intraluminal dan mendapatkan spesimen untuk pemeriksaan sitologi 
+
+dan histopatologi, sehingga diagnosis dan stadium kanker paru dapat 
+
+ditentukan. 
+
+ 
+
+ 
+ 
+
+
+
+-vi- 
+ 
+
+CT scan toraks dengan kontras juga merupakan pemeriksaan yang penting 
+
+untuk mendiagnosa, menentukan stadium penyakit, dan menentukan 
+
+segmen paru yang terlibat secara tepat. CT scan toraks dapat diperluas 
+
+hingga kelenjar adrenal untuk menilai kemungkinan metastasis hingga regio 
+
+tersebut. CT scan kepala/MRI kepala dengan kontras diindikasikan bila 
+
+penderita mengeluh nyeri kepala hebat untuk menilai kemungkinan adanya 
+
+metastasis ke otak. 
+
+ 
+
+Manajemen terapi untuk kanker paru dibagi dua, untuk kanker paru jenis 
+
+karsinoma bukan sel kecil (KPKBSK = non small cell carcinoma) dan kanker 
+
+paru jenis karsinoma sel kecil (KPKSK = small cell carcinoma). Untuk 
+
+KPKBSK, modalitas utama adalah pembedahan. Bila pasien tidak dapat 
+
+menjalani pembedahan, maka dapat diberikan terapi radiasi, kemoterapi, 
+
+atau kombinasinya dengan tujuan pengobatan. Untuk KPKSK, pilihan 
+
+modalitas terapinya adalah kombinasi dari kemoterapi berbasis platinum 
+
+dan terapi radiasi toraks bagi stadium terbatas serta kemoterapi kombinasi 
+
+dan radiasi paliatif untuk stadium lanjut. 
+
+ 
+
+Untuk evaluasi dan tindak lanjut, pasien akan menjalani pemeriksaan 
+
+setiap 3-4 bulan selama 2 tahun pertama setelah terapi awal. Pasien 
+
+kemudian dapat menjalani pemeriksaan setiap 6 bulan selama 3 tahun 
+
+berikutnya. 
+
+  
+
+ 
+ 
+
+
+
+-vii- 
+ 
+
+EXECUTIVE SUMMARY 
+
+ 
+
+ 
+
+The National Guideline of Medical Service (namely: Pedoman Nasional 
+
+Pelayanan Kedokteran= PNPK) for lung cancer is a guideline that was 
+
+published by the Republic of Indonesia Ministry of Health as a result of 
+
+discussions and recommendations from various professional experts and 
+
+centres which provide medical services for lung cancer patients. The 
+
+outcome of these discussions and recommendations was summarized by a 
+
+drafting team that also comes from various related medical disciplines and 
+
+centres. 
+
+ 
+
+PNPK of lung cancer is made in accordance with the Mandate of Ministry of 
+
+Health (PERMENKES No “1438/MENKES/Per/IX/2010 about STANDAR 
+
+PELAYANAN KEDOKTERAN) because to date, lung cancer still has a high 
+
+incidence and prevalence rate, massive economical dan psychological 
+
+burden, and there’s still a lot of variation in its treatment in various health 
+
+institutions.  
+
+ 
+
+This guideline is aimed to serve as a reference for medical doctors in health 
+
+institutions, either in level I, II or III, to create their own Clinical Practice 
+
+Guidelines (namely: Panduan Praktik Klinik = PPK), according to their health 
+
+institution’s capability. PNPK sometimes can also be used directly as a 
+
+guideline in managing lung cancer patients with adjustment to individual 
+
+patients and the local experience if the PPK hasn’t been made yet. 
+
+ 
+
+The incidence of lung cancer is low among under 40s, but increases until the 
+
+age of 70 years. The main risk factor for lung cancer is smoking. Other risk 
+
+factor including radiation exposure, occupational exposure to carcinogens, 
+
+familial history of cancer, and history of lung disease such as COPD or lung 
+
+fibrosis. 
+
+ 
+
+Bronchoscopy is the main procedure for diagnosing lung cancer. This 
+
+procedure can help pinpoint the location of primary lesion, detect 
+
+intraluminal tumor growth, and acquire the specimen for cytology and 
+
+histopathology examination so that the diagnosis and staging of the lung 
+
+cancer can be confirmed. 
+
+ 
+ 
+
+
+
+-viii- 
+ 
+
+ 
+
+Thoracic CT scan with contrast is another important examination in lung 
+
+cancer for diagnosing, staging, and determining the affected lung segment. 
+
+The field of this examination can also be extended up to the adrenal gland to 
+
+assess the possibility of metastasis up to that region. Brain CT scan/MRI 
+
+with contrast is also indicated for lung cancer patients with severe headache 
+
+to assess the possibility of metastasis to the brain. 
+
+ 
+
+Treatment of lung cancer is divided in two, for non-small cell and small cell 
+
+carcinoma. For non-small cell carcinoma, the main treatment modality is 
+
+surgery. If the patient unable to undergo surgery, definitive radiotherapy, 
+
+definitive chemotherapy, or the combination of both can be used instead. For 
+
+small cell carcinoma, the main treatment modality is the combination of 
+
+platinum-based chemotherapy and thoracic radiotherapy for the limited 
+
+stage and combined chemotherapy with palliative radiotherapy for the 
+
+advanced stage. 
+
+ 
+
+For evaluation and follow-up, the patients will undergo examination every 3-
+
+4 months for the first two years after initial therapy, then every 6 months for 
+
+the next 3 years. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+
+
+-ix- 
+ 
+
+ 
+
+ 
+
+WEWANTI 
+
+ 
+
+ 
+
+Pedoman Nasional Pelayanan Kedokteran (PNPK) ini merupakan pedoman 
+
+yang dibuat berdasarkan data dan konsensus para kontributor terhadap 
+
+tata laksana saat ini yang dapat diterima. PNPK ini secara spesifik dapat 
+
+digunakan sebagai panduan pada pasien dengan keadaan pada umumnya, 
+
+dengan asumsi penyakit tunggal (tanpa disertai adanya penyakit 
+
+lainnya/penyulit) dan sebaiknya mempertimbangkan adanya variasi respon 
+
+individual. Oleh karena itu PNPK ini bukan merupakan standar pelayanan 
+
+medis yang baku. Para klinisi diharapkan tetap harus mengutamakan 
+
+kondisi dan pilihan pasien dan keluarga dalam mengaplikasikan PNPK ini. 
+
+Apabila terdapat keraguan, para klinisi diharapkan tetap 
+
+menggunakan penilaian klinis independen dalam kondisi keadaan klinis 
+
+individual yang bervariasi dan bila diperlukan dapat melakukan konsultasi 
+
+sebelum melakukan suatu tindakan perawatan terhadap pasien. 
+
+ 
+
+PNPK ini disusun dengan pertimbangan pelayanan kesehatan dengan 
+
+fasilitas dan SDM sesuai kompetensi yang dibutuhkan tersedia. 
+
+Bila fasilitas atau SDM dengan kompetensi yang dibutuhkan tidak 
+
+terpenuhi, agar melaksanakan sistem rujukan. 
+
+ 
+
+ 
+
+ 
+ 
+
+
+
+-x- 
+ 
+
+ 
+
+ 
+
+  
+
+ 
+ 
+
+
+
+-xi- 
+ 
+
+DAFTAR ISI 
+
+ 
+
+ 
+
+Daftar Kontributor ................................................................................... ii 
+
+Kata Pengantar ........................................................................................ iv 
+
+Ringkasan Eksekutif ................................................................................ v 
+
+Executive Summary ................................................................................. vii 
+
+Wewanti ................................................................................................... ix 
+
+Klasifikasi Tingkat Pelayanan Kesehatan .................................................. x 
+
+Daftar Isi .................................................................................................. xi 
+
+Daftar Tabel & Bagan ............................................................................... xii 
+
+Bab I. Pendahuluan ................................................................................. 1 
+
+1.1 Latar Belakang .......................................................................... 1 
+
+1.2 Permasalahan ........................................................................... 2 
+
+1.3 Tujuan ...................................................................................... 2 
+
+1.4 Sasaran .................................................................................... 3 
+
+Bab II. Metodologi .................................................................................... 5 
+
+2.1 Penelusuran Kepustakaan ........................................................ 5 
+
+2.2 Penilaian-Telaah Kritis Kepustakaan ......................................... 5 
+
+2.3 Peringkat Bukti ......................................................................... 5 
+
+2.4 Derajat Rekomendasi ................................................................ 5 
+
+Bab III. Hasil dan Diskusi ........................................................................ 6 
+
+3.1 Definisi dan Epidemiologi .......................................................... 6 
+
+3.2 Deteksi Dini .............................................................................. 7 
+
+3.3 Manifestasi Klinis ...................................................................... 8 
+
+3.4 Diagnosis .................................................................................. 9 
+
+3.5 Penatalaksanaan ...................................................................... 18 
+
+3.6 Dukungan Nutrisi ..................................................................... 28 
+
+3.7 Rehabilitasi Medik .................................................................... 39 
+
+3.8 Pengawasan (Follow-Up) ............................................................ 45 
+
+3.9 Algoritma Tatalaksana .............................................................. 46 
+
+Bab IV. Simpulan dan Rekomendasi ......................................................... 64 
+
+Lampiran 1. Prinsip Radioterapi pada KPKBSK ........................................ 69 
+
+Lampiran 2. Prinsip Radioterapi pada KPKSK ........................................... 72 
+
+  
+
+ 
+ 
+
+
+
+-xii- 
+ 
+
+DAFTAR TABEL & BAGAN 
+
+ 
+
+ 
+
+Tabel 3.1     Pengelompokkan stadium ..................................................... 14 
+
+Tabel 3.2  Pembagian tampilan umum berdasarkan skor Karnofsky 
+
+dan WHO .............................................................................. 14 
+
+Tabel 3.3 Dosis radioterapi pada teknik Stereotactic Body Radiation 
+
+Therapy (SBRT) ..................................................................... 21 
+
+Tabel 3.4  Dosis yang Biasa Digunakan pada Fraksinasi Konvensional 
+
+dan Radioterapi Paliatif ......................................................... 22 
+
+Tabel 3.5    Batasan dosis OAR pada SABR/SBRT .................................... 24 
+
+Bagan 1      Pemilihan jalur pemberian nutrisi ......................................... 36 
+
+Tabel 3.6    Manajemen mual muntah berdasarkan penyebab .................. 38
+
+ 
+ 
+
+
+
+-1- 
+ 
+
+BAB I 
+
+PENDAHULUAN 
+
+ 
+
+ 
+
+1.1 Latar Belakang 
+
+Kanker paru merupakan penyebab utama keganasan di dunia, mencapai 
+
+hingga 13 persen dari semua diagnosis kanker. Selain itu, kanker paru juga 
+
+menyebabkan 1/3 dari seluruh kematian akibat kanker pada laki-laki. Di 
+
+Amerika Serikat, diperkirakan terdapat sekitar 213.380 kasus baru dan 
+
+160.390 kematian akibat kanker paru pada tahun 2007. Berdasarkan 
+
+laporan profil kanker WHO, kanker paru merupakan penyumbang insidens 
+
+kanker pada laki- laki tertinggi di Indonesia diikuti oleh kanker kolorektal, 
+
+prostat, hati, dan nasofaring; dan merupakan penyumbang kasus ke-5 
+
+terbanyak pada perempuan setelah kanker payudara, serviks-uteri, 
+
+kolorektal, dan ovarium. Kanker paru merupakan penyebab pertama 
+
+kematian akibat kanker pada laki-laki (21.8%) dan penyebab kematian 
+
+kedua akibat kanker pada perempuan (9.1%) setelah kanker payudara 
+
+(21.4%). 
+
+ 
+
+Hasil penelitian berbasis rumah sakit dari 100 RS di Jakarta menunjukkan 
+
+bahwa kanker paru merupakan kasus terbanyak pada laki-laki dan nomor 4 
+
+terbanyak pada perempuan, dan merupakan penyebab kematian utama 
+
+pada laki-laki dan perempuan. Berdasarkan data hasil pemeriksaan di 
+
+laboratorium Patologi Anatomik RSUP Persahabatan, lebih dari 50 persen 
+
+kasus dari semua jenis kanker yang didiagnosa adalah kasus kanker paru. 
+
+Data registrasi kanker Rumah Sakit Dharmais tahun 2003-2007 
+
+menunjukkan bahwa kanker trakea, bronkus dan paru merupakan 
+
+keganasan terbanyak kedua pada pria (13,4%) setelah kanker nasofaring 
+
+(13,63%) dan merupakan penyebab kematian akibat kanker terbanyak pada 
+
+pria (28,94%). 
+
+ 
+
+Berdasarkan data dari Departemen Pulmonologi dan Kedokteran Respirasi 
+
+FKUI-RSUP Persahabatan, angka kasus baru kanker paru meningkat lebih 
+
+dari 5 kali lipat dalam waktu 10 tahun terakhir dan sebagian besar 
+
+penderita datang pada stadium lanjut (IIIB/IV). Penderita kasus baru 
+
+kanker paru yang berobat di RSUP Persahabatan mencapai lebih dari 1000 
+
+ 
+ 
+
+
+
+-2- 
+ 
+
+kasus per tahun. 
+
+ 
+
+Kanker paru memerlukan penanganan dan tindakan yang cepat dan 
+
+terarah. Penegakan diagnosis penyakit ini membutuhkan keterampilan dan 
+
+sarana yang tidak sederhana dan memerlukan pendekatan yang erat dan 
+
+kerja sama multidisiplin. Penemuan kanker paru pada stadium dini akan 
+
+sangat membantu penderita, dan penemuan diagnosis dalam waktu yang 
+
+lebih cepat memungkinkan penderita memperoleh kualitas hidup yang lebih 
+
+baik dalam perjalanan penyakitnya meskipun tidak dapat menyembuhkan 
+
+penyakitnya. Pilihan terapi harus dapat segera dilakukan. 
+
+ 
+
+1.2 Permasalahan 
+
+Pendekatan tatalaksana kanker paru memerlukan penanganan 
+
+multidisiplin, sementara saat ini belum terdapat keseragaman secara 
+
+nasional dalam pendekatan terapi. Selain itu terdapat perbedaan fasilitas 
+
+sumber daya manusia dan sumber daya alat/sistem dari berbagai 
+
+fasilitas/institusi layanan kesehatan, baik untuk skrining, diagnostik, 
+
+maupun terapi, sehingga diperlukan panduan yang profesional agar masing-
+
+masing fasilitas tersebut dapat berperan optimal dalam penanganan kanker 
+
+paru di Indonesia. 
+
+ 
+
+1.3 Tujuan 
+
+1.3.1 Tujuan Umum 
+
+Mencapai pelayanan kanker paru yang paripurna, berupa upaya 
+
+pencegahan dan penanggulangan kanker paru serta tercapainya 
+
+peningkatan seluruh aspek pengelolaan kanker paru, sehingga angka 
+
+harapan hidup keseluruhan, angka kesintasan bebas penyakit, dan 
+
+peningkatan kualitas hidup pasien kanker paru di Indonesia dapat 
+
+meningkat. 
+
+ 
+
+1.3.2 Tujuan Khusus 
+
+1.  Mendukung usaha-usaha pencegahan kanker paru. 
+
+2.  Mendukung usaha-usaha menurunkan insidensi, morbiditas, dan    
+
+mortalitas kanker paru pada masyarakat umum dan pada kelompok 
+
+risiko tinggi. 
+
+3.  Mendukung usaha diagnosis dini pada masyarakat umum dan pada 
+
+kelompok risiko tinggi. 
+
+ 
+ 
+
+
+
+-3- 
+ 
+
+4.  Membuat pedoman berdasarkan evidence-based medicine untuk 
+
+membantu tenaga medis dalam pengelolaan kanker paru. 
+
+5.  Memberi rekomendasi bagi fasilitas pelayanan kesehatan primer sampai 
+
+dengan tersier serta penentu kebijakan untuk penyusunan protokol 
+
+setempat atau Panduan Praktik Klinis (PPK) dengan melakukan adaptasi 
+
+terhadap Pedoman Nasional Pelayanan Kedokteran (PNPK) ini. 
+
+6.  Meningkatkan usaha rujukan, rujuk balik, pencatatan dan pelaporan 
+
+yang konsisten. 
+
+ 
+
+1.4 Sasaran 
+
+1. Seluruh jajaran tenaga kesehatan yang terlibat dalam pengelolaan 
+
+kanker paru, sesuai dengan relevansi tugas, wewenang, serta kondisi 
+
+sarana dan prasarana yang tersedia di pelayanan kesehatan masing-
+
+masing. 
+
+2.  Pembuat kebijakan di seluruh tingkat layanan kesehatan, institusi  
+
+     pendidikan, serta kelompok profesi terkait. 
+
+ 
+
+Daftar Pustaka 
+
+1. Jusuf A, Haryanto A, Syahruddin E, Endart S, Mudjiantoro S, Sutantio 
+
+N. Kanker paru jenis karsinoma bukan sel kecil. Pedoman diagnosis dan 
+
+penatalaksanaan kanker paru jenis karsinoma bukan sel kecil di 
+
+Indonesia. PDPI &POI, Jakarta. 2015. 
+
+2. Fact sheets by population, estimated age-standardised incidence and 
+
+mortality rates: both sexes [World]. International Agency for Research on 
+
+Cancer, World Health Organization [Internet]. Diunduh dari: 
+
+http://globocan.iarc.fr/Pages/fact_sheets_population.aspx. Diakses 
+
+tanggal 5 April 2015. 
+
+3. Fact sheets by population, incidence, mortality and 5-year prevalence: 
+
+both sexes [Indonesia]. International Agency for Research on Cancer, 
+
+World Health Organization [Internet]. Diunduh dari: 
+
+http://globocan.iarc.fr/Pages/fact_sheets_population.aspx. Diakses 
+
+tanggal  5 April 2015. 
+
+4. Laporan Tahunan 2014. Departemen Pulmonologi dan Kedokteran 
+
+Respirasi FKUI-RSUP Persahabatan, 
+
+5. Siegel RL, Miller KD, Jemal A. Cancer Statistics 2015. CA Cancer J Clin 
+
+2015;65(1):5-29. 
+
+6. World Health Organization-Cancer Country Profiles, 2014. Diunduh dari: 
+
+ 
+ 
+
+
+
+-4- 
+ 
+
+www.who.int/cancer/country-profiles/idn_en.pdf. Diakses pada 9 Juni 
+
+2016. 
+
+7. Gaga M, Powell CA, Schraufnagel DE, Schonfeld N, Rabe K, Hill NS et al. 
+
+An official American Thoracic Society/European Respiratory Society 
+
+Statement: the Role of the Pulmonologist in the Diagnosis and 
+
+Management of Lung Cancer. Am J Respir Crit Care Med 2013;188:503-
+
+7 
+
+  
+
+ 
+ 
+
+
+
+-5- 
+ 
+
+BAB II  
+
+METODOLOGI 
+
+ 
+
+ 
+
+2.1 Penelusuran Kepustakaan 
+
+Penelusuran pustaka dilakukan secara elektronik dan secara manual. 
+
+Penelusuran bukti sekunder berupa uji klinis, metaanalisis, uji kontrol 
+
+teracak samar (randomised controlled trial), telaah sistematik, ataupun 
+
+pedoman berbasis bukti sistematik dilakukan pada situs Cochrane 
+
+Systematic Database Review, dan termasuk semua istilah-istilah yang ada 
+
+dalam Medical Subject Heading (MeSH). Penelusuran bukti primer dilakukan 
+
+pada mesin pencari Pubmed, Medline, dan Tripdatabase dengan kata kunci 
+
+yang sesuai. Penelusuran secara manual dilakukan pada daftar pustaka 
+
+artikel-artikel review serta buku-buku teks yang ditulis dalam 5 tahun 
+
+terakhir. 
+
+ 
+
+2.2 Penilaian – Telaah Kritis Kepustakaan 
+
+Seluruh bukti yang diperoleh telah dilakukan telaah kritis oleh dokter 
+
+spesialis/subspesialis yang kompeten sesuai dengan kepakaran dan 
+
+keilmuan masing-masing. 
+
+ 
+
+2.3 Peringkat Bukti (Level of Evidence) 
+
+Dalam menetapkan rekomendasi untuk pengelolaan, sedapat mungkin 
+
+dipakai tingkatan bukti ilmiah tertinggi. Level of evidence ditentukan 
+
+berdasarkan klasifikasi yang dikeluarkan oleh Oxford Centre for Evidence 
+
+Based Medicine Levels of Evidence yang dimodifikasi untuk keperluan 
+
+praktis, sehingga didapat peringkat bukti sebagai berikut: 
+
+• IA metaanalisis, uji klinis 
+
+• IB  uji klinis yang besar dengan validitas yang baik 
+
+• IC  all or none 
+
+• II  uji klinis tidak terandomisasi 
+
+• III  studi observasional (kohort, kasus kontrol) 
+
+• IV  konsensus dan pendapat ahli 
+
+ 
+
+2.4 Derajat Rekomendasi 
+
+Berdasarkan peringkat bukti tersebut, dapat dibuat rekomendasi sebagai 
+
+berikut: 
+
+ 
+ 
+
+
+
+-6- 
+ 
+
+• Rekomendasi A bila berdasar pada bukti level IA, IB atau IC 
+
+• Rekomendasi B bila berdasar atas bukti level II 
+
+• Rekomendasi C bila berdasar atas bukti level III 
+
+• Rekomendasi D bila berdasar atas bukti level IV 
+
+ 
+
+Daftar Pustaka 
+
+1. Sudigdo S. Telaah kritis makalah kedokteran. Dalam: Sudigdo S, 
+
+Ismail S, editor. Dasar-dasar Metodologi Penelitian Klinis. Edisi ke-2. 
+
+Jakarta: CV Sagung Seto. 2002. Hal.341-364. 
+
+  
+
+ 
+ 
+
+
+
+-7- 
+ 
+
+BAB III 
+
+HASIL DAN DISKUSI 
+
+ 
+
+ 
+
+3.1 Definisi dan Epidemiologi 
+
+3.1.1 Definisi 
+
+Kanker paru adalah semua penyakit keganasan di paru, mencakup 
+
+keganasan yang berasal dari paru sendiri (primer). Dalam pengertian klinik 
+
+yang dimaksud dengan kanker paru primer adalah tumor ganas yang 
+
+berasal dari epitel bronkus (karsinoma bronkus/bronchogenic carcinoma). 
+
+ 
+
+3.1.2 Epidemiologi 
+
+Kanker paru merupakan penyebab utama keganasan di dunia, mencapai 
+
+hingga 13 persen dari semua diagnosis kanker. Selain itu, kanker paru juga 
+
+menyebabkan 1/3 dari seluruh kematian akibat kanker pada laki-laki. Di 
+
+Amerika Serikat, diperkirakan terdapat sekitar 213.380 kasus baru pada 
+
+tahun 2007 dan 160.390 kematian akibat kanker paru pada tahun 2007. 
+
+Berdasarkan data WHO, kanker paru merupakan jenis kanker terbanyak 
+
+pada laki-laki di Indonesia, dan terbanyak kelima untuk semua jenis kanker 
+
+pada perempuan. Kanker paru juga merupakan penyebab kematian akibat 
+
+kanker terbanyak pada laki-laki dan kedua terbanyak pada perempuan. 
+
+ 
+
+Hasil penelitian berbasis rumah sakit dari 100 RS di Jakarta menunjukkan 
+
+bahwa kanker paru merupakan kasus terbanyak pada laki-laki dan nomor 4 
+
+terbanyak pada perempuan, dan merupakan penyebab kematian utama 
+
+pada laki-laki dan perempuan. Berdasarkan data hasil pemeriksaan di 
+
+laboratorium Patologi Anatomik RSUP Persahabatan, lebih dari 50 persen 
+
+kasus dari semua jenis kanker yang didiagnosa adalah kasus kanker paru. 
+
+Data registrasi kanker Rumah Sakit Dharmais tahun 2003-2007 
+
+menunjukkan bahwa kanker trakea, bronkus dan paru merupakan 
+
+keganasan terbanyak kedua pada pria (13,4%) setelah kanker nasofaring 
+
+(13,63%) dan merupakan penyebab kematian akibat kanker terbanyak pada 
+
+pria (28,94%). 
+
+ 
+
+Insiden kanker paru termasuk rendah pada usia di bawah 40 tahun, namun 
+
+meningkat sampai dengan usia 70 tahun. Faktor risiko utama kanker paru 
+
+adalah merokok. Secara umum, rokok menyebabkan 80% kasus kanker 
+
+ 
+ 
+
+
+
+-8- 
+ 
+
+paru pada laki-laki dan 50% kasus pada perempuan. Faktor lain adalah 
+
+kerentanan genetik (genetic susceptibility), polusi udara, pajanan radon, dan 
+
+pajanan industri (asbestos, silika, dan lain-lain). 
+
+ 
+
+3.2 Deteksi Dini pada Kelompok Risiko Tinggi 
+
+Hingga saat ini belum ada metode skrining yang sesuai bagi kanker paru 
+
+secara umum. Metode skrining yang telah direkomendasikan untuk deteksi 
+
+dini kanker paru terbatas pada kelompok pasien risiko tinggi. Kelompok 
+
+pasien dengan risiko tinggi mencakup pasien usia > 40 tahun dengan 
+
+riwayat merokok ≥30 tahun dan berhenti merokok dalam kurun waktu 15 
+
+tahun sebelum pemeriksaan, atau pasien ≥50 tahun dengan riwayat 
+
+merokok ≥20 tahun dan adanya minimal satu faktor risiko lainnya. 
+
+ 
+
+Faktor risiko kanker paru lainnya adalah pajanan radiasi, paparan okupasi 
+
+terhadap bahan kimia karsinogenik, riwayat kanker pada pasien atau 
+
+keluarga pasien, dan riwayat penyakit paru seperti PPOK atau fibrosis paru. 
+
+Pada pasien berisiko tinggi, dengan anamnesis dan pemeriksaan fisik yang 
+
+mendukung kecurigaan adanya keganasan pada paru-paru, dapat 
+
+dilakukan pemeriksaan low-dose CT Scan untuk skrining kanker paru 
+
+setiap tahun selama 3 tahun. Pemeriksaan ini tidak dilakukan pada pasien 
+
+dengan komorbiditas berat lainnya dan dapat mengurangi mortalitas akibat 
+
+kanker paru hingga 20%. 
+
+ 
+
+Pemeriksaan low-dose CT Scan tidak direkomendasikan pada pasien yang 
+
+tidak memenuhi kriteria “kelompok risiko tinggi”. Selain itu, pemeriksaan ini 
+
+juga tidak disarankan pada pasien yang tidak dapat menjalani terapi kanker 
+
+paru akibat keterbatasan biaya atau memiliki kondisi kesehatan yang tidak 
+
+memungkinkan. 
+
+  
+
+Rekomendasi Skrining 
+
+Pemeriksaan low-dose CT-Scan dilakukan pada pasien risiko tinggi yaitu 
+
+pasien berusia > 40 tahun dengan riwayat merokok ≥30 tahun dan 
+
+berhenti merokok dalam kurun waktu 15 tahun sebelum pemeriksaan 
+
+[rekomendasi A], atau pasien berusia ≥50 tahun dengan riwayat merokok 
+
+≥20 tahun dan adanya minimal satu faktor risiko lainnya [rekomendasi B]. 
+
+ 
+
+ 
+
+ 
+ 
+
+
+
+-9- 
+ 
+
+3.3 Manifestasi Klinis 
+
+Kanker paru tidak memiliki gejala klinis yang khas, tetapi batuk, sesak 
+
+napas, atau nyeri dada (gejala respirasi) yang muncul lama atau tidak 
+
+kunjung sembuh dengan pengobatan biasa pada pasien “kelompok risiko” 
+
+harus ditindaklanjuti untuk prosedur diagnosis kanker paru. 
+
+ 
+
+Gejala yang berkaitan dengan pertumbuhan tumor langsung misalnya 
+
+batuk, hemoptisis, nyeri dada dan sesak napas/stridor. Batuk merupakan 
+
+gejala tersering (60-70%) pada kanker paru. 
+
+ 
+
+Gejala lain berkaitan dengan pertumbuhan regional, seperti efusi pleura, 
+
+efusi perikard, sindrom vena kava superior, disfagia, sindrom Pancoast, dan 
+
+paralisis diafragma. Sindrom Pancoast merupakan kumpulan gejala dari 
+
+kanker paru yang tumbuh di sulkus superior, yang menyebabkan invasi 
+
+pleksus brakhial sehingga menimbulkan nyeri pada lengan dan munculnya 
+
+sindrom Horner (ptosis, miosis, hemifacial anhidrosis). 
+
+ 
+
+Keluhan suara serak menandakan telah terjadinya kelumpuhan saraf atau 
+
+gangguan pada pita suara. Gejala klinis sistemik yang juga kadang 
+
+menyertai yaitu penurunan berat badan dalam waktu yang singkat, nafsu 
+
+makan menurun, dan demam hilang timbul. Gejala yang berkaitan dengan 
+
+gangguan neurologis (sakit kepala, lemah/parese) sering terjadi jika 
+
+terdapat penyebaran ke otak atau tulang belakang. Nyeri tulang sering 
+
+menjadi gejala awal pada kanker yang telah menyebar ke tulang.  Gejala 
+
+lainnya yaitu gejala paraneoplastik, seperti nyeri muskuloskeletal, 
+
+hematologi, vaskuler, neurologi, dan lain-lain. 
+
+ 
+
+Pada pemeriksaan fisik, tanda yang dapat ditemukan pada kanker paru 
+
+dapat bervariasi tergantung pada letak, besar tumor, dan penyebarannya. 
+
+Pembesaran kelenjar getah bening (KGB) supraklavikula, leher dan aksila 
+
+menandakan telah terjadi penyebaran ke KGB atau tumor di dinding dada, 
+
+kepala atau lokasi lain juga menjadi petanda penyebaran. Sesak napas 
+
+dengan temuan suara napas yang abnormal pada pemeriksaan fisik didapat 
+
+jika terdapat massa yang besar, efusi pleura atau atelektasis. Venektasi 
+
+(pelebaran vena) di dinding dada dengan pembengkakan (edema) wajah, 
+
+leher dan lengan berkaitan dengan bendungan pada vena kava superior 
+
+(SVKS). Sindrom Horner sering terjadi pada tumor yang terletak di apeks 
+
+ 
+ 
+
+
+
+-10- 
+ 
+
+(Pancoast tumor). Thrombus pada vena ekstremitas, yang ditandai dengan 
+
+edema disertai nyeri pada anggota gerak dan gangguan sistem hemostatis 
+
+(peningkatan kadar D-dimer), menjadi gejala telah terjadinya bendungan 
+
+vena dalam (DVT). Tanda-tanda patah tulang patologik dapat terjadi pada 
+
+kanker yang bermetastasis ke tulang. Tanda-tanda gangguan neurologis 
+
+akan didapat jika kanker sudah menyebar ke otak atau tulang belakang. 
+
+ 
+
+3.4 Diagnosis 
+
+3.4.1 Penegakkan Diagnosis 
+
+Kanker paru ditegakkan berdasarkan anamnesis, pemeriksaan fisik, 
+
+pemeriksaan penunjang, dan pemeriksaan patologi anatomik. 
+
+ 
+
+3.4.1.1 Anamnesis 
+
+Batuk lama, batuk berdarah, sesak nafas, nyeri dada, suara serak, 
+
+sulit/nyeri menelan yang tidak merespon dengan pengobatan atau 
+
+penurunan berat badan dalam waktu singkat, nafsu makan menurun, 
+
+demam hilang timbul, sakit kepala, nyeri di tulang atau parese, dan 
+
+pembengkakan atau ditemukannya benjolan di leher, aksila atau dinding 
+
+dada. 
+
+ 
+
+3.4.1.2 Pemeriksaan Fisik 
+
+Pemeriksaan fisik mencakup tampilan umum (performance status) penderita 
+
+yang menurun, penemuan abnormal pada pemeriksaan fisik paru seperti 
+
+suara napas yang abnormal, benjolan superfisial pada leher, ketiak atau 
+
+dinding dada, tanda pembesaran hepar atau tanda asites, dan nyeri ketok di 
+
+tulang. 
+
+ 
+
+3.4.1.3 Pemeriksaan Patologi Anatomi 
+
+Pemeriksaan patologi anatomi mencakup pemeriksaan sitologi dan 
+
+histopatologi, pemeriksaan imunohistokimia untuk menentukan jenis tumor 
+
+(mis. TTF-1 dan lain-lain), dan pemeriksaan petanda molekuler, seperti 
+
+mutasi EFGR, yang dilakukan apabila fasilitasnya tersedia 
+
+ 
+
+3.4.1.4 Pemeriksaan Laboratorium 
+
+Pemeriksaan darah rutin, seperti Hb, leukosit, trombosit, serta fungsi hati, 
+
+dan fungsi ginjal. 
+
+  
+
+ 
+ 
+
+
+
+-11- 
+ 
+
+3.4.1.5 Pemeriksaan Pencitraan 
+
+Foto toraks AP/lateral merupakan pemeriksaan awal untuk menilai pasien 
+
+dengan kecurigaan terkena kanker paru. Berdasarkan hasil pemeriksaan 
+
+ini, lokasi lesi dan tindakan selanjutnya termasuk prosedur diagnosis 
+
+penunjang dan penanganan dapat ditentukan. Jika pada foto toraks 
+
+ditemukan lesi yang dicurigai sebagai keganasan, maka pemeriksaan CT 
+
+scan toraks wajib dilakukan untuk mengevaluasi lesi tersebut.  
+
+ 
+
+CT scan toraks dengan kontras merupakan pemeriksaan yang penting 
+
+untuk mendiagnosa, menentukan stadium penyakit, dan menentukan 
+
+segmen paru yang terlibat secara tepat. CT scan toraks dapat diperluas 
+
+hingga kelenjar adrenal untuk menilai kemungkinan metastasis hingga regio 
+
+tersebut. CT scan kepala/MRI kepala dengan kontras diindikasikan bila 
+
+penderita mengeluh nyeri kepala hebat untuk menilai kemungkinan adanya 
+
+metastasis ke otak. 
+
+ 
+
+Pemeriksaan lainnya seperti USG abdomen dilakukan kecuali pada stadium 
+
+IV, bone scan dilakukan untuk mendeteksi metastasis ke tulang-tulang, 
+
+bone survey dilakukan jika fasilitas bone scan tidak ada, dan PET Scan 
+
+dilakukan untuk mengevaluasi hasil pengobatan. 
+
+ 
+
+3.4.1.5 Pemeriksaan Khusus 
+
+Bronkoskopi adalah prosedur utama untuk mendiagnosis kanker paru. 
+
+Prosedur ini dapat membantu menentukan lokasi lesi primer, pertumbuhan 
+
+tumor intraluminal dan mendapatkan spesimen untuk pemeriksaan sitologi 
+
+dan histopatologi, sehingga diagnosis dan stadium kanker paru dapat 
+
+ditentukan. Salah satu metode terkini adalah bronkoskopi fleksibel yang 
+
+dapat menilai paru hingga sebagian besar bronkus derajat ke-empat, dan 
+
+kadang hingga derajat ke-enam. Spesimen untuk menghasilkan 
+
+pemeriksaan sitologi dan histologi didapat melalui bilasan bronkus, sikatan 
+
+bronkus dan biopsi bronkus. Prosedur ini dapat memberikan hingga >90% 
+
+diagnosa kanker paru dengan tepat, terutama kanker paru dengan lesi pada 
+
+regio sentral. Kontraindikasi prosedur bronkoskopi ini yaitu hipertensi 
+
+pulmoner berat, instabilitas kardiovaskular, hipoksemia refrakter akibat 
+
+pemberian oksigen tambahan, perdarahan yang tidak dapat berhenti, dan 
+
+hiperkapnia akut. Komplikasi yang dapat terjadi antara lain pneumotoraks 
+
+dan perdarahan. 
+
+ 
+ 
+
+
+
+-12- 
+ 
+
+ 
+
+Bila tersedia, pemeriksaan Endobrachial Ultrasound (EBUS) dapat dilakukan 
+
+untuk membantu menilai kelenjar getah bening mediastinal, hilus, 
+
+intrapulmoner juga untuk penilaian lesi perifer dan saluran pernapasan, 
+
+serta mendapatkan jaringan sitologi dan histopatologi pada kelenjar getah 
+
+bening yang terlihat pada CT scan toraks maupun PET CT scan. 
+
+ 
+
+Biopsi transtorakal (transthoracal biopsy/TTB) merupakan tindakan biopsi 
+
+paru transtorakal yang dapat dilakukan tanpa tuntunan radiologic (blinded 
+
+TTB) maupun dengan tuntunan USG (USG-guided TTB) atau CT scan toraks 
+
+(CT-guided TTB) untuk mendapatkan sitologi atau histopatologi kanker paru. 
+
+ 
+
+Tindakan biopsi lain, seperti aspirasi jarum halus kelenjar untuk 
+
+pembesaran kelenjar getah bening, maupun biopsi pleura dapat dilakukan 
+
+bila diperlukan. 
+
+ 
+
+3.4.1.6 Pemeriksaan Lainnya 
+
+Pleuroscopy dilakukan untuk melihat masalah intrapleura dan 
+
+menghasilkan spesimen intrapleura untuk mendeteksi adanya sel ganas 
+
+pada cairan pleura yang dapat merubah stadium dan tatalaksana pasien 
+
+kanker paru. Jika hasil sitologi tidak menunjukkan adanya sel ganas, maka 
+
+penilaian ulang atau CT scan toraks dianjurkan. 
+
+ 
+
+Mediastinoskopi dengan VATS kadang dilakukan untuk mendapatkan 
+
+spesimen, terutama penilaian kelenjar getah bening mediastinal, dan 
+
+torakotomi eksplorasi dilakukan sebagai modalitas terakhir, jika dengan 
+
+semua modalitas lainnya tidak ditemukan sel ganas. 
+
+ 
+
+Rekomendasi Pemeriksaan 
+
+1. Foto toraks AP/lateral merupakan pemeriksaan awal untuk menilai 
+
+pasien dengan kecurigaan terkena kanker paru [rekomendasi A]. 
+
+2. CT scan toraks dilakukan sebagai evaluasi lanjut pada pasien dengan 
+
+kecurigaan kanker paru, dan diperluas hingga kelenjar adrenal untuk 
+
+menilai kemungkinan metastasis hingga regio tersebut [rekomendasi A]. 
+
+3. Bronkoskopi adalah prosedur utama yang dapat menetapkan diagnosis 
+
+kanker paru [rekomendasi A]. 
+
+ 
+ 
+
+
+
+-13- 
+ 
+
+4. Spesimen untuk menghasilkan pemeriksaan sitologi dan histologi 
+
+didapat terutama melalui biopsi bronkus [rekomendasi A]. 
+
+5. Biposi jarum halus (fine needle aspiration biopsy/FNAB) adalah metode 
+
+utama mendapatkan spesimen untuk pemeriksaan sitologi [rekomendasi 
+
+A]. 
+
+6. Pemeriksaan transthoracal biopsy (TTB) dapat dilakukan untuk 
+
+mendapatkan spesimen untuk pemeriksaan sitologi maupun histopatologi 
+
+[rekomendasi A]. 
+
+7. Bila tersedia, tuntunan endobrachial ultrasound (EBUS) juga dapat 
+
+dilakukan sebagai pemeriksaan tambahan, terutama untuk evaluasi 
+
+kelenjar mediastinal, dan mendapatkan spesimen histopatologi 
+
+[rekomendasi A]. 
+
+8. Tindakan biopsi pleura, pleuroscopy dapat dilakukan untuk 
+
+mendapatkan spesimen pada pleura [rekomendasi A]. 
+
+9. Jika hasil sitologi negatif, tetapi masih ada kecurigaan keganasan, 
+
+maka penilaian ulang atau CT scan toraks dianjurkan [rekomendasi A]. 
+
+10. Pemeriksaan molekul marker (gen EGFR, gen KRAS, fusigen EML-
+
+ALK), digunakan untuk pemilihan obat sistemik berupa terapi target 
+
+(targeted therapy) pada jenis adenokarsinoma, jika fasilitas dan bahan 
+
+pemeriksaan memenuhi syarat [rekomendasi A]. 
+
+ 
+
+ 
+
+3.4.2 Stadium dan Klasifikasi Histologik 
+
+3.4.2.1 Penentuan Stadium 
+
+Penentuan stadium penyakit berdasarkan sistem TNM dari American Joint 
+
+Committee on Cancer (AJCC) versi 7 tahun 2010 untuk kanker paru (ICD-10 
+
+C33-34) adalah sebagai berikut: 
+
+ 
+
+Tumor Primer (T) 
+
+Tx Tumor primer tidak dapat ditentukan dengan hasil radiologi dan 
+
+bronkoskopi tetapi sitologi sputum atau bilasan bronkus positif 
+
+(ditemukan sel ganas) 
+
+T0 Tidak tampak lesi atau tumor primer 
+
+Tis Carcinoma in situ 
+
+T1 Ukuran terbesar tumor primer ≤3 cm tanpa lesi invasi intra bronkus 
+
+yang sampai ke proksimal bronkus lobaris 
+
+ 
+ 
+
+
+
+-14- 
+ 
+
+T1a Ukuran tumor primer ≤2 cm 
+
+T1b Ukuran tumor primer >2 cm tetapi ≤3 cm 
+
+T2 Ukuran terbesar tumor primer >3 cm tetapi ≤7 cm, invasi 
+
+intrabronkus dengan jarak lesi ≥ 2 cm dari distal karina, 
+
+berhubungan dengan atelektasis atau pneumonitis obstruktif pada 
+
+daerah hilus atau invasi ke pleura visera 
+
+T2a Ukuran tumor primer >3 cm tetapi ≤ 5 cm 
+
+T2b Ukuran tumor primer >5 cm tetapi ≤ 7 cm 
+
+T3 Ukuran tumor primer > 7 cm atau tumor menginvasi dinding dada 
+
+termasuk sulkus superior, diafragma, nervus phrenikus, menempel 
+
+pleura mediastinum, pericardium. Lesi intrabronkus ≤ 2 cm distal 
+
+karina tanpa keterlibatan karina. Berhubungan dengan atelektasis 
+
+atau pneumonitis obstruktif di paru. Lebih dari satu nodul dalam 
+
+satu lobus yang sama dengan tumor primer. 
+
+T4 Ukuran tumor primer sembarang tetapi telah melibatkan atau invasi 
+
+ke mediastinum, trakea, jantung, pembuluh darah besar, karina, 
+
+nervus laring, esophagus, vertebral body. Lebih dari satu nodul 
+
+berbeda lobus pada sisi yang sama dengan tumor (ipsilateral). 
+
+ 
+
+Kelenjar Getah Bening (KGB) regional (N) 
+
+Nx Metastasis ke KGB mediastinum sulit dinilai dari gambaran radiologi 
+
+N0 Tidak ditemukan metastasis ke KGB 
+
+N1 Metastasis ke KGB peribronkus (#10), hilus (#10), intrapulmonary 
+
+(#10) ipsilateral 
+
+N2 Metastasis ke KGB mediastinum (#2) ipsilateral dan atau subkarina 
+
+(#7) 
+
+N3 Metastasis ke KGB peribronkial, hilus, intrapulmoner, mediastinum 
+
+kontralateral dan atau KGB supraklavikula 
+
+ 
+
+Metastasis (M) 
+
+Mx Metastasis sulit dinilai dari gambaran radiologi 
+
+M0 Tidak ditemukan metastasis 
+
+M1 Terdapat metastasis jauh 
+
+M1a Metastasis ke paru kontralateral, nodul di pleura, efusi pleura ganas, 
+
+efusi pericardium 
+
+M1b Metastasis jauh ke organ lain (otak, tulang, hepar, atau KGB leher, 
+
+ 
+ 
+
+
+
+-15- 
+ 
+
+aksila, suprarenal, dll 
+
+ 
+
+Tabel 3.1. Pengelompokkan stadium 
+
+Occult Carcinoma Tx N0 M0 
+
+Stadium 0 Tis N0 M0 
+
+ T1a N0 M0 
+
+Stadium IA T1b N0 M0 
+
+Stadium IB T2a N0 M0 
+
+Stadium IIA T1a N1 M0 
+
+ T1b N1 M0 
+
+ T2a N1 M0 
+
+Stadium IIB T2b N1 M0 
+
+ T3 (>7cm) N0 M0 
+
+Stadium IIIA T1a N2 M0 
+
+ T1a N2 M0 
+
+ T2a N2 M0 
+
+ T2b N2 M0 
+
+ T3 N1 M0 
+
+ T4 N0 M0 
+
+ T4 N1 M0 
+
+Stadium IIIB T4 N2 M0 
+
+ Sembarang T N3 M0 
+
+Stadium IVA Sembarang T Sembarang N M1a (pleura, paru 
+
+kontralateral) 
+
+Stadium IVB Sembarang T Sembarang N M1b (metastasis 
+
+jauh) 
+
+ 
+
+3.4.2.2 Tampilan Umum 
+
+Tampilan umum menjadi suatu parameter untuk menentukan prognosis 
+
+penyakit, indikasi untuk menentukan jenis terapi, dan agresivitas 
+
+pengobatan. 
+
+ 
+
+Tabel 3.2. Pembagian tampilan umum berdasarkan skor Karnofsky dan 
+
+WHO 
+
+Skor Karnofsky WHO Batasan 
+
+90 – 100 0 Aktivitas normal 
+
+ 
+ 
+
+
+
+-16- 
+ 
+
+70 – 80 1 Ada keluhan, tapi masih aktif, dapat 
+
+mengurus diri sendiri 
+
+50 – 60 2 Cukup aktif; namun kadang memerlukan 
+
+bantuan 
+
+30 – 40 3 Kurang aktif, perlu perawatan 
+
+10 – 20 4 Tidak dapat meninggalkan tempat tidur, 
+
+perlu di rawat di 
+
+Rumah Sakit 
+
+0 – 10 - Tidak sadar 
+
+ 
+
+3.4.2.3 Klasifikasi Tumor Paru Secara Histologis Menurut WHO Tahun 
+
+2015 
+
+Epithelial Tumours 
+
+Adenocarcinoma  Lepidic adenocarcinoma 
+
+ Acinar adenocarcinoma 
+
+ Papillary adenocarcinoma 
+
+ Micropapillary adenocarcinoma 
+
+ Solid adenocarcinoma 
+
+ Invasive mucinous 
+
+adenocarcinoma 
+
+ Mixed invasive mucinous and 
+
+non-mucinous 
+
+adenocarcinoma 
+
+ Colloid adenocarcinoma 
+
+ Fetal adenocarcinoma 
+
+ Enteric adenocarcinoma 
+
+ Minimally invasive 
+
+adenocarcinoma 
+
+ Non-mucinous 
+
+ Mucinous 
+
+ Preinvasive lesions 
+
+ Atypical adenomatous 
+
+hyperplasia 
+
+ Adenocarcinoma in situ 
+
+ 
+ 
+
+
+
+-17- 
+ 
+
+ Nonmucinous 
+
+ Mucinous 
+
+Squamous cell carcinoma  Keratinizing squamous cell 
+
+carcinoma 
+
+ Non-keratinizing squamous cell 
+
+carcinoma 
+
+ Basaloid squamous cell 
+
+carcinoma 
+
+ Preinvasive lesion 
+
+ Squamous cell carcinoma in 
+
+situ 
+
+Neuroendocrine tumours  Small cell carcinoma 
+
+ Combined small cell 
+
+carcinoma 
+
+ Large cell neuroendocrine 
+
+carcinoma 
+
+ Combined large cell 
+
+neuroendocrine carcinoma 
+
+ Carcinoid tumours 
+
+ Typical carcinoid 
+
+ Atypical carcinoid 
+
+ Preinvasive lesion 
+
+ Diffuse idiopathic pulmonary 
+
+neuroendocrine cell 
+
+hyperplasia 
+
+Large cell carcinoma  
+
+Adenosquamous carcinoma  
+
+Pleomorphic carcinoma  
+
+Spindle cell carcinoma  
+
+Giant cell carcinoma  
+
+Carcinosarcoma  
+
+Pulmonary blastoma  
+
+Other and unclassified carcinomas  Lymphoepithelioma-like 
+
+carcinoma 
+
+ NUT carcinoma 
+
+ 
+ 
+
+
+
+-18- 
+ 
+
+Salivary gland-type tumours  Mucoepidermoid carcinoma 
+
+ Adenoid cystic carcinoma 
+
+ Epithelial-myoepithelial 
+
+carcinoma 
+
+ Pleomorphic adenoma 
+
+Papillomas  Squamous cell papilloma 
+
+ Exophytic 
+
+ Inverted 
+
+ Glandular papilloma 
+
+ Mixed squamous cell and 
+
+glandular papilloma 
+
+Adenomas  
+
+ 
+
+Mesenchymal tumours 
+
+Pulmonary hamartoma  
+
+Chondroma  
+
+PEComatous tumours  Lymphangioleiomyomatosis 
+
+ PEComa, benign 
+
+ Clear cell tumour 
+
+ PEComa, malignant 
+
+Congenital peribronchial  Myofibroblastic tumour 
+
+Diffuse pulmonary  
+
+lymphangionatosis 
+
+Inflammatory myofibroblastic tumour  
+
+Epitheloid haemangioendothelioma  
+
+Pleuropulmonary blastoma  
+
+Synovial sarcoma  
+
+Pulmonary artery intimal sarcoma  
+
+Pulmonary myxoid sarcoma with  
+
+EWSR1-CREB1 translocation 
+
+Myoepithelial tumours  Myoepithelioma 
+
+ Myoepithelial carcinoma 
+
+ 
+
+Lymphohistiocytic tumours 
+
+Extranodal marginal zone lymphoma  
+
+ 
+ 
+
+
+
+-19- 
+ 
+
+of mucosa-associated lymphoid 
+
+tissue (MALT lymphoma) 
+
+Diffuse large B-cell lymphoma  
+
+Lymphomatoid granulomatosis  
+
+Intravascular large B-cell lymphoma  
+
+Pulmonary Langerhans cell  
+
+histiocytosis 
+
+Erdheim-Chester disease  
+
+ 
+
+Tumours of ectopic origin 
+
+Germ cell tumours  Teratoma, mature 
+
+  Teratoma, immature 
+
+ 
+
+Intrapulmonary thymoma  
+
+Melanoma  
+
+Meningioma, NOS  
+
+ 
+
+3.4.3 Diagnosis Banding 
+
+Beberapa diagnosis banding dari kanker paru antara lain tumor 
+
+mediastinum, metastasis tumor di paru, dan tuberculoma. 
+
+ 
+
+3.5 Penatalaksanaan 
+
+Manajemen terapi untuk kanker paru dibagi dua, untuk kanker paru jenis 
+
+karsinoma bukan sel kecil (KPKBSK = non small cell carcinoma) dan kanker 
+
+paru jenis karsinoma sel kecil (KPKSK = small cell carcinoma). 
+
+ 
+
+3.5.1 Kanker Paru jenis Karsinoma Bukan Sel Kecil (KPKBSK) 
+
+Kanker paru jenis karsinoma bukan sel kecil terdiri dari beberapa jenis, 
+
+yaitu karsinoma sel skuamosa (KSS), adenokarsinoma, karsinoma sel besar 
+
+(KSB), dan jenis lain yang jarang ditemukan. 
+
+ 
+
+3.5.1.1 Kebijakan umum pengobatan KPKBSK 
+
+Pilihan pengobatan sangat tergantung pada stadium penyakit, tampilan 
+
+umum penderita, komorbiditas, tujuan pengobatan dan cost-effectiveness. 
+
+Modalitas penanganan yang tersedia adalah bedah, radiasi, kemoterapi, dan 
+
+terapi target. Pendekatan penanganan dilakukan secara integrasi 
+
+ 
+ 
+
+
+
+-20- 
+ 
+
+multidisiplin. 
+
+ 
+
+3.5.1.2 Bedah 
+
+Modalitas ini adalah terapi utama untuk sebagian besar KPKBSK, terutama 
+
+stadium I-II dan stadium IIIA yang masih dapat direseksi setelah kemoterapi 
+
+neoadjuvan. Jenis pembedahan yang dapat dilakukan adalah lobektomi, 
+
+segmentektomi dan reseksi sublobaris. Pilihan utama adalah lobektomi yang 
+
+menghasilkan angka kehidupan yang paling tinggi. Namun, pada pasien 
+
+dengan komorbiditas kardiovaskular atau kapasitas paru yang lebih rendah, 
+
+dilakukan pembedahan segmentektomi dan reseksi sublobaris paru. Kini, 
+
+reseksi sublobaris sering dilakukan bersamaan dengan VATS. 
+
+ 
+
+Intervensi menggunakan bronkoskopi berkembang dalam tahun-tahun 
+
+terakhir, terutama untuk obstruksi saluran pernapasan sentral (trakea dan 
+
+bronkus) akibat keganasan dengan saluran bronkial sehat dan parenkim 
+
+distal dari stenosis yang berfungsi dengan baik. Penilaian sebab dan luas 
+
+stenosis, dan permeabilitas saluran bronkhial distal dari stenosis dapat 
+
+dilakukan menggunakan bronkoskopi fleksibel. Fungsi permeabilitas dapat 
+
+dinilai menggunakan pemeriksaan CT scan. Metode bronkoskopi intervensi 
+
+yang paling sering digunakan adalah dengan bronkoskopi kaku (rigid 
+
+bronchoscopy) dan pengeluaran massa secara mekanik, terutama untuk 
+
+massa proksimal intralumen. Komplikasi paling sering intervensi ini adalah 
+
+perdarahan. 
+
+ 
+
+Selain itu, bronkoskopi kaku juga dapat digunakan dengan terapi laser. 
+
+Pada prosedur ini, berbagai tipe gas seperti CO2 dan KTP digunakan untuk 
+
+menimbulkan koagulasi dan merusak tumor intralumen. Komplikasi yang 
+
+sering terjadi adalah perforasi, perdarahan dan fistula bronkovaskuler. 
+
+Bronkoskopi kaku juga dapat digunakan dengan krioterapi untuk merusak 
+
+jaringan maligna. Teknik ini dilakukan dengan cara memberikan suhu yang 
+
+sangat rendah menggunakan expansi dari cairan gar kriogenik yang 
+
+menyebabkan dehidrasi, kristalisasi sel, apoptosis, dan iskemia jaringan. 
+
+Metode yang terakhir ini dianjurkan sebagai penanganan paliatif stenosis 
+
+proksimal non-obstruktif tanpa gangguan pernapasan akut. Kadang, 
+
+aspirasi bronkial harus dilakukan setelah 1-2 hari untuk mengeluarkan sisa 
+
+jaringan tumor. 
+
+ 
+
+ 
+ 
+
+
+
+-21- 
+ 
+
+Teknik anestesi yang dapat digunakan adalah anestesi umum, dan dapat 
+
+dikombinasikan dengan anestesi regional (epidural, blok paravertebral). 
+
+  
+
+3.5.1.3 Radioterapi 
+
+Radioterapi merupakan salah satu modalitas penting dalam tatalaksana 
+
+kanker paru. Dalam tatalaksana Kanker Paru Bukan Sel Kecil (KPKBSK), 
+
+radioterapi dapat berperan di semua stadium KPKBSK sebagai terapi kuratif 
+
+definitif, kuratif neoajuvan, ajuvan maupun paliatif. 
+
+ 
+
+3.5.1.3.1 Indikasi/Tujuan 
+
+Berdasarkan panduan NCCN kategori 2A, radioterapi kuratif definitif 
+
+sebagai modalitas terapi dapat diberikan pada KPKBSK stadium awal 
+
+(stadium I) yang secara medis inoperabel atau yang menolak dilakukan 
+
+operasi setelah evaluasi bedah thoraks dan pada stadium lokal lanjut 
+
+(stadium II dan III) secara konkuren dengan kemoterapi. Pada pasien yang 
+
+tidak bisa mentoleransi kemoradiasi konkuren, dapat juga diberikan 
+
+kemoterapi sekuensial dan radiasi atau radiasi saja. Pada pasien stadium 
+
+IIIA resektabel, kemoterapi preoperasi dan radiasi pasca operasi merupakan 
+
+pilihannya. Pada pasien Stadium IV, radioterapi diberikan sebagai paliatif 
+
+atau pencegahan gejala (nyeri, perdarahan, obstruksi). 
+
+ 
+
+3.5.1.3.2 Teknik, Simulasi dan Target Radiasi 
+
+Computed Tomography (CT)-based planning menggunakan teknik Three-
+
+Dimensional Conformal Radiation (3D-CRT) merupakan standar minimal 
+
+radioterapi kuratif pada kanker paru, bila fasilitasnya tersedia. Teknologi 
+
+lebih canggih seperti IMRT/VMAT dan IGRT dapat digunakan, dan baik 
+
+untuk memberikan radioterapi kuratif dengan aman. 
+
+ 
+
+Dalam proses simulasi dengan CT scan, pasien diposisikan dengan 
+
+menggunakan alat imobilisasi, diberikan kontras intravena dengan atau 
+
+tanpa kontras oral, dan pasien berbaring dalam posisi supine dengan kedua 
+
+tangan di atas kepala untuk memaksimalkan jumlah sinar yang dapat 
+
+diberikan. Jika memungkinkan, simulasi 4 Dimensi (4D) sebaiknya 
+
+dilakukan untuk mendeteksi pergerakan internal struktur intra torakal. 
+
+Jika tidak memiliki alat simulasi 4D, dapat juga digunakan simulasi dengan 
+
+slow CT atau lakukan pengambilan CT saat inspirasi maksimal dan minimal 
+
+ 
+
+ 
+ 
+
+
+
+-22- 
+ 
+
+Pengambilan gambar pre-kontras perlu dilakukan untuk membantu 
+
+delineasi. PET/CT scan membantu meningkatkan akurasi penentuan target 
+
+volume, terutama pada pasien dengan atelektasis signifikan dan jika 
+
+kontras intravena dikontraindikasikan. PET/CT sebaiknya dilakukan dalam 
+
+jangka waktu kurang dari 4 minggu sebelum perencanaan radiasi, dan 
+
+apabila memungkinkan dilakukan dalam posisi yang sama dengan posisi 
+
+saat simulasi radioterapi. 
+
+ 
+
+Energi foton yang direkomendasikan adalah 4 MV-10 MV karena dianggap 
+
+cukup untuk menembus jaringan paru berdensitas rendah sebelum masuk 
+
+ke tumor. 
+
+ 
+
+Pendefinisian target radiasi harus berdasarkan terminologi International 
+
+Commission on Radiation Units and Measurements – 50,62,83; yaitu gross 
+
+tumor volume (GTV), clinical target volume (CTV) dan planning target volume 
+
+(PTV). PTV mencakup ITV (memasukan margin untuk pergerakan target) 
+
+ditambah margin setup untuk mempertimbangkan variabilitias positioning 
+
+dan mekanik. 
+
+ 
+
+Agar delineasi dapat dilakukan dengan akurat, perlu mempertimbangkan 
+
+hasil pemeriksaan fisik, hasil CT scan dengan kontras, PET/CT Scan, 
+
+mediastinoskopi atau ultrasonografi endobronkial (EBUS). 
+
+  
+
+Standar margin dari GTV ke CTV adalah 0,6-0,8 cm. Margin dari CTV (atau 
+
+ITV) ke PTV adalah 1-1,5 cm jika tidak ada fasilitas IGRT, seperti cone beam 
+
+CT (CBCT) atau EPID harian (kv imaging); 0,5-1 cm untuk 4D CT planning 
+
+atau CBCT; 0,5 cm jika 4D CT planning dan EPID harian; 0,3 cm 4D CT 
+
+planning dan CBCT harian. Untuk fraksi konvensional, EPID harian dan 
+
+CBCT mingguan sering digunakan untuk margin CTV ke PTV 0,5 cm. 
+
+ 
+
+Belum ada konsensus khusus untuk delineasi target KPKBSK pasca 
+
+operasi. Beberapa pusat radioterapi ada yang memasukkan KGB yang 
+
+terlibat, hilus ipsilateral, dan 1 stasiun KGB di atas dan di bawah KGB yang 
+
+terlibat, berdasarkan Trial ART tahun 2009. 
+
+ 
+
+3.5.1.3.1 Dosis Radioterapi 
+
+Tabel 3.3.  Dosis radioterapi pada teknik Stereotactic Body Radiation 
+
+ 
+ 
+
+
+
+-23- 
+ 
+
+Therapy (SBRT) 
+
+Dosis Total Jumlah Fraksi Contoh Indikasi 
+
+25-34 Gy 1 Lesi perifer, kecil 
+
+(<2cm), terutama jika 
+
+jarak > 1 cm dari 
+
+dinding dada 
+ 
+
+45-60 Gy 3 Tumor perifer, jarak > 1 cm 
+
+dari dinding dada 
+
+48-50 Gy 4 Tumor sentral/perifer < 4-5 
+
+cm terutama jika jarak > 1 
+
+cm dari dinding dada 
+
+50-55 Gy 5 Tumor sentral/perifer 
+
+terutama jika jarak >1 cm 
+
+dari dinding dada 
+
+60-70 Gy 8-10 Tumor Sentral 
+
+ 
+
+Tabel 3.4.  Dosis yang biasa digunakan pada Fraksinasi Konvensional dan 
+
+radioterapi paliatif 
+
+Tipe Terapi Dosis Total Dosis/Fraksi Lama Terapi 
+
+Radiasi definitive 50-70 Gy 2 Gy 6-7 minggu 
+
+tanpa kemoterapi 
+
+Radiasi pre-op 45-54 Gy 1,8-2 Gy 5 minggu 
+
+Radiasi pasca-op    
+
+1. Batas negatif1 . 50-54 Gy 1. 1,8-2 Gy 1. 5-6 minggu 
+
+2. Ekstensi    
+
+kapsular 2. 54-60 Gy 2. 1,8-2 Gy 2. 6 minggu 
+
+atau batas    
+
+mikroskopis    
+
+positif    
+
+3. Gross tumor    
+
+3. 60-70 Gy 3. 2 Gy 3. 6-7 minggu 
+
+Radiasi paliatif    
+
+1. SVKS 30-45 Gy 3 Gy 2-3 minggu 
+
+2. Metastasis 20-30 Gy 3-4 Gy 1-2 minggu 
+
+tulang    
+
+dengan    
+
+ 
+ 
+
+
+
+-24- 
+ 
+
+massa    
+
+jaringan    
+
+lunak    
+
+3. Metastasis 8-30 Gy 3-8 Gy 1 hari-2 minggu 
+
+tulang tanpa    
+
+massa    
+
+jaringan    
+
+lunak    
+
+4. Metastasis    
+
+Otak (sesuai (sesuai  panduan (sesuai  panduan 
+
+panduan tumor tumor otak) tumor otak) 
+
+otak) 
+
+ 
+
+Selain peresepan dosis, perlu diperhatikan juga dosis pada jaringan sehat 
+
+sekitarnya. Deliniasi organ sehat harus mengacu kepada pedoman dari 
+
+Radiation Therapy Oncology Grup (RTOG) 0618, 0813, 0915 untuk 
+
+SABR/SBRT Trials. 
+
+ 
+
+Tabel 3.5 Batasan dosis OAR pada SABR/SBRT 
+
+OAR 1 Fraksi 5 Fraksi 
+
+Medulla spinalis 14 Gy 30 Gy 
+
+Esofagus 15,4 Gy 105% preskripsi PTV 
+
+Pleksus Brakhialis 17,5 Gy 32 Gy 
+
+Jantung/pericardium 22 Gy 105% preskripsi PTV 
+
+Pembuluh darah besar 37 Gy 105% preskripsi PTV 
+
+Trakea & bronkus 20,2 Gy 105% preskripsi PTV 
+
+proksimal 
+
+Iga 30 Gy  
+
+Kulit 26 Gy 32 Gy 
+
+Lambung 12,4 Gy  
+
+ 
+
+3.5.1.3 Kemoterapi 
+
+Kemoterapi dapat diberikan sebagai modalitas neoadjuvan pada stadium 
+
+dini, atau sebagai adjuvan pasca pembedahan. Terapi adjuvan dapat 
+
+diberikan pada KPKBSK stadium IIA, IIB dan IIIA. Pada KPKBSK stadium 
+
+lanjut, kemoterapi dapat diberikan dengan tujuan pengobatan jika tampilan 
+
+ 
+ 
+
+
+
+-25- 
+ 
+
+umum pasien baik (Karnofsky >60%; WHO 0-2). Namun, guna kemoterapi 
+
+terbesar adalah sebagai terapi paliatif pada pasien dengan stadium lanjut. 
+
+ 
+
+Ada beberapa jenis kemoterapi yang dapat diberikan. Lini pertama diberikan 
+
+kepada pasien yang tidak pernah menerima pengobatan kemoterapi 
+
+sebelumnya (chemo naïve). Kelompok ini terdiri dari kemoterapi berbasis- 
+
+platinum dan yang tidak mengandung platinum (obat generasi baru). Pilihan 
+
+utama obat berbasis-platinum adalah sisplatin, pilihan lainnya dengan 
+
+karboplatin. 
+
+ 
+
+Efek samping sisplatin yang paling sering ditemukan adalah toksisitas 
+
+gastrointestinal. Pada pasien yang mengalami efek samping dengan 
+
+sisplatin, dapat diberikan karboplatin. Kemoterapi ini dapat ditoleransi 
+
+dengan lebih baik oleh pasien usia lanjut atau dengan komorbiditas berat. 
+
+Untuk karboplatin, efek samping yang paling sering berupa 
+
+hematotoksisitas. Obat kemoterapi lini pertama tidak berbasis-platinum 
+
+yang dapat diberikan adalah etoposid, gemsitabin, paklitaksel, dan 
+
+vinoralbin. Kombinasi sisplatin dengan gemsitabin memberikan angka 
+
+kehidupan paling tinggi, namun respon paling baik adalah terhadap regimen 
+
+sisplatin dengan paklitaksel. Komplikasi yang paling sering ditemukan 
+
+adalah demam neutropenia atau perdarahan akibat supresi sumsum tulang, 
+
+hiponatremia atau hipomagnesemia, toksisitas ginjal, dan neuropati perifer. 
+
+ 
+
+Kemoterapi lini kedua diberikan kepada pasien yang pernah mendapat 
+
+kemoterapi lini pertama namun tidak memberikan respon setelah 2 siklus, 
+
+atau KPKBSK yang menjadi lebih progresif setelah kemoterapi selesai. Obat-
+
+obat kemoterapi lini kedua adalah dosetaksel dan pemetreksed. Selain itu, 
+
+dapat diberikan juga kombinasi dari dua obat tidak-berbasis platinum. 
+
+Kemoterapi lini ketiga dan seterusnya sangat tergantung pada riwayat 
+
+pengobatan sebelumnya. 
+
+ 
+
+3.5.1.4 Terapi Target 
+
+Terapi target diberikan pada penderita dengan stadium IV KPKBSK mutasi 
+
+EGFR positif yang sensitif terhadap EGFR-TKI. Terapi EGFR-TKI yang 
+
+tersedia yaitu Gefitinib, Erlotinib atau Afatinib. 
+
+ 
+
+3.5.1.5 Terapi Kombinasi 
+
+ 
+ 
+
+
+
+-26- 
+ 
+
+Terapi radiasi dan kemoterapi dapat diberikan pada kasus-kasus tertentu, 
+
+terutama yang tidak memenuhi syarat untuk menjalani pembedahan. Selain 
+
+itu, terapi kombinasi dapat diberikan untuk tujuan pengobatan pada pasien 
+
+dengan tampilan umum baik (Karnofsky >70%) dan penurunan berat badan 
+
+minimal, serta pasien usia lanjut yang mempunyai komorbiditas berat atau 
+
+kontraindikasi operasi. Regimen kemoterapi dan terapi radiasi dapat 
+
+diberikan secara bersamaan (concurrent therapy), selang-seling (alternating 
+
+therapy), atau secara sekuensial. Hasil paling baik didapat dari regimen 
+
+concurrent therapy. 
+
+ 
+
+3.5.1.6 Pilihan Terapi Berdasakan Stadium 
+
+Pada stadium 0, modalitas terapi pilihan adalah pembedahan atau Photo 
+
+Dynamic Therapy (PDT). Untuk stadium I, modalitas terapi pilihannya 
+
+adalah pembedahan yang dapat dilakukan bersamaan dengan VATS. Bila 
+
+pasien tidak dapat menjalani pembedahan, maka dapat diberikan terapi 
+
+radiasi atau kemoterapi dengan tujuan pengobatan. Selain itu, juga dapat 
+
+diberikan kombinasi terapi radiasi dengan kemoterapi. Pada stadium IB, 
+
+dapat diberikan kemoterapi adjuvan setelah reseksi bedah.  
+
+ 
+
+Untuk stadium II, terapi pilihan utama adalah reseksi bedah jika tidak ada 
+
+kontraindikasi. Terapi radiasi atau kemoterapi adjuvan dapat dilakukan bila 
+
+ada sisa tumor atau keterlibatan KGB intratoraks, terutama N2 atau N3. 
+
+Bila pasien tidak dapat menjalani pembedahan, maka dapat diberikan terapi 
+
+radiasi dengan tujuan pengobatan. Kombinasi terapi radiasi dengan 
+
+kemoterapi dapat memberikan hasil yang lebih baik.  
+
+ 
+
+Pada stadium IIIA, dapat dilakukan pembedahan (bila tumor masih dapat 
+
+dioperasi dan tidak terdapat bulky lymphadenopathy), terapi radiasi, 
+
+kemoterapi, atau kombinasi dari ketiga modalitas tersebut. Reseksi bedah 
+
+dapat dilakukan setelah kemoterapi neoadjuvan dan/atau dengan 
+
+kemoterapi adjuvan, terutama pada pasien dengan lesi T3-4, N1. Pada 
+
+pasien yang tidak dapat menjalani pembedahan, dapat dilakukan terapi 
+
+radiasi sendiri dengan tujuan pengobatan. Kombinasi terapi radiasi dengan 
+
+kemoterapi dapat memberikan hasil yang lebih baik. Jika ada keterlibatan 
+
+kelenjar getah bening atau respon buruk terhadap operasi, maka pemberian 
+
+kemoterapi sendiri dapat dipertimbangkan. Regimen ini terdiri dari 4-6 
+
+siklus pemberian obat kemoterapi. Pada pasien dengan adenokarsinoma 
+
+ 
+ 
+
+
+
+-27- 
+ 
+
+dan hasil uji mutasi gen EGFR positif, dapat diberikan obat golongan EGFR-
+
+TKI. 
+
+ 
+
+Untuk stadium IIIB, modalitas pengobatan yang menjadi pilihan utama 
+
+bergantung pada kondisi klinis dan tampilan umum pasien. Terapi radiasi 
+
+tunggal diberikan pada lesi primer, lesi metastasis ipsilateral, serta KGB 
+
+supraklavikula. Kemoterapi tunggal dapat diberikan dengan regimen 4-6 
+
+siklus. Bila dikombinasi, terapi radiasi dan kemoterapi dapat memberikan 
+
+hasil yang lebih baik. Obat golongan EGFR-TKI diberikan pada 
+
+adenokarsinoma dengan hasil uji mutasi gen EGFR positif yang sensitif 
+
+EGFR-TKI. 
+
+ 
+
+Pada stadium IV, tujuan utama terapi pada stadium ini bersifat paliatif. 
+
+Pendekatan tata laksana KPKBSK stadium IV bersifat multimodalitas 
+
+dengan pilihan terapi sistemik (kemoterapi, terapi target) dan modalitas 
+
+lainnya (radioterapi, dan lain-lain) 
+
+  
+
+Regimen kemoterapi lini pertama adalah kemoterapi berbasis platinum 
+
+(sisplatin atau karboplatin) dengan salah satu obat generasi baru seperti 
+
+Sisplatin/Karboplatin + etoposide, Sisplatin/Karboplatin + gemsitabin, 
+
+Sisplatin/Karboplatin + paklitaksel, Sisplatin/Karboplatin + dosetaksel 
+
+Sisplatin/Karboplatin + vinorelbine, dan Sisplatin/Karboplatin + 
+
+pemetreksed 
+
+ 
+
+Regimen kemoterapi lini kedua adalah monoterapi dosetaksel, monoterapi 
+
+pemetreksed, atau kombinasi dari dua obat baru (regimen non-platinum). 
+
+Pada kondisi tertentu, untuk lini pertama dapat diberikan kemoterapi 
+
+berbasis platinum (doublet platinum lini pertama seperti di atas) 
+
+ditambahkan anti- VEGF (bevacizumab). Pada rekurensi, pilihan terapi 
+
+sesuai metastasis. Modalitas yang dapat digunakan termasuk radiasi 
+
+paliatif, kemoterapi paliatif, atau bedah paliatif. 
+
+ 
+
+3.5.2 Kanker Paru jenis Karsinoma Sel Kecil (KPKSK) 
+
+Secara umum, jenis kanker paru ini dapat dibagi menjadi dua kelompok, 
+
+Stadium terbatas (limited stage disease = LD), dan stadium lanjut (extensive 
+
+stage disease = ED). Berbeda dengan KPBSK, pasien dengan KPKSK tidak 
+
+memberikan respon yang baik terhadap terapi target. 
+
+ 
+ 
+
+
+
+-28- 
+ 
+
+ 
+
+3.5.2.1 Stadium Terbatas 
+
+Pilihan modalitas terapi pada stadium ini adalah kombinasi dari kemoterapi 
+
+berbasis platinum dan terapi radiasi toraks. Kemoterapi dilakukan paling 
+
+banyak 4-6 siklus, dengan peningkatan toksisitas yang signifikan jika 
+
+diberikan lebih dari 6 siklus. Regimen terapi kombinasi yang memberikan 
+
+hasil paling baik adalah concurrent therapy, dengan terapi radiasi dimulai 
+
+dalam 30 hari setelah awal kemoterapi. Pada pasien usia lanjut dengan 
+
+tampilan umum yang buruk (>2), dapat diberikan kemoterapi sisplatin, 
+
+sedangkan pasien dengan tampilan umum baik (0-1) dapat diberikan 
+
+kemoterapi dengan karboplatin. Setelah kemoterapi, pasien dapat menjalani 
+
+iradiasi kranial profilaksis (prophylaxis cranial irradiation/PCI). 
+
+ 
+
+Regimen kemoterapi yang tersedia untuk stadium ini adalah EP, 
+
+sisplatin/karboplatin dengan etoposid (pilihan utama), dan 
+
+sisplatin/karboplatin dengan irinotecan. Reseksi bedah dapat dilakukan 
+
+dengan kemoterapi adjuvan atau kombinasi kemoterapi dan radiasi terapi 
+
+adjuvan pada TNM stadium dini, dengan/tanpa pembesaran kelenjar getah 
+
+bening. 
+
+ 
+
+3.5.2.2 Stadium Lanjut 
+
+Pilihan utama modalitas terapi stadium ini adalah kemoterapi kombinasi. 
+
+Regimen kemoterapi yang dapat digunakan pada stadium ini adalah 
+
+sisplatin/karboplatin dengan etoposid (pilihan utama) atau 
+
+sisplatin/karboplatin dengan irinotecan. Pilihan lain adalah radiasi paliatif 
+
+pada lesi primer dan lesi metastasis. 
+
+ 
+
+Rekomendasi Tatalaksana 
+
+1. Modalitas utama sebagian besar KPBSK (stadium I-II dan stadium IIIA 
+
+yang masih dapat direseksi setelah kemoterapi neoadjuvan) adalah 
+
+pembedahan [rekomendasi A]. 
+
+2. Reseksi bedah dapat dilakukan setelah kemoterapi neoadjuvan 
+
+dan/atau dengan kemoterapi adjuvant pada pasien stadium IB, II, IIIA, 
+
+dan IIIB [rekomendasi A]. 
+
+3. Pilihan utama pembedahan adalah lobektomi, tetapi pada pasien 
+
+dengan komorbiditas kardiovaskular atau kapasitas paru yang lebih 
+
+ 
+ 
+
+
+
+-29- 
+ 
+
+rendah, pembedahan segmentektomi dan reseksi sublobaris paru 
+
+dilakukan [rekomendasi A]. 
+
+4. Flexible bronchoscopy dilakukan untuk menilai sebab dan luas 
+
+stenosis saluran pernapasan, dan permeabilitas saluran bronchial distal 
+
+dari stenosis [rekomendasi A]. 
+
+5. Radiasi diberikan pada lesi primer dengan tujuan kuratif pada stadium 
+
+IA, IB, IIA, dan IIIA, jika terdapat kontraindikasi pembedahan 
+
+[rekomendasi A]. 
+
+6. Regimen Continuous hyperfractionated accelerated radiotherapy 
+
+(CHART) merupakan pilihan utama regimen terapi radiasi [rekomendasi 
+
+A]. 
+
+7. Pada pasien dengan KPBSK stadium IIB, diberikan terapi radiasi 
+
+tunggal pada lesi primer dan lesi metastasis ipsilateral dan KGB 
+
+supraklavikula [rekomendasi A]. 
+
+8. Terapi kemoterapi adjuvan diberikan pada KPBSK stadium IIA, IIB dan 
+
+IIIA, sedangkan pada stadium lanjut, kemoterapi dapat diberikan dengan 
+
+tujuan pengobatan jika tampilan umum pasien baik (Karnofsky >60%; 
+
+WHO 0-2) [rekomendasi A]. 
+
+9. Pada terapi stadium IV, pasien dengan tampilan umum 0-1 dapat 
+
+diberikan kombinasi 2 obat kemoterapi, sedangkan pada pasien dengan 
+
+tampilan umum 2, dapat diberikan 1 obat kemoterapi [rekomendasi A]. 
+
+10. Pada keganasan adenokarsinoma dengan hasil pemeriksaan uji mutasi 
+
+gen EGFR positif, Geflitinib dan Erlotinib merupakan obat kemoterapi lini 
+
+pertama sebagai monoterapi [rekomendasi A]. 
+
+11. Terapi kombinasi, kemoterapi dan terapi radiasi, diberikan dengan 
+
+tujuan pengobatan pada pasien dengan tampilan umum baik (Karnofsky 
+
+>60%) dengan kontraindikasi bedah [rekomendasi A]. 
+
+12. Regimen terapi kombinasi terbaik adalah concurrent therapy 
+
+[rekomendasi A]. 
+
+13. Pada KPKSK stadium terbatas, kombinasi dari kemoterapi berbasis-
+
+platinum dan terapi radiasi toraks adalah pilihan utama [rekomendasi A]. 
+
+14. Regimen terapi kombinasi yang memberikan hasil paling baik adalah 
+
+concurrent therapy, dengan terapi radiasi dimulai dalam 30 hari setelah 
+
+awal kemoterapi [rekomendasi A]. 
+
+15. Pada KPKSK stadium lanjut, modalitas utama adalah terapi 
+
+kombinasi. 
+
+ 
+ 
+
+
+
+-30- 
+ 
+
+Alternatif lain adalah terapi radiasi paliatif pada lesi primer dan lesi 
+
+metastasis [rekomendasi A]. 
+
+ 
+
+3.6 Dukungan Nutrisi 
+
+Malnutrisi pada pasien kanker paru terjadi sebesar 46%. Malnutrisi 
+
+disebabkan oleh gangguan metabolisme terkait dengan adanya sel tumor, 
+
+dengan gejala penurunan berat badan (BB) dan kesulitan makan atau 
+
+minum akibat efek terapi antikanker. 
+
+ 
+
+3.6.1  Skrining 
+
+Status gizi merupakan salah satu faktor yang berperan penting pada 
+
+kualitas 
+
+hidup pasien kanker. Masalah nutrisi perlu mendapat perhatian serius 
+
+dalam 
+
+tatalaksana pasien kanker, sehingga perlu dilakukan skrining dan diagnosis 
+
+lebih lanjut. European Partnership for Action Against Cancer (EPAAC) dan 
+
+The European Society for Clinical Nutrition and Metabolism (ESPEN) 
+
+menyatakan bahwa pasien kanker perlu dilakukan skrining gizi untuk 
+
+mendeteksi adanya gangguan nutrisi, gangguan asupan makanan, serta 
+
+penurunan berat badan (BB) dan indeks massa tubuh (IMT) sejak dini, yaitu 
+
+sejak pasien didiagnosis kanker dan diulang sesuai dengan kondisi klinis 
+
+pasien. Perlu dilakukan penilaian objektif dan kuantitatif asupan nutrisi, 
+
+kapasitas fungsional, dan derajat inflamasi sistemik pada pasien kanker 
+
+dengan hasil skrining abnormal. 
+
+ 
+
+Rekomendasi Dukungan Nutrisi 
+
+Syarat pasien kanker yang membutuhkan tatalaksana nutrisi: 
+
+1. Skrining gizi dilakukan untuk mendeteksi gangguan nutrisi, gangguan 
+
+asupan nutrisi, serta penurunan BB dan IMT sedini mungkin 
+
+[rekomendasi A]. 
+
+2. Skrining gizi dimulai sejak pasien didiagnosis kanker dan diulang 
+
+sesuai dengan kondisi klinis pasien [rekomendasi A]. 
+
+3. Pada pasien dengan hasil skrining abnormal, perlu dilakukan 
+
+penilaian objektif dan kuantitatif dari asupan nutrisi, kapasitas 
+
+fungsional, dan derajat inflamasi sistemik [rekomendasi A]. 
+
+4. Disarankan untuk melakukan skrining rutin pada semua pasien 
+
+ 
+ 
+
+
+
+-31- 
+ 
+
+kanker lanjut, baik yang menerima maupun tidak menerima terapi 
+
+antikanker, untuk menilai asupan nutrisi yang tidak adekuat, penurunan 
+
+berat badan dan IMT yang rendah. Apabila pasien berisiko, maka akan 
+
+dilanjutkan dengan assessmen gizi [rekomendasi A]. 
+
+ 
+
+3.6.2 Diagnosis 
+
+Permasalahan nutrisi yang sering dijumpai pada pasien kanker adalah 
+
+malnutrisi dan kaheksia. Secara umum, World Health Organization (WHO) 
+
+mendefinisikan malnutrisi berdasarkan IMT <18,5 kg/m2. Namun, menurut 
+
+ESPEN 2015, diagnosis malnutrisi dapat ditegakkan berdasarkan dua 
+
+kriteria. Kriteria pertama yaitu bila IMT <18,5 kg/m2, dan kriteria kedua bila 
+
+ada penurunan BB yang tidak direncanakan >10% dalam kurun waktu 
+
+tertentu atau penurunan berat badan >5% dalam waktu 3 bulan, disertai 
+
+dengan salah satu kondisi berikut: IMT <20 kg/m2 pada usia <70 tahun, 
+
+IMT <22 kg/m2 pada usia ≥70 tahun ATAU fat free mass index (FFMI) <15 
+
+kg/m2 untuk perempuan dan FFMI <17 kg/m2 untuk laki-laki. 
+
+ 
+
+Selain diagnosis malnutrisi, dapat ditegakkan diagnosis kakheksia apabila 
+
+tersedia sarana dan prasarana yang memungkinkan. Kakheksia adalah 
+
+suatu sindrom kehilangan massa otot, dengan ataupun tanpa lipolisis, yang 
+
+tidak dapat dipulihkan dengan dukungan nutrisi konvensional, serta dapat 
+
+menyebabkan gangguan fungsional progresif. Diagnosis kakheksia 
+
+ditegakkan apabila terdapat penurunan BB ≥5% dalam waktu ≤12 bulan 
+
+atau IMT<20 kg/m2 disertai dengan 3 dari 5 kriteria: penurunan kekuatan 
+
+otot, fatigue atau kelelahan, anoreksia, massa lemak tubuh rendah, dan 
+
+abnormalitas biokimia berupa peningkatan petanda inflamasi (C-Reactive 
+
+Protein (CRP) >5 mg/L atau IL-6>4pg/dL), anemia (Hb <12 g/dL), dan 
+
+penurunan albumin serum (<3,2 g/dL). 
+
+ 
+
+Kriteria Diagnosis Sindrom Kakheksia 
+
+Adanya penurunan BB 5% dalam 12 bulan atau kurang (atau 
+
+IMT < 20 kg/m2) 
+
+ 
+
+ditambah 
+
+ 
+
+3 dari 5 gejala berikut: 
+
+ 
+ 
+
+
+
+-32- 
+ 
+
+1. Berkurangnya kekuatan otot 
+
+2. Fatigue 
+
+3. Anoreksia 
+
+4. Indeks massa bebas lemak rendah 
+
+5. Laboratorium abnormal: 
+
+a. Peningkatan petanda inflamasi (IL-6>4pg/dL, CRP>5 mg/L) 
+
+b. Anemia (Hb < 12g/dL) 
+
+c. Hipoalbuminemia (<3,2g/dL) 
+
+ 
+
+Berdasarkan kriteria diagnosis tersebut, dapat disimpulkan bahwa: fatigue 
+
+diartikan sebagai kelelahan fisik ataupun mental dan ketidakmampuan 
+
+melakukan aktivitas fisik dengan intensitas dan performa sebaik 
+
+sebelumnya, anoreksia diartikan sebagai asupan makanan yang kurang 
+
+baik, ditunjukkan dengan asupan energi kurang dari 20 kkal/kgBB/hari 
+
+atau kurang dari 70% dari asupan biasanya atau hilangnya selera makan 
+
+pasien, dan indeks massa bebas lemak rendah menunjukkan penurunan 
+
+massa otot, yang diketahui dari hasil pengukuran lingkar lengan atas (LLA) 
+
+kurang dari persentil 10 menurut umur dan jenis kelamin, atau bila 
+
+memungkinkan, dilakukan pengukuran indeks otot skeletal dengan dual-
+
+energy X-ray absorptiometry (DEXA), dimana diperoleh hasil pada laki- laki 
+
+<7,25 kg/m2 dan perempuan <5,45 kg/m2. 
+
+ 
+
+Pasien kanker dapat mengalami kondisi-kondisi akibat dari pertumbuhan 
+
+kanker ataupun terapi yang diterima oleh pasien, misalnya anoreksia, yaitu 
+
+asupan makanan yang kurang baik, ditunjukkan dengan asupan energi 
+
+kurang dari 20 kkal/kg BB/hari atau kurang dari 70% dari asupan 
+
+biasanya atau hilangnya selera makan pasien. Anoreksia juga dapat 
+
+diartikan sebagai gangguan asupan makan yang dikaitkan dengan 
+
+perubahan sistem saraf pusat yang mengatur pusat makan, yang diikuti 
+
+dengan satu dari gejala berikut, yaitu cepat kenyang, perubahan indera 
+
+pengecap, perubahan indera penghidu, meat aversion (timbul rasa mual 
+
+setelah konsumsi daging), dan mual muntah.  
+
+ 
+
+Kondisi lainnya yaitu mual dan muntah, yang disebabkan karena 
+
+kemoterapi atau radiasi, maupun karena sebab lain (gastroparesis, gastritis, 
+
+obstruksi usus, gangguan metabolik). Pengobatan mual dan muntah 
+
+dilakukan berdasarkan penyebabnya. 
+
+ 
+ 
+
+
+
+-33- 
+ 
+
+ 
+
+3.6.3 Tatalaksana Nutrisi Umum pada Kanker 
+
+Sindrom kaheksia membutuhkan tatalaksana multidimensi yang 
+
+melibatkan pemberian nutrisi optimal, farmakologi, dan aktifitas fisik. 
+
+Pemberian nutrisi optimal pada pasien kakheksia perlu dilakukan secara 
+
+individual sesuai dengan kondisi pasien. 
+
+ 
+
+3.6.3.1 Kebutuhan Nutrisi Umum pada Pasien Kanker 
+
+3.6.3.1.1 Kebutuhan Energi 
+
+Idealnya, perhitungan kebutuhan energi pada pasien kanker ditentukan 
+
+dengan kalorimetri indirek. Namun, apabila tidak tersedia, penentuan 
+
+kebutuhan energi pada pasien kanker dapat dilakukan dengan formula 
+
+standar, misalnya rumus Harris-Benedict yang ditambahkan dengan faktor 
+
+stres dan aktivitas, tergantung dari kondisi dan terapi yang diperoleh pasien 
+
+saat itu. Perhitungan kebutuhan energi pada pasien kanker juga dapat 
+
+dilakukan dengan rumus rule of thumb: untuk pasien ambulatory 30-35 
+
+kkal/kgBB/hari, pasien bedridden 20-25 kkal/kgBB/hari, dan pasien 
+
+obesitas menggunakan berat badan ideal. Pemenuhan energi dapat 
+
+ditingkatkan sesuai dengan kebutuhan dan toleransi pasien. 
+
+ 
+
+Rekomendasi Kebutuhan Energi 
+
+1. Direkomendasikan, untuk tujuan praktis, bahwa kebutuhan energi 
+
+total pasien kanker, jika tidak diukur secara individual, diasumsikan 
+
+menjadi agak mirip dengan subyek sehat dan berkisar antara 25-30 kkal/ 
+
+kg BB/hari [rekomendasi A]. 
+
+2. Selama menjalani terapi kanker, perlu dipastikan bahwa pasien 
+
+mendapat nutrisi adekuat [rekomendasi A]. 
+
+ 
+
+3.6.3.1.2 Makronutrien 
+
+Untuk kebutuhan protein, dibutuhkan sebesar 1.2-2,0 gr/kgBB/hari.    
+
+Pemberian protein perlu disesuaikan dengan fungsi ginjal dan hati. 
+
+Kebutuhan lemak sebesar 25-30% dari kalori total, 35–50% dari energi total 
+
+untuk pasien kanker stadium lanjut yang mengalami penurunan BB 
+
+(Rekomendasi tingkat A). Sedangkan kebutuhan karbohidrat adalah sisa 
+
+dari perhitungan protein dan lemak. 
+
+ 
+
+ 
+
+ 
+ 
+
+
+
+-34- 
+ 
+
+3.6.3.1.3 Mikronutrien 
+
+Sampai saat ini, pemenuhan mikronutrien untuk pasien kanker hanya 
+
+berdasarkan nilai empiris saja, karena belum diketahui jumlah pasti 
+
+kebutuhan mikronutrien untuk pasien kanker. ESPEN menyatakan bahwa 
+
+suplementasi vitamin dan mineral dapat diberikan sesuai dengan angka 
+
+kecukupan gizi (AKG) dan mengutamakan dari bahan makanan sumber. 
+
+ 
+
+Rekomendasi Mikronutrien 
+
+Direkomendasikan pemberian vitamin dan mineral sebesar satu kali 
+
+angka kecukupan gizi [rekomendasi A]. 
+
+ 
+
+3.6.3.1.4 Cairan 
+
+Kebutuhan cairan pada pasien kanker berbeda tergantung usianya. 
+
+Umumnya  untuk usia kurang dari 55 tahun butuh 30−40 mL/kgBB/hari, 
+
+usia 55−65 tahun 30 mL/kgBB/hari, dan usia lebih dari 65 tahun 25 
+
+mL/kgBB/hari. Kebutuhan cairan pasien kanker perlu diperhatikan dengan 
+
+baik, terutama pada pasien kanker yang menjalani radio- dan/atau kemo- 
+
+terapi, karena pasien rentan mengalami dehidrasi. Dengan demikian, 
+
+kebutuhan cairan dapat berubah, sesuai dengan kondisi klinis pasien. 
+
+ 
+
+3.6.3.1.5 Nutrien spesifik 
+
+a. Branched-chain amino acids (BCAA) 
+
+BCAA juga sudah pernah diteliti manfaatnya untuk memperbaiki selera 
+
+makan pada pasien kanker yang mengalami anoreksia, lewat sebuah 
+
+penelitian acak berskala kecil dari Cangiano pada tahun 1996. Penelitian 
+
+intervensi BCAA pada pasien kanker oleh Le Bricon menunjukkan bahwa 
+
+suplementasi BCAA melalui oral sejumlah 4,8 gram, 3 kali sehari selama 7 
+
+hari dapat meningkatkan kadar BCAA plasma sebanyak 121% dan 
+
+menurunkan insiden anoreksia pada kelompok BCAA dibandingkan 
+
+plasebo. Selain dari suplementasi, BCAA dapat juga diperoleh dari bahan 
+
+makanan sumber dan suplementasi. Bahan makanan sumber yang 
+
+diketahui banyak mengandung BCAA antara lain putih telur, ikan, ayam, 
+
+daging sapi, kacang kedelai, tahu, tempe, polong-polongan. 
+
+ 
+
+Rekomendasi Suplementasi BCAA 
+
+Pasien kanker stadium lanjut yang tidak merespon terapi nutrisi standar, 
+
+ 
+ 
+
+
+
+-35- 
+ 
+
+disarankan untuk mempertimbangkan suplementasi BCAA untuk 
+
+meningkatkan massa otot [rekomendasi D]. 
+
+ 
+
+b. Asam lemak omega-3 
+
+Suplementasi asam lemak omega-3 secara enteral terbukti mampu 
+
+mempertahankan BB dan memperlambat kecepatan penurunan BB, 
+
+meskipun tidak menambah BB pasien. Konsumsi harian asam lemak 
+
+omega-3 yang dianjurkan untuk pasien kanker adalah setara dengan 2 
+
+gram asam eikosapentaenoat/eicosapentaenoic acid (EPA). Jika 
+
+suplementasi tidak memungkinkan untuk diberikan, pasien dapat 
+
+dianjurkan untuk meningkatkan asupan bahan makanan sumber asam 
+
+lemak omega-3, yaitu minyak dari ikan salmon, tuna, kembung, makarel, 
+
+ikan teri, dan ikan lele. 
+
+ 
+
+Rekomendasi Suplementasi Omega-3 
+
+Pada pasien kanker yang menjalani kemoterapi dengan risiko mengalami 
+
+penurunan BB, disarankan untuk menggunakan suplementasi asam 
+
+lemak omega-3 atau minyak ikan untuk menstabilkan / meningkatkan 
+
+selera makan, asupan makanan, massa otot, dan berat badan 
+
+[rekomendasi D]. 
+
+ 
+
+3.6.3.2 Jalur Pemberian Nutrisi 
+
+Pilihan pertama pemberian nutrisi melalui jalur oral. Apabila asupan belum 
+
+adekuat dapat diberikan oral nutritional supplementation (ONS) hingga 
+
+asupan optimal. Bila dalam 3-7 hari asupan tetap kurang dari 60% 
+
+kebutuhannya, maka diindikasikan pemberian secara enteral. Pemberial 
+
+enteral jangka pendek (<4-6 minggu) dapat menggunakan pipa nasogastrik 
+
+(NGT). Pemberian enteral jangka panjang (>4-6 minggu) menggunakan 
+
+percutaneus endoscopic gastrostomy (PEG). Penggunaan pipa nasogastrik 
+
+tidak memberikan efek terhadap respons tumor maupun efek negatif 
+
+berkaitan dengan kemoterapi. Pemasangan pipa nasogastrik tidak harus 
+
+dilakukan rutin, kecuali apabila terdapat ancaman ileus atau asupan 
+
+nutrisi yang tidak adekuat. 
+
+ 
+
+Nutrisi parenteral digunakan apabila nutrisi oral dan enteral tidak 
+
+memenuhi kebutuhan nutrisi pasien, atau bila saluran cerna tidak 
+
+berfungsi normal, misalnya pada perdarahan masif saluran cerna, diare 
+
+ 
+ 
+
+
+
+-36- 
+ 
+
+berat, obstruksi usus total atau mekanik, dan malabsorbsi berat. Pemberian 
+
+edukasi nutrisi dapat meningkatkan kualitas hidup dan memperlambat   
+
+toksisitas   radiasi   pada   pasien   kanker   kolorektal dibandingkan 
+
+pemberian diet biasa dengan atau tanpa suplemen nutrisi. Algoritma jalur 
+
+pemberian nutrisi dapat dilihat pada bagan 1. 
+
+ 
+
+Rekomendasi Pemberian Nutrisi 
+
+1. Direkomendasikan intervensi gizi untuk meningkatkan asupan oral 
+
+pada pasien kanker yang mampu makan tapi mengalami malnutrisi atau 
+
+berisiko malnutrisi. Intervensi meliputi saran diet, pengobatan gejala dan 
+
+gangguan yang menghambat asupan makanan, dan menawarkan ONS 
+
+[rekomendasi A]. 
+
+2. Direkomendasikan pemberian nutrisi enteral jika nutrisi oral tetap 
+
+tidak memadai meskipun telah dilakukan intervensi gizi, dan pemberian 
+
+nutrisi parenteral apabila nutrisi enteral tidak cukup atau memungkinkan 
+
+[rekomendasi A]. 
+
+3. Direkomendasikan untuk memberikan edukasi tentang bagaimana 
+
+mempertahankan fungsi menelan kepada pasien yang menggunakan 
+
+nutrisi enteral [rekomendasi A]. 
+
+4. Nutrisi parenteral tidak dianjurkan secara umum untuk pasien 
+
+radioterapi; nutrisi parenteral hanya diberikan apabila nutrisi oral dan 
+
+enteral tidak adekuat atau tidak memungkinkan, misalnya enteritis parah 
+
+RT, mukositis berat atau obstruksi oleh massa kanker kepala-
+
+leher/esophagus [rekomendasi A]. 
+
+ 
+
+  
+
+ 
+ 
+
+
+
+-37- 
+ 
+
+ Pemilihan Jalur 
+ 
+
+ 
+
+ Asupan 75- Asupan 50-75% Asupan <60% Asupan <50% 
+100% dari kebutuhan dari kebutuhan 
+
+ Tidak dapat Tidak dapat 
+ makan selama makan selama 
+
+5-7 hari atau 5-7 hari atau 
+ lebih lebih 
+ Saluran cerna 
+
+tidak berfungsi 
+ 
+
+ 
+
+ 
+
+ 
+
+ Edukasi & ONS Jalur enteral Jalur parenteral 
+terapi gizi 
+
+ 
+
+ 
+
+ 
+
+ Pipa <7 hari: >7 hari: 
+nasogastric/gas parsial parenteral total 
+
+ trotomi dengan 
+
+ pemasangan 
+central venous 
+
+ catether 
+
+ 
+
+ 
+
+Bagan 1. Pemilihan Jalur Pemberian Nutrisi 
+
+  
+
+ 
+ 
+
+
+
+-38- 
+ 
+
+Oral nutritional support (ONS) dinilai efektif dan efisien sebagai bagian dari 
+
+manajemen malnutrisi, khususnya pada pasien dengan IMT <20 kg/m2. 
+
+Pemberian ONS dilakukan dengan porsi kecil tetapi sering. Jika pasien 
+
+sesak dan kesulitan minum, dapat diberikan ONS atau makanan cair yang 
+
+densitas energinya ditingkatkan dengan volume hingga 125 ml/sajian. 
+
+ 
+
+3.6.3.3 Farmakoterapi 
+
+Pasien kanker yang mengalami anoreksia memerlukan terapi multimodal 
+
+a. Progestin 
+
+Menurut studi meta-analisis, MPA bermanfaat dalam meningkatkan selera 
+
+makan dan meningkatkan BB pada kanker kaheksia, namun tidak 
+
+memberikan efek dalam peningkatan massa otot dan kualitas hidup pasien. 
+
+Dosis optimal penggunaan MPA adalah sebesar 480–800 mg/hari. 
+
+Penggunaan dimulai dengan dosis kecil, dan ditingkatkan bertahap apabila 
+
+selama dua minggu tidak memberikan efek optimal. 
+
+ 
+
+Rekomendasi Progestin 
+
+Disarankan untuk mempertimbangkan menggunakan progestin untuk 
+
+meningkatkan selera makan pasien kanker dengan anoreksia untuk 
+
+jangka pendek, tetapi dengan mempertimbangkan potensi efek samping 
+
+yang serius [rekomendasi A]. 
+
+ 
+
+b. Kortikosteroid 
+
+Kortikosteroid merupakan zat oreksigenik yang paling banyak digunakan. 
+
+Berbagai penelitian menunjukkan bahwa pemberian kortikosteroid pada 
+
+pasien kakheksia dapat meningkatkan selera makan dan kualitas hidup 
+
+pasien. Dosis deksametason yang digunakan adalah 2–8 mg per hari. 
+
+Penggunaan kortikosteroid jangka panjang dapat menimbulkan berbagai 
+
+efek samping, sehingga sebaiknya pemberian kortikosteroid tidak lebih dari 
+
+dua minggu dan hanya untuk pasien kanker preterminal. 
+
+ 
+
+Rekomendasi Kortikosteroid 
+
+Direkomendasikan untuk mempertimbangkan menggunakan 
+
+kortikosteroid untuk meningkatkan selera makan pasien kanker dengan 
+
+anoreksia untuk jangka pendek, tetapi dengan mempertimbangkan 
+
+potensi efek samping (misalnya muscle wasting) [rekomendasi A]. 
+
+ 
+
+ 
+ 
+
+
+
+-39- 
+ 
+
+ 
+
+c. Siproheptadin 
+
+Siproheptadin merupakan antagonis reseptor 5-HT, yang dapat 
+
+memperbaiki selera makan dan meningkatkan berat badan pasien dengan 
+
+tumor karsinoid. Efek samping yang sering timbul adalah mengantuk dan 
+
+pusing. Umumnya digunakan pada pasien anak dengan kakheksia kanker, 
+
+dan tidak direkomendasikan pada pasien dewasa (rekomendasi tingkat E). 
+
+ 
+
+d. Antiemetik 
+
+Berikan anti emetik antagonis reseptor 5-HT3 (ondansetron) 8 mg atau 0,15 
+
+mg/kg BB (i.v) atau 16 mg (p.o). Jika keluhan menetap, dapat ditambahkan 
+
+deksametason. Pertimbangkan pemberian antiemetik intravena secara 
+
+kontinyu jika keluhan masih berlanjut. Penanganan antiemetik berdasarkan 
+
+penyebabnya dapat dilihat di tabel 3.6 
+
+ 
+
+Tabel 3.6 Manajemen mual muntah berdasarkan penyebab 
+
+Penyebab Manajemen 
+
+Gastroparesis Metokloperamid 4x5–10 mg (p.o), 
+
+diberikan 30 menit sebelum makan 
+
+Obstruksi Usus Pembedahan, pemasangan NGT 
+
+atau PEG, nutrisi parenteral total 
+
+Gangguan di susunan saraf pusat Terapi radiasi paliatif serta 
+
+kortikosteroid (deksametason  4–8 
+
+mg, dua hingga tiga kali per hari) 
+
+Obstruksi karena tumor intra Dekompresi, endoscopic stenting, 
+
+abdomen, metastasis hati atau pemberian medikamentosa 
+
+seperti kortikosteroid, 
+
+metokloperamid, atau penghambat 
+
+pompa proton 
+
+Gastritis Penghambat pompa proton atau 
+
+antagonis H2  
+
+ 
+
+3.6.3.4 Aktivitas Fisik 
+
+Direkomendasikan untuk mempertahankan atau meningkatkan aktivitas 
+
+fisik pada pasien kanker selama dan setelah pengobatan untuk membantu 
+
+pembentukan massa otot, fungsi fisik dan metabolisme tubuh (Rekomendasi 
+
+tingkat A). 
+
+ 
+ 
+
+
+
+-40- 
+ 
+
+ 
+
+3.6.4 Nutrisi bagi Penyintas Kanker 
+
+Para penyintas kanker sebaiknya memiliki berat badan yang sehat (ideal) 
+
+dan menerapkan pola makan yang sehat (terutama berbasis tanaman), 
+
+tinggi buah, sayur, dan biji-bijian serta rendah dalam lemak, daging merah, 
+
+dan alkohol. 
+
+ 
+
+Rekomendasi Nutrisi Penyintas Kanker 
+
+1. Penyintas kanker sebaiknya memiliki BB ideal dan menerapkan pola 
+
+makan yang sehat, tinggi buah, sayur dan biji-bijian, serta rendah lemak, 
+
+daging merah, dan alcohol [rekomendasi A]. 
+
+2. Direkomendasikan bagi para penyintas kanker untuk terus melakukan 
+
+aktivitas fisik sesuai kemampuan secara teratur dan menghindari 
+
+sedentary [rekomendasi A]. 
+
+ 
+
+3.6.5 Nutrisi untuk pencegahan kanker paru 
+
+Beberapa   studi   menunjukkan   bahwa   suplementasi mikronutrien justru 
+
+tidak menurunkan atau dapat meningkatkan risiko kanker paru. 
+
+Suplementasi seperti vitamin E, selenium, beta karoten, lutein dan retinol 
+
+dapat meningkatkan risiko kanker paru jenis karsinoma sel kecil pada 
+
+individu tanpa risiko kanker paru (rekomendasi tingkat B). Peningkatan 
+
+risiko kanker paru jenis karsinoma sel kecil dapat terjadi pada individu 
+
+dengan risiko kanker (merokok atau paparan asbes) yang mendapat 
+
+suplementasi vitamin A (beta-karoten atau retinol) dan vitamin C. Asupan 
+
+tomat atau likopen juga tidak menurunkan risiko kanker paru.  
+
+ 
+
+Studi lainnya juga membahas asupan makanan yang dapat menurunkan 
+
+risiko terjadinya kanker paru. Asupan kedelai selama 9 tahun dan 
+
+peningkatan asupan fitoestrogen dapat menurunkan risiko kanker paru 
+
+(Rekomendasi tingkat B). Konsumsi sayuran jenis krusiferus (kubis, brokoli, 
+
+dan kembang kol) juga dapat menurunkan risiko kanker paru pada 
+
+perempuan (Rekomendasi tingkat B). 
+
+ 
+
+3.7  Rehabilitasi Medik 
+
+Rehabilitasi medik bertujuan untuk mengoptimalkan pengembalian 
+
+gangguan kemampuan fungsi dan aktivitas kehidupan sehari-hari serta 
+
+meningkatkan kualitas hidup pasien dengan cara aman & efektif, sesuai 
+
+ 
+ 
+
+
+
+-41- 
+ 
+
+dengan kemampuan yang ada. 
+
+ 
+
+Pendekatan rehabilitasi medik dapat diberikan sedini mungkin sejak 
+
+sebelum pengobatan definitif diberikan dan dapat dilakukan pada berbagai 
+
+tahapan & pengobatan penyakit yang disesuaikan dengan tujuan 
+
+penanganan rehabilitasi kanker: preventif, restoratif, suportif atau paliatif. 
+
+ 
+
+3.7.1 Disabilitas pada Pasien Kanker Paru 
+
+Kedokteran fisik dan rehabilitasi memerlukan konsep fungsi dan 
+
+keterbatasan dalam penanganan pasien. Pada kanker paru, penyakit dan 
+
+penanganannya dapat menimbulkan gangguan fungsi pada manusia 
+
+sebagai makhluk hidup seperti gangguan fisiologis, psikologis ataupun 
+
+perilaku yang berpotensi mengakibatkan terjadinya keterbatasan dalam 
+
+melakukan aktivitas (disabilitas) dan partisipasi sosial dalam kehidupan 
+
+sehari-hari. 
+
+ 
+
+3.7.2 Keterbatasan Aktifitas 
+
+Keterbatasan aktifitas pada pasien kanker paru dapat disebabkan oleh hal-
+
+hal berikut: gangguan mobilitas dinding dada akibat nyeri dan pascaoperasi 
+
+torakotomi atau paru; gangguan fungsi kardiorespirasi akibat lesi kanker, 
+
+hendaya paru & rongga toraks, atau efek tindakan;  gangguan fungsi 
+
+respirasi akibat retensi sputum, gangguan ekspektorasi sputum, gangguan 
+
+pengembangan paru, gangguan pernapasan (dispnea dan kelemahan 
+
+bernapas/breathlessness); gangguan penurunan kebugaran pada 
+
+kardiomiopati pascakemoterapi; nyeri pada pascaoperasi, metastasis tulang, 
+
+penekanan pleksus brachialis pada tumor pancoast, atau sindrom vena 
+
+kava superior (SVKS) dengan limfedema lengan; gangguan mobilisasi pada 
+
+kasus pasca tindakan, nyeri, metastasis tulang dan otak, cedera medula 
+
+spinalis dan tirah baring lama serta fatigue; gangguan mobilitas lengan pada 
+
+gangguan drainase limfatik/limfedema lengan pada SVKS; 
+
+impending/sindrom dekondisi pada tirah baring lama; kesulitan makan 
+
+akibat nyeri menelan pada radiasi area trunkus atas; gangguan fungsi otak 
+
+akibat metastasis dan hendaya otak; gangguan fungsi berkemih dan 
+
+defekasi pada cedera medula spinalis dan hendaya otak; gangguan 
+
+pemrosesan sensoris pada pascatindakan operasi, polineuropati akibat 
+
+kemoterapi/Chemotherapy Induced Polyneuropathy (CIPN), hendaya otak, 
+
+dan cedera medula spinalis; gangguan fungsi psiko-sosial-spiritual. 
+
+ 
+ 
+
+
+
+-42- 
+ 
+
+ 
+
+Keterbatasan ini akan menyebabkan hambatan partisipasi pada pasien 
+
+dalam beraktifitas, seperti gangguan dalam aktivitasnya sehari-hari, 
+
+gangguan prevokasional dan okupasi, gangguan leisure, dan gangguan 
+
+seksual pada disabilitas 
+
+ 
+
+Pemeriksaan/asesmen yang dapat dilakukan untuk menilai adanya 
+
+gangguan yang dapat menyebabkan keterbatasan yaitu uji fleksibilitas 
+
+dinding/rongga dada dan lingkup gerak sendi, uji fungsi kardiorespirasi, 
+
+dan asesmen nyeri. Selain itu, asesmen lain yang dilakukan untuk menilai 
+
+derajat keterbatasan pasien yaitu uji kemampuan fungsional dan perawatan 
+
+(Barthel Index, Karnofsky Performance Scale), evaluasi ortosis dan alat bantu 
+
+jalan, asesmen psikososial dan spiritual, dan pemeriksaan kedokteran fisik 
+
+dan rehabilitasi komprehensif 
+
+ 
+
+Pemeriksaan penunjang yang dapat dilakukan dalam menilai keterbatasan 
+
+pada pasien yaitu pemeriksaan darah, rontgen toraks, Bone scan, Spot 
+
+photo, CT scan/MRI (sesuai indikasi), dan USG Doppler (sesuai indikasi). 
+
+ 
+
+Tujuan dari tatalaksana untuk pasien dengan gangguan keterbatasan ini 
+
+adalah: untuk persiapan operasi (torakotomi dan paru); meningkatkan dan 
+
+memelihara fleksibilitas dinding dada sebelum dan sesudah operasi; 
+
+meningkatkan dan memelihara kebersihan saluran napas; meningkatkan 
+
+dan memelihara fungsi respirasi (ventilasi dan pernapasan); meningkatkan 
+
+dan memelihara kebugaran kardiorespirasi; pengontrolan nyeri; 
+
+minimalisasi edema lengan pada SVKS/sindrom vena kava superior; 
+
+proteksi dari fraktur yang mengancam (impending fracture) dan cedera 
+
+medula spinalis; memperbaiki fungsi sensoris; mengembalikan kemampuan 
+
+mobilisasi dengan prinsip konservasi energi dan modifikasi aktivitas; 
+
+memaksimalkan pengembalian fungsi otak sesuai kondisi; mengatasi 
+
+kesulitan makan akibat radiasi trunkus atas; memperbaiki fungsi berkemih 
+
+pada cedera medula spinalis dan hendaya otak; memelihara dan atau 
+
+meningkatkan fungsi psiko-sosial-spiritual; meningkatkan   kualitas   hidup   
+
+dengan  mengoptimalkan   kemampuan aktivitas fungsional. 
+
+ 
+
+3.7.3 Tatalaksana Kedokteran Fisik dan Rehabilitasi Pasien Kanker 
+
+Paru 
+
+ 
+ 
+
+
+
+-43- 
+ 
+
+3.7.3.1 Sebelum Tindakan (Operasi, Kemoterapi, dan Radioterapi) 
+
+Dalam hal promotif, perlu dilakukan persiapan preoperasi paru (level of 
+
+evidence I) dan usaha peningkatan dan pemeliharaan fungsi psikososial dan 
+
+kualitas hidup. Usaha pencegahan berupa latihan pernapasan, teknik 
+
+relaksasi dan peregangan, serta latihan ketahanan juga dilakukan terhadap 
+
+keterbatasan fungsi dan aktifitas serta hambatan partisipasi yang dapat 
+
+timbul. Dilakukan juga penanganan terhadap keterbatasan/ gangguan 
+
+fungsi yang sudah ada. 
+
+ 
+
+Rekomendasi Tatalaksana 
+
+Semua pasien yang didiagnosis kanker paru sebaiknya mendapatkan 
+
+penanganan yang diberikan oleh tim multidisiplin [rekomendasi D]. 
+
+ 
+
+3.7.3.2 Pasca Tindakan (Operasi, Kemoterapi dan Radioterapi) 
+
+Penanggulangan keluhan nyeri perlu diberikan karena nyeri yang tidak 
+
+diatasi dengan baik dan benar dapat menimbulkan disabilitas. 
+
+Penanggulangan dilakukan lewat edukasi, farmakoterapi, dan modalitas 
+
+kedokteran fisik dan rehabilitasi. Pasien yang diedukasi untuk ikut serta 
+
+dalam penanganan nyeri dapat memberi efek baik pada pengontrolan 
+
+nyerinya (Level of Evidence I). Terapi medikamentosa diberikan sesuai 
+
+prinsip tatalaksana nyeri World Health Organization (WHO) (Level of 
+
+Evidence IV) & WHO analgesic ladder (Level of Evidence II). Terapi non-
+
+medikamentosa yang diberikan berupa modalitas kedokteran fisik dan 
+
+rehabilitasi seperti Trans Electrical Nerve Stimulation (TENS) (Level of 
+
+Evidence I), serta pengembalian mobilisasi secara optimal dengan modifikasi 
+
+aktifitas aman dan nyaman (nyeri terkontrol), dengan atau tanpa alat bantu 
+
+jalan dan atau dengan alat fiksasi eksternal, serta dengan pendekatan 
+
+psikososial-spiritual. Penanganan gangguan fungsi/ disabilitas ini tidak 
+
+hanya diberikan untuk gangguan pasca tindakan, namun juga pada 
+
+gangguan yang sudah ada sebelumnya. 
+
+ 
+
+Usaha preventif terhadap gangguan fungsi perlu dilakukan karena adanya 
+
+risiko gangguan yang dapat timbul pascatindakan. Pascaoperasi, gangguan 
+
+yang dapat muncul yaitu gangguan respirasi, gangguan mobilitas dinding 
+
+dada, gangguan sensasi, dan nyeri. Pascakemoterapi, terdapat risiko 
+
+gangguan fungsi mobilisasi, kardiorespirasi, dan sensasi (CIPN/ 
+
+Chemotherapy Induced Polyneuropathy). Radioterapi juga berisiko 
+
+ 
+ 
+
+
+
+-44- 
+ 
+
+menimbulkan nyeri di area radiasi, kesulitan makan dan fibrosis 
+
+pascaradiasi. Selain itu, sindrom dekondisi dapat timbul pada pasien tirah 
+
+baring lama.  
+
+ 
+
+3.7.3.3 Tatalaksana Gangguan Fungsi/ Disabilitas 
+
+Untuk gangguan mobilitas dinding dada pada pasien pascaoperasi 
+
+torakotomi dan paru atau pada kondisi tanpa pembedahan, dapat dilakukan 
+
+tatalaksana berupa latihan pernapasan, latihan fleksibilitas dinding dada 
+
+dan lingkup gerak sendi lengan, koreksi postur, dan latihan penguatan otot 
+
+dada serta punggung. 
+
+ 
+
+Gangguan fungsi kardiorespirasi dapat dibagi berdasarkan penyebab dan 
+
+gangguan yang muncul. Tiap gangguan memiliki tatalaksana masing-
+
+masing. Pada gangguan fungsi respirasi pascaoperasi torakotomi & hendaya 
+
+paru yang menyebabkan retensi sputum, gangguan pengeluaran sputum 
+
+dan disfungsi lain, tatalaksana yang diberikan: terapi inhalasi; ekspektorasi 
+
+sputum & postural drainage; edukasi batuk efektif dengan 
+
+memegang/fiksasi area insisi operasi; latihan pernapasan sesuai hendaya 
+
+(Level of Evidence I) dengan atau tanpa insentif spirometri; terapi latihan 
+
+koreksi postur. Untuk gangguan fungsi respirasi pada fibrosis paru 
+
+pascakemoradiasi dengan retensi sputum, batuk, dan gangguan 
+
+pengeluaran sputum, tatalaksana sama dengan gangguan respirasi pasca 
+
+torakotomi diatas. 
+
+  
+
+Gangguan penurunan kebugaran pascaoperasi torakotomi, hendaya paru, 
+
+dan imobilisasi lama diberikan tatalaksana sesuai gangguan yang ada (Level 
+
+of Evidence II). Latihan ketahanan kardiopulmonar juga diperlukan pada 
+
+gangguan penurunan kebugaran tersebut (Level of Evidence I). Sedangkan 
+
+gangguan fungsi kardiovaskular pada kardiomiopati pascakemoterapi 
+
+ditatalaksana dengan adaptasi aktivitas kehidupan sehari-hari, dengan 
+
+modifikasi aktifitas aman, dan konservasi energi. 
+
+ 
+
+Gangguan mobilisasi dapat disebabkan oleh beberapa penyebab dan 
+
+memiliki tatalaksana tergantung kasusnya masing-masing. Untuk gangguan 
+
+mobilisasi karena nyeri pada kasus metastasis tulang dan medula spinalis, 
+
+Diberikan tatalaksana medikamentosa & non-medikamentosa (sesuai 
+
+subbagian 3.7.3.2 diatas). Gangguan mobilisasi karena metastasis tulang 
+
+ 
+ 
+
+
+
+-45- 
+ 
+
+dengan fraktur mengancam (impending fracture) dan/dengan fraktur 
+
+patologis serta cedera medula spinalis ditatalaksana dengan edukasi 
+
+pencegahan fraktur patologis dan mobilisasi aman dengan alat fiksasi 
+
+eksternal dan/dengan alat bantu jalan dengan pembebanan bertahap. 
+
+Pemilihan alat disesuaikan dengan lokasi metastasis tulang. 
+
+  
+
+Pasien tirah baring lama dengan sindrom dekondisi diberikan tatalaksana 
+
+sesuai gangguan fungsi & hendaya yang terjadi. Pencegahan sindrom 
+
+dekondisi dilakukan dengan latihan pernapasan, lingkup gerak sendi, 
+
+penguatan otot, ketahanan kardiopulmonar, ambulasi dan keseimbangan, 
+
+dan Electrical Stimulation (ES / NMES). 
+
+ 
+
+Untuk kelemahan umum dan fatigue, Tatalaksananya berupa pemeliharaan 
+
+kemampuan fisik dengan latihan aerobik bertahap sesuai dengan 
+
+kemampuan fisik yang ada, pemeliharaan kestabilan emosi dengan cognitive 
+
+behavioral therapy (CBT), dan pemeliharaan kemampuan beraktivitas 
+
+dengan modifikasi aktivitas hidup. 
+
+ 
+
+Gangguan somatosensoris pascatindakan, seperti pascaoperasi atau pasca 
+
+kemoterapi (polineuropati akibat kemoterapi), cedera medula spinalis, dan 
+
+gangguan kekuatan otot pada gangguan fungsi otak, ditatalaksana sesuai 
+
+hendaya yang ada. 
+
+ 
+
+Rekomendasi Tatalaksana 
+
+Penilaian dan tatalaksana fatigue sebaiknya dilakukan secara multidisiplin 
+
+[rekomendasi A]. 
+
+ 
+
+Kesulitan makan pascaradiasi trunkus atas ditatalaksana dengan 
+
+mengoptimalkan proses makan/fungsi menelan sesuai hendaya yang 
+
+terjadi. 
+
+ 
+
+Edema lengan/limfedema pada sindrom vena kava superior ditatalaksana 
+
+untuk mengontrol lengan yang bengkak melalui edukasi hal yang boleh dan 
+
+tidak boleh dilakukan, reduksi edema dengan manual lymphatic drainage 
+
+(MLD), kompresi garmen dengan balutan/stocking, dan latihan gerak lengan 
+
+dan pernafasan sesuai kondisi. 
+
+ 
+ 
+
+
+
+-46- 
+ 
+
+ 
+
+Gangguan fungsi pada metastasis dan hendaya otak ditatalaksana sesuai 
+
+terapi untuk stroke-like syndrome. Gangguan fungsi berkemih pada hendaya 
+
+otak dan cedera medula spinalis 
+
+ 
+
+Selain tatalaksana untuk tiap gangguan diatas, dapat juga dilakukan 
+
+tindakan penunjang lain untuk pasien dengan gangguan fungsi diatas 
+
+sesuai kebutuhannya seperti evaluasi dan tatalaksana kondisi sosial dan 
+
+perilaku rawat, mengatasi dan menyelesaikan masalah psikospiritual yang 
+
+ada, adaptasi aktivitas kehidupan sehari-hari, rehabilitasi prevokasional 
+
+dan rehabilitasi okupasi, serta rehabilitasi medik paliatif. 
+
+ 
+
+3.7.4   Sistem Rujukan 
+
+Pasien akan dirujuk sesuai indikasi di dalam Tim Kerja dan sesuai dengan 
+
+tingkat pemberi pelayanan kesehatan. 
+
+ 
+
+3.8  Evaluasi dan Tindak Lanjut (Follow-Up) 
+
+Setelah terapi awal (setelah penilaian respon lengkap atau respon parsial), 
+
+pasien menjalani pemeriksaan setiap 3-4 bulan selama 2 tahun pertama. 
+
+Pasien kemudian dapat menjalani pemeriksaan setiap 6 bulan selama 3 
+
+tahun berikutnya. Pemeriksaan yang dilakukan termasuk anamnesis, 
+
+pemeriksaan fisik, CT Scan, pemeriksaan laboratorium, dan pemeriksaan 
+
+lainnya sesuai kebutuhan. Jika ditemukan lesi baru, dilakukan 
+
+pemeriksaan lebih lanjut. Pada pasien yang mengalami rekurensi dapat 
+
+dilakukan radiasi terapi atau kemoterapi lini kedua. 
+
+  
+
+ 
+ 
+
+
+
+-47- 
+ 
+
+3.9  Algoritma Tatalaksana 
+
+ 
+
+  
+
+ 
+ 
+
+
+
+-48- 
+ 
+
+Daftar Pustaka 
+
+1. Jusuf A, Haryanto A, Syahruddin E, Endart S, Mudjiantoro S, Sutantio 
+
+N. Kanker paru jenis karsinoma bukan sel kecil. Pedoman diagnosis 
+
+dan penatalaksanaan kanker paru jenis karsinoma bukan sel kecil di 
+
+Indonesia. PDPI &POI, Jakarta. 2015. 
+
+2. Fact sheets by population, estimated age-standardised incidence and 
+
+mortality rates: both sexes [World]. International Agency for Research 
+
+on Cancer, World Health Organization [Internet]. Diunduh dari: 
+
+http://globocan.iarc.fr/Pages/ fact_sheets_population.aspx. Diakses 
+
+tanggal 5 April 2015. 
+
+3. Fact sheets by population, incidence, mortality and 5-year prevalence: 
+
+both sexes [Indonesia]. International Agency for Research on Cancer, 
+
+World Health Organization [Internet]. Diunduh dari: 
+
+http://globocan.iarc.fr/Pages/f act_sheets_population.aspx. Diakses 
+
+tanggal 5 April 2015. 
+
+4. Horn L, Araujo LHdL, Nana-Sinkam P, Otterson GA, Williams TM, 
+
+Carbone DP. Molecular biology of lung cancer. In. DeVita, Hellman, and 
+
+Rosenberg’s Cancer: Principles and Practice of Oncology 10th ed. LWW, 
+
+2015. 482-535. 
+
+5. Fennel DA, Jablons DM. Stem cells and lung cancer: in vitro and in vivo 
+
+studies. In: Pass HI, Ball D, Scaglioti GV:The IASLC Multidisciplinary 
+
+Approach to Thoracic Oncology. IASCL 2014. 
+
+6. Jett JR, Horeweg N, de Koning HJ. Screening for lung cancer. In: Pass 
+
+HI, Ball D, Scaglioti GV: the IASLC Multidisciplinary Approach to 
+
+Thoracic Oncology. IASCL 2014. 
+
+7. Canadian Task Force on Preventive Health Care. Recommendations on 
+
+screening for lung cancer.CMAJ 2016 Apr 5;188(6):425-32 
+
+8. Detterbeck FC, Mazzone PJ, Naidich DP, Bach PB. Screening for lung 
+
+cancer: Diagnosis and management of lung cancer, 3rd ed: American 
+
+College of Chest Physicians evidence-based clinical practice guidelines. 
+
+Chest 2013 May;143(Suppl 5):e78S-92S 
+
+9. Jaklitsch MT, Jacobson FL, Austin JH, et al. The American Association 
+
+for Thoracic Surgery guidelines for lung cancer screening using low-
+
+dose computed tomography scans for lung cancer survivors and other 
+
+high-risk groups. J Thorac Cardivasc Surg 2012 Jul;144(1):33-8 
+
+10. NCCN Clinical Practice Guidelines in Oncology: Lung Cancer Screening. 
+
+Version 2.2016 
+
+ 
+ 
+
+
+
+-49- 
+ 
+
+11. Mazzone P, Powell CA, Arenberg D, et al. Components necessary for 
+
+high-quality lung cancer screening: American College of Chest 
+
+Physicians and American Thoracic Society Policy Statement. Chest 
+
+2015; 147(2): 295 – 303 
+
+12. Moyer VA; U.S. Preventive Services Task Force.  Screening  for lung 
+
+cancer: U.S. Preventive Services Task Force recommendation statement. 
+
+Ann Intern Med. 2014 Mar 4;160(5):330-8 
+
+13. Wender R, Fontham ET, Barrera E Jr, et al. American Cancer Society 
+
+lung cancer screening guidelines. CA Cancer J Clin. 2013 Mar-
+
+Apr;63(2):107- 17 
+
+14. Nackaerts K, Park K, Sun J, Fong K. Clinical presentation and 
+
+prognostic factors in lung cancer. In: Pass HI, Ball D, Scaglioti GV: the 
+
+IASLC Multidisciplinary Approach to Thoracic Oncology. IASCL 2014. 
+
+15. Goldstraw P, asamura H, Bunn P, Crowley J, Jett J, Rami-Porta, et al. 
+
+7th edition of TNM for lung and pleural tumor. In: Staging manual in 
+
+thoracic oncology. International Association for the Study of Lung 
+
+Cancer: ed. Editorial Rx Press. Orange Park, 2009. 
+
+16. Perhimpunan Dokter Spesialis Patologi Anatomi Indonesia. Pedoman 
+
+penanganan bahan pemeriksaan untuk histopatologi. IAPI, Jakarta, 
+
+2008. WHO histological classification of the tumours of the lung. In: 
+
+tumor of the lung-WHO classification  2004. 
+
+17. McKee BJ, Regis SM, McKee AB, Flacke S, Wald C. Performance of ACR 
+
+Lung- RADS in a Clinical CT Lung Screening Program. J Am Coll Radiol 
+
+2015;12:273-276. 
+
+18. Seidelman JL, Myers JL, Quint LE. Incidental, subsolid pulmonary 
+
+nodules at CT: etiology and management. Cancer Imaging 2013;13:365- 
+
+373. 
+
+19. Rivera MP, Mehta AC, Wahidi MM. Establishing the diagnosis of lung 
+
+cancer: Diagnosis and management of lung cancer, 3rd ed: American 
+
+College of Chest Physicians evidence-based clinical practice guidelines. 
+
+Chest 2013;143:e142S-165S 
+
+20. Travis WD, Brambilla E, Noguchi M, Nicholson AG, Geisinger K, Yatabe 
+
+Y, Ishikawa Y, et al. Diagnosis of lung cancer in small biopsies and 
+
+cytology: implications of the 2011 International Association for the 
+
+Study of Lung Cancer/American Thoracic Society/European 
+
+Respiratory Society classification. Arch Pathol Lab Med 2013;137:668-
+
+684. 
+
+ 
+ 
+
+
+
+-50- 
+ 
+
+21. Schwartz AM, Rezaei MK. Diagnostic surgical pathology in lung cancer: 
+
+Diagnosis and management of lung cancer, 3rd ed: American College of 
+
+Chest Physicians evidence-based clinical practice guidelines. Chest 
+
+2013;143:e251S-262S 
+
+22. Kim HY, Shim YM, Lee KS, Han J, Yi CA, Kim YK. Persistent pulmonary 
+
+nodular ground-glass opacity at thin-section CT: histopathologic 
+
+comparisons. Radiology 2007;245:267-275. 
+
+23. Cooper WA, O'Toole S, Boyer M, Horvart L, Mahar A. What's new in 
+
+non-small cell lung cancer for pathologists: the importance of accurate 
+
+subtyping, EGFR mutations and ALK rearrangements. Pathology 
+
+2011;43:103- 115. 
+
+24. Eberhard DA, Johnson BE, Amler LC, Goddard AD, Heidens SL, Herber 
+
+RS, et al. Mutations in the epidermal growth factor receptor and in 
+
+KRAS are predictive and prognostic indicators in patients with non- 
+
+small-cell lung cancer treated with chemotherapy alone and in 
+
+combination with erlotinib. J Clin Oncol 2005;23:5900-5909. 
+
+25. Travis WD, Brambilla E, Muller-Hermelink HK, Harris CC. Pathology 
+
+and genetics of tumours of the lung, pleura, thymus and heart, World 
+
+Health Organization Classification of Tumours. Lyon, France: IARC 
+
+Press; 2004. 
+
+26. Travis WD, Rekhtman N. Pathological diagnosis and classification of 
+
+lung cancer in small biopsies and cytology: strategic management of 
+
+tissue for molecular testing. Semin Respir Crit Care Med 2011;32:22- 
+
+31. 
+
+27. Rekhtman N, Ang DC, Sima CS, Travis WD, Moreira Al. 
+
+Immunohistochemical algorithm for differentiation of lung 
+
+adenocarcinoma and squamous cell carcinoma based on large series of 
+
+whole-tissue sections with validation in small specimens. Mod Pathol 
+
+2011;24:1348-1359. 80. Cameron SE, Andrade RS, Pambuccian SE. 
+
+28. Cameron SE, Andrade RS, Pambuccian SE. Endobronchial ultrasound- 
+
+guided transbronchial needle aspiration cytology: a state of the art 
+
+review. Cytopathology 2010;21:6-26. 
+
+29. Terry J, Leung S, Laskin J, leslie KO, Gown AM, Ionescu DN. Optimal 
+
+immunohistochemical markers for distinguishing lung 
+
+adenocarcinomas from squamous cell carcinomas in small tumor 
+
+samples. Am J Surg Pathol 2010;34(12):1805-11. 
+
+30. Travis WD, Brambilla E, Riely GJ. New pathologic classification of lung 
+
+ 
+ 
+
+
+
+-51- 
+ 
+
+cancer: relevance for clinical practice and clinical trials. J Clin Oncol 
+
+2013;31:992-1001. 
+
+31. Kerr KM, Bubendorf L, Edelman MJ, Marchetti A, Mok T, Novello S, et 
+
+al. Second ESMO consensus conference on lung cancer: pathology and 
+
+molecular biomarkers for non-small-cell lung cancer. Ann Oncol 
+
+2014;25:1681- 1690. 
+
+32. Lindeman NI, Cagle PT, Beasley MB, Chitale DA, Dacic S, Giaconne G, 
+
+et al. Molecular testing guideline for selection of lung cancer patients for 
+
+EGFR and ALK tyrosine kinase inhibitors: guideline from the College of 
+
+American Pathologists, International Association for the Study of Lung 
+
+Cancer, and Association for Molecular Pathology. J Thorac Oncol 
+
+2013;8:823- 859. 
+
+33. Dong X, Qiu X, Liu Q, Jia J. Endobronchial ultrasound-guided 
+
+transbronchial needle aspiration in the mediastinal staging of non-small 
+
+cell lung cancer: a meta-analysis. Ann Thorac Surg 2013; 96: 1502–
+
+1507. 
+
+34. Micames CG, McCrory DC, Pavey DA, Jowell PS, Gress FG. Endoscopic 
+
+ultrasound-guided fineneedle aspiration for non-small cell lung cancer 
+
+staging*: a systematic review and meta-analysis. Chest 2007; 131: 539– 
+
+548. 
+
+35. Annema JT, van Meerbeeck JP, Rintoul RC, Dooms C, Deschepper E, 
+
+Dekkers OM, et al. Mediastinoscopy vs endosonography for mediastinal 
+
+nodal staging of lung cancer: a randomized trial. JAMA 2010; 304: 
+
+2245–2252. 
+
+36. Clinical Practice Guidelines in Oncology: Non-Small Cell Lung Cancer. 
+
+Version 2.2012. National Comprehensive Cancer Network (NCCN). 
+
+2012. 
+
+37. Jusuf A. Kontribusi pengembangan pelayanan, penelitian, dan 
+
+pendidikan di bidang onkologi paru untuk menghadapai tantangan 
+
+kesehatan respirasi di masa depan. Pidato pada upacara pengukuhan 
+
+sebagai guru besar tetap dalam bidang Pulmonologi dan ilmu 
+
+kedokteran Respirasi pada Fakultas Kedokteran Universitas Indonesia. 
+
+Jakarta, 2004. 
+
+38. Arif N. Peran pulmonology intervensi dalam diagnosis dan terapi 
+
+berbagai gangguan respirasi. Pidato pada upacara pengukuhan sebagai 
+
+guru  besar  tetap  dalam  bidang  Pulmonologi  dan  ilmu  kedokteran 
+
+Respirasi pada Fakultas Kedokteran Universitas Indonesia. Jakarta, 
+
+ 
+ 
+
+
+
+-52- 
+ 
+
+2005. 
+
+39. Busroh IDI. Pembedahan pada penyakit saluran pernapasan. Pidato 
+
+pada upacara pengukuhan sebagai guru besar tetap dalam bidang 
+
+Pulmonologi dan ilmu kedokteran Respirasi pada Fakultas Kedokteran 
+
+Universitas Indonesia. Jakarta, 2003. 
+
+40. Schiller JH, Harrington D, belani CP, Langer C, Sandler A, Krook J, et 
+
+al. Comparison of four chemotherapy for advanced stage non-small cell 
+
+lung cancer. N Eng J Med 2002;346:92-8. 
+
+41. Ohe Y, Ohashi Y, Kubota K, Tamura T, nakagawa K, Negoro S. 
+
+Randomized phase III study of cisplatin plus irinotecan, cisplatin plus 
+
+paclitaxel, cisplatin plus gemcitabine, and cisplatin plus vinorelbine for 
+
+advanced stage non-small cell lung cancer; Four arm cooperative study 
+
+in Japan. Annal Oncol 2007;18(2):317-23. 
+
+42. Jusuf A, Mariono SA, Tambunan KL, Reksodiputro AA, Soetantio N, 
+
+Hukom R, et al. Experience of treatment of lung cancer patients using 
+
+paclitaxel and carboplatin. Med J Ind 2000;9:43-8. 
+
+43. Syahruddin E, Hudoyo A, Jusuf A. Respond dan toleransi pasien 
+
+adenokarsinoma paru stage III dan IV untuk pemberian kemoterapi 
+
+dengan regimen paclitaxel (PAXUS) plus carboplatin. J Respir Indo 
+
+2010;30(2):105-111. 
+
+44. Syahruddin E, Kosasih A, Hudoyo A, Jusuf A, Juniarty. 
+
+Kemoradioterapi konkuren dengan regimen karboplatin+etoposide pada 
+
+pasien kanker paru jenis karsinoma bukan sel kecil stage lanjut di RS 
+
+Persahabatan. J Respir Indo 2008;28(2):81-7. 
+
+45. Syahruddin E, Oguri T, Takahasi T, Isobe T, Fujiwara Y, Yamakido M. 
+
+Diffrential expression of DNA topoisomerase IIα dan IIβ genes between 
+
+small  cell and  non-small  cell  lung  cancer.  Jpn  J  Cancer  Res 
+
+1998;89(8):855-61. 
+
+46. Syahruddin E, marlina N, hudoyo A. Efikasi dan toksisitas regimen 
+
+sisplatin+etoposide untuk kemoterapi kanker paru jenis karsinoma 
+
+bukan sel kecil (KPKBSK) stage lanjut. J Respir Indo 2012;32(1):25-35. 
+
+47. Zhou C, Wu YL, Chen G, Feng J, Liu XQ, Wang C, et al. Erlotinob 
+
+versus chemotherapy as first-line treatment for patients with advanced 
+
+EGFR mutation-positive non-small cell lung cancer (OPTIMAL, CTONG- 
+
+0802): a multicenter, open-label, randomized, phase 3 study. Lancet 
+
+Oncol 2011;12:735-42. 
+
+48. Syahruddin E, Nazarrudin A, Zaini J. Frequency of thrombocytopenia 
+
+ 
+ 
+
+
+
+-53- 
+ 
+
+due to gemcitabine and carboplatine regimen in non-small-cell lung 
+
+cancer patients. APSR 2013 proceeding books. 
+
+49. Danawati D, Syahruddin E, Hudoyo A, Hubungan klinis, radiologis, dan 
+
+seromarker pada pasien kanker paru metastasis ke tulang. Departemen 
+
+Pulmonologi dan Ilmu Kedokteran Respirasi FKUI-RSUP Persahabatan. 
+
+2010[Tesis]. 
+
+50. Mok TS, Wu YL, Thongpraset S, Yang CH, Chu DT, Saijo N, et al. 
+
+Gefitinib or carboplatin-paclitaxel in pulmonary adenocarcinoma. N Eng 
+
+J Med 2009;361:947-57. 
+
+51. Sandler A, Gray R, Perry MC, Brahmer J, Schiller JH, Dowlati A, et al. 
+
+Paclitaxel-carboplatin alone or with bevacizumab for non-small-cell lung 
+
+cancer. N Eng J med 2006;355:2542-50. 
+
+52. Hanna A, Sheperd FA, Fosella FV, Pereira JR. De Marinis F, von Powel 
+
+J, et al. Randomized phase III trial of premetrexed versus docetaxel in 
+
+patients with non-small lung cancer previousl treated with 
+
+chemotherapy. J Clin Oncol 2004;1589-97. 
+
+53. Groen HJM, Steijfer DT, de Vries EGE, Positron emission tomography, 
+
+computerized tomography and endoscopic ultrasound with needle 
+
+aspiration for lung cancer. ASCO educational book, Orlando, 2005. 
+
+p:578-86. 
+
+54. Martini T, Hudoyo A, Arief N, Jusuf A, Endardjo S, Hupudio H. 
+
+perbandingan kepositivan pemeriksaan sitology sputum setelah 
+
+inhalasi NaCl 3% caralangsung dengan cara modifikasi Saccomanno 
+
+untuk diagnosis kanker paru. J Respiro Indo 2002;22:109-17. 
+
+55. Liam CK, Andarini S, Lee P, Ho JC, Chau NQ, Tscheikuna J. Lung 
+
+cancer staging now and in the future. Respirology 2015;20(4):526-34. 
+
+56. Putra ACTK, Syahruddin E, Andarini S, Hososi Y, Hiyama K. A step 
+
+forward into respiratory genetics: overview contribution of genetics in 
+
+respiratory diseases. Asian Biomedicine 2012;6(5):639-51. 
+
+57. Jaffe RA, Schmiesing CA, Golianu B. Lobectomy, Pneumonectomy. 
+
+Anesthesiologist’s Manual of Surgical Procedures, ed. 5. Wolters Kluwer 
+
+Health. Philadelphia. 2014 
+
+58. Rivera PM, Mehta AC, Wahidi MM. Diagnosis and management of lung 
+
+cancer, 3rded: American college of physicians evidence-based clinical 
+
+practice guidelines. Chest 2014; 143(5): 142 – 165 
+
+59. Howington JA, Blum MG, Chang AC, Balekian AA, Murthy SC. 
+
+Treatment of stage I and II non-small cell lung cancer: Diagnosis and 
+
+ 
+ 
+
+
+
+-54- 
+ 
+
+management of lung cancer, 3rd ed: American College of Chest 
+
+Physicians evidence-based clinical practice guidelines. Chest. 2013 
+
+May;143(Suppl 5):e278S-313S 
+
+60. Ramnath N, Dilling TJ, Harris LJ, Kim AW, Michaud GC, Balekian AA, 
+
+et al. Treatment of stage III non-small cell lung cancer: Diagnosis and 
+
+management  of  lung  cancer,  3rd  ed:  American  College  of  Chest 
+
+Physicians  evidence-based  clinical  practice  guidelines.  Chest.  2013 
+
+May;143(Suppl 5):e314S-40S. 
+
+61. Jett JR, Schild SE, Kesler KA, Kalemkerian GP. Treatment of small cell 
+
+lung cancer: Diagnosis and management of lung cancer, 3rd ed: 
+
+American College of Chest Physicians evidence-based  clinical  practice 
+
+guidelines. Chest. 2013 May;143(Suppl 5):e400S-19S. 
+
+62. Vansteenkiste J, Crino L, Dooms C, Douillard JY, Faivre-Finn C, Lim E, 
+
+et al. 2nd ESMO Consensus Conference on Lung Cancer: early-stage 
+
+non- small-cell lung cancer consensus on diagnosis, treatment and 
+
+follow-up. Ann Oncol 2013; 24 (Suppl 6): vi89-vi98. 
+
+63. Eberhardt W, De Ruysscher D, Weder W. ESMO consensus guidelines: 
+
+locally advanced stage III non-small-cell lung cancer (NSCLC). Ann of 
+
+Oncol 2015: 26 (8): 1573-1588. 
+
+64. Reck M, Popat S, Reinmuth N, De Ruysscher D, kerr KM, Peters S, et al. 
+
+Clinical practice guidelines: metastatic non-small-cell lung cancer 
+
+(NSCLC): ESMO clinical practice guidelines for diagnosis, treatment and 
+
+follow-up. Annals of Oncology 2014; 25 (suppl 3): iii27-iii39. 
+
+65. Früh M, De Ruysscher D, Popat S, Crinò L, Peters S, Felip E. ESMO 
+
+Guidelines Working Group. Small-cell lung cancer (SCLC): ESMO 
+
+Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann 
+
+Oncol. 2013 Oct;24 (Suppl 6):vi99-105. 
+
+66. Guibert N, Mazieres J, Marquette CH, Rouviere D, Didier A, Hermant C. 
+
+Integration of interventional bronchoscopy in the management of lung 
+
+cancer. Eur Respir Rev 2015; 24: 378-391. 
+
+67. Zaric B, Stojsic V, Sarcev T, Stojanovic G, Carapic V, Perin B, et al. 
+
+Advanced bronchoscopic techniques in diagnosis and staging of lung 
+
+cancer. J Thoracic Dis 2014; 5(S4):S359-S370 
+
+68. Farjah F, Flum DR, Varghese TK Jr, Symons RG, Wood DE. Surgeon 
+
+specialty  and  long-term  survival  after  pulmonary  resection  for  lung 
+
+cancer. Ann Thorac Surg 2009;87:995-1006. 
+
+69. Decaluwé H, De Leyn P, Vansteenkiste J, Dooms C, Van Raemdonck D, 
+
+ 
+ 
+
+
+
+-55- 
+ 
+
+Natfeux P, et al. Surgical multimodality treatment for baseline 
+
+resectable stage IIIA-N2 non-small cell lung cancer. Degree of 
+
+mediastinal lymph node involvement and impact on survival. Eur J 
+
+Cardiothorac Surg 2009;36:433-439. 
+
+70. Hancock JG, Rosen JE, Antonicelli A, Moreno A, Kim AW, Detterback 
+
+FC, et al. Impact of adjuvant treatment for microscopic residual disease 
+
+after non- small cell lung cancer surgery. Ann Thorac Surg 
+
+2015;99:406- 416. 
+
+71. Kelsey CR, Light KL, Marks LB. Patterns of failure after resection of 
+
+non-small-cell lung cancer: implications for postoperative radiation 
+
+therapy volumes. Int J Radiat Oncol Biol Phys 2006;65:1097-1105. 
+
+72. Timmerman R, Paulus R, Galvin J, Michalsky J, Staube W, Bradley J, 
+
+et al. Stereotactic Body Radiation Therapy for Inoperable Early Stage 
+
+Lung Cancer. JAMA 2010;303:1070-1076. 
+
+73. Sher DJ, Fidler MJ, Liptay MJ, & Koshy M. Comparative effectiveness of 
+
+neoadjuvant chemoradiotherapy versus chemotherapy alone followed by 
+
+surgery for patients with stage IIIA non-small cell lung cancer. Lancet 
+
+Oncol 2015;88:267-274. 
+
+74. Onishi H, Shirato H, Nagata Y, Hiraoka M, Fujino M, Gomi K, et al. 
+
+Stereotactic body radiotherapy (SBRT) for operable stage I non-small- 
+
+cell lung cancer: can SBRT be comparable to surgery? Int J Radiat 
+
+Oncol Biol Phys 2011;81:1352-1358. 
+
+75. Lally BE, Zelterman D, Colasanto JM, Haffty BG, Detterbeck FC, Wilson 
+
+LD. Postoperative radiotherapy for stage II or III non-small-cell lung 
+
+cancer using the surveillance, epidemiology, and end results database. 
+
+J Clin Oncol 2006;24:2998-3006. 
+
+76. Grills IS, Mangona VS, Welsh R, Chmielewski G, Mclnerney E, Martin S, 
+
+et al. Outcomes After Stereotactic Lung Radiotherapy or Wedge 
+
+Resection for Stage I Non-Small-Cell Lung Cancer. J Clin Oncol 
+
+2010;28:928-935. 
+
+77. Crabtree TD, Denlinger CE, Meyers BF, El Naga I, Zoole J, Krupnick AS, 
+
+Kreisel D, et al. Stereotactic body radiation therapy versus surgical 
+
+resection for stage I non-small cell lung cancer. J Thorac Cardiovasc 
+
+Surg 2010;140:377-386. 
+
+78. Chang JY, Senan S, Paul MA, mehran RJ, Louie AV, Balter P, et al. 
+
+Stereotactic ablative radiotherapy versus lobectomy for operable stage I 
+
+non- small-cell lung cancer: a pooled analysis of two randomized trials. 
+
+ 
+ 
+
+
+
+-56- 
+ 
+
+Lancet Oncol 2015;16:630-637. 
+
+79. Burdett S, Stewart L, Group PM. Postoperative radiotherapy in non- 
+
+small-cell lung cancer: update of an individual patient data meta-
+
+analysis. Lung Cancer 2005;47:81-83. 
+
+80. Aupérin A, Le Péchoux C, Rolland E, Curran WJ, Furuse K, Fournel P, 
+
+et al. Meta-analysis of concomitant versus sequential 
+
+radiochemotherapy in locally advanced non-small-cell lung cancer. J 
+
+Clin Oncol 2010;28:2181-2190. 
+
+81. O'Rourke N, Roqué I Figuls M, Farré Bernadó N, Macbeth F. Concurrent 
+
+chemoradiotherapy in non-small cell lung cancer. Cochrane Database 
+
+Syst Rev 2010:CD002140.  18 
+
+82. Curran WJ Jr, Paulus R, Langer CJ, Komaki R, Lee JS, Hauser S, et al. 
+
+Sequential vs. concurrent chemoradiation for stage III non-small cell 
+
+lung cancer: randomized phase III trial RTOG 9410. J Natl Cancer Inst 
+
+2011;103:1452-1460. 
+
+83. Baumann M, Herrmann T, Koch R, Matthiesen W, appold S, Wahlers B, 
+
+et al. Final results of the randomized phase III CHARTWEL-trial (ARO 
+
+97-1) comparing hyperfractionated-accelerated versus conventionally 
+
+fractionated radiotherapy in non-small cell lung cancer (NSCLC). 
+
+Radiother Oncol 2011;100:76-85. 
+
+84. Mauguen A, Le Péchoux C, Saunders MI, Schild SE, Turrisi AT, 
+
+baumann M, et al. Hyperfractionated or accelerated radiotherapy in 
+
+lung cancer: an individual patient data meta-analysis. J Clin Oncol 
+
+2012;30:2788-2797.  23. 
+
+85. Albain KS, Swann RS, Rusch VW, Turrisi AT, Sepherd FA, Smith C, et 
+
+al. Radiotherapy plus chemotherapy with or without surgical resection 
+
+for stage III non-small-cell lung cancer: a phase III randomised 
+
+controlled trial. Lancet 2009;374:379-386. 
+
+86. Kunitoh H, Kato H, Tsuboi M, Shibata T, Asamara H, Ichonose Y, et al. 
+
+Phase II trial of preoperative chemoradiotherapy followed by surgical 
+
+resection in patients with superior sulcus non-small-cell lung cancers: 
+
+report of Japan Clinical Oncology Group trial 9806. J Clin Oncol 
+
+2008;26:644-649. 
+
+87. Shah AA, Berry MF, Tzao C, Gandhi M, worni M, Pietrobon R, et al. 
+
+Induction chemoradiation is not superior to induction chemotherapy 
+
+alone in stage IIIA lung cancer. Ann Thorac Surg 2012;93:1807-1812. 
+
+88. Onishi H, Shirato H, Nagata Y, Hiraoka M, Fujino M, Gomi K, et al. 
+
+ 
+ 
+
+
+
+-57- 
+ 
+
+Hypofractionated stereotactic radiotherapy (HypoFXSRT) for stage I 
+
+non-small cell lung cancer: updated results of 257 patients in a 
+
+Japanese multi-institutional study. J Thorac Oncol 2007; 2:S94-100. 
+
+89. Lagerwaard FJ, Haasbeek CJA, Smit EF, Slotman BJ, Senan S. 
+
+Outcomes of risk-adapted fractionated stereotactic radiotherapy for 
+
+stage I non- small-cell lung cancer. Int J Radiat Oncol Biol Phys 
+
+2008;70:685-692. 
+
+90. Bradley JD, Paulus R, Komaki R, Masters G, Blumenschein G, Schild S, 
+
+et al. Standard-dose versus high-dose conformal radiotherapy with 
+
+concurrent and consolidation carboplatin plus paclitaxel with or 
+
+without cetuximab for patients with stage IIIA or IIIB non-small-cell 
+
+lung cancer (RTOG 0617): a randomised, two-by-two factorial phase 3 
+
+study. Lancet Oncol 2015;16:187-199. 
+
+91. Fakiris AJ, McGarry RC, Yiannoutsos CT, Papiez L, William M, 
+
+Henderson MA, et al. Stereotactic body radiation therapy for early-stage 
+
+non-small-cell lung carcinoma: four-year results of a prospective phase 
+
+II study. Int J Radiat Oncol Biol Phys 2009;75:677-682. 
+
+92. Woody NM, Stephans KL, Marwaha G, Djemil T, Videtic GM. 
+
+Stereotactic body radiation therapy for non-small cell lung cancer 
+
+tumors greater than 5 cm: safety and efficacy. Int J Radiat Oncol Biol 
+
+Phys 2015:92:325-331. 
+
+93. Sher DJ, Fidler MJ, Seder CW, Liptay MJ, Koshy M. Relationship 
+
+between radiation therapy dose and outcome in patients treated with 
+
+neoadjuvant chemoradiation therapy and surgery for stage IIIA non-
+
+small cell lung cancer: a population-based, comparative effectiveness 
+
+analysis. in J Radiat Oncol Biol Phys 2015;92:307-316. 
+
+94. Cerfolio RJ, Bryant AS, Jones VL, Cerfolio RM. Pulmonary resection 
+
+after concurrent chemotherapy and high dose (60Gy) radiation for non- 
+
+small cell lung cancer is safe and may provide increased survival. Eur J 
+
+Cardiothorac Surg 2009; 35:718-723; discussion 723. 
+
+95. Liu MB, Eclov NC, Trakul N, et al. Clinical impact of dose 
+
+overestimation by effective path length calculation in stereotactic 
+
+ablative radiation therapy of lung tumors. Practical Radiation Oncology 
+
+2012 In press. 
+
+96. Kwong KF, Edelman MJ, Suntharalingam M, Cooper LB, Gamliel Z, 
+
+Burrows W, et al. High-dose radiotherapy in trimodality treatment of 
+
+Pancoast tumors results in high pathologic complete response rates and 
+
+ 
+ 
+
+
+
+-58- 
+ 
+
+excellent long-term survival. J Thorac Cardiovasc Surg 2005;129:1250- 
+
+1257. 
+
+97. Belderbos JS, Kepka L, Kong FM, Martel MK, Videtic GM, Jmeremic B. 
+
+Report from the International Atomic Energy Agency (IAEA) consultants’ 
+
+meeting on elective nodal irradiation in lung cancer: non- small cell 
+
+lung cancer (NSCLC). Int J Radiat Oncol Biol Phys 2008;72:335-342. 
+
+98. Sonett JR, Suntharalingam M, Edelman MJ, Patel AB, Gamliel Z, Doyle 
+
+A, et al. Pulmonary resection after curative intent radiotherapy (>59 Gy) 
+
+and concurrent chemotherapy in non-small-cell lung cancer. Ann 
+
+Thorac Surg 2004;78:1200-1205. 
+
+99. Bradley J, Bae K, Choi N, Forster K, Siegel BA, Bruetti J, et al. A phase 
+
+II comparative study of gross tumor volume definition with or without 
+
+PET/CT fusion in dosimetric planning for non-small-cell lung cancer 
+
+(NSCLC): primary analysis of radiation therapy oncology group (RTOG) 
+
+0515. Int J Radiat Oncol Biol Phys 2012;82:435-441. 
+
+100. Suntharalingam M, Paulus R, Edelman MJ, Krasna M, Burrows W, 
+
+Gore E, et al. Radiation therapy oncology group protocol 02-29: a phase 
+
+II trial of neoadjuvant therapy with concurrent chemotherapy and full-
+
+dose radiation therapy followed by surgical resection and consolidative 
+
+therapy for locally advanced non-small cell carcinoma of the lung. Int J 
+
+Radiat Oncol Biol Phys 2012;84:456-463. 
+
+101. Sanuki-Fujimoto N, Sumi M, Ito Y, Imai A, Kagami Y, Sekine I, al. 
+
+Relation between elective nodal failure and irradiated volume in non- 
+
+small- cell lung cancer (NSCLC) treated with radiotherapy using 
+
+conventional fields and doses. Radiother Oncol 2009; 91:433-437. 
+
+102. Corso CD, Rutter CE, Wilson LD, Kim AW, Decker RH, Husain ZA. Re- 
+
+evaluation of the role of postoperative radiotherapy and the impact of 
+
+radiation dose for non-small-cell lung cancer using the National Cancer 
+
+Database. J Thorac Oncol 2015;10:148- 155. 
+
+103. Rosenzweig KE, Sura S, Jackson A, Yorke E. Involved-field radiation 
+
+therapy for inoperable non small-cell lung cancer. J Clin Oncol 
+
+2007;25:5557-5561. 
+
+104. Yuan S, Sun X, Li M, Ren R, Yu Y, Li J, et al. A randomized study of 
+
+involved-field irradiation versus elective nodal irradiation in 
+
+combination with concurrent chemotherapy for inoperable stage III 
+
+nonsmall cell lung cancer. Am J Clin Oncol 2007;30:239-244. 
+
+105. Spoelstra FOB, Senan S, Le Péchoux C, Ishikura S, Casas F, Ball D, et 
+
+ 
+ 
+
+
+
+-59- 
+ 
+
+al. Variations in target volume definition for postoperative radiotherapy 
+
+in stage III non-small-cell lung cancer: analysis of an international 
+
+contouring study. Int J Radiat Oncol Biol Phys 2010; 76:1106-1113. 
+
+106. Gomez DR, Liao Z. Chapter 12: Non Small Cell Lung Cancer and Small 
+
+Cell Lung Cancer. In : Target Volume Delineation and Field Setup. Lee 
+
+N, Lu JJ (ed).2013; New York: Springer.p 87-103 
+
+107. Chen M, Bao Y, Ma HL, Hu X, Wang J, Wang Y, et al. Involved-field 
+
+radiotherapy versus elective nodal irradiation in combination with 
+
+concurrent chemotherapy for locally advanced non-small cell lung 
+
+cancer: a propective randomized study. Biomed Res Int 2013;3711819. 
+
+108. Pilkington G, Boland A, Brown T, James O, Bagust A, Dickson R. A 
+
+systematic review of the clinical effectiveness of first-line chemotherapy 
+
+for adult patients with locally advanced or metastatic non-small cell 
+
+lung cancer. Thorax 2015;70:359-367. 
+
+109. Santos FN, de Castria TB, Cruz MR, Riera R. Chemotherapy for 
+
+advanced non-small cell lung cancer in the elderly population. 
+
+Cochrane Database Syst Rev 2015 
+
+110. Soon YY, Stockler MR, Askie LM, Boyer MJ. Duration of chemotherapy 
+
+for advanced non-small-cell lung cancer: a systematic review and meta- 
+
+analysis of randomized trials. J Clin Oncol 2009;27:3277-3283. 
+
+111. Coate LE, Shepherd FA. Maintenance therapy in advanced non- small 
+
+cell lung cancer: evolution, tolerability and outcomes. Ther Adv Med 
+
+Oncol 2011;3:139-157. 
+
+112. Paez JG, Janne PA, Lee JC, Tracy S, greulich H, Gabriel S, Herman P, et 
+
+al. EGFR mutations in lung cancer: correlation with clinical response to 
+
+gefitinib therapy. Science 2004;304:1497-1500. 
+
+113. Becker K, Xu Y. Management of tyrosine kinase inhibitor resistance in 
+
+lung cancer with EGFR mutation. World J Clin Oncol 2014;5:560-567 
+
+114. Amarasena IU, Chatterjee S, Wakters JA. Platinum versus non-
+
+platinum chemotherapy regimens for small cell lung cancer. Cohrane 
+
+Database Syst Rev 2015 Aug 2;8:CD006849 
+
+115. Pelayo Alvarez M, Westeel V, Cortes-Jofre M. Chemotherapy versus best 
+
+supportive care for extensive small cell lung cancer. Cochrane Database 
+
+Syst Rev 2013 Nov 27;11:CD001990 
+
+116. Kong FM, Lally BE, Chang JY, Chetty IJ, Decker RH, Ginsburg ME, et 
+
+al. ACR Appropriateness Criteria Radiation Therapy for Small-Cell Lung 
+
+Cancer. Am J Clin Oncol 2013;36(2):206-13 
+
+ 
+ 
+
+
+
+-60- 
+ 
+
+117. Yee D, Butts C, Reiman A, Joy A, Smylie M, Fenton D, et al. Clinical 
+
+trial of post-chemotherapy consolidation thoracic radiotherapy for 
+
+extensive-stage small cell lung cancer. Radiother Oncol 2012;102:234- 
+
+238 
+
+118. Slotman BJ, van Tintreren H, Praag JO, Knegjens JL, El Sharouni S, 
+
+Hatton M, et al. Use of thoracic radiotherapy for extensive stage small- 
+
+cell lung cancer: a phase 3 randomised controlled trial.Lancet 2015 Jan 
+
+3;385(9962):36-42 
+
+119. Le Péchoux C, Dunant A, Senan S, Wolfson A, Quoix E, Faivre-Finn C, 
+
+et al. Standard-dose versus higher-dose prophylactic cranial irradiation 
+
+(PCI) in patients with limited-stage small-cell lung cancer in complete 
+
+remission after chemotherapy and thoracic radiotherapy (PCI 99-01, 
+
+EORTC 22003-08004, RTOG 0212, and IFCT 99-01): a randomised 
+
+clinical trial. The Lancet Oncology 2009;10:467-474 
+
+120. Slotman B, Faivre-Finn C, Kramer G, Rankin E, Snee M, Hatton M, et 
+
+al. Prophylactic cranial irradiation in extensive small-cell lung cancer. N 
+
+Engl J Med 2007;357:664-672 
+
+121. Chow E, Harris K, Fan G.. Palliative radiotherapy trials for bone 
+
+metastases: a systematic review. J Clin Oncol 2007;25:1423-1436. 
+
+122. Lutz S, Berk L, Chang E, et al. Palliative radiotherapy for bone 
+
+metastases: an ASTRO evidence-based guideline. Int J Radiat Oncol 
+
+Biol Phys 2011;79:965-976. 
+
+123. Son CH, Jimenez R, Niemierko A, et al. Outcomes after whole brain 
+
+reirradiation in patients with brain metastases. Int J Radiat Oncol Biol 
+
+Phys 2012;82:e167-172 
+
+124. ESMO Guidelines Working Group. Clinical practice guidelines, 
+
+Management of cancer pain: ESMO clinical practice guidelines. Annals 
+
+of Oncology 23 (supplement 7): vii139-vii154, 2012. 
+
+125. Colt HG, Murgu SD, Korst RJ, Slatore CG, Unger M, Quadrelli S. 
+
+Follow-up and surveillance of the patient with lung cancer after 
+
+curative- intent therapy: Diagnosis and management of lung cancer, 
+
+3rd ed: American College of Chest Physicians evidence-based clinical 
+
+practice guidelines. Chest. 2013 May;143(5 Suppl):e437S-54S. 
+
+126. Bozzetti F. Nutritional support of the oncology patient. Critical Reviews 
+
+in Oncology 2013;87:172–200. 
+
+127. Ashby C, Baldock E, Donald M, Richardson R, Simmons F, Thomson M. 
+
+A Practical Guide for Lung Cancer Nutritional Care. 2014 
+
+ 
+ 
+
+
+
+-61- 
+ 
+
+128. August DA, Huhmann MB, American Society of Parenteral and Enteral 
+
+Nutrition (ASPEN) Board of Directors. ASPEN clinical guidelines: 
+
+Nutrition support therapy during adult anticancer treatment and in 
+
+hematopoietic cell transplantation. J Parent Ent Nutr 2009; 33(5): 472- 
+
+500.  
+
+129. Arends J. ESPEN Guidelines: nutrition support in Cancer. 36th ESPEN 
+
+Congress 2014 
+
+130. Caderholm T, Bosaeus I, Barrazoni R, Bauer J, Van Gossum A, Slek S, 
+
+et al. Diagnostic criteria for malnutrition-An ESPEN consensus 
+
+statement. Clin Nutr 2015;34:335-40 
+
+131. Evan WJ, Morley JE, Argiles J, Bales C, Baracos V, et al. Cachexia: A 
+
+new definition. Clin Nutr 2008;27:793-799. 
+
+132. Laviano A, Meguid MM, Inui A, Muscaritoli M, Rossi-Fanelli F. Therapy 
+
+Insight: cancer anorexia-cachexia syndrome. When all you can eat is 
+
+yourself. Nature Clinical Practice Oncology 2005;2: 158–65 
+
+133. National Comprehensive Cancer Network Guidelines. Version 1.2016. 
+
+Palliative Care. 2015. 
+
+134. Fearon K, Strasser F, Anker S, et al. Definition and classification of 
+
+cancer cachexia: an international consensus. Lancet Oncol 
+
+2011;12:489- 95 
+
+135. Arends J, Bodoky G, Bozzetti F, Fearon K, Muscaritoli M, Selga G, et al. 
+
+ESPEN Guidelines on Enteral Nutrition : Non Surgical Oncology.Clin 
+
+Nutr 2006;25:245–59. 
+
+136. Cohen DA, Sucher KP. Neoplastic disease. In: Nelms M, Sucher KP, 
+
+Lacey K, Roth SL, eds. Nutrition therapy and patophysiology. 12 ed. 
+
+Belmont: Wadsworth; 2011:702-74. 
+
+137. Grant BL, Hamilton KK. Medical nutrition therapy for cancer 
+
+prevention, treatment, and recovery. In: Mahan LK, Escott-Stump S, 
+
+Raymond JL, eds. Krause’s food & nutrition therapy. 13 ed. Missouri: 
+
+Saunders Elsevier; 2013:832-56 
+
+138. Cangiano C, Laviano A, Meguid MM, Mulieri M, Conversano L, Preziosa 
+
+I, et al. Effects of  administration of oral branched-chain amino acids on 
+
+anorexia and caloric intake in cancer patients. J Natl Cancer 
+
+Inst.1996;88:550-2. 
+
+139. T. Le Bricon. Effects of administration of oral branched-chain amino 
+
+acids on anorexia and caloric intake in cancer patients. Clin Nutr Edinb 
+
+Scotl 1996;15:337. 
+
+ 
+ 
+
+
+
+-62- 
+ 
+
+140. Ravasco P, Monteiro-Grillo I, Camilo M. Individualized nutrition 
+
+intervention is of major benefit of colorectal cancer patients: long-term 
+
+follow-up of randomized controlled trial of nutritional therapy. Am J 
+
+Clin Nutr 2012;96: 1346–53. 
+
+141. Ashby C, Baldock E, Donald M, Richardson R, Simmons F, Thomson M. 
+
+A Practical Guide for Lung Cancer Nutritional Care. 2014 
+
+142. Ruiz GV, Lopez-Briz E, Corbonell Sanchis R, Gonzavez Parales JL, Bort- 
+
+Marti S. Megesterol acetate for treatment of cancer-cachexia syndrome 
+
+(review).  The Cochrane Library 2013, issue 3 
+
+143. Arends J. Nutritional Support in Cancer: Pharmacologic Therapy. 
+
+ESPEN Long Life Learning Programme. Available from: 
+
+lllnutrition.com/mod_lll/TOPIC26/m 264.pdf 
+
+144. Satia JA, Littman A, Slatore CG, Galanko JA, White A. Long-term use of 
+
+beta-carotene, retinol, lycopene, and luteins supplements and lung 
+
+cancer risk: results from the VITamins And Lifestyle (VITAL) Study. Am 
+
+J Epidemiol 2009 Apr 1;169(7):815–28. 
+
+145. Cortes-Jofre M, Rueda JR, Corsini-Munoz G, Fonseca-Cortes C, 
+
+Caraballoso M, Bonfill C. Drugs for preventing lung cancer in healthy 
+
+people.  Cochrane Database Syst Rev 2012 Oct 17;(10):CD002141 
+
+146. Kavanough CJ, Trumbo PR, Ellwood KC. The U.S Food and Drug 
+
+Administration’s Evidence-Based Review for qualified health claims: 
+
+tomatoes, lycopene and cancer. J Natl Cancer Inst 2007 Jul 
+
+18;99(14):1074–85 
+
+147. Yang G, Shou XO, Chow W, Zhang S, Li H, Ji B, et al. Soy food intake 
+
+and risk of lung cancer: evidence from the Shanghai Women’s Health 
+
+Study and a Meta-analysis. Systematic reviews and meta- and pooled 
+
+analysis. Am J Epidemiol 2012;176 (10): 846–55. 
+
+148. Schabath MB, Hernandez SM, Wu X, Pillow PC, Spitz MR. Dietary 
+
+phytoestrogens and lung cancer.JAMA 2005 Sep 28;294(12):1493–1504 
+
+149. Tulaar ABM, Wahyuni L.K, Nuhonni S.A., et al. Pedoman Pelayanan 
+
+Kedokteran Fisik dan Rehabilitasi pada Disabilitas. Jakarta: Perdosri; 
+
+2015. 
+
+150. Wahyuni LK, Tulaar ABM. Pedoman Standar Pengelolaan Disabilitas 
+
+Berdasarkan Kewenangan Pemberi Pelayanan Kesehatan. Jakarta: 
+
+Perdosri; 2014. p. 5-54, 118-143, 148-150 
+
+151. Nuhonni, S.A, Indriani, et.al. Panduan Pelayanan Klinis Kedokteran 
+
+Fisik dan Rehabilitasi: Disabilitas Pada Kanker. Jakarta: Perdosri; 
+
+ 
+ 
+
+
+
+-63- 
+ 
+
+2014. p. 9- 17, 35-46 
+
+152. Vargo MM, Riuta JC, Franklin DJ. Rehabilitation for patients with 
+
+cancer diagnosis. In : Frontera W, DeLisa JA, Gans BM, Walsh NE, 
+
+Robinson LR, et al, editors. Delisa’s Physical Medicine and 
+
+Rehabilitation, Principal & Practice. 5th Edition. Philadelphia: 
+
+Lippincott Williams & Wilkins; 2010. p. 1171. 
+
+153. Bartels MN, Kim H. Whiteson JH, Alba AS. Pulmonary rehabilitation for 
+
+patients undergoing lung volume reduction surgery. Arch Phys Med 
+
+Rehabil. 2006;87(3Suppl1):84-8. 
+
+154. Larson DA, Rubenstein JL, Mc.Dermott MW, Barani I. Metastatic cancer 
+
+to the brain. In: DeVita, Hellman, and Rosenberg’s Cancer : principles & 
+
+practice of oncology. 9th Ed.Philadelphia: Lippincott Williams & 
+
+Wilkins; 2011. p.2153-2164. 
+
+155. Granger CL, McDonald CF, Berney S, Chao C, Denehy L. Exercise 
+
+intervention to improve exercise capacity and health related quality of 
+
+life for patients with non-small cell lung cancer: A systematic review. 
+
+Lung Cancer. 2011;72:139–153. 
+
+156. Scottish Intercollegiate Guideline Network. Management of lung cancer. 
+
+A National Clinical Guideline. Edinburgh: Scottish Intercollegiate 
+
+Guideline Network; 2014. p. 33-35 
+
+157. Charloux A. Fitness for radical treatment of lung cancer patients. 
+
+Breathe. 2011;7(3):221-8. 
+
+158. Morano MT, Araujo AS, Nascimento FB, da Silva GF, Mesquita R, Pinto 
+
+JS, et al. Preoperative pulmonary rehabilitation versus chest physical 
+
+therapy in patients undergoing lung cancer resection: A pilot 
+
+randomized controlled trial. Archives of Physical Medicine and 
+
+Rehabilitation. 2013;94:53-8 
+
+159. Tanaka k, Tatsuo A, Okuyama T, et al. Impact of dyspnea, pain, fatigue 
+
+on daily life activities in ambulatory patients with advanced lung 
+
+cancer. J Pain Symptom Manage 2002;23(5):417. 
+
+160. Simoff MJ, Lally B, Slase MG, Goldberg WG, Lee P, Michaud GC, et al. 
+
+Symptom management in patients with lung cancer. Diagnosis and 
+
+management of lung cancer, 3rd ed: American College of Chest 
+
+Physicians Evidence-Based Clinical Practice Guidelines. Chest. 
+
+2013;143(5):455-97. 
+
+161. The British Pain Society. Cancer pain management. London: The British 
+
+Pain Society; 2010. p. 7-8. 
+
+ 
+ 
+
+
+
+-64- 
+ 
+
+162. Scottish Intercollegiate Guideline Network. Control of pain in adult with 
+
+cancer. A National Clinical Guideline. Edinburgh: Scottish 
+
+Intercollegiate Guideline Network; 2008. p. 14. 
+
+163. Silver JK. Nonpharmacologic pain management in the patient with 
+
+cancer. In: Stubblefield DM, O’dell MW. Cancer Rehabilitation, 
+
+Principles and Practice. New York: Demos Medical Publishing; 2009. p. 
+
+479-83. 
+
+164. Hately J, Laurence V, Scott A, et al.Breathlessness clinics within 
+
+specialist paliative care setting can improves the quality of life and 
+
+functional capacity of patients with lung cancer. Palliat Med 
+
+2003;17:410. 
+
+165. Cameron RB. Malignancies of the lung. In: a Lange Clinical Manual 
+
+Practical Oncology. Connecticut: Appleton&Lange; 1994. p. 189-203. 
+
+166. National Cancer Institute. SEER stat fact sheets: Lung and bronchus 
+
+cancer. 2014. [cited 2014 October 15]. Available from: 
+
+http://seer.cancer.gov/statfacts/html/lungb.html. 
+
+167. American Cancer Society. Lung cancer (Non-Small Cell). Atlanta, Ga: 
+
+American Cancer Society; 2013. 
+
+168. Lipton A. Pathophysiology of Bone metastases: how this knowledge may 
+
+lead to therapeutic intervention. J Support Oncol. 2004;2:205–220. 
+
+169. National Health Service. Physiotherapy for Thoracotomy Patients. Royal 
+
+Devon and Exeter NHS Foundation Trust; 2011 
+
+170. Vargo MM, Smith RG, Stubblefield MD. Rehabilitation of the cancer 
+
+patient. In: DeVita, Hellman, and Rosenberg’s Cancer : principles & 
+
+practice  of  oncology.  8th  Ed.  Philadelphia:  Lippincott  Williams  & 
+
+Wilkins; 2009.  p. 2878-9. 
+
+171. Liu W, Pan YL, Gao CX, Shang Z, Ning LJ, Liu X. Breathing exercises 
+
+improve postoperative pulmonaryfunction and quality of life in patients 
+
+with lung cancer: A metaanalysis. Experimental and Therapeutic 
+
+Medicine. 2013;5:1194-200. 
+
+172. Li XH, Zhu JL, Hong C, Zeng L, Deng LM, Jin LY. Effects of systematic 
+
+rehabilitation programs on quality of life in patients undergoing lung 
+
+resection.   Molecular and Clinical Oncology. 2013;1:200-208. 
+
+173. Cesario A, Ferri L, Galetta D, Pasqua F, Bonassi S, Clini E, et al. Post-
+
+operative respiratory rehabilitation after lung resection for non-small 
+
+cell lung cancer. Lung Cancer. 2007;57:175-180. 
+
+174. Jones LW, Eves ND, Kraus WE, Potti A, Crawford J, Blumenthal JA, et 
+
+ 
+ 
+
+
+
+-65- 
+ 
+
+al. Therlung cancer exercise training study: a randomized trial of 
+
+aerobic training, resistance training, or both in postsurgical lung cancer 
+
+patients: rationale  and  design.  BMC  Cancer. 2010;10:155. 
+
+175. Sterzi S, Cesario A, Cusumano G, Dall’Armi V, Lapenna LM, Cardaci V, 
+
+et al. Post- operative rehabilitation for surgically resected non-small cell 
+
+lung cancer patients: Serial pulmonary functional analysis. J Rehabil 
+
+Med. 2013;45:911–5. 
+
+176. National Health Service. Chronic fatigue syndrome. 2013. [cited 2015 
+
+January 07]. Available from http://www.nhs.uk/Conditions/Chronic-  
+
+fatigue-syndrome/Pages/Treatment.aspx 
+
+  
+
+ 
+ 
+
+
+
+-66- 
+ 
+
+BAB IV 
+
+SIMPULAN DAN REKOMENDASI 
+
+ 
+
+ 
+
+Pemeriksaan low-dose CT scan dilakukan pada pasien risiko tinggi 
+
+yaitu pasien usia > 40 tahun dengan riwayat merokok ≥30 tahun dan 
+
+berhenti merokok dalam kurun waktu 15 tahun sebelum pemeriksaan 
+
+[rekomendasi A], atau pasien ≥50 tahun dengan riwayat merokok ≥20 
+
+tahun dan adanya minimal satu faktor risiko lainnya [rekomendasi B] 
+
+ 
+
+Kanker paru ditegakkan berdasarkan anamnesis, pemeriksaan fisik 
+
+dan pemeriksaan penunjang. Foto toraks AP/lateral merupakan 
+
+pemeriksaan awal untuk menilai pasien dengan kecurigaan terkena 
+
+kanker paru [rekomendasi A]. CT scan toraks dilakukan sebagai 
+
+evaluasi lanjut pada pasien dengan kecurigaan kanker paru, dan 
+
+diperluas hingga kelenjar adrenal untuk menilai kemungkinan 
+
+metastasis hingga regio tersebut [rekomendasi A]. Bronkoskopi adalah 
+
+prosedur utama yang dapat menetapkan diagnosis kanker paru 
+
+[rekomendasi A]. Spesimen untuk menghasilkan pemeriksaan sitologi 
+
+dan histologi didapat terutama melalui biopsi bronkus [rekomendasi A]. 
+
+Biopsi jarum halus (fine needle aspiration biopsy/FNAB) adalah metode 
+
+utama untuk mendapatkan spesimen untuk pemeriksaan sitologi 
+
+[rekomendasi A]. Pemeriksaan transthoracal biopsy (TTB) dapat 
+
+dilakukan untuk mendapatkan spesimen untuk pemeriksaan sitologi 
+
+maupun histopatologi 
+
+ 
+
+Bila tersedia, tuntunan endobrachial ultrasound (EBUS) juga dapat 
+
+dilakukan sebagai pemeriksaan tambahan, terutama untuk evaluasi 
+
+kelenjar mediastinal, dan mendapatkan spesimen histopatologi. 
+
+[rekomendasi A]. Tindakan biopsi pleura atau pleuroscopy dapat 
+
+dilakukan untuk mendapatkan spesimen pada pleura [rekomendasi A].  
+
+Jika hasil sitologi negatif, tetapi masih ada kecurigaan keganasan, 
+
+dianjurkan dilakukan penilaian ulang atau CT scan toraks 
+
+[rekomendasi A]. Pemeriksaan molekul marker (gen EGFR, gen KRAS, 
+
+fusigen EML-ALK) digunakan untuk pemilihan obat sistemik berupa 
+
+terapi target (targeted therapy) pada jenis adenokarsinoma, jika fasilitas 
+
+dan bahan pemeriksaan memenuhi syarat [rekomendasi A]. 
+
+ 
+ 
+
+
+
+-67- 
+ 
+
+ 
+
+Modalitas utama sebagian besar KPKBSK (stadium I-II dan stadium IIIA 
+
+yang masih dapat direseksi setelah kemoterapi neoadjuvan) adalah 
+
+pembedahan [rekomendasi A]. Reseksi bedah dapat dilakukan setelah 
+
+kemoterapi neoadjuvan dan/atau dengan kemoterapi adjuvant pada 
+
+pasien stadium IB, II, IIIA, dan IIIB. Pilihan utama reseksi adalah 
+
+lobektomi, tetapi pada pasien dengan komorbiditas kardiovaskular atau 
+
+kapasitas paru yang lebih rendah, dilakukan pembedahan 
+
+segmentektomi dan reseksi sublobaris paru [rekomendasi A]. 
+
+ 
+
+Flexible bronchoscopy dilakukan untuk menilai sebab dan luas stenosis 
+
+saluran pernapasan, dan permeabilitas saluran bronchial distal dari 
+
+stenosis [rekomendasi A]. 
+
+ 
+
+Radiasi diberikan pada lesi primer dengan tujuan kuratif pada stadium 
+
+IA, IB, IIA, dan IIIA, jika terdapat kontraindikasi pembedahan 
+
+[rekomendasi A]. Regimen Continuous hyperfractionated accelerated 
+
+radiotherapy (CHART) merupakan pilihan utama regimen terapi radiasi 
+
+[rekomendasi A]. Pada pasien dengan KPKBSK stadium IIB, diberikan 
+
+terapi radiasi sendiri pada lesi primer dan lesi metastasis ipsilateral 
+
+dan KGB supraklavikula [rekomendasi A].  
+
+ 
+
+Terapi kemoterapi adjuvan diberikan pada KPKBSK stadium IIA, IIB 
+
+dan IIIA, sedangkan pada stadium lanjut, kemoterapi dapat diberikan 
+
+dengan tujuan pengobatan jika tampilan umum pasien baik (Karnofsky 
+
+>60; WHO 0-2) [rekomendasi A]. 
+
+ 
+
+Pada terapi stadium IV, pasien dengan tampilan umum 0-1 dapat 
+
+diberikan kombinasi 2 obat kemoterapi, sedangkan pada pasien dengan 
+
+tampilan umum 2, dapat diberikan 1 obat kemoterapi [rekomendasi A]. 
+
+Pada keganasan adenokarsinoma dengan hasil pemeriksaan uji mutasi 
+
+gen EGFR positif, Geflitinib dan Erlotinib merupakan obat kemoterapi 
+
+lini pertama sebagai monoterapi [rekomendasi A]. 
+
+ 
+
+Terapi kombinasi, kemoterapi dan terapi radiasi, diberikan dengan 
+
+tujuan pengobatan pada pasien dengan tampilan umum baik 
+
+(Karnofsky >60) dengan kontraindikasi bedah [rekomendasi A]. 
+
+ 
+ 
+
+
+
+-68- 
+ 
+
+Regimen terapi kombinasi terbaik adalah concurrent therapy 
+
+[rekomendasi A]. 
+
+ 
+
+Pada KPKSK stadium terbatas, kombinasi dari kemoterapi berbasis-
+
+platinum dan terapi radiasi toraks adalah pilihan utama [rekomendasi 
+
+A]. Regimen terapi kombinasi yang memberikan hasil paling baik 
+
+adalah concurrent therapy, dengan terapi radiasi dimulai dalam 30 hari 
+
+setelah awal kemoterapi [rekomendasi A]. Pada KPKSK stadium lanjut, 
+
+modalitas utama adalah terapi kombinasi. Alternatif lain adalah terapi 
+
+radiasi paliatif pada lesi primer dan lesi metastasis [rekomendasi A]. 
+
+ 
+
+Syarat pasien kanker yang membutuhkan tatalaksana nutrisi: skrining 
+
+gizi dilakukan untuk mendeteksi gangguan nutrisi, gangguan asupan 
+
+nutrisi, serta penurunan BB dan IMT sedini mungkin; skrining gizi 
+
+dimulai sejak pasien didiagnosis kanker dan dilang sesuai dengan 
+
+kondisi klinis pasien [rekomendasi A]. 
+
+  
+
+Pada pasien dengan hasil skrining abnormal, perlu dilakukan penilaian 
+
+objektif dan kuantitaif asupan nutrisi, kapasitas fungsional, dan 
+
+derajat inflamasi sistemik. Disarankan untuk melakukan skrining rutin 
+
+pada semua pasien kanker lanjut, baik yang menerima maupun tidak 
+
+menerima terapi antikanker, untuk menilai asupan nutrisi yang tidak 
+
+adekuat, penurunan berat dan IMT yang rendah, dan dilanjutkan 
+
+dengan assesmen gizi apabila berisiko. 
+
+ 
+
+Untuk kebutuhan nutrisi pasien kanker, direkomendasikan agar 
+
+kebutuhan energi total pasien kanker, jika tidak diukur secara 
+
+individual, diasumsikan menjadi agak mirip dengan subyek sehat dan 
+
+berkisar antara 25-30 kkal/kg BB/hari. Selama menjalani terapi 
+
+kanker, perlu dipastikan bahwa pasien mendapat nutrisi adekuat 
+
+[rekomendasi A]. 
+
+ 
+
+Direkomendasikan pemberian vitamin dan mineral sebesar satu kali 
+
+angka kecukupan gizi [rekomendasi A]. 
+
+ 
+
+Pasien kanker lanjut yang tidak merespon terapi nutrisi standar, 
+
+disarankan untuk mempertimbangkan suplementasi BCAA untuk 
+
+ 
+ 
+
+
+
+-69- 
+ 
+
+meningkatkan massa otot [rekomendasi D]. 
+
+ 
+
+Pada pasien kanker yang menjalani kemoterapi dan berisiko mengalami 
+
+penurunan BB, disarankan untuk menggunakan suplementasi asam 
+
+lemak omega-3 atau minyak ikan untuk menstabilkan/meningkatkan 
+
+selera makan, asupan makan, massa otot, dan berat badan. 
+
+[rekomendasi D] 
+
+  
+
+Dalam penentuan jalur pemberian nutrisi, direkomendasikan intervensi 
+
+gizi untuk meningkatkan asupan oral pada pasien kanker yang mampu 
+
+makan tapi malnutrisi atau berisiko malnutrisi. Intervensi meliputi 
+
+saran diet, pengobatan gejala dan gangguan yang menghambat asupan 
+
+makan, dan menawarkan ONS.  
+
+ 
+
+Direkomendasikan pemberian nutrisi enteral jika nutrisi oral tetap 
+
+tidak memadai meskipun telah dilakukan intervensi gizi, dan 
+
+pemberian nutrisi parenteral apabila nutrisi enteral tidak cukup atau 
+
+memungkinkan.  
+
+ 
+
+Direkomendasikan untuk memberikan edukasi tentang bagaimana 
+
+mempertahankan fungsi menelan kepada pasien yang menggunakan 
+
+nutrisi enteral. Nutrisi parenteral tidak dianjurkan secara umum untuk 
+
+pasien radioterapi; nutrisi parenteral hanya diberikan apabila nutrisi 
+
+oral dan enteral tidak adekuat atau tidak memungkinkan [rekomendasi 
+
+A]. 
+
+ 
+
+Disarankan untuk menggunakan progestin untuk meningkatkan selera 
+
+makan pasien kanker untuk jangka pendek, tetapi dengan 
+
+mempertimbangkan potensi efek samping serius. [rekomendasi D]. 
+
+ 
+
+Direkomendasikan untuk mempertimbangkan menggunakan 
+
+kortikosteroid untuk meningkatkan selera makan pasien kanker untuk 
+
+jangka pendek, tetapi dengan mempertimbangkan potensi efek samping 
+
+(misalnya muscle wasting). [rekomendasi D] 
+
+ 
+
+Penyintas kanker sebaiknya memiliki BB ideal dan menerapkan pola 
+
+makan yang sehat, tinggi buah, sayur, dan biji-bijian, serta rendah 
+
+ 
+ 
+
+
+
+-70- 
+ 
+
+lemak, daging merah, dan alcohol. Direkomendasikan bagi para 
+
+penyintas kanker untuk terus melakukan aktivitas fisik sesuai 
+
+kemampuan secara teratur dan menghindari gaya hidup sedentari 
+
+[rekomendasi A]. 
+
+ 
+
+Pasien sebaiknya segera diambulasi. Rehabilitasi dini efektif 
+
+meningkatkan kualitas hidup pasien kanker paru pascaoperasi. 
+
+Penanganan optimal pasien nyeri kanker perlu pendekatan 
+
+multidisiplin. [rekomendasi A]. 
+
+ 
+
+Pasien sebaiknya diberi informasi dan instruksi tentang nyeri dan 
+
+penanganan serta didorong berperan aktif dalam penanganan nyeri. 
+
+Asesmen nyeri kronis secara komprehensif termasuk skriing rutin 
+
+psikologis. Penggunaan WHO Analgesic ladder pada pasien kanker 
+
+dengan nyeri digunakan sesuai dengan tingkat nyeri pasien. 
+
+[rekomendasi B]. 
+
+  
+
+ 
+ 
+
+
+
+-71- 
+ 
+
+Lampiran 1 
+
+Prinsip Radioterapi pada KPKBSK 
+
+  
+
+Prinsip Umum 
+
+Radioterapi memiliki peran dalam tatalaksana KPKBSK dalam berbagai 
+
+stadium, baik sebagai terapi definitif, ajuvan, maupun paliatif. Teknik 
+
+radioterapi modern diharapkan dapat memaksimalkan control tumor 
+
+dan meminimalisir toksisitas terapi. Teknik minimal yang digunakan 
+
+adalah 3DCRT. 
+
+ 
+
+Radioterapi pada KPKBSK Stadium Dini (Stadium I, IIA dengan 
+
+KGB Positif) 
+
+SBRT direkomendasikan untuk pasien yang secara medis tidak dapat 
+
+dioperasi atau menolak operasi. SBRT memberikan hasil yang 
+
+sebanding dengan lobektomi dalam hal kontrol tumor dan kesintasan, 
+
+dan lebih baik dibandingkan 3DCRT. SBRT juga merupakan pilihan 
+
+terapi untuk pasien kandidat operasi dengan risiko tinggi (dapat 
+
+mentoleransi reseksi sublobar, namun tidak untuk lobektomi karena 
+
+alasan usia tua atau fungsi paru buruk). SBRT dan reseksi sublobar 
+
+memberikan keluaran yang sebanding.  
+
+ 
+
+Analisis dari dua studi terandomisasi perbandingan SBRT vs lobektomi 
+
+pada pasien yang dapat dioperasi, didapatkan keluaran, profil 
+
+toksisitas, dan kesintasan yang sebanding. Meskipun analisis ini tidak 
+
+memberikan data yang cukup untuk mengubah standar pelayanan 
+
+untuk pasien stadium dini kandidat operasi, hal ini memperkuat 
+
+indikasi SBRT pada pasien yang memiliki kontraindikasi relatif 
+
+terhadap operasi. Pada insitusi yang tidak dapat melakukan SBRT, 
+
+maka 3DCRT dengan intensifikasi dosis dapat dipertimbangkan. 
+
+  
+
+Radiasi pasca operasi tidak direkomendasikan, kecuali pada kasus 
+
+dengan batas sayatan tidak bebas tumor atau upstaging menjadi N2 
+
+(stadium lokal lanjut) 
+
+ 
+
+Radioterapi pada KPKBSK Lokal Lanjut (Stadium II-III) 
+
+Kemoradiasi merupakan salah satu pilihan terapi KPKBSK stadium II 
+
+(KGB positif) dan stadium III. Kemoterapi sekuensial atau radiasi saja 
+
+ 
+ 
+
+
+
+-72- 
+ 
+
+dapat dilakukan untuk pasien yang tidak dapat mentoleransi 
+
+kemoterapi konkuren. Regimen accelerated RT dapat dipertimbangkan 
+
+pada kasus tersebut. Radioterapi juga memiliki peranan sebelum 
+
+maupun sesudah operasi 
+
+ 
+
+Kemoradiasi pre-operasi merupakan salah satu pilihan terapi untuk 
+
+pasien stadium IIIA yang dapat direseksi (minimal N2, dapat dilakukan 
+
+lobektomi), dan direkomendasikan untuk tumor sulkus superior yang 
+
+dapat direseksi. Kemoterapi pre operasi dan radiasi pasca operasi 
+
+merupakan terapi alternative untuk stadium IIIA yang dapat direseksi. 
+
+ 
+
+Penetapan resektabilitas harus dilakukan sebelum memulai terapi. 
+
+Keputusan untuk pembedahan pada stadium III sebaiknya dibicarakan 
+
+dalam tim multidisiplin. Pada stadium I/II pasca operasi yang 
+
+mengalami upstaging menjadi N2+, maka kemoterapi dan radiasi 
+
+pascaoperasi dapat memperbaiki kesintasan. Meskipun belum 
+
+diketahui sekuens yang optimal, biasanya radiasi diberikan setelah 
+
+kemoterapi. Kemoradiasi direkomendasikan pada kasus dengan batas 
+
+sayatan positif. Radiasi pasca operasi tidak direkomendasikan pada 
+
+pasien dengan stadium N0-1. 
+
+ 
+
+Radioterapi pada Stadium Lanjut/Metastatik (Stadium IV) 
+
+Radioterapi dipilih sebagai terapi paliatif untuk mengurangi gejala 
+
+nyeri, perdarahan, dan obstruksi. Radioterapi diberikan pada 
+
+metastasis otak dan tulang. Terapi lokal definitif lesi metastasis 
+
+terbatas (oligometastasis) tampak dapat memperpanjang median 
+
+kesintasan pada subset pasien tertentu dengan status performans yang 
+
+baik dan mendapatkan terapi radikal pada lesi intrathoraks. Teknik 
+
+yang digunakan adalah SBRT. 
+
+ 
+
+Teknik SBRT pada Stadium Dini dengan KGB Negatif 
+
+SBRT dengan BED lebih dari 100 Gy dikaitkan dengan kontrol lokal 
+
+dan kesintasan yang lebih baik. Untuk tumor lokasi sentral, 4-10 fraksi 
+
+tampaknya masih aman diberikan, sementara pemberian dosis hingga 
+
+54-60 Gy (3 fraksi) sebaiknya dihindari. SBRT umumnya digunakan 
+
+untuk tumor sampai dengan 5 cm, namun pada ukuran tumor lebih 
+
+besar dari 5 cm dan terlokalisir, SBRT tetap dapat dipertimbangkan 
+
+ 
+ 
+
+
+
+-73- 
+ 
+
+selama masih dalam batas toleransi jaringan sehat. 
+
+ 
+
+Radioterapi Fraksinasi Konvensional 
+
+Dosis yang diberikan untuk radioterapi definitif adalah 60-70 Gy dalam 
+
+1,8-2 Gy per fraksi. Eskalasi dosis sampai 74 Gy dapat diberikan 
+
+selama masih tidak melewati batas toleransi jaringan sehat. Dosis 
+
+umum diberikan untuk radioterapi pre operasi adalah 45-54 Gy dalam 
+
+1,8-2 Gy per fraksi. Dosis umum diberikan untuk radioterapi pasca 
+
+operasi adalah 50-54 Gy dalam 1,8-2 Gy per fraksi. Booster dapat 
+
+diberikan pada daerah risiko tinggi, termasuk ekstensi ekstrakapsular 
+
+atau batas sayatan positif. Limitasi dosis paru sebaiknya lebih 
+
+konservatif mengingat berkurangnya toleransi paru setelah operasi. 
+
+ 
+
+Radioterapi Paliatif 
+
+Dosis dan fraksinasi radioterapi paliatif bersifat individual, bergantung 
+
+pada tujuan terapi, gejala, status performans pasien, dan pertimbangan 
+
+logistik. 
+
+  
+
+ 
+ 
+
+
+
+-74- 
+ 
+
+Lampiran 2 
+
+Prinsip Radioterapi pada KPKSK 
+
+ 
+
+ 
+
+Prinsip Umum 
+
+Radioterapi merupakan bagian dari terapi definitif maupun paliatif 
+
+pada KPKSK. 
+
+ 
+
+Radioterapi pada Stadium Terbatas (Limited Stage) 
+
+Radioterapi dengan kemoterapi konkuren lebih disukai dibandingkan 
+
+kemoterapi/radioterapi sekuensial. Target radiasi yaitu volume target 
+
+berdasarkan pencitraan PET scan sebelum terapi dan CT scan saat CT 
+
+planning. Dosis paling optimal masih belum ditentukan. Dari penelitian 
+
+yang ada, dosis hiperfraksinasi 45 Gy (1,5 Gy diberikan 2 kali 
+
+perhari/BID) lebih superior dibandingkan 45 Gy dengan fraksinasi 
+
+konvensional (1,8 Gy)., Interval antar fraksi adalah 6 jam jika diberikan 
+
+fraksinasi BID untuk memberikan kesempatan perbaikan jaringan 
+
+sehat. Jika diberikan dengan fraksinasi konvensional, maka diberikan 
+
+dosis yang lebih tinggi (60-70 Gy). Saat ini masih berlangsung studi 
+
+RTOG 0538 yang membandingkan 45 Gy BID dengan 70 Gy dalam 7 
+
+minggu. 
+
+  
+
+Radioterapi pada Stadium Ekstensif (Extensive stage) 
+
+Radioterapi konsolidasi dapat dipertimbangkan pada pasien stadium 
+
+ekstensif yang respon terhadap kemoterapi. Studi randomisasi Dutch-
+
+CREST tentang radioterapi konsolidasi pada pasien stadium ekstensif 
+
+yang respon kemoterapi, didapatkan perbaikan kesintasan 2 tahun. 
+
+Radioterapi juga dapat diberikan sebagai terapi paliatif pada lesi primer 
+
+atau lesi metastasis. 
+
+ 
+
+Radiasi Kranial Profilaksis/Prophylactic Cranial Irradiation (PCI) 
+
+Pada stadium terbatas  yang  respon  terhadap  terapi,  PCI  dapat  
+
+menurunkan  kejadian  metastasis  otak  dan meningkatkan 
+
+kesintasan. 
+
+Studi EORTC menunjukkan perbaikan kesintasan pada pasien stadium 
+
+terbatas kemoresponsif yang diberikan PCI. Namun, studi randomisasi 
+
+lain di Jepang tidak mendapatkan perbaikan angka kesintasan. Pada 
+
+ 
+ 
+
+
+
+-75- 
+ 
+
+pasien yang tidak diberikan PCI, maka direkomendasikan pemantauan 
+
+metastasis dengan pencitraan otak. Dosis yang direkomendasikan 
+
+untuk PCI adalah 25 Gy dalam 10 fraksi. PCI tidak direkomendasikan 
+
+untuk pasien dengan status performans buruk atau dengan gangguan 
+
+neurokognitif.

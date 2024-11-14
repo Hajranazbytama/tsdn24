@@ -40,9 +40,9 @@ def load_model(model_path):
     return joblib.load(model_path)
 
 # Load models
-model_ht = load_model("../Model_Prediction/Output_Model/model_ht.pkl")
-model_dm = load_model("../Model_Prediction/Output_Model/model_dm.pkl")
-model_lc= load_model("../Model_Prediction/Output_Model/model_lc.pkl")
+model_ht = load_model("../Output Model/model_ht.pkl")
+model_dm = load_model("./Output Model/model_dm.pkl")
+model_lc= load_model("./Output Model/model_lc.pkl")
 
 @st.cache_resource
 def load_scaler(scaler_path):
@@ -50,16 +50,16 @@ def load_scaler(scaler_path):
     return joblib.load(scaler_path)
 
 # Load scaler
-scaler_ht = load_scaler("../Model_Prediction/Output_Model/scaler_ht.pkl")
-scaler_dm = load_scaler("../Model_Prediction/Output_Model/scaler_dm.pkl")
-scaler_lc = load_scaler("../Model_Prediction/Output_Model/scaler_lc.pkl")
+scaler_ht = load_scaler("./Output_Model/scaler_ht.pkl")
+scaler_dm = load_scaler("./Output_Model/scaler_dm.pkl")
+scaler_lc = load_scaler("./Output_Model/scaler_lc.pkl")
 
 # Daftar penyakit untuk inisialisasi retrievers
-disease_list = ["HT", "DM", "Stroke"]
+disease_list = ["HT", "DM", "KP"]
 
 # Fungsi untuk memuat dokumen berbasis penyakit dalam format .txt
 def load_documents_by_disease(disease):
-    txt_folder_path = f"../Data/{disease}"
+    txt_folder_path = f"./Data/{disease}"
     all_txt_paths = glob.glob(os.path.join(txt_folder_path, "*.txt"))
 
     documents = []

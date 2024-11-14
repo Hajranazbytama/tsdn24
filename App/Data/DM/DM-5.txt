@@ -1,0 +1,416 @@
+﻿PANDUAN PRAKTIK KLINIS
+IKATAN DOKTER ANAK INDONESIA
+
+Diagnosis dan Tata Laksana
+Diabetes Melitus Tipe 2
+
+IKATAN DOKTER ANAK INDONESIA
+2018
+
+
+
+PANDUAN PRAKTIK KLINIS
+IKATAN DOKTER ANAK INDONESIA
+
+Diagnosis dan Tata Laksana
+Diabetes Melitus Tipe 2
+
+Penyunting
+Agustini Utari
+Niken Pritayati
+Madarina Julia
+
+IKATAN DOKTER ANAK INDONESIA
+2018
+
+
+
+Hak Cipta Dilindungi Undang-Undang
+
+Dilarang memperbanyak, mencetak, dan menerbitkan sebagian atau seluruh
+isi buku ini dengan cara dan bentuk apa pun juga tanpa seizin penulis dan
+penerbit.
+
+Isi diluar tanggung jawab penerbit
+
+Diterbitkan oleh:
+Badan Penerbit Ikatan Dokter Anak Indonesia
+
+Copy Editor: Iffa Mutmainah
+         Lathiefatul Habibah
+
+Disusun oleh:
+Tim penyusun Pedoman Praktik Klinis Diagnosis dan 
+Tata Laksana Diabetes Melitus Tipe 2
+Ikatan Dokter Anak Indonesia
+
+Diterbitkan pertama kali tahun 2018
+Cetakan pertama
+
+ISBN
+
+
+
+Daftar Kontributor
+
+Agustini Utari
+Niken Pritayati
+Madarina Julia
+
+iii
+
+
+
+Kata Sambutan
+Ketua Unit Kerja Koordinasi 
+
+Endokrinologi Anak dan Remaja IDAI
+Penerbitan buku Panduan Praktik Klinis Diagnosis dan Tata Laksana 
+Diabetes Melitus Tipe 2 ditujukan untuk memberikan petunjuk dan 
+keseragaman kepada dokter spesialis anak serta praktisi kesehatan lainnya 
+dalam mendiagnosis dan tata laksana diabetes mellitus tipe 2. Mengingat 
+kasus-kasus anak dengan DM tipe 2 meningkat dari tahun ke tahun. 
+Pengelolaan DM tipe 2 pada anak dan remaja membutuhkan penanganan 
+komprehensif terutama perubahan gaya hidup yang meliputi pengaturan 
+diet dan aktivitas fisik, serta terapi obat-obatan dan insulin. Peningkatan 
+DM tipe 2 dihubungkan dengan terjadinya peningkatan kasus-kasus anak 
+dengan gizi lebih dan obesitas.
+
+Masih terbatasnya pelatihan pengelolaan DM tipe 2 pada anak, 
+meningkatnya kasus DM tipe 2 dan rendahnya pengetahuan petugas kesehatan 
+tentang DM tipe 2 pada anak, mendorong UKK Endokrinologi IDAI untuk 
+menerbitkan Panduan Praktik Klinis Diagnosis dan Tata Laksana Diabetes 
+Melitus tipe 2. Dengan adanya panduan mengenai DM tipe 2 ini diharapkan 
+adanya keseragaman dalam menegakkan diagnosis dan memberikan tata 
+laksana. Kami berharap panduan ini dapat digunakan sebagai acuan oleh 
+seluruh anggota IDAI maupun praktisi kesehatan yang membutuhkan 
+sehingga kualitas pelayanan dan kualitas hidup anak dengan DM tipe 2 
+dapat meningkat. Semoga kita selalu dapat berperan dalam menyiapkan anak 
+Indonesia yang tumbuh sehat dan berkembang secara optimal.
+
+Kami berharap PPK ini dapat digunakan oleh semua pihak baik dokter 
+spesialis anak, petugas kesehatan lainnya, dan pemegang kebijakan dalam 
+menangani pasien anak dan remaja yang menderita DM tipe 2. Dengan 
+selesainya PPK DM tipe 2 pada anak kami mengucapkan banyak terima 
+kasih kepada tim penyususun PPK ini yaitu Prof. dr. Madarina Julia, PhD, 
+Sp.A(K), dr. Agustini Utari, MSi Med, Sp.A(K) dan dr. Niken pritayati, 
+Sp.A(K).  Kami juga mohon maaf apabila masih ada kekurangan dalam PPK 
+ini dan semoga PPK ini bermanfaat untuk semua, terima kasih
+
+I Wayan Bikin Suryawan
+Ketua UKK Endokrinologi Anak dan Remaja IDAI 
+
+iv
+
+
+
+Kata Sambutan 
+Pengurus Pusat Ikatan Dokter Anak Indonesia
+
+Kami mengucapkan terima kasih dan penghargaan kepada Unit Kerja 
+Koordinasi (UKK) Endokrinologi Ikatan Dokter Anak Indonesia (IDAI) 
+yang telah menerbitkan buku “Panduan Praktik Klinis Diagnosis dan 
+Tata Laksana Diabetes Melitus Tipe 2”. Buku panduan yang disusun oleh 
+organisasi profesi sangat dibutuhkan oleh praktisi kesehatan agar dapat 
+memberikan pelayanan kesehatan secara optimal. 
+
+Pengendalian Penyakit Tidak Menular (Non-Communicable 
+Diseases; NCDs) merupakan salah satu agenda dari Tujuan Pembangunan 
+Berkelanjutan (Sustainable Development Goals; SDGs). Angka kejadian NCDs 
+semakin meningkat di Indonesia. Termasuk diantaranya adalah Diabetes 
+Melitus (DM) tipe 2 pada anak. Masalah yang terjadi adalah kurangnya 
+kesadaran baik masyarakat maupun praktisi kesehatan akan adanya DM tipe 
+2 pada anak. Kewaspadaan yang baik, terutama skrining awal pada anak 
+yang memiliki risiko seperti obesitas, akan menurunkan kejadian komplikasi 
+jangka panjang sehingga kualitas hidup penderita akan lebih baik. Dengan 
+adanya panduan mengenai DM tipe 2 ini diharapkan adanya keseragaman 
+dalam menegakkan diagnosis dan memberikan tata laksana.
+
+Kami berharap panduan ini dapat digunakan sebagai acuan oleh 
+seluruh anggota IDAI maupun praktisi kesehatan yang membutuhkan, 
+sehingga kualitas pelayanan dan kualitas hidup anak dengan DM Tipe 2 
+dapat meningkat. Semoga kita selalu dapat berperan dalam menyiapkan 
+anak Indonesia yang tumbuh sehat dan berkembang secara optimal.
+
+Aman B. Pulungan
+Ketua Umum Pengurus Pusat Ikatan Dokter Anak Indonesia
+
+v
+
+
+
+vi
+
+
+
+Daftar Isi
+
+Daftar Kontributor ............................................................................. iii
+Kata Sambutan Ketua UKK Endokrinologi Anak dan Remaja IDAI .......iv
+Kata Sambutan Pengurus Pusat Ikatan Dokter Anak Indonesia ...........v
+Daftar Isi ............................................................................................vii
+
+A.  Pendahuluan ..................................................................................1
+B.  Kriteria diagnosis ...........................................................................2
+C.  Tata laksana ...................................................................................4
+D.  Pemantauan ...................................................................................6
+E.  Ringkasan Rekomendasi ................................................................6
+F.  Daftar Pustaka ...............................................................................7
+
+vii
+
+
+
+viii
+
+
+
+A. Pendahuluan
+
+Angka kejadian diabetes melitus tipe 2 (DM tipe 2) pada anak dan remaja 
+di dunia meningkat seiring dengan kenaikan kejadian obesitas. Bahkan di 
+Amerika Serikat saat ini, lebih dari 1 dari 3 kasus baru diabetes melitus yang 
+terjadi pada anak dan remaja adalah DM tipe 2. Kecenderungan ini terjadi di 
+seluruh dunia dan diprediksi bahwa tahun 2030 sekitar 366 juta penduduk 
+dunia akan mengalami diabetes.
+
+Awitan DM tipe 2 pada anak dan remaja paling sering ditemukan 
+pada dekade ke-2 kehidupan dengan median usia 13,5 tahun dan jarang 
+terjadi sebelum usia pubertas. Awitan DM tipe 2 yang terjadi lebih awal 
+dalam jangka panjang akan berhubungan signifikan dengan morbiditas dan 
+mortalitas. Remaja yang didiagnosis DM tipe 2 diperkirakan kehilangan 15 
+tahun dari masa hidupnya dibandingkan dengan yang tidak menderita DM 
+tipe 2. 
+
+Faktor risiko DM tipe 2 terutama adalah obesitas dan riwayat 
+keluarga dengan DM tipe 2. Faktor risiko lainnya adalah berat badan lahir 
+rendah (kecil masa kehamilan) dan status gizi buruk (IMT rendah) pada 
+usia 2 tahun. DM tipe 2 disebabkan oleh resistensi terhadap insulin dan 
+defisiensi insulin relatif oleh karena proses autoimun yang menyebabkan 
+terjadinya kerusakan dari sel beta pankreas. Perkembangan dari gangguan 
+glukosa plasma puasa dan gangguan glukosa toleransi menjadi DM tipe 2 
+berlangsung lebih cepat dibandingkan pada orang dewasa, rata-rata adalah 
+12-21 bulan. Gambaran klinis anak dan remaja dengan DM tipe 2 dapat 
+bervariasi dari hiperglikemia tanpa gejala yang ditemukan pada skrining 
+atau pemeriksaan fisik rutin sampai koma ketoasidosis (25% pasien) atau 
+status hiperosmolar hiperglikemik yang bisa meningkatkan risiko mortalitas.
+
+Pasien DM tipe 2 dengan usia kurang dari 30 tahun, ditemukan 10-
+32% disertai hipertensi, 14-22% mikroalbuminuria, 9,3% retinopati, 85% 
+dislipidemia, dan 22% disertai penyakit perlemakan hati non-alkohol. Dari 
+studi jangka panjang di Jepang selama 20 tahun, ditemukan 24% dari 1063 
+partisipan mengalami kebutaan pada rata-rata usia 32 tahun. Penelitian 
+lainnya dengan jumlah partisipan 426 dan diikuti selama 6,8 tahun, 
+ditemukan 3% dilakukan renal-dialisa pada usia 35 tahun. 
+
+UKK Endokrinologi Anak dan Remaja IDAI 1
+
+
+
+Pengelolaan DM tipe 2 pada anak dan remaja membutuhkan 
+penanganan komprehensif terutama perubahan gaya hidup yang meliputi 
+pengaturan diet dan aktivitas fisik, serta terapi obat-obatan dan insulin.
+
+B. Kriteria diagnosis
+
+•	 Diagnosis	 DM	 dibuat	 berdasarkan	 ada/	 tidaknya	 gejala	 klinis	 DM	
+dan	hasil	pengukuran	kadar	glukosa	plasma.	
+
+•	 Gejala	 klinis	 klasik	 DM	 adalah:	 poliuria,	 polidipsia,	 nokturia,	 dan	
+penurunan	berat	badan	tanpa	sebab	yang	jelas.
+
+•	 Diagnosis	DM	dapat	ditegakkan	 jika	memenuhi	 salah satu	 kriteria	
+berikut	ini:	
+- Glukosa plasma puasa ≥ 126 mg/ dL (7.0 mmol/L)*, ATAU 
+- Glukosa plasma post-prandial ≥ 200 mg/dL (11.1 mmol/L)**, 
+
+ATAU
+- Gejala klinis diabetes melitus disertai kadar glukosa plasma 
+
+sewaktu ≥ 200 mg/dL (11,1 mmol/L)***, ATAU
+- HbA1c > 6,5%
+
+Catatan:
+* Puasa berarti tanpa asupan kalori selama setidaknya 8 jam.
+** Pembebanan dilakukan sesuai dengan pedoman WHO, 
+
+menggunakan 75 g glukosa (atau 1,75 g/kg bila kurang dari 75g) 
+dilarutkan dalam air.
+
+***    Sewaktu, berarti tanpa memperhatikan jarak waktu dengan makan 
+terakhir
+
+**** Tanpa adanya gejala klinis DM, pemeriksaan harus diulang pada 
+hari yang berbeda.
+
+Untuk membedakan DM tipe 1 dan tipe 2: 
+•	 DM tipe 2 tidak selalu dapat dibedakan dengan mudah dari DM tipe 
+
+lain pada anak dan remaja.  
+•	 Tabel 1 menunjukkan beberapa karakteristik DM tipe 2 dibandingkan 
+
+dengan DM tipe-1 dan diabetes monogenik.
+
+2 Diagnosis dan Tata Laksana Diabetes Melitus Tipe 2
+
+
+
+•	 Pemeriksaan C-peptide bisa membantu untuk membedakan DM tipe-
+1 dan tipe 2. Jika C-peptide rendah maka DM tipe 1 bisa ditegakkan. 
+Namun kadar C-peptide bisa masih normal untuk penderita DM tipe-1 
+awal. Kebanyakan C-peptide akan menurun setelah 12-24 bulan pada 
+penderita DM tipe-1.  
+
+•	 Pemeriksaan autoantibodi diabetes perlu dipertimbangkan pada 
+semua pasien DM tipe 2 pada anak mengingat bahwa terdeteksinya 
+autoantibodi menunjukkan kemungkinan pemberian insulin lebih awal. 
+
+Tabel 1. Karakteristik DM tipe-1, tipe 2 dan diabetes monogenik pada anak dan remaja
+
+KARAKTERISTIK TIPE-1 TIPE 2 MONOGENIK
+Genetik Poligenik Poligenik Monogenik
+Usia 6 bulan sampai Bervariasi: bisa lambat dan Biasanya pascapubertal, 
+
+dewasa muda ringan, sering tanpa gejala kecuali akibat mutasi 
+nya, sampai berat gen GCK dan diabetes
+
+Neonatal
+Gambaran Klinis Biasanya akut Bervariasi: perlahan, Bervariasi
+
+ringan, sampai berat
+Autoimunitas Ya Tidak Tidak
+Ketosis Sering Jarang Sering pada diabetes 
+
+neonatal, jarang pada 
+yang lain
+
+Obesitas Sesuai dengan Lebih sering Sesuai dengan 
+prevalensi obesitas prevalensi obesitas di 
+di populasi populasi
+
+Acanthosis Tidak Ya Tidak
+nigricans
+Persentase dari Biasanya > 90% Pada umumnya 1-4%
+seluruh DM < 10% (60-80% di Jepang)
+anak
+Orangtua 2-4% 80% 90%
+menderita DM
+
+UKK Endokrinologi Anak dan Remaja IDAI 3
+
+
+
+C. Tata laksana
+Meliputi:
+1.	 Modifikasi gaya hidup
+
+a. Rekomendasi nutrisi 
+b. Peningkatan aktivitas fisik.
+
+2.  Medikamentosa
+ Pemberian medikamentosa berupa metformin dan atau insulin, tergan-
+
+tung pada gejala, beratnya hiperglikemi dan ada atau tidaknya ketosis 
+atau ketoasidosis (lihat diagram 1).
+a.	 Metformin 
+ Merupakan pilihan obat lini pertama bagi DM Tipe 2 anak dan 
+
+remaja. Dosis metformin dimulai dari dosis yang paling rendah, 
+sekitar 250 mg/hari selama 3-4 hari, bila tidak ada efek samping, 
+dapat dinaikkan menjadi 2 kali 250 mg dan secara bertahap 
+dinaikkan lagi sehingga dalam waktu 3-4 minggu, bisa mencapai 2 
+kali 1000 mg.  
+
+  Efek samping metformin tersering adalah gangguan saluran 
+cerna, seperti nyeri abdomen, kembung dan diare biasanya hanya 
+terjadi pada awal pemberian metformin dan bersifat transien, 
+dapat hilang dengan sempurna bila pengobatan dihentikan. 
+Setelah gejala efek samping membaik, metformin dapat dicoba lagi 
+mulai dengan dosis yang lebih rendah. Efek samping lebih sering 
+terjadi bila memulai dengan dosis metformin yang terlalu tinggi 
+atau metformin diminum pada saat perut dalam keadaan kosong. 
+
+4 Diagnosis dan Tata Laksana Diabetes Melitus Tipe 2
+
+
+
+Diagram 1. Alur penanganan DM tipe 2 pada anak dan remaja
+
+UKK Endokrinologi Anak dan Remaja IDAI 5
+
+
+
+D. Pemantauan
+1. Pemantauan Laboratorium
+ Pemantauan kontrol metabolik dengan pemeriksaan HbA1c dilakukan 
+
+setiap 3 bulan. Pemantauan gula darah secara mandiri dilakukan secara 
+periodik. Pada pasien yang menggunakan insulin basal bolus, peman-
+tauan gula darah sewaktu secara mandiri sebaiknya dilakukan lebih dari 
+3 kali sehari. Pada keadaan sakit atau muncul gejala hipoglikemia atau 
+hiperglikemia sebaiknya gula darah sewaktu diperiksa lebih sering.       
+
+2. Pemantauan Ko Morbiditas dan Komplikasi
+ Meliputi pemantauan : 
+
+a. Obesitas : IMT dan lingkar pinggang
+b. Hipertensi : Tekanan darah diukur tiap kunjungan 
+c. Nefropati : Pantau albuminuria
+d. Dislipidemia : Pemeriksaan trigliserida, HDL dan LDL Kolesterol
+e. Retinopati 
+f. Masalah lain yang terkait: Sindrom Ovarium Polikistik, Non-
+
+alcoholic fatty liver disease (NAFLD), Obstructive Sleep Apnea, 
+Depresi, Atherosklerosis dan disfungsi vaskular
+
+E. Ringkasan Rekomendasi
+a. Waspada DM tipe 2 pada penderita obesitas dan riwayat keluarga DM 
+
+tipe 2
+b. Diagnosis DM tipe 2 dapat ditegakkan melalui gejala klinis dan pemer-
+
+iksaan kadar gula darah
+c. Tatalaksana komprehensif meliputi modifikasi gaya hidup (rekomendasi 
+
+nutrisi dan peningkatan aktivitas fisik) dan medikamentosa (metformin 
+dan insulin)
+
+d. Obat Anti DM tipe 2 oral yang direkomendasikan pada anak adalah 
+metformin.
+
+6 Diagnosis dan Tata Laksana Diabetes Melitus Tipe 2
+
+
+
+F. Daftar Pustaka
+1. Copeland KC, Silverstein J, Moore KR, Prazar GE, Raymer T, Shiffman RN, 
+
+et al. Management of Newly Diagnosed Type 2 Diabetes Mellitus (T2DM) in 
+Children and Adolescents . Pediatrics 2013;131;364
+
+2. Craig ME, Jefferies C, Dabelea D, Balde N, Seth A, Donaghue KC. Definition, 
+epidemiology, and classification of diabetes in children and adolescents. Pediatr 
+Diabetes 2014: 15 (Suppl. 20): 4–17.
+
+3. Dart AB, Martens PJ, Rigatto C, Brownell MD, Dean HJ , Sellers EA. Ear-
+lier onset of complications in youth with type 2 diabetes. Diabetes Care 
+2014;37:436–443.
+
+4. Julia M, Utari A, Moelyo AG, Rochmah N. Konsensus Nasional Pengelolaan 
+Diabetes Melitus Tipe 2 pada Anak dan Remaja. BP IDAI 2015
+
+5. Kao KT, Sabin MA. Type 2 diabetes mellitus in children and adolescents. Aus 
+Fam Physician 2016;45 (6):401-6.
+
+6. Reinehr T. Type 2 diabetes mellitus in children and adolescents. World J Dia-
+betes 2013; 4(6): 270-81.
+
+7. Springer, S. C., Silverstein, J., Copeland, K., Moore, K. R., Prazar, G. E., 
+Raymer, T., et al. Management of type 2 diabetes mellitus in children and ado-
+lescents. Pediatrics 2013: 131(2), e648–64. 
+
+8. Zeitler, P., Fu, J., Tandon, N., Nadeau, K., Urakami, T., Barrett, T., & Maahs, 
+D. (2014). Type 2 diabetes in the child and adolescent. Pediatr Diabetes 
+2014;15 Suppl 2, 26– 46.  
+
+UKK Endokrinologi Anak dan Remaja IDAI 7

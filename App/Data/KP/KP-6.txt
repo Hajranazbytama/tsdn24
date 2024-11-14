@@ -1,0 +1,3306 @@
+﻿PANDUAN PENATALAKSANAAN 
+ 
+
+KANKER NASOFARING 
+
+K EMENTERIAN 
+
+KESEHATAN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+KOMITE PENANGGULANGAN KANKER NASIONAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+i 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ii 
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+KEMENTERIAN KESEHATAN REPUBLIK INDONESIA 
+
+ 
+PANDUAN PENATALAKSANAAN 
+
+ 
+KANKER NASOFARING 
+
+ 
+Disetujui oleh : 
+
+ 
+ 
+ 
+Perhimpunan Dokter Spesialis Telinga Hidung Tenggorok Bedah Kepala Leher Indonesia (PERHATI-KL) 
+ 
+
+Perhimpunan Dokter Spesialis Onkologi Radiasi Indonesia (PORI) 
+ 
+
+Perhimpunan Hematologi Onkologi Medik Penyakit Dalam Indonesia (PERHOMPEDIN) 
+ 
+
+Ikatan Ahli Patologi Anatomi Indonesia (IAPI) 
+ 
+
+Perhimpunan Dokter Spesialis Kedokteran Fisik & Rehabilitasi Indonesia (PERDOSRI) 
+ 
+
+Perhimpunan Dokter Spesialis Gizi Klinik Indonesia (PDGKI) 
+
+ 
+iii 
+
+
+
+DAFTAR KONTRIBUTOR 
+ 
+ 
+ 
+
+Dr Marlinda Adham, PhD, SpTHT-KL(K) 
+ 
+Prof DR Dr Soehartati Gondhowiardjo, SpRad(K)OnkRad 
+
+ 
+Dr Ratna Soediro, SpOnkRad 
+
+ 
+Dr Zakifman Jack, SpPD-KHOM 
+
+ 
+Dr Lisnawati, SpPA(K) 
+
+ 
+Fiastuti Witjaksono, Dr. dr., MSc, MS, SpGK(K) 
+
+ 
+Nurul Ratna Mutu Manikam, dr., MGizi, SpGK 
+
+ 
+Lily Indriani Octovia, MT, dr., MGizi, SpGK 
+
+ 
+Siti Annisa Nuhonni, dr., Sp.KFR(K) 
+
+ 
+Indriani, dr., Sp.KFR(K) 
+
+ 
+Kumara Bakti Hera Pratiwi, dr., Sp.KFR(K) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+iv 
+
+
+
+KATA PENGANTAR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+v 
+
+
+
+PENYANGKALAN 
+ 
+ 
+Panduan Penatalaksanaan ini merupakan panduan yang dibuat berdasarkan data dan konsensus para kontributor terhadap tata laksana saat ini yang dapat 
+
+diterima. Panduan ini secara spesifik dapat digunakan sebagai panduan pada pasien dengan keadaan pada umumnya, dengan asumsi penyakit tunggal 
+
+(tanpa disertai adanya penyakit lainnya/penyulit) dan sebaiknya mempertimbangkan adanya variasi respon individual. Oleh karena itu 
+ 
+Panduan ini bukan merupakan standar pelayanan medis yang baku. Para klinisi diharapkan tetap harus mengutamakan kondisi dan pilihan pasien 
+
+dan keluarga dalam mengaplikasikan Panduan ini. 
+
+ 
+Apabila terdapat keraguan, para klinisi diharapkan tetap menggunakan penilaian klinis independen dalam kondisi keadaan klinis individual yang 
+
+bervariasi dan bila diperlukan dapat melakukan konsultasi sebelum melakukan suatu tindakan perawatan terhadap pasien. 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+Panduan ini disusun dengan pertimbangan pelayanan kesehatan dengan fasilitas dan SDM sesuai kompetensi yang dibutuhkan tersedia. 
+
+ 
+Bila fasilitas atau SDM dengan kompetensi yang dibutuhkan tidak terpenuhi, agar melaksanakan sistem rujukan. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+vi 
+
+
+
+KLASIFIKASI TINGKAT PELAYANAN  
+  
+  
+ Tingkat Pelayanan Primer {I} 
+KLASIFIKASI FASILITAS PELAYANAN KESEHATAN BERDASAR TINGKAT PELAYANAN  
+
+KLASIFIKASI FASILITAS PELAYANAN KESEHATAN BERDASAR TINGKAT PELAYANAN Yang dimaksud dengan fasilitas pelayanan 
+
+kesehatan dalam tingkatan pelayanan dasar 
+
+(Primer) adalah: 
+ 
+ Dokter Praktik Mandiri, 
+
+ KlinikPratama (DokterUmum) dan 
+Puskesmas. 
+
+ 
+Tingkat PelayananSekunder {II} 
+ 
+Yang dimaksud dengan fasilitas pelayanan 
+
+kesehatan dalam tingkatan pelayanan sekunder 
+
+adalah: 
+ 
+ Klinik Utama (Spesialistik), 
+
+ RS Tipe B, C, dan D. 
+Tingkat PelayananTersier {III} 
+ 
+Yang dimaksud dengan fasilitas pelayanan 
+
+kesehatan dalam tingkatan pelayanan 
+
+tersieradalah: RS Tipe A. 
+ 
+Segala tindak tatalaksana diagnosis dan terapi 
+
+pada Panduan Praktik Klinis ini ditujukan untuk 
+
+panduan penanganan di Tingkat 
+
+PelayananTersier {III}. Namun demikian, tidak 
+
+menutup kemungkinan bahwa hal tersebut 
+
+dapat dilakukan di Tingkat Pelayanan Sekunder 
+
+{II} bila kompetensi SDM dan fasilitas yang 
+
+tersedia memenuhi persyaratan. 
+ 
+ 
+ 
+ 
+
+vii 
+
+
+
+ 
+DAFTAR ISI 
+
+  
+L embar Persetujuan Perhimpunan .................................................... iii Follow-up .......................................................................................... 6 
+
+ 
+D aftar Kontributor .............................................................................. iv P ROGNOSIS ................................................................................. 7 
+K ata Pengantar ................................................................................. v L AMPIRAN ................................................................................................... 
+P enyangkalan ................................................................................... vi  Lampiran 1. Algoritma Diagnosis KNF ............................ 8 
+
+K lasifikasi Tingkat Pelayanan ............................................................ vii  Lampiran 2. Algoritma Penatalaksanaan KNF ............... 9 
+
+Daftar Isi ............................................................................................ viii  Lampiran 3. Prinsip Radioterapi ....................................... 10 
+
+  Lampiran 4. Prinsip Radioterapi Paliatif .......................... 14 
+
+P ENGERTIAN ................................................................................... 1  Lampiran 5. Prinsip Kemoterapi ....................................... 16 
+
+E PIDEMIOLOGI ................................................................................ 1  Lampiran 6. Penapisan Malnutrisi dan Kaheksia ........... 25 
+
+F AKTOR RISIKO............................................................................... 1  Lampiran 7. Tatalaksana Nutrisi Umum .......................... 27 
+
+P ENAPISAN ...................................................................................... 1  Lampiran 8. Tatalaksana Nutrisi Khusus ........................ 30 
+
+ Lampiran 9. Prinsip Tatalaksana Rehabilitasi Medik ..... 31 
+DIAGNOSIS
+  ..............................................................................................................  Lampiran 10. Manifestasi Psikiatrik ................................. 37 
+
+ Anamnesis dan Pemeriksaan Fisik ........................................ 1 KEPUSTAKAAN ............................................................................ 39 
+
+ Pemeriksaan Radiologi .......................................................... 2 
+
+ Pemeriksaan Patologi Anatomi .............................................. 2 
+
+ Pemeriksaan Laboratorium .................................................... 3 
+
+ Diagnosis Banding ................................................................. 3 
+S TADIUM .......................................................................................... 3 
+T ATALAKSANA ...................................................................................................... 
+
+ Radioterapi ............................................................................. 4 
+
+ Obat-obatan Simptomatik....................................................... 4 
+
+ Kemoterapi ............................................................................. 4 
+
+ Dukungan Nutrisi .................................................................... 5 
+
+ Prinsip Rehabilitasi Medik Pasien Kanker Nasofaring ............ 5 
+Edukasi ............................................................................................. 6 
+
+ 
+
+viii 
+
+
+
+ 
+PENGERTIAN 6 . Riwayat keluarga. 6 
+ 7. Faktor Gen HLA (Human Leokcyte Antigen) dan Genetik 4, 7 
+Karsinoma Nasofaring (KNF) merupakan karsinoma yang muncul 8 . Merokok 7 
+pada daerah nasofaring (area di atas tenggorok dan di belakang 
+
+9. Minum Alkohol 8 
+hidung), yang menunjukkan bukti adanya diferensiasi skuamosa 
+
+ 
+mikroskopik ringan atau ultrastruktur. 1  Faktor Proteksi 
+ Mengonsumsi buah-buahan dan sayuran terbukti dapat mengurangi 
+EPIDEMIOLOGI 
+
+risiko terjadinya KNF. 4,9
+ 
+
+ 
+ 
+
+ Di Indonesia, KNF merupakan keganasan terbanyak ke-4 setelah 
+ PENAPISAN 
+
+ kanker payudara, kanker leher rahim, dan kanker paru. 2 Serologi IgA VCA/IgA EA sebagai tumor marker (penanda tumor) diambil 
+ Berdasarkan GLOBOCAN 2012. 3 dari darah tepi dan/atau Brushing Nasofaring (DNA Load Viral). 
+
+ o  87.000  kasus  baru  nasofaring  muncul  setiap  tahunnya  
+Pemeriksaan ini tidak berperan dalam penegakkan diagnosis tetapi 
+
+(dengan 61.000 kasus baru terjadi pada laki-laki dan 26.000 
+dilakukan sebagai skrining dan data dasar untuk evaluasi pengobatan. 
+
+ kasus baru pada perempuan) 
+5 
+
+o 51.000 kematian akibat KNF (36.000 pada laki-laki, dan 
+
+ 15.000 pada perempuan)  
+
+  KNF terutama ditemukan pada pria usia produktif (perbandingan  DIAGNOSIS 
+
+pasien pria dan wanita adalah 2,18:1) dan 60% pasien berusia  1. Anamnesis 
+
+antara 25 hingga 60 tahun. 4  Gejala yang muncul dapat berupa telinga terasa penuh, tinnitus, 
+
+  Angka  kejadian  tertinggi  di  dunia  terdapat  di  propinsi  Cina otalgia, hidung tersumbat, lendir bercampur darah. Pada stadium 
+
+ Tenggara yakni sebesar 40 - 50 kasus kanker nasofaring diantara lanjut dapat ditemukan benjolan pada leher, terjadi gangguan saraf, 
+
+ 100.000 penduduk. Kanker nasofaring sangat jarang ditemukan di diplopa, dan neuralgia trigeminal (saraf III, IV, V, VI). 
+ daerah Eropa dan Amerika Utara dengan angka kejadian sekitar  
+
+<1/100.000 penduduk. 4 2 . Pemeriksaan Fisik 
+ 
+
+  Dilakukan pemeriksaan status generalis dan status lokalis.
+FAKTOR RISIKO 
+
+  Pemeriksaan nasofaring:
+ 
+
+ o  Rinoskopi posterior 
+1. Jenis Kelamin Wanita 3 
+
+ o  Nasofaringoskop ( fiber / rigid ) 
+2. Ras Asia dan Afrika Utara 4 
+
+o Laringoskopi 
+3 . Umur 30 – 50 tahun 5  
+
+ Pemeriksaan nasoendoskopi dengan NBI (Narrow Band Imaging) 
+4. Makanan yang diawetkan 4
+
+
+ 
+
+digunakan untuk skrining, melihat mukosa dengan
+5. Infeksi Virus Epstein-Barr 4  
+
+1 
+
+
+
+ 
+kecurigaan kanker nasofaring, panduan lokasi biopsi, dan follow  Diagnosis pasti berdasarkan pemeriksaan PA dari biopsi 
+up terapi pada kasus-kasus dengan dugaan residu dan residif. nasofaring BUKAN dari Biopsi Aspirasi Jarum Halus (BAJH) 
+
+ atau biopsi insisional/eksisional kelenjar getah bening leher.
+
+
+3. Pemeriksaan Radiologik  Dilakukan dengan tang biopsi lewat hidung atau mulut dengan 
+ tuntunan rinoskopi posterior atau tuntunan nasofaringoskopi 
+a. CT Scan rigid/fiber.
+ 
+Pemeriksaan radiologik berupa CT scan nasofaring mulai setinggi  
+
+sinus frontalis sampai dengan klavikula, potongan koronal, aksial,  Pelaporan diagnosis karsinoma nasofaring berdasarkan kriteria WHO 
+
+dan sagital, tanpa dan dengan kontras. Teknik pemberian kontras 1 yaitu: 
+dengan injector 1-2cc/kgBB, delay time 1 menit. CT berguna untuk 1 . Karsinoma Sel Skuamosa Berkeratin (WHO 1) 
+
+melihat tumor primer dan penyebaran ke jaringan sekitarnya serta 2 . Karsinoma Tidak Berkeratin: 
+
+penyebaran kelenjar getah bening regional.  a. Berdiferensiasi (WHO 2) 
+
+  b. Tidak Berdiferensiasi (WHO 3) 
+
+b. USG abdomen 3. Karsinoma Basaloid Skuamosa 
+  
+Untuk menilai metastasis organ-organ intra abdomen. Apabila dapat  
+keraguan pada kelainan yang ditemukan dapat dilanjutkan dengan  
+CT Scan Abdomen dengan kontras.  
+
+ 
+ 
+
+ 
+c. Foto Thoraks 
+  
+
+Untuk melihat adanya nodul di paru atau apabila dicurigai adanya  
+ 
+
+kelainan maka dilanjutkan dengan CT Scan Thoraks dengan kontras.  
+  
+d. Bone Scan  
+
+ 
+Untuk melihat metastasis tulang.  
+ 
+  
+
+Pemeriksaan-pemeriksaan tersebut diatas untuk menentukan TNM.  Eksplorasi nasofaring dengan anestesi umum jika: 
+
+ 1. Dari biopsi dengan anestesi lokal tidak didapatkan hasil yang 
+ positif sedangkan gejala dan tanda yang ditemukan 
+ 
+
+ menunjukkan ciri karsinoma nasofaring. 
+4. Pemeriksaan Patologi Anatomik 2. Unknown Primary Cancer 
+
+ 
+2 
+
+
+
+ 
+ Prosedur ini dapat langsung dikerjakan pada:  Tumor Primer (T) 
+
+       
+
+ a) Penderita anak   TX   Tumor primer tidak dapat dinilai   
+ 
+
+  T0   Tidak terdapat tumor primer   
+ b) Penderita dengan keadaan umum kurang baik  
+
+  Tis   Karsinoma in situ   
+ 
+
+ c) Keadaan trismus sehingga nasofaring tidak dapat diperiksa. 
+  T1   Tumor terbatas pada nasofaring, atau tumor meluas   
+
+ 
+
+ d) Penderita yang tidak kooperatif 
+     ke  orofaring  dan  atau  rongga  hidung  tanpa   
+
+ 
+
+ e) Penderita yang laringnya terlampau sensitif      perluasan ke parafaringeal   
+ 
+
+3. Dari CT Scan paska kemoradiasi/ CT ditemukan kecurigaan   T2   Tumor dengan perluasan ke parafaringeal   
+ 
+
+residu / rekuren, dengan Nasoendoskopi Nasofaring menonjol.   T3   Tumor melibatkan struktur tulang dari basis kranii   
+ 
+
+      dan atau sinus paranasal   
+ 
+
+B   T4   Tumor  dengan  perluasan  intrakranial  dan  atau   
+ 
+
+ iopsi Aspirasi Jarum Halus Kelenjar Leher 
+     keterlibatan  saraf  kranial,  hipofaring,  orbita,  atau   
+
+Pembesaran kelenjar leher yang diduga keras sebagai metastasis  
+
+     dengan   perluasan   ke   fossa   infratemporal   /   
+tumor ganas nasofaring yaitu, internal jugular chain superior, posterior  
+
+     masticator space   
+ 
+
+cervical triangle node, dan supraclavicular node jangan di biopsi 
+        
+
+ 
+
+terlebih dulu sebelum ditemukan tumor induknya. Yang mungkin 
+  KGB regional (N)   
+
+ 
+
+dilakukan adalah Biopsi Aspirasi Jarum Halus (BAJH). 
+   NX   KGB regional tidak dapat dinilai   
+
+ 
+
+  N0  Tidak terdapat metastasis ke KGB regional  
+P  N1  Metastasis unilateral di KGB, 6 cm atau kurang di  
+ emeriksaan Laboratorium 
+
+ • Hematologik : darah perifer lengkap, LED, hitung jenis.    atas fossa supraklavikula  
+ N2  Metastasis  bilateral  di  KGB,  6  cm atau  kurang  
+
+ • Alkali fosfatase, LDH 
+   dalam dimensi terbesar di atas fosa supraklavikula  
+
+• SGPT – SGOT 
+ N3  Metastasis di KGB, ukuran > 6 cm  
+
+  N3a  Ukuran >6cm  
+D IAGNOSIS BANDING  N3b  Perluasan ke fosa supraklavikula  
+
+ 1. Limfoma Malignum            
+
+ 2. Proses non keganasan (TB kelenjar)      Metastasis Jauh (M)    
+
+3. Metastasis (tumor sekunder)      MX   Metastasis jauh tidak dapat dinilai    
+      M0   Tidak terdapat metastasis jauh    
+      M1   Terdapat metastasis jauh    
+KLASIFIKASI STADIUM  
+  
+Klasifikasi TNM (AJCC, Edisi 7, 2010) 10
+
+ Pengelompokkan Stadium (Stage Grouping) 
+ 
+
+ Pengelompokkan Stadium 
+
+3 
+
+
+
+ 
+       Tis   T1   T2   T3   T4  
+
+  Radioterapi 
+                     
+
+ Pemberian radioterapi dalam bentuk IMRT lebih terpilih dibandingkan 
+    N0   0   I   II   III   IVA  
+
+ 
+
+                     
+ dengan 3D-CRT. Pedoman pemberian dosis dan perencanaan organ 
+
+   N1      II   II   III   IVA   
+
+           
+ 
+
+ M0 yang berisiko dapat dilihat pada lampiran. 
+                   
+
+ 
+
+    
+ N2    
+
+ III  
+ III   III  IVA    
+
+             
+ 
+
+                     
+ 
+
+    N3      IVB   IVB   IVB   IVB   Obat-obatan Simptomatik 
+ 
+
+                     
+   Reaksi akut pada mukosa mulut, berupa nyeri untuk mengunyah
+
+ M1      IVC   IVC   IVC   IVC  
+ 
+
+                     dan menelan  obat kumur yang mengandung antiseptik dan 
+ 
+
+ astringent, (diberikan 3 – 4 sehari).
+
+
+   Tanda-tanda moniliasis  antimikotik.
+
+
+TATALAKSANA   Nyeri menelan  anestesi lokal
+ 
+
+Terapi dapat mencakup radiasi, kemoterapi, kombinasi keduanya,  Nausea, anoreksia  terapi simptomatik.
+ 
+
+dan didukung dengan terapi simptomatik sesuai dengan gejala. 
+  Kemoterapi 
+
+Kombinasi kemoradiasi sebagai radiosensitizer terutama diberikan 
+ Pedoman Modalitas Terapi pada KNF 10,11
+
+ 
+               pada pasien dengan T2-T4 dan N1-N3. Kemoterapi sebagai 
+  Stadium dini    Stadium I     Radiasi saja    Rekomendasi   
+
+ 
+
+radiosensitizer diberikan preparat platinum based 30-40 mg/m2 
+      (T1N0M0)        II, A   
+
+ sebanyak 6 kali, setiap minggu sekali 2,5 sampai 3 jam sebelum 
+  Stadium intermediet    Stadium II     Kemoradiasi    I, B   
+
+ 
+
+                  
+ dilakukan radiasi. Kemoterapi kombinasi/dosis penuh dapat diberikan 
+
+       (T1-2, N1-2,    konkuren       
+ pada N3 > 6 cm sebagai neoadjuvan dan adjuvan setiap 3 minggu 
+
+      M0)           
+ sekali, dan dapat juga diberikan pada kasus rekuren/metastatik. 
+
+  Stadium lokal lanjut    Stadium III,   Kemoradiasi    I, A   
+ 
+
+                     
+       IVA, IVB   konkuren  +/-       
+
+ 
+
+Terapi sistemik pada Karsinoma Nasofaring adalah dengan 
+       (T3-4,N0-3,    kemoterapi       
+
+ 
+
+                   
+ kemoradiasi dilanjutkan dengan kemoterapi adjuvant, yaitu Cisplatin + 
+
+      M0)    adjuvan       
+ RT diikuti dengan Cisplatin/5-FU atau Carboplatin/5-FU. Dosis 
+
+  Perencanaan terapi    Stadium IVA,   Kemoterapi    II, B   
+ 
+
+              
+ preparat platinum based 30-40 mg/m2 sebanyak 6 kali, setiap 
+
+  radiasi problematik   IVB  (T4 atau   induksi, diikuti       
+ seminggu sekali. 
+
+  (tumor yang   N3)     dengan       
+ 
+
+ 
+  berbatasan dengan         kemoradiasi       
+
+ 
+
+Terapi sistemik pada Karsinoma Nasofaring kasus 
+ organ  at  risk,  mis:        konkuren       
+
+ 
+
+ Rekuren/Metastatik: 
+  kiasma optikum)                
+
+ 
+
+                   
+ • Terapi Kombinasi 
+
+ 
+4 
+
+
+
+ 
+•  Cisplatin or carboplatin + docetaxel or paclitaxel mendapatkan edukasi dan terapi gizi untuk meningkatkan keluaran 
+•  Cisplatin/5-FU klinis dan kualitas hidup pasien. 14
+
+ 
+•  Carboplatin  
+•  Cisplatin/gemcitabine T atalaksana Nutrisi Umum 
+•  Gemcitabine P enatalaksanaan nutrisi secara umum terdiri atas: 
+•  Taxans + Patinum +5FU  1. Pemberian nutrisi optimal (lihat lampiran) 
+•  Terapi Tunggal 2. Pemberian farmakoterapi (lihat lampiran) 
+•  Cisplatin  
+
+•  Carboplatin T atalaksana Nutrisi Khusus 
+
+•  Paclitaxel Pasien kanker nasofaring dapat mengalami gangguan saluran cerna, 
+
+•  Docetaxel berupa mukositis oral, diare, konstipasi, atau mual-muntah akibat 
+
+•  5-FU tindakan pembedahan serta kemo- dan /atau radio-terapi. Tatalaksana 
+
+•  Methotrexate khusus pada kondisi tersebut, diberikan sesuai dengan kondisi pasien. 
+15,16 
+
+•  Gemcitabine 
+• Capecitabine  
+
+ Rekomendasi tingkat A 
+
+D ukungan Nutrisi  
+
+Pasien karsinoma nasofaring (KNF) sering mengalami malnutrisi  Penyintas kanker sebaiknya memiliki BB ideal dan 
+menerapkan pola makan yang sehat, tinggi buah, sayur dan 
+
+(35%) dan malnutrisi berat (6,7%). 12 Prevalensi kaheksia pada 
+biji-bijian, serta rendah lemak, daging merah, dan alkohol.
+
+kanker kepala-leher (termasuk KNF) dapat mencapai 67%. Malnutrisi 
+ Direkomendasikan untuk mempertahankan atau meningkatkan 
+
+dan kaheksia dapat mempengaruhi respons terapi kualitas hidup, dan 
+ aktivitas fisik pada pasien kanker selama dan setelah
+
+kesintasan pasien. 13 Pasien KNF juga sering mengalami efek pengobatan untuk membantu pembentukan massa otot, fungsi 
+samping terapi, berupa mukositis, xerostomia, mual, muntah, diare, 
+
+ fisik dan metabolisme tubuh (Rekomendasi tingkat A). 14,17
+
+
+disgeusia, dan lain-lain. Berbagai kondisi tersebut dapat 
+ Direkomendasikan bagi para penyintas kanker untuk terus 
+
+meningkatkan meningkatkan stres metabolisme, sehingga pasien melakukan aktivitas fisik sesuai kemampuan secara teratur 
+p erlu mendapatkan tatalaksana nutrisi secara optimal. dan menghindari sedentari
+Pada anak dengan karsinoma nasofaring, efek samping yang sering  
+ditimbulkan ialah kehilangan nafsu makan, perubahan indra perasa,  
+penurunan sistim kekebalan, muntah, diare, gangguan saluran cerna R ehabilitasi Medik Pasien Kanker Nasofaring 
+lainnya seringkali berakibat terhadap jumlah asupan makronutrien Rehabilitasi medik bertujuan untuk mengoptimalkan pengembalian 
+dan mikronutrien yang diperlukan pada anak. Para penyintas perlu kemampuan fungsi dan aktivitas kehidupan sehari-hari serta 
+
+ 
+5 
+
+
+
+  
+
+meningkatkan kualitas hidup pasien dengan cara aman & efektif,       Mobilisasi menggunakan alat fiksasi eksternal  
+ 
+
+sesuai kemampuan yang ada.      dan/atau dengan alat bantu jalan dengan  
+ 
+
+       
+ 
+
+      pembebanan bertahap  
+ 
+
+     
+
+Pendekatan rehabilitasi medik dapat diberikan sedini mungkin sejak  5.  Lainnya    Anjuran untuk kontrol rutin pasca pengobatan  
+ 
+
+       
+ 
+
+sebelum pengobatan definitif diberikan dan dapat dilakukan pada      
+ 
+
+     Anjuran untuk menjaga pola hidup yang sehat  
+ 
+
+        
+
+berbagai tingkat tahapan & pengobatan penyakit yang disesuaikan  
+dengan tujuan penanganan rehabilitasi kanker: preventif, restorasi,  
+suportif atau paliatif. 18,19,20
+
+ FOLLOW UP 
+  
+E dukasi  Kontrol rutin dilakukan meliputi konsultasi & pemeriksaan fisik: 
+
+Hal-hal yang perlu diedukasikan kepada pasien telah dibahas dalam  Tahun 1 : setiap 1-3 bulan 
+
+ Tahun 2 : setiap 2-6 bulan 
+subbab sebelumnya. Berikut ini adalah rangkuman mengenai hal-hal 
+
+ Tahun 3-5 : setiap 4-8 bulan 
+yang penting untuk diedukasikan kepada pasien. > 5 tahun : setiap 12 bulan 
+  
+
+ Topik Edukasi kepada Pasien Follow-up imaging terapi kuratif dilakukan minimal 3 bulan pasca 
+terapi: 
+
+   Kondisi   Informasi dan Anjuran saat Edukasi   
+ 
+
+         a . MRI dengan kontras sekuens T1, T2, Fatsat, DWI + ADC 
+ 
+
+  1. Radioterapi     Efek samping radiasi akut yang dapat muncul   b. Bone Scan untuk menilai respons terapi terhadap lesi 
+ 
+
+      (xerostomia, gangguan menelan, nyeri saat   metastasis tulang. 
+ 
+
+      menelan), maupun lanjut (fibrosis, mulut kering,    
+ 
+
+         
+ 
+
+      dsb)   Follow Up Terapi Paliatif (dengan terapi kemoterapi); follow-up 
+ 
+
+       Anjuran untuk selalu menjaga kebersihan   dengan CT Scan pada siklus pertengahan terapi untuk melihat 
+ respon kemoterapi terhadap tumor. 
+
+      mulut dan perawatan kulit (area radiasi) selama   
+  
+
+     terapi    
+ 
+
+  2. Kemoterapi     Efek samping kemoterapi yang mungkin   
+ PROGNOSIS DAN KESINTASAN 
+
+        
+ 
+
+      muncul (mual, muntah, dsb)    
+ 
+
+  3. Nutrisi     Edukasi jumlah nutrisi , jenis dan cara   Prognosis pasien dengan KNF dapat sangat berbeda antara 
+ 
+
+        
+ 
+
+      pemberian nutrisi sesuai dengan kebutuhan   subkelompok yang satu dengan subkelompok yang lain. Penelitian 
+ 
+
+  4. Metastasis     Kemungkinan fraktur patologis sehingga pada   tentang faktor-faktor yang dapat memengaruhi prognosis masih terus 
+ 
+
+   pada tulang   pasien yang berisiko diedukasi untuk berhati-   berlangsung hingga saat ini. Kebanyakan faktor-faktor prognosis bersifat 
+ 
+
+       
+ 
+
+      hati saat aktivitas atau mobilisasi.   
+ genetik ataupun molekuler. klinik (pemeriksaan fisik maupun penunjang). 
+
+        
+ 
+
+           
+6 
+
+
+
+Sampai saat ini belum ada uji meta analisis yang menggabungkan 
+angka kesintasan dari berbagai studi yang telah ada. 
+
+ 
+Prognosis pada pasien keganasan paling sering dinyatakan sebagai 
+kesintasan 5 tahun. Menurut AJCC tahun 2010, kesintasan relatif 5-tahun 
+p ada pasien dengan KNF StadiumI hingga IV secara berturutan sebesar 
+
+72%, 64%, 62%, dan 38%. 21
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+7 
+
+
+
+Lampiran 1. Algoritma Diagnosis KNF 5 
+ 
+ 
+
+Riwayat Penyakit dan 
+Pemeriksaan Kepala-Leher 
+
+  
+  
+
+ 
+  
+
+ Klinis curiga Nasofaring tampak normal Klinis tidak curiga 
+ 
+
+Nasofaring curiga tumor 
+ 
+
+CT Scan   
+ 1. Kelenjar leher dicurigai  
+
+   
+ 
+
+    Serologi EBV (-) 
+Serologi EBV (-) Serologi EBV (+) FNAB (Sitologi)  
+
+    
+ 
+
+2. Radiologi curiga    
+CT Scan (-) CT Scan (-)  
+
+3. Otitis media  
+KSS/Ca Undiff Diagnosis lain  
+
+serosa unknown Observasi  
+
+  
+ 
+
+Observasi Biopsi Nasofaring 
+ (anestesi lokal) 
+ 4. ↑ IgA persisten Biopsi nasofaring  
+
+ 
+
+  +/- panendoskopi Terapi Sesuai Diagnosis  
+  
+
+    
+ 
+
+ Biopsi nasofaring (anestesi umum)   
+ 
+
+   
+ 
+
+Diagnosis Lain Diagnosis belum pasti  
+
+ 
+ 
+
+ (2x biopsi lokal) 
+ 
+
+KNF (-) KNF (+) KNF (+) KNF (-  
+ 
+
+Terapi Sesuai   
+ 
+
+Diagnosis 
+ 
+
+ Biopsi ulang (anestesi Observasi Ro Toraks, fungsi hati, kimia darah Terapi Sesuai Diagnosis 
+  
+
+  umum) +  Konsul neurologi dan oftalmologi   
+  
+
+ Panendeoskopi  Serologi bila belum   
+  
+
+ Terapi KNF Rehabilitasi &  
+ 
+
+ KNF (-) KNF (+)  Lihat Algoritma Penatalaksanaan Tindak lanjut  
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+8 
+
+
+
+ Lampiran 2. Algoritma Penatalaksanaan KNF  
+   
+   
+  
+   
+  KARSINOMA NASOFARING (KNF)  
+     
+      
+
+  
+T1, N0, M0 T2, N1, M0;  T1-2, N2-3, M0;  Semua T, 
+
+ T1-2, N1, M0  T3-4, N0-3, M0 Semua N, M1 
+        
+
+      
+  
+   
+RT  definitif ≥ 70 Gy Kemoradiasi tanpa kemoterapi adjuvan Kemoterapi berbasis 
+
+RT eksterna 50 Gy + platinum 
+atau 
+
+ BT 4 x 3 Gy   
+Kemoradiasi + Kemoterapi Adjuvan 
+
+ dan  
+ atau 
+
+RT elektif pada leher  
+Kemoterapi induksi + kemoradiasi  
+
+ atau  
+ 
+
+Uji klinik multimodalitas 
+  
+
+ Radioterapi ke tumor 
+primer dan leher 
+
+Respons       Leher:        Tumor residu 
+ 
+
+ 
+Observasi Diseksi leher 
+ 
+
+ 
+Follow Up 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+9 
+
+
+
+LAMPIRAN 3. PRINSIP RADIOTERAPI 
+  
+  
+  
+Radiasi Eksterna  
+  
+
+Radiasi konvensional 2D 
+  
+Radiasi dapat diberikan dengan lapangan radiasi plan parallel Target volume mencakup GTV dan CTV. Pada teknik IMRT, CTV 
+laterolateral dan supraklavikula. Batas-batas lapangan penyinaran dapat dibedakan menjadi 2 atau lebih, terkait gross disease, high risk, 
+meliputi daerah tumor primer dan sekitarnya/ potensi penjalaran per atau low risk. 
+kontinuitatum, serta kelenjar getah bening regional (kelenjar leher  
+sepanjang jugular serta sternokleidomastoideus dan supraklavikula). CTV 70 yang mencakup gross disease dan CTV 59,4 yang mencakup 
+Dosis radiasi total 66-70 Gy, 2 Gy/fraksi, dengan blok medulla spinalis  high risk region), serta PTV sebagai berikut : 
+setelah 40 Gy. Untuk kelenjar getah bening leher positif dilanjutkan 1 . Volume Target pada daerah Gross Disease 
+dengan booster elektron hingga mencapai total dosis target.  a. GTV70 (70 Gy): 
+
+ GTV: Seluruh gross disease berdasarkan CT, MRI, informasi 
+R adiasi Konformal 3 Dimensi dan IMRT klinis, dan temuan endoskopik. Kelenjar getah bening positif 
+T arget radiasi tumor didefinisikan sebagai KGB berukuran > 1 cm atau KGB 
+P endefinisian target radiasi 3 dimensi harus berdasarkan terminologi dengan sentral nekrosis. Untuk membedakan, GTV pada 
+International Commission on Radiation Units and Measurements - 50 lokasi primer dinamai GTV P dan GTV pada KGB disebut 
+(ICRU-50); yaitu gross tumor volume (GTV), clinical target volume  GTV N. 
+(CTV) dan planning target volume (PTV). b. CTV70 (70 Gy): biasanya sama dengan GTV70 (tidak perlu 
+
+ menambahkan margin). Jika margin dibutuhkan akibat 
+
+Proses simulator dengan CT-Scan, pasien diposisikan dalam posisi ketidakpastian gross disease, dapat ditambahkan 5 mm 
+
+supine, dengan fiksasi masker termoplastik untuk imobilisasi kepala sehingga GTV70 + 5 mm = CTV70. Pada daerah sekitar batang 
+
+dan leher, termasuk bahu. Pemberian kontras intravena sangat otak dan medulla spinalis, batas 1 mm dianggap cukup, 
+
+membantu dalam mendelineasi GTV, terutama pada kelenjar getah disebabkan perlu untuk melindungi struktur jaringan normal kritis. 
+
+bening. Fusi dengan modalitas pencitraan lain seperti MRI dapat Jika tumor melibatkan satu sisi, yang mana pasien dapat 
+d ilakukan, lebih baik dengan yang ketebalan slice-nya minimal 3 mm. terancam mengalami kebutaan sebagai akibat dari terapi, maka 
+
+Basis kranii (clivus dan nervus intrakranial) sangat baik bila dilihat perlu dilakukan informed consent dan lakukan pembatasan dosis 
+
+dengan MRI. Marrow infiltration paling baik dilihat pada sekuens MRI pada kiasma optikum, untuk melindungi 
+
+T1- non kontras. 
+ 
+10 
+
+
+
+struktur optik kontralateral. Gross disease pada KGB Dosis radioterapi kuratif definitif tanpa kemoterapi adalah (NCCN, 
+
+ retrofaring harus mendapatkan dosis 70 Gy. k ategori 2A): 
+c. PTV70 (70 Gy): CTV70 + 3-5 mm, bergantung kepada tingkat • PTV risiko tinggi (tumor primer dan KGB positif, termasuk 
+
+kenyamanan pengaturan posisi pasien sehari-hari. Untuk kemungkinan infiltrasi subklinis pada tumor primer dan KGB 
+daerah sekitar batang otak dan medulla spinalis, batas 1 mm  risiko tinggi) : 66 Gy (2,2 Gy/fraksi) sampai 70 Gy (1,8-2 
+masih diperbolehkan.  Gy/fraksi) 
+
+ • PTV risiko rendah hingga menengah (lokasi yang dicurigai 
+2 . Volume target pada daerah subklinis risiko tinggi (High Risk). terjadi penyebaran subklinis) : 44-50 Gy ( 2 Gy/fraksi) sampai 
+
+a. CTV59,4 (59,4 Gy) : CTV59,4 harus mencakup seluruh 54-63 Gy (1.6-1,8 Gy/fraksi) 
+
+ daerah GTV70.  
+Primer: seluruh nasofaring (termasuk seluruh palatum molle), Dosis radioterapi konkuren kemoterapi (kemoradiasi) adalah (NCCN, 
+
+ clivus, basis kranii (termasuk foramen ovale, tempat nervus k ategori 2A) : 
+V.3 berada), fossa pterygoid, spasium parafaring, sinus  • PTV risiko tinggi : 70 Gy (1,8-2 Gy/fraksi) 
+sphenoid, 1/3 posterior sinus maksilaris (mencakup fossa • PTV risiko rendah hingga menengah: 44-50 Gy ( 2 Gy/fraksi) 
+pterigopalatina, tempat nervus V.2 berada), sinus ethmoid sampai 54-63 Gy (1.6-1,8 Gy/fraksi). Jika menggunakan teknik 
+
+ posterior, sinus kavernosus pada kasus T3-4.  3DCRT, dosis direkomendasikan 44-50 Gy, jika menggunakan 
+
+Leher: KGB retrofaring, level IB-V bilateral. Level IB dapat IMRT dapat diberikan 54-53 Gy. 
+
+ dikeluarkan apabila pasien N0.  
+b. PTV 59,4 (59,4 Gy): CTV 59,4 + 3-5 mm, bergantung kepada Selain peresepan dosis, yang perlu diperhatikan adalah dosis jaringan 
+
+tingkat kenyamanan pengaturan posisi pasien sehari-hari, sehat sekitarnya. Deliniasi organ sehat harus mengacu kepada pedoman 
+
+namun bisa sekecil 1 mm pada daerah dekat jaringan kritis dari Radiation Therapy Oncology Grup (RTOG)1605 
+normal.  
+
+  Prinsip Pemberian Radioterapi 11
+ 
+
+3 . Volume target pada daerah subklinis risiko rendah (Low Risk). 
+ RT Definitif 
+
+a. PTV 54 (54 Gy): pada kasus N0 atau leher bawah (Level IV PTV 
+ 
+
+dan VB). Daerah leher anterior bawah dapat juga  Risiko tinggi: tumor primer dan KGB terkait (mencakup 
+menggunakan teknik konvensional (AP atau AP=PA). Daerah infiltrasi lokal subklinik pada lokasi primer dan level KGB 
+ini berisiko rendah sehingga dosis dapat diturunkan menjadi  yang berisiko tinggi)
+50 Gy. o 66 Gy (2,2 Gy/fraksi) hingga 70-70,2 Gy (1,8 – 
+
+ 2,0Gy/fraksi); setiap hari Senin-Jumat dalam 6-7 
+
+Dosis radioterapi minggu
+ 
+
+11 
+
+
+
+  
+
+     
+ 
+
+o 69,96 Gy (2,12 Gy/fraksi) setiap hari Senin-Jumat  Mandibula dan  70  Gy,  jika  tidak  mungkin,   
+ 
+
+     
+ 
+
+ dalam 6-7 minggu  Temporo Mandibula  pastikan  dosis  75  Gy  tidak   
+ 
+
+ Risiko rendah hingga sedang: lokasi yang dicurigai  Joint     lebih dari 1 cc   
+ 
+
+ mengalami penyebaran subklinik        
+ 
+
+ o 44-50 Gy (2,0 Gy/fraksi) hingga 54-63 Gy (1,6-1,8  Pleksus Brakialis   Dosis maksimal 66 Gy   
+ 
+
+         
+ 
+
+Gy/fraksi).        
+ 
+
+ Kavum Oris (tak  Rerata  (mean)  dose  kurang   
+ 
+
+       
+ 
+
+ Kemoradiasi konkuren  termasuk PTV)    dari 40 Gy   
+ 
+
+        
+ 
+
+ PTV  Tiap Koklea    Tidak lebih dari 5% mendapat   
+ 
+
+         
+ 
+
+          
+
+ Risiko tinggi: biasanya 70-70,2 Gy (1,8-2,0 Gy/fraksi);       55 Gy atau lebih   
+ 
+
+ setiap hari Senin-Jumat dalam 7 minggu          
+  
+
+ Mata     Dosis maksimal 50 Gy   
+ 
+
+ Risiko rendah hingga sedang: 44-50 Gy (2,0 Gy/fraksi)          
+ 
+
+        
+ 
+
+hingga 54-63 Gy (1,6-1,8 Gy/fraksi)  Lensa     Dosis maksimal 25 Gy   
+ 
+
+        
+ 
+
+        
+ 
+
+IMRT lebih terpilih dibandingkan dengan 3D-CRT pada KNF  Laring Glottis    Dosis maksimal 45 Gy   
+ 
+
+         
+ 
+
+untuk meminimalkan dosis pada struktur kritikal        
+ 
+
+ Esofagus,  faring  Dosis maksimal 45 Gy   
+ 
+
+        
+ 
+
+ pasca krikoid       
+Pedoman Dosis Radioterapi pada PRV  
+
+         
+ 
+
+ Ket (*) : PRV = Planning Organ At Risk Volume 
+ Organ    Batasan Dosis   Batasan Dosis di   
+
+ 
+
+          
+ 
+
+Penggunaan teknik IMRT telah menunjukkan penurunan dari 
+        PRV*    
+
+ toksisitas kronis pada kasus karsinoma orofaring, sinus paranasal, 
+ Batang Otak    Dosis maksimal 54 Gy   Tidak lebih dari  
+
+ 
+
+         
+ dan nasofaring dengan adanya penurunan dosis pada kelenjar-
+
+        1% melebihi 60  
+ kelenjar ludah, lobus temporal, struktur pendengaran (termasuk 
+
+        Gy    
+ koklea), dan struktur optik. 
+
+          
+ 
+
+ Medula Spinalis   Dosis maksimal 45 Gy   Tidak lebih dari 
+  
+
+         
+ 
+
+        1%  melebihi 50 3D Conformal Radiotherapy/IMRT juga dapat diindikasikan untuk 
+ 
+
+        Gy    t indakan radiasi: 
+ 
+
+          
+ 
+
+ Nervus Optik,   Dosis maksimal 50 Gy   Dosis maksimal  • Sebagai booster tumor primer 
+ 
+
+          
+  • Kasus residif 
+
+ Kiasma Optik       54 Gy    
+ • Sebagai pengganti tindakan brakhiterapi 
+
+            
+ 
+
+ 
+12 
+
+
+
+ 
+Untuk IMRT, verifikasi posisi harus dilakukan setiap fraksi dengan Rekomendasi A 
+Electronic Portal Image Devices (EPID) untuk 5 fraksi pertama, diikuti  
+dengan setiap 5 fraksi. Penggunaan teknik IMRT pada radiasi kanker nasofaring, 
+ bilamana memungkinkan, lebih direkomendasikan dibanding 
+U ntuk 3D-CRT, verifikasi posisi harus dilakukan setiap fraksi dengan teknik 3D-CRT ataupun 2D konvensional mengingat teknik 
+EPID untuk 3 fraksi pertama, diikuti dengan setiap 5 fraksi. tersebut dapat meminimalisir toksisitas terhadap organ kritis yang 
+ terletak berdekatan. 
+Brakhiterapi  
+
+• Dengan guide NGT 100 cm dengan penampang + 2 mm 
+ 
+
+• Cara brakhiterapi nasofaring adalah dengan menggunakan dimasukkan melalui hidung dan keluar dari mulut. Dengan 
+
+aplikator Levendag dengan menggunakan sumber radiasi Ir  guide ini dipasang aplikator lavendag lalu difiksasi. 
+
+192 HDR. Dilakukan tindakan anestesi lokal atau anestesi • Pasang aplikator kedua, pasang dummy, buat foto AP dan 
+
+umum. Lateral. Dosis ditentukan pada daerah nasofaring, daerah 
+organ kritis lainnya dihitung dan diusahakan dosis jangan 
+melebihi dosis toleransi jaringan sehat 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+
+
+
+LAMPIRAN 4. PRINSIP RADIOTERAPI PALIATIF 
+
+  
+Pemberian radiasi dengan tujuan paliatif dapat diberikan pada kasus Target radiasi dapat dibagi menjadi 2 yaitu, radioterapi konvensional 
+stadium lanjut dimana tujuan kuratif sudah tidak dapat 2 dimensi yang menggunakan penanda tulang (bony landmark) dan 
+dipertimbangkan lagi. r adioterapi konformal 3 dimensi yang menggunakan terminologi 
+
+ I nternational Commission on Radiation Units and Measurements - 50 
+
+Pada stadium lanjut (M1), radioterapi lokoregional dapat diberikan (ICRU-50); yaitu gross tumor volume (GTV), clinical target volume 
+dengan setting kuratif pada pasien dengan metastasis pada daerah (CTV) dan planning target volume (PTV). 
+terbatas atau dengan beban tumor yang rendah, atau pada pasien  
+dengan gejala pada daerah lokal primer dan KGB, dengan tujuan Radioterapi konvesional mendefinisikan target radiasi dari lesi yang 
+mengurangi gejala selama toksisitas radiasi masih dapat ditoleransi. menyerap radiofarmaka disertai nyeri kemudian memberikan jarak 1 
+Pada stadium lanjut ini, radioterapi dapat diberikan pasca pemberian ruas vertebrae ke atas dan ke bawah. Untuk batas lateral, diberikan 
+kemoterapi berbasis platinum atau konkuren dengan kemoterapi jarak 0.5 cm dari pedikel vertebrae. 
+(kemoradiasi) (NCCN Kategori 2A).  
+ R adioterapi 3D-CRT pada metastases tulang. 
+Radioterapi paliatif diberikan pada kanker nasofaring yang sudah G TV: Lesi osteolitik atau osteoblastik dan juga massa jaringan lunak. 
+b ermetastases jauh, misalnya ke tulang, dan menimbulkan rasa nyeri. CTV: Korpus, pedikel, lamina dari vertebrae yang terlibat, disertai 
+Tujuan paliatif diberikan untuk meredakan gejala sehingga jaringan lunak yang terlibat dan diberi jarak 0.5 cm, tanpa 
+meningkatkan kualitas hidup pasien. Radioterapi pada tatalaksana m emasukkan usus dan lemak. 
+metastases tulang merupakan salah satu modalitas terapi selain PTV: 0.5-1 cm tergantung metode imobilisasi dan verifikasi posisi 
+imobilisasi dengan korset atau tindakan bedah, bisfosfonat, terapi yang digunakan. 
+hormonal, terapi target Cetuximab dan Nimotuzumab, terapi  
+radionuklir dan kemoterapi. D osis 
+
+ D osis yang diberikan pada radioterapi paliatif * adalah: 
+R adioterapi pada metastases tulang dapat diberikan atas indikasi:  • 1 fraksi x 8 Gy 
+
+ • Nyeri.  • 5 fraksi x 4 Gy 
+
+ • Ancaman fraktur kompresi yang sudah distabilisasi.  • 10 fraksi x 3 Gy 
+• Menghambat kekambuhan pasca operasi reseksi. • 15 fraksi x 2.5 Gy 
+
+  
+Target Radiasi *Dosis ini dapat berubah menurut pertimbangan Dokter sesuai 
+
+dengan kondisi masing-masing pasien. 
+ 
+14 
+
+
+
+Yang perlu diperhatikan dalam radioterapi paliatif pada vertebrae  
+
+adalah batasan dosis untuk medulla spinalis dan organ sekitar. Organ  
+sekitar yang perlu diperhatikan adalah ginjal, terutama bila diberikan Pedoman deliniasi pada SBRT adalah sebagai berikut: 
+pengaturan berkas sinar yang kompleks. Untuk dosis toleransi 
+jaringan sehat dapat mengacu kepada pedoman Quantitative 
+Analysis of Normal Tissue Effects in the Clinic (QUANTEC). 
+
+ 
+T eknik Radioterapi Eksterna 
+
+T eknik yang dapat digunakan adalah 
+
+ • Radioterapi konvensional 2 dimensi 
+
+ • Radioterapi konformal 3 dimensi 
+• Stereotactic body radiotherapy (SBRT)* 
+
+ 
+* SBRT biasanya diberikan pada kasus oligo metastases dengan lesi 
+tunggal pada vertebrae atau maksimal 2 ruas. Dosis yang diberikan 
+adalah 16 Gy dalam fraksi tunggal. Kriteria untuk dilakukan SBRT 
+dapat dilihat di bawah ini. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+
+
+
+LAMPIRAN 5. PRINSIP KEMOTERAPI 
+ 
+
+Prinsip Kemoterapi (1) 
+ 
+ 
+A dapun regimen kemoterapi yang dapat diberikan adalah 
+1 . Cisplatin Mingguan-Radioterapi 
+2 . Docetaxel-Cisplatin-5-Fluorouracil 
+3 . 5-Fluorouracil-Cisplatin 
+4 . Methotrexate 
+6 . Paclitaxel-Cisplatin 
+7 . Capecitabine 
+8 . Cisplatin-Radioterapi + Ajuvan Cisplatin-Fluorouracil 
+9. Gemcitabine-Cisplatin 
+
+ 
+O bat-obatan Simptomatik 
+
+1. Keluhan yang biasa timbul saat sedang diradiasi terutama adalah akibat reaksi akut pada mukosa mulut, berupa nyeri untuk mengunyah dan 
+
+ menelan. 
+2. Keluhan ini dapat dikurangi dengan obat kumur yang mengandung tanda septik dan adstringent, (diberikan 3 – 4 sehari). Bila ada tandatanda 
+
+ moniliasis, dapat diberikan antimikotik. 
+3 . Pemberian obat-obat yang mengandung anestesi lokal dapat mengurangi keluhan nyeri menelan. 
+4 . Sedangkan untuk keluhan umum, misalnya nausea, anoreksia dan sebagainya dapat diberikan terapi simptomatik. 
+5. Radioterapi juga diberikan pada kasus metastasis untuk tulang, paru, hati, dan otak. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+16 
+
+
+
+     Prinsip Kemoterapi (2)  
+       
+  A. Nama regimen   CISPLATIN mingguan-RADIOTERAPI  
+  Jenis kanker   Kanker kepala dan leher stadium lokal lanjut Tujuan kuratif 
+       
+
+ Regimen Kemoterapi 
+
+ Regimen cisplatin mingguan + radioterapi – salah satu regimen kanker kepala dan leher yang efektif dengan efek samping yang relatif rendah. 
+Penggunaan Rasional  
+
+ 
+ Untuk kanker kepala dan leher, stadium lokal lanjut yang tidak dapat direseksi. 
+
+ B. Efek samping 
+
+ Efek samping yang paling sering terjadi: 
+
+ Mual muntah    Myelosupresi dan infeksi   
+
+ Nefrotoksiksisitas    Stomatitis 
+
+  Neurotoksiksistas dan ototoksiksisitas    Fatigue 
+
+ C. Hal-hal yang harus diperhatikan 
+Koordinasi dengan bagian radioterapi merupakan hal penting yang harus dikerjakan sebelum memulai program terapi dengan regimen ini. Selain 
+itu, selama terapi sangat penting untuk mengedukasi penderita agar mempertahankan asupan makanan dan cairan cukup untuk mengurangi 
+risiko terjadinya mukositis yang berat. Pemasangan selang nasogastrik sejak awal perlu dipertimbangkan untuk mempertahankan asupan 
+makanan dan minuman. Guna menghindari infeksi fokal dari gigi dan mulut, perlu dilakukan konsultasi perawatan kesehatan gigi mulut sebelum 
+dimulai terapi kemoradiasi. Selain itu selama menjalani kemoradiasi, higiene oral perlu dijaga dengan cara menggunakan obat kumur secara 
+teratur. Jenis obat kumur yang dapat digunakan adalah obat kumur yang mengandung salin, fluoride, dan larutan analgetik. Sukralfat topikal, 
+dan nystatin topikal juga dapat dipakai untuk mengurangi derajat mukositis. Penderita disarankan untuk banyak mengunyah permen karet tanpa 
+gula guna mengurangi beratnya xerostomia kronik pasca radiasi. 
+
+ D. Catatan 
+Meskipun regimen ini relatif aman digunakan, efek samping yang berat tetap mungkin terjadi terutama pada penderita dengan status performa yang 
+kurang baik (ECOG 2, lihat Lampiran 1). Penderita dengan status performa kurang baik atau penderita yang status performanya menurun selama 
+pengobatan, sebaiknya disarankan rawat inap agar dapat dilakukan monitor ketat untuk mencegah timbulnya efek samping yang berat. Penggunaan 
+masker pelindung khusus selama radiasi sangat diperlukan untuk mengurangi beratnya efek samping. Selain efek samping akut juga sering dijumpai 
+efek samping kronik terutama berupa xerostomia yang sering dikeluhkan penderita karena akan berpengaruh terhadap nafsu makan dan pada akhirnya 
+akan menyebabkan penurunan kualitas hidup. Efek samping kronik lain yang sering terjadi adalah osteoradikulonekrosis yang menyebabkan tanggalnya 
+gigi. Pemeriksaan gigi dan mulut sebelum pengobatan akan menurunkan risiko timbulnya efek samping ini. 
+
+ 
+17 
+
+
+
+     Prinsip Kemoterapi (3)  
+        
+  A. Nama regimen   DOCETAXEL-CISPLATIN-5-FLUOROURACIL  
+        
+  Jenis kanker   Kanker kepala dan leher stadium lokal lanjut  Induksi / neoajuvan 
+      Tujuan kuratif 
+        
+
+ Regimen Kemoterapi 
+Regimen docetaxel-cisplatin-5FU: sering disebut dengan regimen TPF, merupakan regimen standar baru yang mulai banyak digunakan 
+di beberapa pusat onkologi di dunia. 
+
+ 
+Penggunaan Rasional  
+
+ 
+ Terapi induksi/neoajuvan kanker kepala dan leher, stadium lokal lanjut yang tidak dapat direseksi. 
+
+ B. Efek samping 
+
+ Regimen 5FU bolus memiliki efek myelosupresi dan gastrointestinal lebih besar namun lebih sedikit hand-foot syndrome, dibanding infus kontinyu. 
+Efek samping yang paling sering terjadi: 
+
+ 
+ Myelosupresi  Neuropati (ototoksisitas) 
+
+ Mual muntah    Stomatitis 
+
+ Demam, reaksi hipersensitivitas  Nefrotoksisitas 
+
+  Retensi cairan  Hand-foot syndrome 
+
+ C. Catatan 
+Regimen TPF sekarang ini banyak digunakan sebagai terapi induksi/neoadjuvan standar kanker kepala dan leher stadium lokal lanjut yang tidak 
+dapat direseksi menggantikan regimen klasik PF (cisplatin-5FU), karena efikasinya yang lebih baik serta profil efek sampingnya yang lebih 
+ditoleransi oleh penderita. Regimen TPF diberikan sebanyak 4 siklus dan dalam 4-7 minggu sesudah kemoterapi selesai, terapi dilanjutkan 
+dengan radioterapi atau kemoradioterapi konkuren. Median OS kombinasi TPF + radioterapi adalah 18,8 bulan, sedangkan median OS untuk 
+kombinasi TPF + konkuren kemoradioterapi adalah 71 bulan. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+18 
+
+
+
+     Prinsip Kemoterapi (4)  
+       
+  A. Nama regimen   5-FLUOROURACIL-CISPLATIN  
+  Jenis kanker   Kanker kepala dan leher stadium lanjut (metastasis atau rekuren) Tujuan paliatif 
+       
+
+ Regimen Kemoterapi 
+Regimen 5-FU-cisplatin: sering disebut regimen klasik karena paling lama dan paling luas digunakan sebagai terapi standar kanker kepala 
+dan leher stadium lanjut. 
+
+ 
+Penggunaan Rasional  
+
+ 
+ Terapi induksi untuk penderita kanker kepala dan leher rekuren dan/atau metastasis. 
+
+ B. Efek samping 
+
+ Regimen bolus 5FU memiliki efek myelosupresi dan gastrointestinal lebih besar namun lebih sedikit handfoot syndrome, dibanding infus kontinyu 
+
+ 5FU. 
+Efek samping yang paling sering terjadi:   
+
+ Mual muntah    Myelosupresi 
+
+ Nefrotoksiksisitas    Stomatitis 
+
+  Neuropati (ototoksisitas)  Hand-foot syndrome 
+
+ C. Pemberian obat dan hal-hal yang perlu diperhatikan 
+
+ Cisplatin 
+
+Efek samping utama cisplatin adalah nefrotoksik yang sangat berkaitan dengan fungsi ginjal sebelum terapi, sehingga penting untuk selalu 
+memonitor fungsi ginjal sebelum, selama dan sesudah terapi. Hidrasi yang adekuat adalah kunci utama untuk mereduksi kemungkinan 
+
+ terjadinya gagal ginjal. 
+
+ 5FU 
+
+ 5FU dapat dilarutkan dalam NaCl 0,9% ataupun D5%. 5FU yang sudah dilarutkan dalam NS atau D5% stabil dalam 96 jam pada suhu kamar. 
+
+ D. Catatan 
+Regimen 5FU-cisplatin sering menyebabkan efek samping grade 3/4 berupa trombositopenia, nausea, vomitus, stomatitis dan penurunan 
+pendengaran. Mortalitas yang berhubungan dengan toksisitas obat terjadi pada kurang lebih 5% penderita. Beratnya efek samping dari regimen 
+ini merupakan salah satu faktor yang menyebabkan penderita putus berobat. Beberapa cara dilakukan untuk menurunkan toksisitas regimen ini 
+antara lain yaitu: mengurangi dosis cisplatin maupun dosis 5FU atau memberikan cisplatin dalam dosis terbagi selama beberapa hari. Di 
+beberapa pusat onkologi, kedudukan regimen 5FU-cisplatin sebagai terapi standar telah diganti dengan regimen TPF. 
+
+ 
+19 
+
+
+
+Prinsip Kemoterapi (5) 
+ 
+
+ A. Nama regimen   METHOTREXATE  
+  Jenis kanker   Kanker kepala dan leher stadium lanjut (metastasis atau rekuren) Tujuan paliatif 
+       
+
+ Regimen Kemoterapi 
+Regimen methotrexate: merupakan salah stau regimen klasik yang digunakan di banyak pusat onkologi. 
+
+ 
+Penggunaan Rasional  
+
+ 
+Terapi untuk penderita kanker kepala dan leher rekuren dan/atau metastasis, biasanya digunakan sebagai terapi lini kedua bagi mereka yang 
+gagal dengan dengan regimen berbasis platinum atau terapi lini pertama pada penderita yang tidak dapat mentoleransi terapi kombinasi 
+cisplatin-5FU. 
+
+ 
+
+ B. Efek samping 
+
+ Efek samping yang paling sering terjadi: 
+
+ Mual muntah    Toksisitas paru (jarang) 
+
+ Myelosupresi   Radiation recall reaction (jarang) 
+ Stomatitis  Nefrotoksisitas (jarang) 
+
+  Diare  Hepatotoksisitas (jarang) 
+
+ C. Pemberian obat dan hal yang perlu diperhatikan 
+Beberapa efek samping methotrexate yang jarang terjadi (frekuensi 1%-10%) tetapi dapat bersifat berat adalah toksisitas hepar, renal dan paru. 
+Toksistas hepar berhubungan dengan dosis kumulatif dan penggunaan jangka panjang. Bentuk toksisitas dapat berupa fibrosis atau sirosis hati. 
+
+Toksisitas ginjal berat yang menyebabkan gagal ginjal akut, terutama terjadi pada pemberian methotrexate dosis tinggi. Pneumonitis yang 
+berpotensi fatal dapat terjadi kapan saja dan tidak berhubungan dengan tingginya dosis. Bila terjadi gejala-gejala toksisitas, berikan leucovorin 
+dengan dosis 10-15 mg/m2 tiap 6 jam untuk 8 atau 10 kali pemberian. Regimen methotrexate < 100 mg/m2 jarang membutuhkan leucovorin. 
+
+ D. Catatan 
+
+ Regimen methotrexate monoterapi mempunyai risiko toksisitas rendah dan tingkat respon 10-15%. Tidak ada perbedaan survival dengan regimen 
+5FU dan cisplatin. 
+
+ 
+ 
+ 
+ 
+ 
+
+20 
+
+
+
+Prinsip Kemoterapi (6) 
+ 
+
+ A. Nama regimen   PACLITAXEL-CISPLATIN  
+  Jenis kanker   Kanker kepala dan leher stadium lanjut (metastasis atau rekuren) Tujuan paliatif 
+       
+
+ Regimen Kemoterapi 
+Regimen paclitaxel-cisplatin: merupakan alternatif regimencisplatin/5FU. 
+
+ 
+Penggunaan Rasional  
+
+ 
+Sebagai terapi lini pertama atau kedua kanker kepala dan leher rekuren atau metastasis. 
+
+ 
+
+B. Catatan 
+
+ 
+Regimen paclitaxel-cisplatin merupakan alternatif dari regimen cisplatin-5FU. Efikasi kedua regimen ini dalam hal survival adalah sama. 
+Dibandingkan dengan regimen cisplatin-5FU, regimen paclitaxel-cisplatin lebih praktis karena hanya diberikan 1 hari. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+21 
+
+
+
+Prinsip Kemoterapi (7) 
+ 
+  A. Nama regimen   CAPECITABINE  
+  Jenis kanker   Kanker nasofaring metastasis/rekuren Tujuan paliatif 
+       
+
+ Regimen Kemoterapi 
+Regimen capecitabine tunggal/monoterapi merupakan salah satu agen kemoterapi yang aktif pada kanker nasofaring stadium metastasis 
+atau rekuren. 
+
+ 
+
+ Penggunaan Rasional  
+Terapi lini pertama/kedua kanker nasofaring stadium metastasis/rekuren. 
+B. Efek samping 
+
+ 
+
+ Efek samping yang paling sering terjadi  
+
+  Hand-foot syndrome
+ Stomatitis
+
+  Diare
+ Hiperbilirubinemia
+
+ 
+C. Pemberian obat dan hal yang perlu diperhatikan 
+
+ 
+Capecitabine diberikan oral, sesudah atau pada waktu makan, ditelan utuh tidak boleh dibelah atau digerus. Pada penderita dengan kesulitan 
+menelan, capecitabine dapat diberikan dengan cara dibiarkan larut dalam aqua 100-200 cc dan kemudian larutan yang mengandung 
+capecitabine diminum. Efek samping utama capecitabine adalah hand-foot syndrome (HFS), sehingga penting untuk memberitahu penderita 
+sebelum pengobatan dimulai untuk menggunakan sabun yang lembut, menghindari kontak langsung dengan deterjen serta selalu 
+menggunakan krim, terutama yang mengandung urea, pada telapak tangan dan kaki. 
+
+ 
+D. Catatan 
+
+ 
+
+ Capecitabine monoterapi merupakan salah satu pilihan terapi kanker nasofaring stadium metastasis/rekuren, terutama untuk penderita usia lanjut 
+(70 tahun atau lebih) atau penderita dengan status performa yang kurang baik. Suatu uji klinis fase II pada 17 penderita kanker nasofaring 
+stadium metastasis atau rekuren yang pernah diterapi dengan regimen berbasis platinum menunjukkan capecitabine monoterapi menghasilkan 
+response rate sebesar 23,5%, median time to progression 4,9 bulan dan 1-year survival rate 35%. Pada penderita kanker nasofaring yang belum 
+pernah mendapat kemoterapi, kombinasi terapi cisplatin 100 mg/m2 hari 1 + capecitabine 2500 mg/m2 hari 1-14, siklus 21 hari menghasilkan 
+overall response rate 54%, dengan median time to progression 7, 2 bulan dan 1-yearsurvival rate 73%. 
+
+ 
+22 
+
+
+
+     Prinsip Kemoterapi (8)   
+        
+  A. Nama regimen   CISPLATIN-RADIOTERAPI + ajuvan CISPLATIN-FLUOROURACIL  
+
+  Jenis kanker  Kanker nasofaring stadium lokal lanjut Tujuan kuratif  
+        
+
+ Regimen Kemoterapi 
+Regimen cisplatin-5FU + radioterapi: regimen ini sering disebut juga regimen Al-Sarraf, berdasarkan nama peneliti utama dari studi intergrup 0099, 
+
+ yang pertama kali mempublikasikan hasil pengobatan dengan metode ini. 
+
+ Penggunaan Rasional  
+Kanker nasofaring stadium lokal lanjut. 
+
+ B. Efek samping 
+
+ Efek samping yang paling sering terjadi  
+ Mual muntah  Neurotoksisitas dan ototoksisitas  Stomatitis 
+ Nefrotoksisitas  Myelosupresi dan infeksi  Fatigue 
+
+ C. Pemberian obat dan hal yang perlu diperhatikan 
+Koordinasi dengan bagian radioterapi merupakan hal penting yang harus dikerjakan sebelum memulai program terapi dengan regimen ini. Penggunaan masker 
+wajah khusus sangat diperlukan untuk menghindari/mengurangi efek samping radioterapi yang berat. Selain itu, selama terapi sangat penting untuk 
+mengedukasi penderita agar mempertahankan asupan makanan dan cairan dalam jumlah yang cukup untuk mengurangi risiko terjadinya mukositis yang berat. 
+Pemasangan selang nasogastrik sejak awal perlu dipertimbangkan untuk mempertahankan asupan makanan dan minuman. Guna menghindari infeksi fokal dari 
+gigi dan mulut, perlu dilakukan konsultasi perawatan kesehatan gigi dan mulut sebelum terapi kemoradiasi dimulai. Selama menjalani kemoradiasi, higiene oral 
+perlu dijaga dengan cara menggunakan obat kumur secara teratur. Jenis obat kumur yang dapat digunakan adalah obat kumur yang mengandung salin, fluoride, 
+dan larutan analgetik. Sukralfat topikal, dan nystatin topikal juga dapat dipakai untuk mengurangi derajat mukositis. 
+Penderita disarankan untuk banyak mengunyah permen karet tanpa gula guna mengurangi beratnya xerostomia kronik pasca radiasi. 
+
+ D. Catatan 
+Skema regimen menurut Al-Saaraf et al ini merupakan terapi pertama pada kanker nasofaring stadium lokal lanjut yang terbukti memperbaiki survival 
+dibandingkan dengan radioterapi melalui uji klinis fase III. Pada uji klinis fase III (Intergroup study 0099) tersebut, 147 penderita kanker nasofaring stadium lokal 
+lanjut dirandomisasi menjadi 2 kelompok: salah satu kelompok mendapat regimen ini + radioterapi dan kelompok lain hanya mendapat radioterapi. 
+Hasil penelitian menunjukkan kelompok penderita dengan kemo-radioterapi mempunyai 3-year progression-free survival rate (69% vs 24%, P < 0,001) 
+dan 3-year overall survival rate (76% vs 46%; P < 0,001) yang lebih baik dibandingkan dengan kelompok yang mendapat radioterapi saja. Meskipun 
+regimen ini sangat efektif, umumnya regimen ini dianggap tidak feasible untuk dilakukan dalam praktik klinik sehari-hari, khususnya di negara-negara 
+Asia yang merupakan daerah endemik untuk kanker nasofaring, karena efek sampingnya yang terlalu berat. Di negara-negara Asia, pengobatan pada 
+penderita kanker nasofaring stadium lokal lanjut dilakukan dengan memodifikasi regimen ini, misalnya dengan memberikan cisplatin dalam dosis terbagi 
+dengan jumlah dosis total sama atau dengan mereduksi dosis cisplatin. Di RSUP Dr Sardjito, kami menggunakan regimen cisplatin 40 mg/m2 mingguan 
+bersamaan dengan radioterapi. Hasil studi metaanalisis menunjukkan pengobatan kemoradioterapi konkuren mempunyai efikasi yang lebih baik dari 
+pada radioterapi saja, sehingga saat ini teknik pengobatan ini direkomendasikan sebagai terapi standar kanker nasofaring stadium lokal lanjut. 
+
+ 
+23 
+
+
+
+     Prinsip Kemoterapi (9)  
+        
+  A. Nama regimen   GEMCITABINE-CISPLATIN  
+  Jenis kanker  Kanker nasofaring stadium metastasis/rekuren Tujuan paliatif  
+        
+
+ Regimen Kemoterapi 
+
+ Regimen gemcitabine-cisplatin: merupakan alternatif regimen klasik cisplatin-5FU, terutama untuk kasus metastasis atau rekuren. 
+Penggunaan Rasional  
+
+ 
+ Terapi lini pertama atau kedua kanker nasofaring stadium metastasis/rekuren. 
+
+ B. Efek samping 
+
+Efek samping yang paling sering terjadi:   Efek samping yang jarang terjadi namun dapat 
+ Myelosupresi, terutama  Neurotoksisitas (ototoksisitas) menjadi berat: 
+
+ trombositopenia  Nefrotoksisitas  Keganasan sekunder 
+
+ Rum  Fatigue/asthenia/flu-like syndrome  Pneumonitis 
+
+ Edema dan/atau proteinuria  Peningkatan transaminase  Sindrom hemolitik uremik 
+ Mual muntah     
+
+      
+
+ C. Pemberian obat dan hal yang perlu diperhatikan 
+
+ Cisplatin 
+
+Efek samping utama cisplatin adalah nefrotoksik yang sangat berkaitan dengan fungsi ginjal sebelum terapi, sehingga penting untuk selalu 
+memonitor fungsi ginjal sebelum, selama dan sesudah terapi. Hidrasi yang adekuat adalah kunci utama untuk mereduksi kemungkinan terjadinya 
+
+ gagal ginjal 
+
+ Gemcitabine 
+
+Gemcitabine sebaiknya diberikan dengan infus cepat (habis dalam 30 menit), infus yang lebih lama akan meningkatkan risiko toksisitas, 
+khususnya toksisitas hematologi 
+
+ D. Catatan 
+Regimen gemcitabine-cisplatin digunakan sebagai terapi lini pertama/kedua kanker nasofaring stadium metastasis/rekuren di beberapa pusat 
+onkologi dunia berdasarkan konsistensi hasil beberapa studi fase II yang menunjukkan regimen ini mempunyai efikasi yang baik dengan 
+toksisitas yang relatif ringan. Pada uji klinis fase II kami dengan regimen ini pada kasus kanker nasofaring stadium lanjut diperoleh overall 
+response rate 81% dengan median progression-free survival 15 bulan dan frekuensi toksisitas hematologi derajat 3/4 untuk anemia, leukopenia 
+dan trombositopenia masing-masing adalah 1,7%, 9% dan 1,1%. 
+
+ 
+
+ 
+
+24 
+
+
+
+LAMPIRAN 6. Penapisan Malnutrisi dan Kaheksia 
+  
+
+  
+P enapisan Gizi  Pada pasien dengan hasil skrining abnormal, perlu dilakukan 
+Masalah nutrisi perlu mendapat perhatian serius dalam tatalaksana penilaian objektif dan kuantitatif asupan nutrisi, kapasitas 
+pasien kanker, sehingga harus dilakukan skrining dan diagnosis lebih fungsional, dan derajat inflamasi sistemik.
+
+lanjut. 22 European Partnership for Action Against Cancer (EPAAC)  
+ 
+
+dan The European Society for Clinical Nutrition and Metabolism  
+(ESPEN) menyatakan bahwa pasien kanker perlu dilakukan skrining 
+
+ 
+gizi untuk mendeteksi adanya gangguan nutrisi, gangguan asupan 
+
+Rekomendasi tingkat A 
+makanan, serta penurunan berat badan (BB) dan indeks massa tubuh 
+
+ 
+(IMT) sejak dini, yaitu sejak pasien didiagnosis kanker dan diulang 
+
+ Direkomendasikan bahwa selama radioterapi pada kanker kepala-
+sesuai dengan kondisi klinis pasien. Pasien kanker dengan hasil 
+
+leher, saluran cerna bagian atas dan bawah, serta thoraks, harus 
+skrining abnormal, perlu dilakukan penilaian objektif dan kuantitatif 
+
+dipastikan asupan nutrisi adekuat, melalui edukasi dan terapi gizi 
+a supan nutrisi, kapasitas fungsional, dan derajat inflamasi sistemik. 
+
+individual dan/atau dengan menggunakan ONS, untuk mencegah 
+Pada semua pasien kanker lanjut, disarankan untuk dilakukan skrining 
+
+gangguan nutrisi, mempertahankan asupan adekuat, dan 
+r utin untuk menilai asupan nutrisi yang tidak adekuat serta penilaian 
+
+menghindari interupsi RT.
+BB dan IMT, yang apabila berisiko, perlu dilakukan diagnosis lebih  
+lanjut. 17 Pada pasien anak, penting melakukan skrining risiko  
+malnutrisi sejak awal diagnosis.  
+
+ Rekomendasi tingkat A 
+
+Rekomendasi tingkat A  
+
+  Disarankan untuk melakukan skrining rutin pada semua pasien 
+
+ Syarat pasien kanker yang membutuhkan tatalaksana nutrisi: kanker lanjut, baik yang menerima maupun tidak menerima 
+
+ Skrining gizi dilakukan untuk mendeteksi gangguan nutrisi, terapi antikanker, untuk menilai asupan nutrisi yang tidak 
+
+gangguan asupan nutrisi, serta penurunan BB dan IMT sedini adekuat, penurunan BB dan IMT yang rendah, dan apabila 
+
+mungkin berisiko, maka dilanjutkan dengan assessmen gizi
+
+
+ Skrining gizi dimulai sejak pasien didiagnosis kanker dan 
+
+diulang sesuai dengan kondisi klinis pasien
+ 
+ 
+25 
+
+
+
+ 
+D iagnosis Malnutrisi dan Sindrom Kaheksia Kriteria Sindrom Kaheksia 24
+
+ 
+M alnutrisi  ditegakkan  berdasarkan kriteria  IMT WHO atau  ESPEN 
+
+ Adanya penurunan BB 5% dalam 12 bulan atau kurang 
+
+2 015 (lihat lampiran). 23
+ 2
+
+(atau IMT < 20 kg/m ) 
+Selain diagnosis malnutrisi, dapat ditegakkan diagnosis kaheksia  Ditambah 3 dari 5 gejala berikut ini: 
+apabila tersedia sarana dan prasarana yang memungkinkan.  1. Berkurangnya kekuatan otot 
+Kaheksia adalah suatu sindrom kehilangan massa otot, dengan 
+
+ 2. Fatigue 
+ataupun tanpa lipolisis, yang tidak dapat dipulihkan dengan dukungan 
+
+ 3. Anoreksia 
+nutrisi konvensional, serta dapat menyebabkan gangguan fungsional 
+
+ 4. Indeks massa bebas lemak rendah 
+progresif. Diagnosis kaheksia ditegakkan sesuai kriteria (lihat 
+
+ 5. Laboratorium abnormal: 
+l ampiran). 24
+
+  Peningkatan petanda inflamasi (IL-6 >4pg/dL, 
+Sindrom kaheksia membutuhkan tatalaksana multidimensi yang CRP >5 mg/L )
+m elibatkan pemberian nutrisi optimal, farmakologi, dan aktifitas fisik.  
+
+ Anemia (Hb < 12g/dL)
+Pemberian nutrisi optimal pada pasien kaheksia perlu dilakukan  
+
+Hipoalbuminemia (<3,2g/dL)
+
+secara individual sesuai dengan kondisi pasien (lihat lampiran). 25
+  
+
+ Berdasarkan kriteria diagnosis tersebut, dapat dijelaskan beberapa 
+ h al berikut ini: 24
+
+ 
+
+ Kriteria Malnutrisi 1. Fatigue diartikan sebagai kelelahan fisik ataupun mental dan 
+
+ Pilihan 1: ketidakmampuan melakukan aktivitas fisik dengan intensitas dan 
+IMT < 18,5 kg/m2
+
+  performa sebaik sebelumnya. 
+
+ atau 2. Anoreksia diartikan sebagai asupan makanan yang kurang baik, 
+Pilihan 2: 
+
+ ditunjukkan dengan asupan energi kurang dari 20 kkal/kg 
+Penurunan BB yang tidak direncanakan >10% BB/hari atau kurang dari 70% dari asupan biasanya atau 
+dalam kurun waktu tertentu atau penurunan berat  hilangnya selera makan pasien. 
+badan >5% dalam waktu 3 bulan, disertai dengan  3. Indeks  massa  bebas  lemak  rendah  menunjukkan  penurunan 
+
+ salah satu dari pilihan berikut:  massa otot, diketahui dari: 
+
+ 1. IMT <20 kg/m2 pada usia <70 tahun atau IMT - Hasil pengukuran lingkar lengan atas (LLA) kurang dari persentil 
+
+ <22 kg/m2 pada usia ≥70 tahun  10 menurut umur dan jenis kelamin, atau 
+2. Fat free mass index (FFMI) <15 kg/m2 untuk - Bila memungkinkan, dilakukan pengukuran indeks otot skeletal 
+
+perempuan atau FFMI <17 kg/m2 untuk laki-laki dengan dual-energy X-ray absorptiometry (DEXA), diperoleh 
+
+hasil pada laki-laki <7,25 kg/m2 dan perempuan <5,45 kg/m2. 
+
+ 
+26 
+
+
+
+LAMPIRAN 7. TATALAKSANA NUTRISI UMUM 
+  
+ Pemenuhan energi dapat ditingkatkan sesuai dengan kebutuhan 
+
+1. Kebutuhan nutrisi umum 26 dan toleransi pasien. 
+ 
+
+a . Kebutuhan energi Rekomendasi tingkat A 
+Idealnya, perhitungan kebutuhan energi pada pasien kanker  
+ditentukan dengan kalorimetri indirek. 27 Namun, apabila tidak  Direkomendasikan, untuk tujuan praktis, bahwa 
+tersedia, penentuan kebutuhan energi pada pasien kanker dapat kebutuhan energi total pasien kanker, jika tidak 
+d ilakukan dengan formula standar, misalnya rumus Harris diukur secara individual, diasumsikan menjadi agak 
+Benedict yang ditambahkan dengan faktor stres dan aktivitas, mirip dengan subyek sehat dan berkisar antara 
+t ergantung dari kondisi dan terapi yang diperoleh pasien saat itu. 2530 kkal/ kg BB/hari
+Penghitungan kebutuhan energi pada pasien kanker juga dapat 
+
+
+d ilakukan dengan rumus rule of thumb:  Selama menjalani terapi kanker, perlu dipastikan 
+
+- Pasien ambulatory : 30-35 kkal/kg BB/hari bahwa pasien mendapat nutrisi adekuat
+- Pasien bedridden : 20-25 kkal/kg BB/hari 
+- Pasien obesitas : menggunakan berat badan 
+
+ ideal  
+
+
+ 
+b . Makronutrien 
+
+Pada pasien anak, penentuan kebutuhan, perhitungan dilakukan 
+• Kebutuhan protein: 1,2-2,0 g/kg BB/hari, pemberian 
+
+d engan rumus sebagai berikut: 
+protein perlu disesuaikan dengan fungsi ginjal dan hati. 
+
+a. Pada kondisi sakit kritis, kalori yang harus dipenuhi  
+ • Kebutuhan lemak: 25-30% dari energi total 
+
+ dihitung berdasarkan rumus: 
+• 35-50% dari energi total untuk pasien kanker stadium 
+
+Resting energy expenditure (REE) x faktor stres x faktor 
+ lanjut dengan penurunan BB (rekomendasi tingkat A). 17 
+
+ aktivitas 
+• Kebutuhan karbohidrat (KH) : sisa dari perhitungan 
+
+b. Pada kondisi tidak sakit kritis, perhitungan kebutuhan 
+protein dan lemak 
+
+ kalori dilakukan berdasarkan rumus: 
+ 
+
+Berat badan ideal x Recommended daily allowance (RDA) 
+c . Mikronutrien 
+
+menurut usia tinggi 
+Sampai saat ini, pemenuhan mikronutrien untuk pasien kanker 
+hanya berdasarkan empiris saja, karena belum diketahui jumlah 
+pasti kebutuhan mikronutrien untuk pasien kanker. ESPEN  
+
+27 
+
+
+
+ 
+menyatakan bahwa suplementasi vitamin dan mineral dapat  Anjuran asupan harian 2 gram asam eikosapentaenoat 
+diberikan sesuai dengan angka kecukupan gizi (AKG). 
+
+ atau eicosapentaenoic acid (EPA). 32
+
+
+  Jika tidak memungkinkan untuk diberikan, pasien dapat 
+
+Rekomendasi tingkat A dianjurkan untuk meningkatkan asupan bahan makanan 
+
+  sumber asam lemak omega-3, yaitu minyak dari ikan
+
+ Direkomendasikan pemberian vitamin dan  salmon, tuna, kembung, makarel, ikan teri, dan ikan lele. 
+32 
+
+mineral sebesar satu kali angka kecukupan gizi
+  
+ FARMAKOTERAPI PADA PASIEN ANOREKSIA 
+
+
+ 
+d . Cairan 
+
+Pasien kanker yang mengalami anoreksia memerlukan terapi 
+Kebutuhan cairan pada pasien kanker umumnya sebesar: 28,29
+
+ multimodal, yang meliputi pemberian obat-obatan sesuai dengan 
+•    Usia kurang dari 55 tahun : 30-40 mL/kgBB/hari 
+
+kondisi pasien di lapangan: 
+• Usia 55−65 tahun : 30 mL/kgBB/hari  
+
+a. Progestin 
+• Usia lebih dari 65 tahun : 25 mL/kgBB/hari  
+
+
+  Dosis optimal MA sebesar 480–800 mg/hari. Penggunaan 
+
+Kebutuhan cairan pasien kanker perlu diperhatikan dengan baik, dimulai dengan dosis kecil, dan ditingkatkan bertahap apabila 
+
+terutama pada pasien kanker yang menjalani radio- dan/atau selama dua minggu tidak memberikan efek optimal. 33
+
+kemo-terapi, karena pasien rentan mengalami dehidrasi. 28,29  
+ 
+
+b. Kortikosteroid 
+Dengan demikian, kebutuhan cairan dapat berubah, sesuai  
+
+
+dengan kondisi klinis pasien.  Kortikosteroid merupakan zat oreksigenik yang paling banyak 
+
+ digunakan. Berbagai penelitian menunjukkan bahwa pemberian 
+
+e . Nutrien spesifik kortikosteroid pada pasien kaheksia dapat meningkatkan selera 
+
+ Branched-chain amino acids (BCAA) makan dan kualitas hidup pasien. 34,35,36
+1 .
+
+  Dapat memperbaiki selera makan 30  
+
+
+ c. Siproheptadin 
+ Menurunkan insidens anoreksia 31
+
+
+Digunakan pada pasien anak dengan kaheksia kanker, dan tidak 
+
+ Dijumpai pada putih telur, ikan, ayam, daging sapi, 
+direkomendasikan pada pasien dewasa (Rekomendasi tingkat E). 33
+
+ 
+ kacang kedelai, tahu, tempe, dan polong-polongan. 32
+
+
+2 . Asam lemak omega-3  
+
+ 
+ Mempertahankan dan memperlambat kecepatan  
+
+penurunan BB, meskipun tidak menambah BB pasien.  
+ 
+
+28 
+
+
+
+Jalur pemberian nutrisi 26
+ 
+
+ 
+ 
+ 
+Pemilihan jalur nutrisi 
+
+  
+  
+  
+  
+  
+  
+Asupan 75100% Asupan 5075% Asupan <60% dari Asupan <50% dari kebutuhan 
+
+dari kebutuhan dari kebutuhan kebutuhan Tidak dapat makan selama 57 
+  Tidak dapat makan selama h ari atau 
+  57 hari atau lebih. 
+
+ lebih 
+  Saluran cerna berfungsi Saluran cerna tidak berfungsi 
+ optimal (ileus,fistula high output, 
+ 
+ diare berat) 
+  
+
+  
+
+Edukasi dan ONS Jalur enteral Jalur parenteral 
+ 
+
+terapi gizi    
+  
+  
+  
+  
+
+pipa nasogastrik/gastrostomi <7 hari: >7 hari: 
+parsial parenteral total 
+p arenteral dengan 
+
+pemasangan 
+central venous 
+
+cathether  
+ 
+
+(CVC) 29  
+ 
+
+ 
+
+
+
+LAMPIRAN 8. TATALAKSANA NUTRISI KHUSUS 
+
+  
+ 
+
+1 . Mukositis oral 37   atau PEG, nutrisi parenteral total 
+
+  Antinyeri topical
+
+  Analgesik Obstruksi karena  Dekompresi 
+
+ Pembersih mulut tumor intra  Endoscopic stenting 
+
+
+ Obat kumur dapat digunakan untuk mengurangi rasa nyeri abdomen,  Pemberian kortikosteroid, 
+
+ pada mulut, seperti chlorhexidine 0,2% metastasis hati metokloperamid, penghambat 
+
+  Pemasangan pipa makanan   pompa proton 
+
+2 . Nausea dan vomitus 
+
+ a. Edukasi dan terapi gizi Gastritis   Penghambat pompa proton 
+
+ b. Medikamentosa (antiemetik)    H2 antagonis 
+   
+
+Antiemetik digunakan sebagai anti mual dan muntah pada  
+pasien kanker, tergantung sediaan yang digunakan, misalnya 3 . Diare 
+golongan antagonis reseptor serotonin (5HT3), antihistamin,  Hidrasi melalui oral dan intravena (IV) dilakukan untuk 
+kortikosteroid, antagonis reseptor neurokinin-1 (NK1), 
+
+ mengganti kehilangan cairan dan elektrolit
+antagonis reseptor dopamin, dan benzodiazepin. 38   Obat antidiare
+
+   Suplementasi serat
+Berikan anti emetik 5-HT3 antagonis (ondansetron) 8 mg atau 4 . Xerostomia 
+0,15 mg/kg BB (i.v) atau 16 mg (p.o). Jika keluhan menetap 
+
+ Moisturising spray/moisturizing gel, untuk membantu 
+dapat ditambahkan deksametason. Pertimbangkan pemberian 
+
+keseimbangan cairan oral dan memberikan sensasi basah 
+antiemetik IV secara kontinyu jika keluhan masih berlanjut. 11 
+
+ pada mukosa mulut.
+Penanganan antiemetik dilakukan berdasarkan penyebabnya, 5 . Kembung 
+yaitu: 11 6 . Konstipasi 
+
+ 
+  Suplemen serat
+
+ Tabel 1. Pemberian antiemetik berdasarkan penyebab 
+ Laksatif, terdiri atas golongan surfaktan (stool softener), 
+
+Penyebab Tatalaksana 
+  lubrikan, salin, stimulan, hiperosmotik, prokinetik, dan 
+
+Gastroparesis Metokloperamid 4 x 5–10 mg (p.o), antagonis reseptor opioid.
+ diberikan 30 menit sebelum makan 
+
+7. Disgeusia  edukasi dan terapi gizi 
+
+
+Obstruksi usus Pembedahan,   pemasangan   NGT 8. Fatigue  edukasi dan terapi gizi 
+ 
+30 
+
+
+
+LAMPIRAN 9. PRINSIP TATALAKSANA REHABILITASI MEDIK 
+  
+
+  
+D isabilitas pada Pasien Kanker Nasofaring - Keterbatasan gerak sendi leher, bahu dan temporomandibular 
+Kedokteran fisik dan rehabilitasi memerlukan konsep fungsi dan (trismus) pada fibrosis pasca radiasi (late onset) 39,42
+
+ 
+keterbatasan dalam penanganan pasien. Pada kanker nasofaring, - Limfedema / bengkak wajah dan leher pada disfungsi drainase 
+penyakit dan penanganannya dapat menimbulkan gangguan fungsi  limfatik pasca radiasi7 
+pada manusia sebagai makhluk hidup seperti gangguan fisiologis, 3. Gangguan menelan / kesulitan makan akibat massa tumor dan 
+psikologis ataupun perilaku yang berpotensi mengakibatkan progresivitas penyakit, efek tindakan / penanganan, dan efek lanjut 
+terjadinya keterbatasan dalam melakukan aktivitas (disabilitas) dan 42,43,44
+
+dari tindakan / late onset). Gangguan dapat berupa:  
+partisipasi sosial dalam kehidupan sehari-hari.  
+ - Nyeri menelan / odinofagia : ulserasi, mukositis, hiposaliva, 
+Nyeri, kelemahan umum, fatigue dan disabilitas seperti gangguan 
+
+ xerostomia, esofagitis 
+proses makan: menelan, komunikasi, dan mobilisasi umum terjadi, 
+
+- Gangguan kebersihan mulut akan mengganggu fungsi 
+yang dapat disebabkan oleh kanker itu sendiri dan atau efek 
+
+ pengecapan 
+penanganannya: radiasi atau kemoterapi. 39 25% gangguan nervus 
+
+- Disfagi mekanik akibat hendaya organ oral dan sekitarnya 
+kranial sering ditemukan pada kanker nasofaring. 40
+  termasuk trimus pada sendi temporomandibular, hiposaliva, 
+Disabilitas pascaradiasi umumnya berupa gangguan fungsi oral serta fibrosis jaringan lainnya. 
+seperti nyeri; gangguan mobilitas organ oral, leher dan trismus; - Disfagi neurogenik dan campuran pada progresivitas penyakit. 
+gangguan menelan dan bicara akibat dari adanya nyeri, gangguan  
+produksi saliva, kebersihan organ oral, dan fibrosis jaringan, serta 4. Gangguan komunikasi akibat massa tumor dan progresivitas 
+
+kelemahan otot.5 Nekrosis tulang juga dapat terjadi pada kasus lanjut penyakit, tindakan / penanganan, dan efek lanjut tindakan / late 
+
+onset, berupa disartria dan disfoni: 40,43
+radiasi. Pada kemoterapi gangguan menelan terjadi akibat dari  
+
+ 
+terganggunya fungsi oral pada stomatitis dan xerostomia. 40
+
+ 5. Gangguan mobilisasi pada kasus: nyeri, pascatindakan & 
+ penanganan, metastasis tulang, dan cedera medula spinalis dan 
+ hendaya otak serta efek tirah baring lama dan kelemahan umum. 
+Keterbatasan Aktifitas  
+ 6. Gangguan fungsi kardiorespirasi akibat metastasis paru, infeksi 
+1. Nyeri akibat: massa tumor & progresivitas; pasca radiasi dan dan tirah baring lama serta efek penanganan 
+
+atau kemoterapi; pada metastasis tulang dan jaringan. 41  
+ 7. Impending / sindrom dekondisi akibat tirah baring lama 
+
+18,19,20,39,40,41,42
+2. Gangguan mobilitas / keterbatasan gerak sendi : 
+
+ 
+31 
+
+
+
+ 
+8. Gangguan pemrosesan sensoris : polineuropati akibat kemoterapi  - Bone scan, Spot foto 
+
+/ CIPN, hendaya otak, dan cedera medula spinalis  - CT scan / MRI (sesuai indikasi) 
+ - Esofagografi 
+9. Gangguan fungsi otak akibat metastasis dan hendaya otak  
+ 
+
+ 
+10. Gangguan fungsi berkemih akibat cedera medula spinalis dan 
+
+Tujuan Tatalaksana Rehabilitasi Medik 
+hendaya otak  
+
+ -  Pengontrolan nyeri 
+11. Gangguan fungsi psiko-sosial-spiritual 45 - Pengembalian dan pemeliharaan gerak leher, bahu, dan sendi 
+ 
+
+ temporomandibular 
+ -
+Gangguan Hambatan Partisipasi   Pemeliharaan kebersihan mulut 
+
+ -  Optimalisasi produksi saliva 
+1 -
+ ) Gangguan aktivitas sehari-hari   Pengembalian fungsi menelan 
+2 -
+ ) Gangguan prevokasional dan okupasi   Pengembalian fungsi komunikasi 
+3 -
+ ) Gangguan leisure   Meningkatkan dan memelihara kebugaran kardiorespirasi 
+
+-  Mengembalikan kemampuan mobilisasi 
+4) Gangguan seksual pada disabilitas 18,19,20 
+ -  Minimalisasi limfedema wajah 
+
+ - Mengembalikan, memelihara dan atau meningkatkan fungsi psiko-
+
+PEMERIKSAAN  sosial-spiritual 
+ - Proteksi fraktur yang mengancam (impending fracture) dan cedera 
+1. Asesmen 
+  medula spinalis 
+
+- Uji fleksibilitas dan lingkup gerak sendi termasuk sendi -  Memperbaiki fungsi pemrosesan sensoris 
+-  Memaksimalkan  pengembalian  fungsi  otak  pada  hendaya  otak 
+
+ temporomandibular 
+
+ - Uji fungsi menelan  (sesuai kondisi) 
+
+- Uji kemampuan fungsional dan perawatan (Barthel Index, - Meningkatkan kualitas hidup dengan memperbaiki kemampuan 
+
+ Karnofsky Performance Scale) aktivitas fungsional 18,19,20,39,40,41 
+ - Asesmen psikososial dan spiritual  
+
+- Evaluasi ortosis dan alat bantu jalan 40  
+
+- Pemeriksaan kedokteran fisik dan rehabilitasi komprehensif PENATALAKSANAAN 
+  
+2. Pemeriksaan penunjang A. Sebelum Tindakan (radioterapi, dan atau kemoterapi) 
+  
+
+ - Pemeriksaan darah 
+ 
+
+- Rontgen toraks 
+32 
+
+
+
+ 
+1. Promotif: peningkatan fungsi fisik, psikososial, spiritual dan - Terapi Non Medikamentosa Modalitas Kedokteran Fisik 
+
+dan Rehabilitasi 
+ kualitas hidup 
+
+2. Preventif terhadap keterbatasan fungsi, aktifitas dan hambatan  o Trans Electrical Nerve Stimulation (TENS) (LEVEL 1) 
+18,48 
+
+partisipasi yang dapat timbul 18  
+o Mengoptimalkan pengembalian mobilisasi dengan 
+
+3. Penanganan terhadap keterbatasan / gangguan fungsi dan 
+modifikasi aktifitas aman dan nyaman, dengan atau 
+
+aktifitas. Pasien sebaiknya diberikan pendekatan multidisiplin 
+tanpa alat bantu jalan dan atau dengan alat fiksasi 
+
+(LEVEL 1) 46 
+  eksternal serta dengan pendekatan psikososial-spiritual 
+B.  Pascatindakan (kemoterapi dan atau radioterapi) 18,48 
+ 
+
+ 
+1. Penanggulangan keluhan nyeri 18,47,48,49 
+
+  Rekomendasi 
+- Nyeri yang tidak diatasi dengan baik dan benar akan - Prinsip program pengontrolan nyeri WHO sebaiknya 
+
+ berdampak disabilitas. digunakan ketika mengobati pasien kanker 
+- Edukasi, farmakoterapi, modalitas kedokteran fisik dan 
+
+ (REKOMENDASI D) 
+
+ rehabilitasi - Pengobatan pasien nyeri kanker sebaiknya dimulai 
+- Edukasi pasien untuk ikut serta dalam penanganan nyeri 
+
+ pada tangga WHO sesuai dengan tingkat nyeri pasien 
+
+ memberi efek baik pada pengontrolan nyeri pasien (LEVEL 
+ (REKOMENDASI B) 
+
+1). 48
+ 
+
+- Asesmen nyeri kronis secara komprehensif termasuk skirining 
+ 
+ rutin psikologis (REKOMENDASI B) 48
+
+  
+Rekomendasi √ Rekomendasi terbaik : penanganan optimal pasien 
+
+ nyeri kanker memerlukan pendekatan multidisiplin 48 
+Pasien sebaiknya diberi informasi dan instruksi  
+
+ tentang nyeri dan penanganan serta didorong 2. Pemeliharaan kebersihan mulut 
+ 
+
+berperan aktif dalam penanganan nyeri 48
+ 
+
+3. Preventif terhadap gangguan fungsi yang dapat terjadi (early 
+ 
+
+and late onset) : 
+(REKOMENDASI B)  
+
+ - Pascaradioterapi : nyeri termasuk nyeri menelan, gangguan 
+
+ - Terapi  medikamentosa  sesuai  prinsip  tatalaksana  nyeri produksi saliva, gangguan menelan; gangguan mobilitas leher, 
+World Health Organization (WHO) (LEVEL4) & WHO bahu, dan rahang; limfedema wajah dan jaringan sekitar 
+
+analgesic ladder (LEVEL2). 48
+  - Pascakemoterapi  :  nyeri  menelan,  gangguan  menelan; 
+
+gangguan kardiorespirasi, gangguan mobilisasi, dan 
+ 
+
+33 
+
+
+
+ 
+ gangguan sensasi / Chemotherapy Induced Polyneuropathy/ 
+
+ - Tatalaksana kebersihan mulut 52
+ 
+
+ CIPN - Latihan organ oral: 40 
+- Sindrom dekondisi pada tirah baring lama  o Stimulasi sensoris 
+
+ 
+o Latihan gerak dan fleksibilitas serta penguatan organ 
+
+ 4. Penanganan gangguan fungsi/disabilitas yang ada (lihat butir C) 
+18,19,20,39,40,41,42,43,44,45 oromotor 40,53
+
+ 
+
+ - Talalaksana trismus, berupa latihan gerak dan 
+peregangan sendi temporomandibular, serta 
+
+C. Tatalaksana Gangguan Fungsi / Disabilitas 
+ menggunakan jaw stretcher 39,54
+
+ 
+1. Gangguan Mobilitas / Keterbatasan Gerak - Latihan produksi saliva dengan latihan gerak sendi 
+
+ 
+Tatalaksana sesuai gangguan fungsi yang ada: temporomandibular, dan tatalaksana gangguan sensasi 
+
+ 
+ somatosensoris 
+
+1.1 Keterbatasan gerak sendi leher, bahu pada fibrosis pasca - Latihan menelan / disfagia mekanik dan atau neurogenik: 
+radiasi (late onset). Tatalaksana: latihan gerak sendi leher 
+
+fase 1 & 2 sesuai hendaya 42
+ 
+
+ dan bahu 
+ 
+
+1.2 Keterbatasan gerak sendi temporomandibular / trismus. 
+Program latihan pencegahan dan edukasi manuver posisi 
+
+Tatalaksana: latihan gerak dan peregangan sendi 
+menelan dapat mengurangi hendaya, menjaga fungsi, dan 
+
+ temporomandibular 39 
+mempercepat pemulihan. (REKOMENDASI D) 66
+
+ 
+1.3 Gangguan drainase limfatik / limfedema wajah dan jaringan  
+
+Pasien kanker kepala dan leher dengan disfagia sebaiknya 
+ sekitar. 50,51 
+
+- Edukasi pencegahan edema : hal yang boleh/ tidak boleh mendapatkan terapi bicara dan bahasa yang tepat untuk 
+mengoptimalkan fungsi menelan yang masih ada dan 
+
+ dilakukan 
+
+ - Reduksi edema dengan terapi gerak/ aktivitas motorik dan mengurangi risiko aspirasi. (REKOMENDASI C) 46
+ 
+
+ 
+ masase Manual Limphatic Drainage (MLD) 
+
+Semua pasien dengan kemoradiasi sebaiknya mendapatkan 
+- Atasi komplikasi / penyulit : Deep Vein Thrombosis (DVT), 
+
+akses terapi bicara dan bahasa baik sebelum, selama, dan 
+gangguan makan, pernapasan, nyeri, infeksi, limforrhoea, 
+
+sesudah kemoradiasi. (REKOMENDASI C) 46
+ 
+
+gangguan psiko-sosial-spiritual. 
+ 
+
+ 
+3. Tatalaksana Gangguan Komunikasi 
+
+ 2. Impending / Gangguan Menelan  
+Tatalaksana sesuai gangguan fungsi yang ada: - Gangguan fonasi atau suara: disfoni, nasal speech dan 
+
+
+ - Tatalaksana nyeri mulut dan menelan  lihat butir B.1 gangguan artikulasi 54
+
+ 
+Nyeri 
+
+ 
+34 
+
+
+
+ 5.4 Gangguan kekuatan otot pada gangguan fungsi otak. 
+Semua pasien dengan gangguan komunikasi sebaiknya Tatalaksana lihat butir 8 
+mendapatkan akses terapi bicara dan bahasa segera  
+setelah diagnosis ditegakkan dan sebelum penanganan 6. Kelemahan umum, fatigue dan tirah baring lama dengan 
+diberikan. (REKOMENDASI C) 11
+
+ impending/ sindrom dekondisi. Tatalaksana sesuai 
+
+ gangguan fungsi & hendaya yang ada / terjadi: 
+ 
+
+4. Gangguan Fungsi Kardiorespirasi pada metastasis paru, - Pencegahan sindrom dekondisi dengan latihan: pernapasan, 
+
+ lingkup gerak sendi, penguatan 
+obstruksi jalan napas, infeksi, tirah baring lama, dan efek 
+penanganan. Tatalaksana sesuai gangguan fungsi yang terjadi Otot dan stimulasi listrik fungsional dan latihan ketahanan 
+
+kardiopulmonar serta ambulasi. 18,19,20,39,40,41
+pada hendaya paru dan jantung: retensi sputum, gangguan  
+
+-
+pengeluaran riak, kesulitan bernafas dan gangguan penurunan  Pelihara kemampuan fisik dengan latihan aerobik bertahap 
+
+ sesuai kemampuan yang ada. 56
+kebugaran. Modifikasi dan adaptasi aktifitas diperlukan untuk  
+
+-
+dapat beraktivitas dengan aman 18,19,20,55  Pelihara kestabilan emosi antara lain dengan cognitive 
+
+ 
+behavioral therapy (CBT) 56 
+
+ 
+
+ 5. Gangguan Fungsi Mobilisasi Pelihara kemampuan beraktivitas dengan modifikasi aktivitas 
+
+hidup22 
+ Tatalaksana  sesuai  gangguan  fungsi  dan  hendaya  yang  
+
+ berpotensi menyebabkan terjadinya gangguan mobilisasi: 7. Tatalaksana gangguan sensasi somatosensoris polineuropati 
+20,39,40,41 
+
+  pascakemoterapi (CIPN) 
+
+ 5.1. Nyeri, tatalaksana lihat butir B.1. di atas 8. Gangguan fungsi otak dan saraf kranial pada metastasis dan 
+5.2. Metastasis tulang dengan fraktur mengancam hendaya otak dan saraf kranial. Tatalaksana sesuai gangguan 
+
+(impending fracture) dan atau dengan fraktur patologis 
+ yang terjadi 
+
+ serta cedera medula spinalis. Tatalaksana: 9 . Evaluasi dan Tatalaksana Kondisi Sosial dan Perilaku Rawat 
+
+ b. Edukasi pencegahan fraktur patologis 10. Mengatasi dan Menyelesaikan Masalah Psikospiritual yang ada 
+
+ c. Mobilisasi aman dengan alat fiksasi eksternal dan atau Tatalaksana pasien dengan disfigurement & support group 
+dengan alat bantu jalan dengan pembebanan 
+
+ (LEVEL 2) 50 
+bertahap. Pemilihan alat sesuai lokasi metastasis 
+
+ 11. Adaptasi Aktivitas Kehidupan Sehari-hari 
+
+ tulang. 
+ 12. Rehabilitasi Prevokasional dan Rehabilitasi Okupasi 
+
+ 5.3 Tirah baring lama dengan sindrom dekondisi, kelemahan 13. Rehabilitasi Medik Paliatif 
+
+ umum dan fatigue.  
+
+Tatalaksana lihat butir 6 di bawah  
+ 
+
+ 
+ 
+
+35 
+
+
+
+LAMPIRAN 10. MANIFESTASI PSIKIATRIK 
+
+  
+Gejala dan keluhan psikiatrik yang sering ditemukan pada gangguan persepsi yang tidak dikaitkan dengan 
+pasien kanker nasofaring dapat berupa iritabilitas (87,5%), demensia. 
+
+ 
+gangguan cemas (72,5%), dan depresi (62,5%). Sedangkan  Gangguan berkembang dalam periode waktu 
+perilaku gaduh gelisah juga sering ditemukan pada satu dari yang pendek, cenderung berfluktuasi dalam 
+tiga pasien kanker nasofaring. 57 Pasien kanker nasofaring sehari.
+
+
+yang mengalami radionekrosis (CRN) post radioterapi juga  Ada bukti dari riwayat penyakit, pemeriksaan 
+dapat menampilkan gejala psikotik organik yang berupa fisik, laboratorium bahwa gangguan disebabkan 
+halusinasi maupun waham. 57,58 Kanker nasofaring yang oleh konsekuensi fisiologik langsung dari suatu 
+bermetastasis ke otak juga dapat menyebabkan perubahan penyakit atau kondisi medis umum.
+kesadaran dan atensi yang bermanifestasi sebagai delirium.  
+
+ T atalaksana: 59,60
+ 
+
+ 1. Delirium  Mencari dan mengobati penyebab delirium 
+Merupakan suatu sindrom yang ditandai dengan (diperlukan pemeriksaan fisik yang cermat 
+gangguan kesadaran dan kognisi yang terjadi secara 
+
+dan pemeriksaan penunjang yang adekuat. 
+akut dan berfluktuasi. 59 Pemeriksaan darah lengkap, elektrolit, 
+
+ 
+Manifestasi klinik: 59 analisis gas darah, fungsi hati, dan fungsi 
+
+ 
+ginjal, serta EEG atau pencitraan otak bila 
+
+ Gangguan kesadaran (berkurangnya kejernihan 
+ terdapat indikasi disfungsi otak).
+
+kewaspadaan terhadap lingkungan) yang 
+ditandai dengan berkurangnya kemampuan  Memastikan keamanan pasien.
+
+
+memfokuskan, mempertahankan dan  Mengobati gangguan perilaku terkait dengan 
+
+ mengalihkan perhatian. delirium, misalnya agitasi psikomotor.
+
+  Adanya perubahan dalam kognisi (defisit memori,  
+
+disorientasi, gangguan berbahasa) atau Strategi non-farmakologik: 59,60
+ 
+
+ Modifikasi lingkungan
+ 
+
+36 
+
+
+
+ 
+
+  Persuasi orang lain dapat diberikan Haloperidol injeksi 2,5 
+ Pendampingan keluarga setiap saat mg (1/2 ampul) I.M, dapat diulang setelah 30 menit, 
+
+ dengan dosis maksimal 5 mg/ hari. 
+
+Pemberian obat psikiatrik: 60
+  
+
+Pemberian obat psikiatrik bukan merupakan 2 . Iritabilitas dan Gaduh Gelisah 
+
+rekomendasi utama pada tatalaksana delirium. Manajemen tatalaksana iritabilitas dan gaduh 
+
+Pemberian obat psikiatrik dapat dipertimbangkan  gelisah: 61 
+apabila didapati adanya tanda dan gejala psikosis  Identifikasi penyebab iritabilitas dan perilaku 
+maupun kondisi gaduh gelisah yang gaduh gelisah.
+
+
+membahayakan pasien maupun orang lain.  Lakukan persuasi untuk menenangkan 
+ 
+
+ pasien, maksimal 15 menit.
+
+Pemberian obat oral: 60
+ 
+
+  Apabila langkah persuasi tidak berhasil, 
+ Pasien dewasa: Haloperidol 0,5 mg setiap pertimbangkan pemberian obat injeksi: 
+
+ 4-6 jam, dosis maksimal 10 mg/ hari. Haloperidol 5 mg (1 ampul), intramuscular, 
+
+ Pasien geriatrik: Haloperidol 0,5 mg setiap dapat diulang setiap 30 menit, dosis 
+4-6 jam, dosis maksimal 3 mg/ hari. maksimal 30 mg/ hari.
+
+ 
+
+Pemberian obat injeksi: 60
+ 3 . Psikotik Organik 
+
+Pada pasien dewasa dengan kondisi gaduh gelisah Manifestasi klinik: 62 
+berat yang membahayakan dirinya sendiri maupun  Adanya halusinasi auditorik maupun visual 
+orang lain dapat diberikan Haloperidol injeksi 5 mg (suara atau bayangan tanpa sumber, tanpa 
+(1 ampul) I.M, dapat diulang setelah 30 menit, stimulus) atau waham (keyakinan yang 
+dengan dosis maksimal 10 mg/ hari. salah, menetap, tidak sesuai dengan fakta 
+
+ dan tidak bisa dikoreksi).
+
+
+Pada pasien geriatrik dengan kondisi gaduh gelisah  Tidak didapatkan adanya gangguan tingkat 
+berat yang membahayakan dirinya sendiri maupun 
+
+ kesadaran.
+37 
+
+
+
+ 
+ Adanya bukti objektif dari pemeriksaan fisik/   Kehilangan minat dan kegembiraan
+
+pemeriksaan neurologis/ pemeriksaan  Berkurangnya energi yang menuju 
+penunjang lainnya dan atau adanya riwayat meningkatnya keadaan yang mudah lelah 
+penyakit medis.
+
+ (rasa lelah yang nyata sesudah kerja 
+
+ Diasumsikan ada hubungan antara kondisi sedikit saja) dan menurunnya aktivitas
+medis umum dengan munculnya gejala  
+
+psikotik. Gejala klinis penyerta: 59
+  
+
+ Ditemukan adanya perbaikan pada gejala   Konsentrasi dan perhatian berkurang
+psikotik yang mengikuti perbaikan kondisi 
+
+  Harga diri dan kepercayaan diri berkurang
+medis umum penyebabnya.  Gagasan tentang rasa bersalah dan 
+
+ 
+  tidak berguna
+  Pandangan masa depan yang suram 
+
+Tatalaksana: 63
+ 
+
+ dan pesimistis
+
+
+ Tatalaksana kondisi medis umum yang  Gagasan atau perbuatan 
+ mendasari timbulnya gejala psikotik organik.
+
+ membahayakan diri atau bunuh diri
+ Manajemen lingkungan
+
+   Tidur terganggu
+ Pemberian antipsikotik (jenis obat dan dosis  Nafsu makan berkurang
+
+disesuaikan dengan kondisi medis umum  
+
+yang mendasari) Tatalaksana: 59
+ 
+
+ Kombinasi psikoterapi dan obat antidepresan 
+4 . Depresi memberikan hasil yang baik. Pilihan obat 
+
+Gangguan suasana perasaan depresi yang antidepresan yang dapat diberikan yaitu: 
+ 
+
+merupakan akibat langsung dari stroke.  Fluoksetin, rentang dosis anjuran 10-40 
+ mg/ hari
+
+Gejala klinis utama: 59  
+
+ Suasana perasaan depresi  
+
+38 
+
+
+
+ Sertralin, rentang dosis anjuran 50-150 mg/ 
+hari
+
+
+ Escitalopram, rentang dosis anjuran 20-
+
+60 mg/ hari
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+39 
+
+
+
+ 7. Murthy AK KVSK. Meta-analysis of GSTM1 and GSTT1 
+KEPUSTAKAAN 
+ polymorphisms and risk of nasopharyngeal cancer. Asian 
+
+1. Chan J, PIlch B, Kuo T, Wenig B, Lee A. Tumours of the Pacific J Cancer Prev. 2013; 14. 
+nasopharynx. In Barnes L EJRPSD, editor. WHO classification of  
+tumours: head & neck tumours. Lyon: IARC Press.; 2005. p. 81 8. Xue WQ ea. Quantitative association of tobacco smoking with 
+- 106. the risk of nasopharyngeal carcinoma: a comprehensive 
+
+ meta-analysis of studies conducted between 1979 and 2011. 
+ 
+
+2. Adham M KAMAea. Nasopharyngeal carcinoma in Indonesia: [Online].; 2013 [cited 2016 Agustus 8. Available from: 
+epidemiology, incidence, signs, and symptoms at presentation. http://aje.oxfordjournals.org/. 
+Chin J Cancer. 2012; 31(4).  
+
+ 9. Jin J OZWZ. Association of fruit and vegetables with the risk 
+3. Ferlay J SIea. Cancer incidence and mortality worldwide: of nasopharyngeal cancer: evidence from a meta-analysis. 
+
+sources, methods and major patterns in GLOBOCAN 2012. Int. Springer Nature. 2014 Juli. 
+J. Cancer. 2015; 136. 
+
+ 
+ 10. Chan ATC ea. Nasopharyngeal cancer: EHNS-ESMO-ESTRO 
+
+4. Chang TE AH. The enigmatic epidemiology of clinical pratice guidelines for diagnosis, treatment and 
+nasopharyngeal carcinoma. Cancer Epidemiology Biomarkers follow-up. Ann. of Oncol. 2012; 23(Supplement 7). 
+Prev. 2006 Oktober; 15(10).  
+
+ 11. NCCN Clinical Practice Guidelines in Oncology: Head and 
+5. Adham M, Gondhowiardjo S, Soediro R, Jack Z, Lisnawati , Neck Cancers. Version I.2016.. 
+
+Witjaksono F, et al. Pelayanan nasional pelayanan kedokteran:  
+kanker nasofaring: Kementerian Kesehatan RI. 12. Irungu C, Obura H, Ochola B. Prevalence and predictor of 
+
+ malnutrition in nasopharyngeal carcinoma. Clin Med 
+6. Ji XM ea. Nasopharyngeal carcinoma risk by histologic type Insights Ear Nose Throat. 2015; 8:19-12. 
+
+in central China: impact of smoking, alcohol and family  
+history. Int. J. Cancer. 2010; 129. 13. Bozzeti F, V B. Principles and management of nutritional support 
+
+in cancer. In Walsh D, Caraceni A, Fainsinger R, Foley K, 
+ 
+
+40 
+
+
+
+Glare P, Goh C, editors. Palliative medicine. Philadelphia: 20. Nuhoni S, Indriani , al e. Panduan pelayanan klinis kedokteran 
+Elsevier; 2009. p. 602-7. fisik dan rehabilitasi: disabilitas pada kanker Jakarta: Perdosri; 
+
+ 2014. 
+14. Ledesma N. Prostate cancer. In Marian M, Robert S, editors.  
+
+Clinical nutrition for oncology.: Jones and Bartlett Publishers; 21. American Cancer Society. [Online]. Available from: 
+2010. p. 245-259. http://www.cancer.org/cancer/nasopharyngealcancer/detailed 
+
+ guide/nasopharyngeal-cancer-survival-rates. 
+15. National Cancer Institute. [Online]. [cited 2016 April 15.  
+
+Available from: http://www.cancer.gov. 22. August D, Huhmann M. ASPEN clinical guidelines: nutrition 
+ support therapy during adult anticancer treatment and in 
+16. American Cancer Society. [Online]. [cited 2015 April 25. Available hematopoietic cell transplantation. J Parent Ent Nutr. 2009; 
+
+from: 33(5). 
+http://www.cancer.org/acs/groups/cid/documents/webconten  
+t/003124-pdf.prd. 23. Cederholm T, Bosaeus I, Barazzoni R, Bauer J, Van Gossum A, 
+
+ Klek S, et al. Diagnostic criteria for malnutrition - an ESPEN 
+17. Arends J. ESPEN Guidelines: nutrition support in cancer. 2014. consensus statement. Clin Nutr. 2015 Maret; 34. 
+
+ESPEN Congress Geneva.  
+ 24. Evan W, Morley J, Argiles J, Bales C, Baracos V, Guttridge D, 
+18. Tulaar A, Wahyuni L, Nuhoni S, al e. Pedoman et al. Cachexia: a new definition. Clin Nutr. 2008; 27. 
+
+pelayanan kedokteran fisik dan rehabilitasi pada  
+disabilitas Jakarta: Pedosri. 25. Fearon K, Strasser F, Anker S, al e. Definition and 
+
+ classification of cancer cachexia: an international consensus. 
+19. Wahyuni L, Tulaar A. Pedoman standar pengelolaan Lancet Oncol. 2011.; 12:489-95\. 
+
+disabilitas berdasarkan kewenangan pemberi pelayanan  
+kesehatan Jakarta: Pedosri; 2014. 26. Arends J, Bodoky G, Bozzeti F, Fearon K, Muscaritoli M, Selga G. 
+
+ESPEN guidelines on enteral nutrition: non surgical oncology. 
+Clin Nutr. 2006; 25:245-49. 
+
+ 
+41 
+
+
+
+27. Bozzeti F. Nutritional support of the oncology patient. 34. Tazi E, Errihani H. Treatment of cahcexia in oncology. Indian 
+Critical Rev in Onc/Hematol. 2013; 87:172-200. j Palliat Care. 2010; 16:129-37. 
+
+  
+28. Cohen D, Sucher K. Neoplastic disease. In Nelms M, Sucher K, 35. Argiles J, Olivan M, Busquets S, Lopez-Soriano F. Optimal 
+
+Lacey K, Roth S, editors. Nutrition therapy and management of cancer anorexia-cachexia syndrome. 
+pathophysiology, edisi 12. Belmont: Wadsworth; 2011. p. Canc Manag Res. 2010; 2:27-38. 
+702-74.  
+
+ 36. Radbruch L, Elsner F, Trottenberg P, Strasser F, Baracos V, 
+29. Grant B, Hamilton K. Medical nutrition therapy for cancer Fearon K. Clinical practice guideline on cancer cachexia in 
+
+prevention, treatment, and recovery. In Mahan L, Escott- advanced cancer patients with a focus on refractory cachexia.. 
+Stump S, Raymond J, editors. Krause's food & nutrition therapy, Aachen: Department of Palliative Medicine/European 
+ed 13. Missouri: Saunders Elsevier; 2013. p. 832-56. Palliative Care Research Collaborative. 2010. 
+
+  
+30. Cangiano C, Laviano A, Meguid MMM, Conversano L, Preziosa 37. Peterson D, Bensadoun R, Roila F. Management of oral and 
+
+L. Effects of administration of oral brached-chain amino acids gastrointestinal mucositis ESMO clinical practice guideline. . 
+
+on anorexia and caloric intake in cancer patients. J Natl  
+Cancer Inst. 1996; 88:550-2. 38. Wiser W, Berger A. Practical management of chemotherapy-
+
+ induced nausea and vomiting. In Ettinger D, Kloth DNK, editors. 
+31. Le Bricon T. Effects of administration of oral brached-chain NCCN clinical practice guideline in oncology: antiemetisis. 
+
+amino acids on anorexia and caloric intake in cancer patients. Version 2.2006.; 2005. 
+Clin Nutr Edinb Scotl. 1996; 15:337.  
+
+ 39. Guru K, Manoor U, Supe S. A comprehensive review of head 
+32. Agricultural Research Service (ARS). [Online]. [cited 2016 and neck cancer rehabilitation: physical therapy perspectives. 
+
+Februari 24. Available from: https://ndb.nal.usda.gov. Indian J Palliat Care. 2012; 18(2): p. 87-97. 
+
+  
+33. Arends J. [Online Course]. Available from: 40. Vargo M, Smith R, Stubblefield M. Rehabilitation of the cancer 
+
+http://lllnutrition.com/mod_III/TOPIC26/m_264.pdf. patient. In DeVita, Hellman, and Rosenberg's cancer: principles 
+ 
+
+42 
+
+
+
+ 
+ & practice of oncology, ed 8. Philadelphia: Lippincott Williams 46. Scottish Intercollegiate Guideline Network. Diagnosis 
+
+& Wilkins; 2009. p. 2873-5. and management of head and neck cancer: a national 
+ clinical guideline. 2006: p. 47-52. 
+41. Vargo M, Riuta J, Franklin D. Rehabilitation for patients  
+
+with cancer diagnosis. In Frontera W, DeLisa J, Gans B, 47. Society TBP. Cancer pain management. 2010. 
+
+Walsh N, Robinson L, editors. Delisa's physical medicine  
+and rehabilitation: principal & practice, ed 5. Philadelphia: 48. Control of pain in adult with cancer: a national 
+Lippincott Williams & Wilkins; 2010. p. 1168-70. clinical guideline. 2008: p. 479-83. 
+
+  
+42. Murphy B, Gilbert J. Dysphagia in head and neck cancer 49. Silver J. Nonpharmacologic pain management in the patient 
+
+patients treated with radiation: assessment, sequelae, and with cancer. In Stubblefield D, O'dell M. Cancer rehabilitation 
+rehabilitation. Semin Radiat Oncol. 2009; 19(1): p. 35-42. principles and practice. New York: Demos Medical Publishing; 
+
+ 2009. p. 479-83. 
+
+43. Menderhall W, Werning J, Pfister D. Principles & practice of  
+oncology, ed 9. In DeVita, Hellman, and Rosenberg't Cancer: 50. National Cancer Institute. [Online].; 2014 [cited 2014 Juli 11. 
+
+principles & practice of oncology, ed 9. Philadelphia: Available from: 
+
+Lippincott Williams & Wilkins; 2011. p. 729-80. http://www.cancer.gov/cancertopics/pdq/supportivecare/lymp 
+
+ hedema/healthprofessional/page2. 
+
+44. Tschiesner U. Preservation of organ function in head and neck  
+cancer. GMS Curr Top Otorhinolaryngol Head Neck Surg. 2912; 51. Best practice for the management of lymphoedema: 
+11: p. 865-1011. international consensus London: Medical Education 
+
+ Partnership; 2006. 
+
+45. Howren M, Christensen A, Karnell LH FG. Psychological  
+factors associated with head and neck cancer treatment and 52. Alikashi M, Kazemi M, Nokar S, Khojasteh A, Sheikhzadeh S. 
+
+survivorship: evidence and opportunities for behavioral Step-by-step full mouth rehabilitation of a nasopharyngeal 
+
+medicine. Consult Clin Psychol. 2013; 81(2): p. 299-317. carcinoma patient with tooth and implant-supported 
+ 
+
+ 
+43 
+
+
+
+prostheses: a clinical report. Contemporary Clin Dentistry. 58. Lam L, Leung S, Chow L. Functional experential hallucinosis 
+2011; 2(3): p. 256-60. after radiotherapy for nasopharyngeal carcinoma. J Neurol 
+
+ Neurosurg Psychiatry. 1998 Feb; 64(2): p. 259-61. 
+53. Pauloski B. Rehabiliation of dysphagia following head and neck  
+
+cancer. Phys Med Rehabil Clin N Am. 2008; 19(4): p. 889-928. 59. Amir N, Wirasto R, Juniar , Mustapa , Desmiarti , Khamelia. 
+ Panduan Nasional Pelayanan Keokteran Jiwa; 2012. 
+54. Ho M. Communication and swallowing dysfunction in  
+
+the cancer patient. In Stubblefield D, O'dell M. Cancer 60. Departemen Psikiatri RSCM. Standar Prosedur 
+rehabilitation: principles and practice. New York: Demos Operasional Penanganan Delirium. 2014.. 
+Medical Publishing; 2009. p. 941-57.  
+
+ 61. Departemen Psikiatri RSCM. Standar Prosedur 
+55. Capozzi L, Lau H, Reimer R, McNeely M, Giese-Davis J, Culos- Operasional Penanganan Gaduh Gelisah. 2014.. 
+
+Reed S. Exercise and nutrition for head and neck cancer  
+patients: a patient-oriented, clinic-supported randomized 62. Direktorat Jenderal Pelayanan Medik Departemen 
+controlled trial. BMC Cancer. 2012; 12. Kesehatan RI. Pedoman Penggolongan dan Diagnosis 
+
+ Gangguan Jiwa di Indonesia. Edisi 3. 1993.. 
+
+56. National Health Service. [Online].; 2013 [cited 2015 Januari 7.  
+Available from: http://www.nhs.uk/Conditions/Chronic- 63. Cummings J. Organic psychosis. Psychosomatics. 1988 Jan; 
+fatigue-syndrome/Pages/Treatmen.aspx. 29(1): p. 16-26. 
+
+ 
+  
+57. Wu X, Gu M, Zhou G, Xu X, Wu M, Huang H. Cognitive and  
+
+ 
+neuropsychiatric impairment in cerebral radionecrosis  
+patients after radiotherapy of nasopharyngeal carcinoma.  
+
+ 
+BMC Neurol. 2014; 14(1): p. 1-6.  
+
+ 
+ 
+ 
+ 
+ 
+
+44

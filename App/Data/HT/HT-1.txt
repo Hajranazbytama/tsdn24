@@ -1,0 +1,2150 @@
+﻿Indonesian Society of Hypertension
+Perhimpunan Dokter Hipertensi Indonesia
+
+Panduan 
+Pengenalan dan 
+Tatalaksana 
+Hipertensi Resisten 
+Di Indonesia 
+2024
+
+160
+
+140
+
+120
+
+100
+
+
+PANDUAN PENGENALAN DAN 
+TATALAKSANA HIPERTENSI 
+
+RESISTEN DI INDONESIA 
+2024
+
+Editor :
+Siska Suridanda Danny
+
+Indonesian Society of Hypertension
+Perhimpunan Dokter Hipertensi Indonesia
+
+Jakarta 2024
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+DAFTAR KONTRIBUTOR
+
+Perhimpunan Dokter Hipertensi Indonesia (PERHI) 
+Mengucapkan terima kasih kepada 
+
+para kontributor buku
+“Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di 
+
+Indonesia 2024”
+
+Amanda Tiksnadi, dr., Sp.S (K), PhD
+Departemen Neurologi 
+FK Universitas Indonesia Jakarta
+RS Cipto Mangunkusumo
+
+ 
+Anasthasia Sari S Mumpuni, dr, Sp.JP(K), FIHA
+
+SMF Kardiologi 
+RS Pondok Indah - Pondok Indah Jakarta
+
+ 
+Frits RW Suling, .dr.,Sp.JP(K), FIHA
+
+SMF Kardiologi dan Kedokteran Vaskular 
+Rumak Sakit 
+Universitas Kristen Indonesia.
+Divisi Kardiologi dan Vaskular
+Departemen Ilmu Penyakit Dalam, Fakultas Kedokteran Universitas 
+Kristen
+
+Ni Made Hustrini, dr., Sp.PD-KGH
+Divisi Ginjal Hipertensi 
+Departemen Ilmu Penyakit Dalam
+FKUI/ RS Cipto Mangunkusumo
+
+Paskariatne Probo Dewi, dr., Sp.JP(K), FIHA
+Departemen Kardiologi 
+RS Pusat Angkatan Darat Gatot Soebroto
+
+ii Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Rakhmad Hidayat, Dr., dr., SpS(K), MARS
+Departemen Neurologi
+FK Universitas Indonesia Jakarta
+RS Cipto Mangunkusumo
+
+Siska Suridanda Danny, dr., Sp.JP(K), FIHA
+Departemen Kardiologi dan Kedokteran Vaskular 
+Fakultas Kedokteran Universitas Indonesia
+Pusat Jantung Nasional Harapan Kita Jakarta
+
+Perhimpunan Dokter Hipertensi Indonesia iii
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+DAFTAR ISI
+
+Kontributor ..............................................................................................  ii
+Daftar Isi ...................................................................................................  iv
+Daftar Gambar ........................................................................................  v
+Daftar Tabel .............................................................................................  vi
+Daftar Singkatan .....................................................................................  vii
+Kata Pengantar ........................................................................................  ix
+
+BAB I PENDAHULUAN .........................................................................  1
+Definisi .....................................................................................................  1
+Epidemiologi dan Prevalensi ................................................................  2
+Prognosis .................................................................................................  2
+Karakteristik Pasien dan Kondisi terkait ...............................................  3
+
+BAB II DIAGNOSA HIPERTENSI RESISTEN .................................. 5
+A.  Diagnosis ...........................................................................................  5
+B. Identifikasi Hipertensi Sekunder sebagai Penyebab 
+ Hipertensi Resisten ...........................................................................  9
+C.  Faktor lain sebagai penyebab hipertensi resisten .......................  17
+
+BAB III TATA LAKSANA HIPERTENSI RESISTEN .......................... 21
+A. Pendekatan Nonfarmakologis ........................................................  21
+B.  Terapi Farmakologis ........................................................................  28
+C.  Algoritma diagnosis dan tatalaksana ............................................  33
+
+BAB IV PERAN DENERVASI ARTERI RENALIS DALAM 
+TATALAKSANA HIPERTENSI RESISTEN ...................................... 37
+Mekanisme kerja dan rasionalisasi terapi ............................................  37
+Indikasi dan kontraindikasi ....................................................................  39
+Efektifitas dan telaah studi .....................................................................  43
+
+iv Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+DAFTAR GAMBAR
+
+Gambar 1.  Insidensi hipertensi sekunder berdasarkan ‘
+ kelompok usia ..................................................................  13
+Gambar 2.  Algoritma skrining hipertensi sekunder ........................  14
+Gambar 3.  Prinsip terapi stimulasi refleks baroreseptor ................  25
+Gambar 4.   Terapi Transcranial direct current stimulation (tDCS) ..  26
+Gambar 5.  Terapi Transcranial Magnetic Stimulation (TMS) ..........  27
+Gambar 6.  Algoritma evaluasi dan penegakan diagnosis hipertensi 
+
+resisten ..............................................................................  33
+Gambar 7.  Algoritma tatalaksana hipertensi resisten .....................  34
+Gambar 8.  Pemilihan pasien untuk terapi denervasi ginjal ...........  42
+
+Perhimpunan Dokter Hipertensi Indonesia v
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+DAFTAR TABEL
+
+Tabel  1.   Rekomendasi ukuran manset .............................................  8
+Tabel  2.  Petunjuk klinis yang mengarah pada penyebab hipertensi 
+
+sekunder ................................................................................  11
+Tabel  3  Skrining awal dan lanjutan penyebab hipertensi sekunder 15
+Tabel  4.  Masalah klinis spesifik terkait dengan resistensi      
+
+pengobatan ..........................................................................  30
+Tabel  5.  Rekomendasi tatalaksana hipertensi resisten ...................  35
+Tabel  6.  Terapi denervasi arteri renalis sebagai tatalaksana     
+
+hipertensi resisten ................................................................  44
+
+vi Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+DAFTAR ISTILAH DAN SINGKATAN
+
+TD : Tekanan Darah 
+HR : Hipertensi Resisten
+ESH : European Society of Hypertension
+ACEI : Angitensin Converting Enzym Inhibitor
+ARB : Angiotensin Receptor Blocker 
+CCB : Calcium Channel Blocker 
+RS : Rumah Sakit 
+HBPM : Home Blood Pressure Monitoring
+LVH : Left Ventricular Hypertrophy 
+ABPM : Ambulatory Blood Pressure Monitoring
+OSA : Obstructive Sleep Apnea
+TDS : Tekanan Darah Sistolik
+TDD : Tekanan Darah Diastolik 
+TSH : Tiroid Stimulating Hormone 
+LFG : Laju Filtrasi Glomerulus
+PAC : Plasma Aldosterone Concentration 
+PRA : Plasma Renin Activation 
+ARR : Aldosterone/Renin Plasma 
+NHANES : National Health and Nutrition Examination Survey 
+DASH : Dietary Approaches to Stop Hypertension
+MBSRP : Mindfulness-Based Stress Reduction Program
+tDCS : Transcranial direct current stimulation 
+TMS : Transcranial magnetic stimulation 
+TENS : Transcutaneous electrical nerve stimulation
+RDN : Renal Denervation 
+
+Perhimpunan Dokter Hipertensi Indonesia vii
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+MRA : Mineral Receptor Antagonist 
+PGK : Penyakit Ginjal Kronik
+HCT : Hydrochlorothiazide
+RAA : Renin-Angiotensin-Aldosterone
+ESH : European Society of Hypertension
+KV : Kardiovaskular
+HMOD : Hypertension Mediated Organ Damage
+OAINS : Obat Antiinflamasi Nonsteroid
+WHO : World Health Organization 
+
+viii Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+KATA PENGANTAR 
+
+Perhimpunan Dokter Hipertensi Indonesia (PERHI) selalu berupaya 
+menyebarkan pengetahuan tentang hipertensi bagi siapa saja yang 
+berkepentingan di Indonesia. Oleh karenanya, setiap tahun PERHI 
+menerbitkan setidaknya satu publikasi tentang hipertensi. Pada tahun ini 
+diterbitkan sebuah konsensus tentang tatalaksana hipertensi resisten. 
+Saya percaya konsensus ini berguna bagi dokter dalam menangani 
+hipertensi resisten di Indonesia. Bagi sejawat yang bekerja di fasilitas 
+kesehatan tingkat pertama, konsensus tatalaksana hipertensi resisten 
+dapat digunakan untuk memilih pasien yang perlu dirujuk ke fasilitas 
+kesehatan tingkat lanjut. Bagi sejawat yang bekerja di fasilitas kesehatan 
+tingkat lanjut, konsensus ini dapat digunakan untuk memilih terapi yang 
+setepat mungkin sesuai keadaan setempat. Bagi pengampu kesehatan 
+di Indonesia, konsensus ini berisi jenis pemeriksaan yang perlu dipenuhi 
+untuk deteksi dan penatalaksanaan hipertensi resisten terkini.  
+Saya sangat menghargai upaya para penulis yang telah berkontribusi 
+menyaring bukti penelitian terbaik dan menyusunnya menjadi dokumen 
+Tatalaksana Hipertensi Resisten di Indonesia. Saya percaya kontribusi 
+sejawat akan memperbaiki tatalaksana hipertensi resisten di Indonesia.  
+
+Ketua PERHI/InaSH 
+
+dr. Erwinanto, Sp.JP(K), FIHA
+
+Perhimpunan Dokter Hipertensi Indonesia ix
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+x Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+BAB I 
+PENDAHULUAN
+
+Hipertensi hingga saat ini masih merupakan salah satu penyebab 
+kematian kardiovaskular utama di Indonesia dan seluruh dunia. Meskipun 
+telah banyak upaya untuk memperbaiki pengenalan dan tatalaksana 
+hipertensi, sebagian pasien gagal mencapai kendali tekanan darah (TD) 
+sesuai target walaupun telah mendapatkan obat-obatan yang diindikasikan. 
+Kelompok pasien ini digolongkan sebagai hipertensi resisten dan secara 
+umum dianggap memiliki risiko terjadinya komplikasi organ dan kematian 
+terkait hipertensi yang tinggi. Karenanya, dipandang penting untuk 
+memiliki suatu panduan tingkat nasional agar dapat mendeteksi serta 
+menatalaksana pasien hipertensi resisten dengan lebih baik.
+
+Definisi 
+Dalam Panduan tatalaksana hipertensi oleh European Society of 
+Hypertension/ESH yang dikeluarkan pada tahun 2023, hipertensi resisten 
+didefinisikan sebagai TD yang belum terkontrol (TDS ≥ 140 mmHg 
+atau TDD ≥ 90 mmHg di RS atau klinik) meskipun sudah dilakukan 
+modifikasi gaya hidup serta optimalisasi regimen tiga obat yang meliputi 
+golongan penghambat sistem Renin-Angiotensin-Aldosterone (ACE-I/
+ARB), CCB, dan diuretik golongan thiazid/thiazide-like. Pengukuran TD 
+harus dikonfirmasi oleh pemeriksaan di luar RS atau klinik (Home Blood 
+Pressure Monitoring/HBPM) yang menunjukkan nilai TD 24 jam yang tidak 
+terkontrol (TDS≥130 mmHg atau TDD≥80 mmHg). Selain itu, berbagai 
+penyebab hipertensi resisten palsu (terutama kepatuhan pengobatan 
+yang buruk) dan hipertensi sekunder juga telah disingkirkan.1 Terminologi 
+hipertensi resisten juga dapat diterapkan untuk pasien dengan TD yang 
+berhasil mencapai target namun membutuhkan empat atau lebih jenis 
+obat hipertensi untuk kendali TD. 1–3
+
+Perhimpunan Dokter Hipertensi Indonesia 1
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Epidemiologi dan Prevalensi 
+Prevalensi hipertensi resisten sulit dikuantifikasi dikarenakan variasi data 
+yang sangat beragam pada praktik sehari-hari; misalnya perbedaan 
+pengambilan data pada populasi umum di masyarakat luas atau populasi 
+di pusat kesehatan/uji klinik. Definisi TD tidak terkontrol pun berbeda 
+dalam berbagai penelitian yaitu 140/90 mmHg atau 130/80 mmHg. Sejauh 
+ini prevalensi dilaporkan bervariasi antara 14-37% pada berbagai studi 
+observasional, uji klinik dan meta-analisis. Jika menggunakan definisi 
+operasional yang seragam, angka prevalensi diperkirakan mendekati 
+5-10% dari keseluruhan populasi hipertensi. Pada praktik klinik sehari-hari, 
+adanya kecurigaan terhadap hipertensi resisten harus dibuktikan dengan 
+menganalisa berbagai faktor seperti kecukupan dosis obat, kepatuhan 
+minum obat, dan data mengenai angka TD di luar RS/klinik. Faktor yang 
+berperan dalam diagnosis hipertensi resisten akan diuraikan lebih lanjut 
+pada bab 2.1–4 
+
+Prognosis
+Prognosis jangka panjang individu dengan hipertensi resisten belum 
+dapat ditentukan secara akurat. Namun, bukti-bukti menunjukkan bahwa 
+prognosis pada pasien hipertensi resisten cenderung tidak baik karena 
+memiliki risiko kerusakan organ target yang lebih tinggi, seperti LVH 
+(Left Ventricular Hypertrophy), penebalan intima-media karotis, lesi retina, 
+mikroalbuminuria, infark miokard, stroke, gagal jantung, dan gagal ginjal. 
+Lebih lanjut, pasien dengan hipertensi resisten biasanya datang dengan 
+kombinasi faktor risiko kardiovaskular lainnya, seperti obesitas, diabetes, 
+dan penyakit ginjal kronik yang semakin meningkatkan risiko morbiditas 
+dan mortalitas.4
+
+Indeks kekakuan arteri dan pengukuran TD menggunakan metode 
+Ambulatory Blood Pressure Monitor/ABPM juga mendapatkan bahwa 
+penurunan TD malam hari <10% (nondipper) secara independen 
+berhubungan dengan morbiditas dan mortalitas kardiovaskular yang 
+semakin buruk. Sehingga ABPM berperan tidak hanya dalam penegakan 
+
+2 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+diagnosis hipertensi resisten tapi juga untuk tujuan prognostik.5
+
+Karakteristik Pasien dan Kondisi terkait
+Hipertensi resisten ditandai oleh kelompok demografis tertentu, 
+komobiditas, penyimpangan fisiologis, dan abnormalitas metabolik. 
+Namun, faktor tersebut tidak secara eksklusif berdiri sendiri karena dapat 
+saling bergantung (misalnya  TD  non-dipping atau reverse dipping dan 
+reaktivitas berlebih sistem saraf simpatis, obesitas viseral dan aldosteron 
+berlebih). Demografi terkait hipertensi resisten adalah ras kulit hitam, usia 
+tua, dan jenis kelamin laki-laki.2
+
+Berbagai komorbiditas telah diketahui berhubungan dengan hipertensi 
+resisten. Obesitas, hipertrofi ventrikel kiri, albuminuria, diabetes melitus, 
+penyakit ginjal kronik, skor framingham risiko penyakit kardiovaskular 
+dalam 10 tahun, dan obstructive sleep apnea (OSA) lebih sering ditemui 
+pada pasien hipertensi resisten. Proporsi yang sangat tinggi (60% – 84%) 
+dari pasien hipertensi resisten memiliki OSA. Abnormalitas tidur lainnya 
+juga bermanifestasi pada hipertensi resisten (dibandingkan mereka 
+dengan hipertensi terkontrol atau normotensif) termasuk durasi tidur yang 
+lebih pendek, berkurangnya efisiensi tidur, dan rapid eye movement sleep 
+(REM) yang lebih rendah.2
+
+Abnormalitas fisiologis pada hipertensi resisten termasuk disfungsi/
+penyakit vaskular yang dibuktikan sebagai aterosklerosis arteri karotis 
+dan perifer, gangguan fungsi endotelial, penurunan komplains arteri, 
+dan peningkatan resistensi vaskular sistemik. Penurunan normal di 
+malam hari (nocturnal dipping) juga meningkat pada proporsi tinggi 
+(43% – 65%) individu dengan hipertensi resisten. Peningkatan penurunan 
+TD  nokturnal terlihat lebih jelas pada pasien hipertensi tak terkontrol 
+dibandingkan terkontrol. Pola non-dipping pada ABPM pada individu 
+dengan hipertensi resisten dihubungkan dengan penurunan variabilitas 
+TD  yang merupakan suatu penanda over-reaktifitas sistem saraf simpatis. 
+Reverse dipping, yaitu terjadinya peningkatan  TD  paradoks di malam hari, 
+diduga berhubungan dengan peningkatan kerusakan organ subklinis dan 
+
+Perhimpunan Dokter Hipertensi Indonesia 3
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+risiko kejadian penyakit kardiovaskular. Kondisi ini juga dikaitkan dengan 
+peningkatan aktifitas sistem saraf simpatis di malam hari. 2
+
+Hipertensi resisten juga dihubungkan dengan gangguan metabolik seperti 
+hiperurisemia, aldosteron berlebih, dan supresi kadar renin tersirkulasi 
+(sekitar 60% pasien hipertensi resisten memiliki kadar renin rendah). 
+Secara umum, hipertensi resisten ditandai oleh sensitifitas  TD  yang 
+tinggi terhadap sodium. Pengurangan intake sodium secara signifikan 
+hingga mencapai 50 mmol/hari, menurunkan  TD  pada banyak individu 
+dengan hipertensi resisten secara cepat dan mengagumkan. Terlebih lagi, 
+derajat keparahan sleep apnea pada pasien hipertensi resisten secara 
+positif berhubungan dengan intake sodium dalam diet, terutama pada 
+pasien dengan hiperaldosteronisme. Konsentrasi kopeptin plasma, suatu 
+marker pelepasan vasopresin, hampir mencapai dua kali lipat lebih tinggi 
+pada individu dengan hipertensi resisten dibandingkan mereka dengan 
+terkontrol.2
+
+Simpulan
+
+• Hipertensi resisten didefinisikan sebagai  TD  yang belum 
+terkontrol (TDS ≥140 mmHg atau TDD≥90 mmHg di RS atau 
+klinik) meskipun sudah dilakukan modifikasi gaya hidup serta 
+optimalisasi regimen tiga obat 
+
+• Prevalensi hipertensi resisten sekitar 5-10% setelah eksklusi 
+hipertensi resisten palsu 
+
+• Prognosis jangka panjang individu dengan hipertensi resisten 
+cenderung buruk karena kerusakan organ target yang lebih 
+tinggi
+
+4 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+BAB II 
+DIAGNOSA HIPERTENSI RESISTEN
+
+A. Diagnosis
+
+A.1. Identifikasi Hipertensi Resisten Palsu
+
+Langkah kunci dalam mendiagnosis hipertensi resisten adalah memastikan 
+bahwa kenaikan  TD  benar-benar konsisten. Pseudo-resistensi harus 
+dieliminasi dengan riwayat dan tinjauan obat yang cermat, diikuti dengan 
+pengukuran  TD  dengan teknik yang tepat. Dengan asumsi perancu ini 
+tidak ada dan terapi obat standar telah gagal, maka diagnosis hipertensi 
+resisten dapat ditegakkan.6
+
+Setiap pasien dengan hipertensi resisten memerlukan setidaknya 
+beberapa pemeriksaan untuk penyebab sekunder. Obstructive Sleep 
+Apnea (OSA), penyakit ginjal kronis, dan hiperaldosteronisme primer 
+adalah komorbiditas yang paling sering terjadi. Evaluasi penyebab 
+sekunder harus mencakup riwayat dan pemeriksaan fisik  komprehensif 
+untuk mencari petunjuk adanya penyebab lain yang mendasari. 6
+
+Selain dari anamnesis dan pemeriksaan fisik, semua pasien dengan 
+hipertensi resisten setidaknya harus menjalani pemeriksaan dengan 
+tes fungsi ginjal dan tes urin dipstick.6 Hal ini disebabkan prevalensi 
+penyakit ginjal kronis tinggi pada populasi ini. Setiap ketidaknormalan 
+dalam pemeriksaan dasar ini sebaiknya diikuti dengan pemeriksaan 
+ultrasonografi ginjal. Pemeriksaan sodium, kalium, dan glukosa serum juga 
+disarankan karena tes ini sederhana dan seringkali membantu. Efek “white 
+coat” juga sering kali dapat menyebabkan kerancuan maka pemantauan 
+TD  ambulatori selama 24 jam juga sebaiknya dilakukan. 6
+
+A.2. Evaluasi terhadap Kepatuhan Minum Obat
+
+Ketidakpatuhan terhadap pengobatan merupakan langkah pertama yang 
+harus dilakukan saat mendiagnosis hipertensi resisten palsu. Kepatuhan 
+
+Perhimpunan Dokter Hipertensi Indonesia 5
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+terhadap pengobatan sangat bervariasi selama perjalanan pengobatan 
+dan umumnya menurun seiring waktu. Menurut WHO, hambatan dan 
+faktor yang memengaruhi ketaatan terhadap pengobatan dapat dibagi 
+menjadi lima kategori berikut7:
+1. Sosiodemografis
+
+Usia, etnis, tingkat pendapatan dan literasi, status sosial dan dukungan 
+sosial.
+
+2. Sistem perawatan kesehatan
+Hubungan pasien-dokter dan jaminan kesehatan.
+
+3. Hubungan dengan Terapi
+Peningkatan jumlah obat antihipertensi yang diresepkan, pilihan 
+kelas obat dan profil efek sampingnya, yaitu diuretik atau kombinasi 
+obat dengan dosis tetap yang mengandung diuretik berhubungan 
+dengan tingkat ketidakpatuhan yang lebih tinggi.11  Efek samping 
+obat dapat cukup signifikan untuk memengaruhi ketaatan terhadap 
+obat antihipertensi. Oleh karena itu, pasien sebaiknya diberikan 
+konseling tentang efek samping potensial yang umum terjadi pada 
+obat antihipertensi yang diresepkan dan langsung terlibat dalam 
+pengambilan keputusan terkait pengobatan.8
+
+4. Hubungan dengan kondisi klinis lainnya
+Gangguan psikiatrik, ketergantungan obat atau alkohol, demensia 
+yang terkait dengan usia, dan disabilitas ditambah polifarmasi dapat 
+secara negatif memengaruhi ketaatan terhadap pengobatan, kontrol  
+TD, dan hasil klinis.9
+
+5. Hubungan dengan pasien
+Ketidakpahaman pasien tentang diagnosis atau penyebabnya; 
+kurangnya pengetahuan tentang penyakit dengan persepsi yang 
+tidak akurat tentang keparahan penyakit yang tidak bergejala dan 
+efikasi pengobatan; atau ketakutan terhadap efek samping dan 
+ketergantungan obat. Semua ini dapat menyebabkan penolakan 
+penyakit, penggunaan terapi alternatif, dan tindak lanjut yang buruk, 
+
+6 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+meningkatkan risiko ketidakpatuhan terhadap pengobatan dan 
+mengancam hasil kesehatan individu.
+
+A.3. Evaluasi terhadap teknik pengukuran TD di RS/Klinik
+a. Lokasi pengukuran
+
+Tempat standar untuk pengukuran  TD adalah arteri brakialis di 
+lengan atas. Alat yang mengukur tekanan di pergelangan tangan dan 
+jari memang sering digunakan, tetapi penting untuk disadari bahwa 
+tekanan sistolik dan diastolik bervariasi secara substansial di bagian-
+bagian yang berbeda dari percabangan arteri karena tekanan sistolik 
+meningkat pada arteri yang lebih distal.
+
+b. Metode Auskultasi
+Meskipun metode auskultasi dengan menggunakan 
+sfigmomanometer merkuri dahulu dianggap sebagai standar baku 
+untuk pengukuran  TD, implementasi penggunaan tensimeter elektrik 
+saat ini diterima sebagai alat pengukur standar.10 
+
+c. Efek postur
+Tidak ada konsensus mengenai apakah  TD  seharusnya diukur secara 
+rutin saat duduk atau berbaring, meskipun sebagian besar panduan 
+merekomendasikan duduk.
+
+d. Ukuran manset 
+Ukuran manset terhadap diameter lengan sangat penting. Kesalahan 
+paling umum adalah menggunakan manset yang terlalu kecil, yang 
+akan mengakibatkan estimasi tekanan yang terlalu tinggi. Ukuran 
+manset yang direkomendasikan sesuai Pedoman Pengukuran  TD  di 
+luar Rumah Sakit/Klinik yang dikeluarkan oleh Perkumpulan Dokter 
+Hipertensi Indonesia (2022) ditunjukan pada tabel 1 sebagai berikut:
+
+Perhimpunan Dokter Hipertensi Indonesia 7
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Tabel  1.  Rekomendasi ukuran manset
+
+Anak-anak atau dewasa kurus 12 x 18 cm
+Dewasa 12 x 26 cm
+Dewasa dengan lengan besar 12 x 40 cm
+
+Diadaptasi dari Perhimpunan Dokter Hipertensi Indonesia (2022)11
+
+A.4. Evaluasi  TD  di Luar Rumah Sakit
+Perhimpunan Dokter Hipertensi Indonesia (2019) telah menganjurkan 
+pemantauan  TD  di rumah bagi semua orang dengan  TD  tinggi untuk 
+membantu profesional kesehatan menentukan apakah pengobatan 
+berhasil dan juga menghidari efek perancu yakni “White coat hypertension”. 
+Pemantauan di rumah, atau pengukuran  TD  sendiri, bukan pengganti 
+dari kunjungan rutin ke dokter. Rata-rata dari pengukuran pemantauan diri 
+selama tiga hingga tujuh hari, dengan pembacaan pagi, siang dan malam 
+yang ulang serta dilakukan dalam posisi duduk untuk menghasilkan data 
+TD  yang akurat. Untuk observasi jangka panjang, pengukuran dapat 
+diulang selama satu minggu setiap tiga bulan. 12
+
+Apabila dengan evaluasi secara komperhensif baik dari sisi kepatuhan 
+obat, evaluasi  TD  di RS dan di rumah telah dilakukan dengan baik dan 
+menujukkan hasil  TD  tidak terkontrol maka kecurigaan adanya hipertensi 
+resisten menjadi kuat dan sebaiknya dilanjutkan dengan pemeriksaan 
+saringan lanjutan.
+
+Simpulan
+
+• Langkah utama dalam diagnosis hipertensi resisten adalah 
+memastikan kenaikan  TD  benar konsisten serta mengeliminasi 
+adanya pseudoresistensi melalui evaluasi kepatuhan minum 
+obat dan pengukuran  TD  yang tepat
+
+• Kepatuhan terhadap pengobatan hipertensi dipengaruhi oleh 
+berbagai faktor seperti sosiodemografis, sistem perawatan 
+
+8 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Kesehatan, komunikasi pasien-dokter, pemilihan terapi, dan 
+kondisi klinis lainnya.
+
+• Diagnosis hipertensi resisten dapat ditegakan setelah evaluasi 
+komprehensif terhadap kepatuhan obat dan  TD  (di rumah 
+maupun di Rumah Sakit/Klinik) yang menunjukan nilai tidak 
+terkontrol (TD>140/90)
+
+B. Identifikasi Hipertensi Sekunder sebagai Penyebab Hipertensi 
+Resisten 
+
+B. 1. Latar belakang
+Sekitar 5-10% pasien hipertensi memiliki penyebab spesifik yang dapat 
+diidentifikasi, atau dikenal sebagai hipertensi sekunder. Evaluasi klinis 
+yang dilakukan terhadap pasien hipertensi bergantung pada kemungkinan 
+penyebab dasarnya dan juga derajat kesulitan yang dihadapi dalam 
+mencapai target TD karena banyak jenis hipertensi sekunder menunjukkan 
+manifestasi sebagai hipertensi resisten. Pasien dengan hipertensi primer 
+tidak akan banyak terpapar dengan berbagai pemeriksaan penunjang 
+lanjutan yang kompleks, sebaliknya pasien dengan kecurigaan hipertensi 
+sekunder seharusnya dilakukan pemeriksaan yang komprehensif. Strategi 
+yang paling efektif jika menemukan kasus hipertensi sekunder adalah 
+dengan menatalaksana mekanisme spesifik terkait penyebab dasar 
+kenaikan nya. Sebagian kelainan yang mendasarinya dapat disembuhkan 
+dan menyebabkan  dapat kembali normal sebagian atau sepenuhnya. 
+Sangat penting untuk memahami petunjuk klinis yang mengarah pada 
+hipertensi sekunder, karena tidak mungkin melakukan pemeriksaan yang 
+kompleks untuk hipertensi sekunder pada semua pasien hipertensi.13,14
+
+Perhimpunan Dokter Hipertensi Indonesia 9
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+B. 2. Petunjuk klinis umum adanya hipertensi sekunder
+Terdapat beberapa petunjuk klinis umum yang mengarah pada kecurigaan 
+hipertensi sekunder (Tabel 2) antara lain: 
+
+1) Hipertensi berat atau resisten.
+2) Peningkatan  yang baru terjadi pada pasien hipertensi yang 
+
+sebelumnya tekanan darahnya terkontrol.
+3) Onset hipertensi terjadi pada usia <30 tahun pada pasien tanpa 
+
+obesitas, tanpa Riwayat keluarga hipertensi, dan tidak ditemukan 
+faktor risiko hipertensi lainnya.
+
+4) Hipertensi maligna atau dengan peningkatan  yang berat (misalnya, 
+pasien dengan hipertensi berat disertai tanda kerusakan organ 
+target seperti edema papil atau perdarahan retina, gagal jantung, 
+gangguan neurologi atau gangguan ginjal akut).
+
+5) Hipertensi yang disertai adanya gangguan elektrolit, termasuk 
+hipokalemia dan alkalosis metabolik.
+
+6) Onset hipertensi terjadi sebelum memasuki usia pubertas.
+
+Jenis hipertensi sekunder yang paling umum pada orang dewasa adalah 
+penyakit parenkim ginjal, hipertensi renovaskular, aldosteronisme primer, 
+OSA, dan akibat zat/obat. Distribusi jenis hipertensi sekunder berdasarkan 
+usia dapat dilihat pada Gambar 1.1,15
+
+Algoritma skrining pada pasien hipertensi sekunder ditunjukan oleh 
+Gambar 2. Detail anjuran pemeriksaan skrining untuk hipertensi sekunder 
+ditampilkan pada Tabel 2. 
+
+10 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Tabel  2. Petunjuk klinis yang mengarah pada penyebab hipertensi 
+sekunder
+
+Kelainan Manifestasi klinis
+Umum • Hipertensi berat atau resisten
+
+• Peningkatan  mendadak (akut) yang 
+sebelumnya stabil
+
+• Onset terjadi sebelum usia pubertas
+• Usia <30 tahun tanpa riwayat keluarga 
+
+hipertensi dan tanpa obesitas
+Penyakit renovaskular • Peningkatan kadar kreatinin serum yang tidak 
+
+diketahui penyebabnya dan/atau peningkatan 
+mendadak dan persisten kreatinin serum 
+minimal 50% setelah pemberian ACE inhibitor, 
+ARB, atau renin inhibitor
+
+• Hipertensi sedang hingga berat pada pasien 
+dengan aterosklerosis difus, ginjal kecil 
+unilateral, atau ukuran ginjal asimetris lebih 
+dari 1,5 cm yang tidak dapat dijelaskan oleh 
+penyebab lain
+
+• Hipertensi sedang hingga berat pada pasien 
+dengan episode edema paru akut berulang
+
+• Timbulnya hipertensi dengan  >160/100 mmHg 
+setelah usia 55 tahun
+
+• Bruit abdominal – sistolik atau diastolik (tidak 
+terlalu sensitif)
+
+Penyakit parenkim • Peningkatan kadar kreatinin serum
+ginjal • Kelainan gambaran urinalisis
+Hipertensi akibat obat • Peningkatan TD yang bersifat sementara selama 
+
+paparan obat
+• Obat yang sering mengakibatkan hipertensi 
+
+akibat obat antara lain: 
+- Kontrasepsi oral
+- Steroid anabolik
+- OAINS
+- Obat kemoterapi (misalnya, inhibitor tirosin 
+
+kinase/penghambat VEGF
+- Stimulan (misalnya, kokain, metilfenidat)
+- Inhibitor kalsineurin (misalnya, siklosporin)
+- Antidepresan (misalnya, venlafaxine)
+
+Perhimpunan Dokter Hipertensi Indonesia 11
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Feokromositoma • Peningkatan TD yang paroksismal
+• Triad: sakit kepala (biasanya berdenyut), 
+
+berdebar, dan berkeringat
+Hiperaldosteronisme • Hipokalemia tanpa penyebab lain yang jelas, 
+primer disertai dengan ekskresi kalium di urin; namun 
+
+lebih dari separuh kasus ditemukan dengan 
+normokalemia
+
+Sindrom Cushing • Wajah Cushingoid, obesitas sentral, kelemahan 
+otot-otot proksimal, dan ekimosis
+
+• Berkaitan dengan penggunaan glukokortikoid 
+jangka panjang
+
+Obstruction sleep • Umum terjadi pada pasien hipertensi resisten, 
+apnea terutama jika berat badan berlebih atau obesitas
+
+• Dengkuran yang keras atau dengan episode 
+apnea
+
+• Rasa mengantuk di siang hari, kelelahan, dan 
+konfusi di pagi hari
+
+Koartaksio aorta • Hipertensi di lengan dengan denyut arteri 
+femoralis yang melemah atau melambat disertai  
+di kaki yang rendah atau sulit diukur
+
+• Denyut arteri brakialis kiri melemah dan 
+sama dengan denyut arteri femoralis jika asal 
+dari arteri subklavia kiri berada di distal dari 
+koartaksio 
+
+Hipotiroidisme • Gejala klinis hipotiroidisme
+• Peningkatan kadar TSH serum
+
+Hiperparatiroidisme • Peningkatan kadar kalsium serum
+primer
+
+Diadaptasi dari Unger et al (2020)13
+
+12 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Gambar 1. Insidensi hipertensi sekunder berdasarkan kelompok 
+usia. (Diadaptasi dari Mancia et al (2023)1)
+
+Penting untuk melalukan evaluasi seksama pada pasien hipertensi 
+sekunder, terutama dengan penyebab yang dapat disembuhkan, seperti 
+aldosteronisme primer, hipertensi terinduksi alkohol atau obat-obatan, 
+stenosis arteri renalis, OSA, atau hipertensi karena penyebab endokrin 
+lainnya.1,16 Detail indikasi klinis dan tes skrining untuk diagnosis hipertensi 
+sekunder ditampilkan pada Tabel 2. Algoritma skrining pada pasien 
+hipertensi sekunder ditunjukan oleh gambar 2.
+
+Perhimpunan Dokter Hipertensi Indonesia 13
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+‘
+
+Gambar 2. Algoritma skrining hipertensi sekunder. Diadaptasi dari 
+Wang et al (2022) dan Mancia et al (2023)1,16
+
+14 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Tabel  3 Skrining awal dan lanjutan penyebab hipertensi sekunder
+Etiologi hipertensi Prevalensi Prevalensi Tes skrining Tes konfirmasi/
+sekunder Hipertensi pada tambahan
+
+Hipertensi 
+Resistent
+
+Aldosteronisme 8-20% 17-23% Kadar aldosterone Tes pembebanan 
+primer plasma (PAC); sodium oral, tes 
+
+aktifitas renin infus salin, tes 
+plasma (PRA); rasio supresi dengan 
+aldosterone/renin captopril, MRI atau 
+plasma (ARR) CT scan adrenal, 
+
+sampling vena 
+adrenal, scintigrafi 
+adrenal
+
+Penyakit parenkim 1-2% 2-10% Serum kreatinin, Tes spesifik untuk 
+ginjal LFG, USG ginjal, mengevaluasi 
+
+urinalisis penyebab kelainan 
+ginjal (biopsi)
+
+Penyakit stenosis 5-34% 2.5-20% Doppler renal Angiografi renalis
+arteri renalis/ (duplex), CT scan, 
+penyakit MRI atau MRA
+renovaskular
+Obstructive Sleep 25-50% >30% Kuesioner Berlin, Polisomnografi 
+Apnea Epworth sleepness 
+
+scroe, oksimetri di 
+malam hari
+
+Induksi/pengaruh 2-4% Tidak ada data Skrining zat (obat) Gejala putus zat/
+alkohol atau obat- melalui urin/ obat terkait
+obatan rambut
+Feokromositoma* 0,1-0,6 <1% Fraksi metanefrin CT scan atau MRI 
+
+urin 24 jam atau abdomen
+metanefrin plasma 
+
+Sindrom Cushing* <0,1% <1% Tes supresi Tes supresi 
+deksametason 1 deksametason 
+mg malam hari, dosis rendah 
+ekskresi free 
+kortisol urin 24 jam 
+atau kadar kortisol 
+saliva (midnight)
+
+Perhimpunan Dokter Hipertensi Indonesia 15
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Hipotiroidisme* <1% 1-3% Kadar TSH dan free Tidak ada 
+tiroksin 
+
+Hipertiroidisme* <1% Kadar TSH dan free Scan dan uptake 
+tiroksin iodin radioaktif
+
+Koartasio Aorta* 0,1% <1% Echocardiografi CT angio toraks dan 
+abdomen atau MRA
+
+Diadaptasi dari Wang et al (2022)16
+
+TSH=Thyroid stimulating hormone, MRA=Magnetic resonance angiography, OAINS=obat 
+antiinflamasi nonsteroid
+*Etiologi yang jarang ditemui
+
+Simpulan
+• Pertimbangkan skrining untuk hipertensi sekunder pada: 
+
+1. Pasien dengan hipertensi onset dini (<30 tahun) khususnya 
+tanpa adanya faktor risiko hipertensi (obesitas, sindrom 
+metabolik, riwayat keluarga, dll)
+
+2. Pasien dengan hipertensi resisten
+3. Pasien dengan kendali  yang tiba-tiba memburuk
+4. Hipertensi urgensi dan emergensi
+5. Individu dengan kecurigaan tinggi menderita hipertensi 
+
+sekunder berdasarkan petunjuk klinis yang kuat
+• Pada pasien dengan hipertensi resisten, sebelum dilakukan 
+
+pemeriksaan penunjang untuk hipertensi sekunder dianjurkan 
+untuk menyingkirkan hipertensi resisten semu (pseudoresistant 
+hypertension) dan hipertensi akibat obat/zat terlebih dahulu
+
+• Skrining dasar untuk hipertensi sekunder harus mencakup 
+penilaian riwayat penyakit secara menyeluruh, pemeriksaan fisik 
+(lihat petunjuk klinis), biokimia darah dasar (termasuk sodium 
+serum, kalium, LFG, TSH), dan urinalisis/uji carik celup urin
+
+• Pemeriksaan penunjang lebih lanjut untuk hipertensi sekunder 
+(biokimia tambahan/pencitraan/lainnya) harus dipilih secara 
+cermat berdasarkan informasi dari riwayat, pemeriksaan fisik, 
+dan pemeriksaan klinis dasar.
+
+16 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+• Disarankan untuk merujuk kasus dengan dugaan hipertensi 
+sekunder guna pemeriksaan dan penatalaksanaan lebih lanjut ke 
+pusat layanan kesehatan yang memiliki sumber daya yang sesuai
+
+C.  Faktor Lain sebagai Penyebab Hipertensi Resisten 
+Berbagai faktor lain dapat mempengaruhi keberhasilan pengaturan TD 
+pada pasien hipertensi sehingga dapat dikatakan juga sebagai penyebab 
+hipertensi resisten seperti diet tinggi sodium dan intake alkohol berlebih, 
+obesitas, dan kurangnya aktifitas fisik. Selain itu beberapa substansi zat 
+atau obat-obatan juga diketahui dapat mengganggu kontrol  TD  dan 
+mengakibatkan hipertensi resisten terhadap pengobatan.1
+
+1. Obesitas
+Hubungan antara peningkatan adipositas dan peningkatan  TD 
+telah diketahui dengan baik. Peserta National Health and Nutrition 
+Examination Survey (NHANES) yang memiliki indeks massa tubuh 
+30kg/m2 atau lebih tinggi, dua kali lebih berisiko menderita hipertensi 
+yang resisten atau resisten terhadap pengobatan.
+
+Mekanisme patogenik hipertensi terkait obesitas meliputi peningkatan 
+sensitivitas garam, peningkatan aktivitas sistem saraf simpatis, aktivasi 
+sistem renin-angiotensin-aldosteron dan sekresi aldosterone oleh 
+jaringan adiposa. Diantara mekanisme tersebut, sekresi aldosterone 
+oleh jaringan adiposa merupakan satu-satunya mekanisme yang 
+spesifik untuk obesitas, karena mekanisme lainnya juga dapat terjadi 
+pada penyakit lain seperti gagal ginjal kronis dan gagal jantung.17
+
+Pada orang dewasa dengan hipertensi di NHANES, ACE-i dan ARB 
+memiliki efek antihipertensi yang lebih nyata pada wanita dengan 
+obesitas dibandingkan pada wanita tanpa obesitas. Efek ini tidak 
+terlihat pada pria. Namun, saat ini belum ada panduan  TD  yang 
+memberikan rekomendasi pengobatan khusus untuk pasien obesitas 
+vs non-obesitas.17
+
+Perhimpunan Dokter Hipertensi Indonesia 17
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+2.  Diet tinggi sodium
+Sodium dalam makanan meningkatkan  TD. Efek ini mungkin tidak 
+terjadi pada semua orang, namun kelompok tertentu lebih sensitif 
+terhadap garam, termasuk orang lanjut usia, orang kulit hitam, dan 
+pasien dengan penyakit ginjal kronis.17
+
+Pasien dengan hipertensi resisten memiliki penurunan  TD  yang 
+lebih signifikan dibandingkan populasi umum atau pasien lain 
+dengan hipertensi ketika menjalani pembatasan intake sodium. Hal 
+ini menunjukan bahwa sensitifitas terhadap sodium memiliki peranan 
+besar pada pathogenesis hipertensi resisten serta mendukung 
+pentingnya pemberian diuretik pada rencana terapi.17
+
+Peranan garam sodium pada diet dalam patofisiologi hipertensi 
+diduga melibatkan berbagai faktor seperti neurohormonal, genetik, 
+lingkungan, dan metabolik. Namun, mekanisme yang banyak diyakini 
+adalah adanya hubungan antara konsumsi garam sodium dengan 
+peningkatan retensi sodium di ginjal. Garam sodium berperan 
+sebagai pengatur keseimbangan cairan tubuh. Peningkatan konsumsi 
+garam sodium akan menyebabkan terjadinya retensi sodium dan air di 
+ginjal sehingga meningkatkan  TD . Selain itu, diet tinggi sodium juga 
+mengakibatkan denervasi baroreseptor arteri, interupsi saraf aferen 
+ginjal, dan reaktivitas vaskular. 
+
+Keterlibatan genetik juga diduga memiliki peranan dalam mekanisme 
+ini dimana terdapat beberapa fenotip genetik yang lebih sensitif 
+terhadap konsumsi garam sodium. Pasien dengan disposisi genetik 
+ini ditemukan mengalami peningkatan  TD  >7 mmHg ketika 
+mengkonsumsi diet tinggi garam sodium. Namun, temuan ini masih 
+dalam tahap penelitian sehingga belum tersedia penanda genetik 
+untuk digunakan pada setting klinis. 18,19
+
+3.  Pengaruh obat
+Beberapa golongan agen farmakologis dapat meningkatkan  TD  dan 
+berkontribusi terhadap hipertensi resisten terinduksi obat. Namun, 
+efek dari agen-agen tersebut ditemukan berbeda antar individu 
+dengan mayoritas pasien memanifestasikan sedikit atau tidak ada efek 
+
+18 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+sedangkan yang lainnya menunjukan peningkatan kadar  TD  yang 
+berat. 2
+
+Obat-obatan yang dapat meningkatkan  TD  antara lain 1,16,17:
+• Obat anti-inflamasi non steroid, termasuk inhibitor siklooksigenase 
+
+2-inhibitor
+Obat-obat ini ada dimana-mana dan dapat meningkatkan  TD 
+sebesar 2-5 mmHg pada dosis berapapun yang cukup tinggi untuk 
+menghilangkan rasa sakit, meskipun dosis rendah aspirin tidak 
+berhubungan dengan peningkatan  TD
+
+• Glukokortikoid 
+• Inhibitor reuptake serotonin-norepinefrin
+• Antipsikotik atipikal (clozapine, olanzapine)
+• Obat kontrasepsi yang mengandung estrogen dan obat lain yang 
+
+mengandung estrogen
+Efek obat2 ini pada  TD  biasanya bersifat reversible ketika 
+pengobatan dihentikan.
+
+• Simpatominetik (pseudo-ephedrine, ephedrine,  cocaine, 
+amphetamine)
+
+• Penghambat faktor pertumbuhan  endotel vaskular
+• Agen stimulasi eritropoietin 
+• Inhibitor kalsineurin (siklosporin, tacrolimus), peningkatan  TD 
+
+dengan penghambat kalsineurin biasanya diobati dengan calsium 
+channel blockers (CCB)
+
+• Penghambat tirosin kinase
+• Suplemen  makanan, termasuk ginseng, licorice, dan Ma Huang
+• Obat diet (sibutramine, fenipropanolamin)
+
+Obat ini meningkatkan kadar norepinefrin yang mengakibatkan 
+aktivasi transmisi noradrenargik sehingga menyebabkan 
+peningkatan  TD  ringan.
+
+Substansi tersebut dapat mempengaruhi  TD  melalui beberapa 
+mekanisme seperti efek dari zat itu sendiri terhadap perkembangan 
+
+Perhimpunan Dokter Hipertensi Indonesia 19
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+hipertensi, interaksi makanan dengan obat, atau interaksi antar obat 
+yang mempengaruhi  TD, perburukan hipertensi yang sebelumnya 
+terkontrol, atau mempengaruhi efek penurunan  TD  dari terapi 
+antihipertensi yang telah diberikan sebelumnya.16 Derajat pengaruh 
+TD  dari obat-obatan tersebut sangat bervariasi antar individu.17
+
+4.  Faktor lainnya
+Beberapa faktor terkait perilaku gaya hidup dapat mengakibatkan 
+TD tinggi dan berperan pada patogenesis hipertensi resisten antara 
+lain gaya hidup sedentary, konsumsi alkohol, merokok, chewing, dan 
+vaping. 2,17
+
+Simpulan
+• Beberapa faktor terkait gaya hidup dapat mempersulit kontrol 
+
+TD yang optimal dan menyebabkan hipertensi resisten
+• Obesitas mengakibatkan peningkatan TD terutama melalui 
+
+peningkatan sekresi aldosterone dari jaringan adiposa
+• Diet tinggi sodium berhubungan dengan retensi sodium dan 
+
+cairan yang mengakibatkan peningkatan TD terutama pada 
+individu yang sensitif terhadap sodium
+
+• Beberapa agen farmakologis dan substansi lain (seperti alkohol 
+dan nikotin) dapat meningkatkan TD serta menginduksi 
+hipertensi resisten
+
+• Obat anti-inflamasi non steroid dengan dosis berapa pun yang 
+cukup untuk menghilangkan nyeri dapat meningkatkan TD 
+sebesar 2 mmHg hingga 5 mmHg
+
+20 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+BAB III 
+TATA LAKSANA HIPERTENSI RESISTEN
+
+A. Pendekatan Nonfarmakologis 
+Pengobatan hipertensi resisten seringkali memerlukan penerapan 
+prosedur diagnostik yang kompleks untuk mengidentifikasi penyebab 
+sekundernya serta penggunaan polifarmasi yang efektif. Namun, terapi 
+non-farmakologis juga merupakan aspek penting dalam manajemen 
+hipertensi resisten. Penurunan berat badan, aktivitas fisik, dan pola 
+makan rendah lemak dan sodium merupakan salah satu pendekatan 
+nonfarmakologis yang dapat dilakukan.20 Studi oleh Graudal et al (2017), 
+mendapatkan diet sodium dapat menurunkan  TD, peningkatan kadar 
+renin, aldosteron, noradrenalin, adrenalin, kolesterol dan trigliserida.21 
+
+A. 1. Perubahan Gaya Hidup
+a. Diet 
+
+Diet Mediteranian merupakan diet tinggi serat seperti buah-
+buahan, sayuran, sereal, biji-bijian, kacang-kacangan, dan ikan. 
+Selain itu, diet ini membatasi konsumsi gula dan makanan kaleng 
+(processed foods). Dalam suatu studi terhadap 9408 pria dan 
+wanita yang melakukan diet mediterania dan diikuti selama enam 
+tahun menunjukkan penurunan TD sebesar 2,4 mmHg untuk TDS 
+dan 1,3 mmHg untuk TDD22. Diet Mediterania dapat memediasi 
+efeknya sebagian melalui pemeliharaan TD dan fungsi endotel. 
+
+Dietary Approaches to Stop Hypertension (DASH), diet ini mirip 
+dengan diet mediterania, tetapi juga menekankan diet rendah 
+garam dan rendah lemak jenuh. Diet DASH mampu menurunkan 
+TD  tinggi dengan mengurangi jumlah sodium menjadi 1500-2300 
+mg per hari dalam diet.23 Dengan DASH didapatkan penurunan 
+TD  sistolik (TDS) sebesar 5,5 mmHg dan diastolik (TDD) sebesar 3 
+mmHg.24,25 
+
+Perhimpunan Dokter Hipertensi Indonesia 21
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Metode lain yang dapat dengan mudah diimplementasikan adalah 
+puasa intermiten. Ada dua metode dalam puasa intermiten: (a) 
+puasa 1-4 hari per minggu atau diet 5:2 atau (b) berpuasa setiap 
+hari berdurasi 14 hingga 20 jam.23,26 Efek kardioprotektif dari diet 
+puasa berhubungan dengan pengurangan jaringan lemak visceral, 
+peningkatan adiponektin, penurunan leptin, dan kolesterol 
+lipoprotein densitas rendah. Pada studi kohor Cappadocia yang 
+terdiri dari 60 orang dengan prehipertensi dan hipertensi, dengan 
+nilai TDS berkisar 120–139 dan ≥ 140; nilai TDD berkisar 80-89 
+dan ≥ 90 mmHg. Terjadi penurunan nilai TDS (P < 0.001) dan 
+nilai TDD (P < 0.039) setelah melakukan puasa intermiten. Diet 
+puasa ini menghambat perkembangan plak aterosklerosis dengan 
+mengurangi konsentrasi penanda inflamasi IL-6 (Interleukin-6), 
+homosistein, dan protein C-reaktif.23,27
+
+b.  Aktivitas Fisik dan Penurunan Berat Badan
+Pada sekelompok kecil pria Afrika-Amerika dengan hipertensi 
+berat (TDS tanpa terapi sebesar 180 atau TDD 110 mmHg dengan 
+3 agen terapi antihipertensi untuk menurunkan TDD sebesar 10 
+mmHg dan/atau mencapai 95 mmHg), dilakukan latihan aerobik 
+(bersepeda stasioner 3 kali seminggu) selama 16 minggu. Hasil 
+studi menunjukkan penurunan TDD sebesar 5 mmHg dan TDS 
+sebesar 7 mmHg.28 
+
+Dalam suatu studi meta-analisis, dilakukan intervensi pada 
+kelompok dengan  TD  normal maupun hipertensi, berupa latihan 
+aerobik secara teratur yang ternyata mampu menurunkan rerata 
+TDS sebesar 4 mmHg dan TDD sebesar 3 mmHg.28,29 Oleh karena 
+itu, aktivitas fisik disarankan dilakukan selama 40 menit, 4 kali 
+seminggu untuk menurunkan  TD. Aktivitas fisik dengan intensitas 
+sedang, seperti berjalan cepat selama 150 menit per minggu 
+mampu menurunkan tingkat mortalitas akibat penyakit jantung 
+koroner, hipertensi, stroke, diabetes tipe 2, sindrom metabolik, 
+kanker usus besar, kanker payudara, dan depresi.23 Penurunan 
+berat badan sekitar 10 kg didapatkan berhubungan dengan 
+
+22 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+penurunan rerata TDS sebesar 6.0 mmHg dan penurunan TDD 
+sebesar 4.6 mmHg.28 
+
+c. Restriksi Alkohol
+Suatu studi longitudinal menunjukkan penurunan TD berkorelasi 
+positif dengan penurunan konsumsi minuman beralkohol. Rerata 
+penurunan TDS adalah 12 mmHg dan rerata penurunan TDD adalah 
+8 mmHg.23 Berhenti mengonsumsi alkohol dalam jumlah besar 
+dapat secara signifikan meningkatkan pengendalian hipertensi. 
+Asupan alkohol sehari-hari sebaiknya dibatasi tidak lebih dari 2 
+gelas (1 ons etanol) per hari untuk laki-laki dan 1 minuman sehari 
+untuk perempuan.28 
+
+d. Teknik Relaksasi 
+Teknik relaksasi diduga dapat membantu mengurangi stres dan 
+tingkat kewaspadaan fisiologis yang dihasilkan oleh sistem saraf 
+otonom, sehingga menurunkan TD. Teknik biofeedback telah 
+terbukti efektif dan dapat digunakan dalam praktik klinis untuk 
+menurunkan TD. Dalam hal mengurangi stres, terdapat berbagai 
+latihan meditasi yang dapat dipilih seperti Tai chi / taiji / tai chi chuan 
+(berasal dari Cina) dan Yoga (berasal dari India).30 Kedua teknik 
+tersebut memiliki komponen serupa seperti mengembangkan 
+koneksi pikiran-tubuh melalui gerakan, latihan pernapasan 
+diafragma, dan meditasi. 
+
+Metode lain adalah program pengurangan stres berbasis kesadaran 
+(Mindfulness-Based Stress Reduction Program/MBSRP) yang 
+didasarkan pada konsep menghindari judgement, meningkatkan 
+kesadaran, dan penekanan hanya pada saat ini. Kondisi ini 
+melibatkan latihan fokus dan relaksasi seperti pemindaian tubuh 
+dan Hatha yoga). Pada kelompok intervensi yang mengikuti MBSRP 
+selama 2 bulan menunjukkan penurunan TDS dari rata-rata 154,7 
+± 7,5 menjadi 138,1 mmHg dan nilai TDD dari 90,6 ± 5,3 menjadi 
+86,1 mmHg.23,31 
+
+Perhimpunan Dokter Hipertensi Indonesia 23
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+A. 2. Terapi Alternatif Berbasis Alat
+♦ Transcatheter Renal Sympathetic Denervation
+
+Selama beberapa dekade terakhir, fokus penelitian untuk hipertensi 
+tertuju pada sistem renin-angiotensin. Aktivitas berlebihan dari 
+sistem saraf simpatis menyebabkan peningkatan TD pada pasien 
+dengan hipertensi. Terapi ini akan dibahas lebih lengkap pada 
+bab IV.
+
+♦ Carotid Baroreflex Stimulation
+Carotid baroreflex stimulation atau refleks baroreseptor karotis 
+merupakan elemen penting dalam homeostasis tekanan arteri. 
+Baroreseptor karotis sensitif terhadap tekanan dalam arteri dan 
+mengatur tonus simpatis. Stimulasi baroreseptor menghasilkan 
+peningkatan timbal balik dalam aktivitas parasimpatis, 
+penurunan denyut jantung, vasodilatasi, penurunan resistensi 
+pembuluh darah, peningkatan ekskresi sodium, dan penurunan 
+produksi renin oleh ginjal. Stimulasi eksternal yang dihasilkan 
+bertujuan untuk menciptakan impuls elektromagnetik yang akan 
+ditransmisikan ke elektroda pada sinus karotis. Sinyal stimulus ini 
+akan diidentifikasi oleh sistem saraf pusat sebagai peningkatan  TD 
+yang berkelanjutan sehingga diharapkan respon negatif berupa 
+penghambatan tonus simpatis dan penurunan  TD.32 
+
+Suatu studi yang menggunakan implantasi perangkat stimulasi 
+barorefleks karotis pada penderita hipertensi resisten menunjukkan 
+TD  dengan target < 140 mmHg tercapai pada 88% subjek dalam 
+durasi terapi satu tahun, dengan penurunan rata-rata TDS sebesar 
+35 mmHg serta pengurangan hipertrofi ventrikel kiri.32,33 Namun, 
+terapi ini belum tersedia secara luas di Indonesia.
+
+24 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Gambar 3. Prinsip terapi stimulasi refleks baroreseptor 
+
+♦ Transcranial Direct Current Stimulation 
+Transcranial direct current stimulation (tDCS) merupakan suatu 
+modalitas intervensi non-farmakologis dan non-invasif. Pada 
+terapi tDCS pasien diberi arus listrik rendah konstan yang 
+akan mengubah spontaneous neuronal firing sehingga dapat 
+memodulasi excitability otak. Banyak penelitian telah membuktikan 
+bahwa peningkatan aktivitas sistem saraf simpatik berhubungan 
+erat dengan peningkatan TD. Tekanan darah  dikendalikan 
+oleh beberapa area korteks yaitu korteks sensorimotor, korteks 
+prefrontal medial, dan korteks insular.34 tDCS dapat menurunkan 
+TD pada pasien hipertensi non-resisten dan resisten dengan 
+mekanisme modulasi sistem saraf otonom. Suatu penelitian double-
+blind randomized menunjukkan bahwa satu sesi tDCS (dengan 
+elektroda yang diletakkan di area C3 dan stimulasi anoda wilayah 
+M1 (korteks motor primer) selama 20 menit dapat menurunkan TD, 
+curah jantung, resistensi pembuluh darah perifer, dan rasio LF/
+HF. Hal ini terjadi karena adanya pengurangan modulasi simpatis 
+dan peningkatan modulasi parasimpatis pada pasien hipertensi 
+terkontrol dengan obat. Dalam penelitian yang sama, sepuluh 
+
+Perhimpunan Dokter Hipertensi Indonesia 25
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+sesi tDCS yang diberikan selama 3 minggu tidak mengubah TD 
+istirahat, namun dapat menurunkan modulasi otonom. 35,36
+
+Gambar 4.  Terapi Transcranial direct current stimulation 
+(tDCS)
+
+♦ Transcranial Magnetic Stimulation
+Transcranial magnetic stimulation (TMS) stimulasi magnetik 
+transkranial merupakan suatu teknik stimulasi otak non-invasif 
+dimana medan magnet diberikan pada kulit kepala, menembus 
+tengkorak dan mencapai otak. Medan magnet akan menginduksi 
+medan listrik yang terkonsentrasi di daerah kortikal superfisial 
+dan mampu merangsang neuron dan akson untuk menghasilkan 
+action potential. TMS dapat digunakan untuk mengurangi tekanan 
+dengan cara mengubah sistem saraf otonom kardiovaskular 
+dengan mengaktivasi saraf di otak.34 Saat ini jumlah penelitian 
+mengenai penggunaan TMS pada hipertensi terbatas dibanding 
+modalitas stimulasi otak non-invasif, namun ada suatu studi 
+meta-analisis menyimpulkan bahwa protocol TMS excitatory dan 
+inhibitory dapat menurunkan  TD  secara signifikan.37
+
+26 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Gambar 5. Terapi Transcranial Magnetic Stimulation (TMS)
+
+♦ Transcutaneous Electrical Nerve Stimulation
+Transcutaneous electrical nerve stimulation (TENS) merupakan 
+suatu modalitas yang digunakan dalam tatalaksana nyeri, dimana 
+suatu impuls listrik tegangan rendah dikirim dari elektroda kulit 
+untuk menstimulasi saraf aferen. TENS tidak hanya mengurangi rasa 
+nyeri tetapi juga terbukti dapat mengurangi aktivitas simpatis pada 
+pasien sehat dan pasien dengan penyakit kardiovaskular. Pasien 
+hipertensi mengalami perubahan fungsi sistem saraf otonom, 
+seperti peningkatan aktivitas simpatis dan penurunan tonus 
+parasimpatis, sehingga secara teknis TENS dapat menurunkan 
+TD.38
+
+Satu studi non-randomized observational pada 12 pasien dengan 
+hipertensi resisten menunjukkan bahwa terapi TENS tegangan 
+rendah yang diberikan secara kontinu memiliki efek penurunan 
+TD pada pasien yang tidak merespon dengan obat antihipertensi. 
+Namun pada suatu studi randomized double-blinddimana 28 
+pasien hipertensi diberi terapi TENS pada daerah ganglion 
+paravertebral, TENS dengan tegangan rendah dapat menurunkan 
+aktivitas saraf simpatis dan meningkatkan aktivitas sistem saraf 
+parasimpatis, namun TD pasien tidak berubah. Ketika pasien diberi 
+terapi TENS tegangan tinggi, terjadi peningkatan signifikan pada 
+TD diastolik. 38,39
+
+Perhimpunan Dokter Hipertensi Indonesia 27
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Simpulan
+• Penurunan berat badan, aktifitas fisik, dan diet rendah lemak 
+
+dan sodium, restriksi alkohol, dan teknik relaksasi merupakan 
+pendekatan nonfarmakologis yang dapat dilakukan pada 
+tatalaksana hipertensi resisten
+
+• Terapi berbasis alat yang dapat dipertimbangkan pada 
+managemen hipertensi resisten antara lain denervasi arteri 
+renalis, tDCS, TMS, dan TENS
+
+B.  Terapi Farmakologis 
+Setelah pasien memenuhi kriteria diagnostik hipertensi resisten, maka 
+serangkaian intervensi farmakologis harus dilakukan secara bertahap 
+sebagai berikut2,3: 
+
+Langkah 1. Optimalisasi rejimen 3 obat
+Optimalisasi ketiga golongan antihipertensi meliputi golongan CCB 
+kerja panjang, penghambat sistem RAA (ACEI atau ARB), dan diuretik, 
+merupakan langkah pertama dalam tatalaksana hipertensi resisten. 
+Ketiga golongan obat ini telah terbukti efektif dalam mengontrol TD 
+serta mencegah kejadian kardiovaskular dan harus diberikan dengan 
+dosis maksimal atau yang dapat ditoleransi maksimal oleh pasien. 
+Selama proses optimalisasi terapi ini, direkomendasikan penggunaan 
+ABPM sebagai metode yang paling baik dalam memonitor TD pasien.3
+
+Amlodipin dan nifedipin lepas lambat merupakan agen antihipertensi 
+dari golongan CCB dihidropiridin yang paling banyak digunakan 
+dan diteliti. Sementara agen hipertensi lain dari golongan ini seperti 
+nikardipin yang diberikan dalam 2-3 kali/hari tidak memberikan 
+kepatuhan yang optimal pada pasien hipertensi resisten. Beberapa data 
+menunjukkan bahwa formulasi nifedipin yang bersifat jangka panjang 
+memiliki efek antihipertensi yang lebih besar dibandingkan amlodipin, 
+
+28 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+namun berkaitan dengan kejadian edema tungkai yang lebih banyak. 
+CCB nondihidropiridin seperti verapamil mungkin juga berguna, 
+namun bukti yang mendukung penggunaannya pada hipertensi 
+resisten masih terbatas dan pemberiannya dikontraindikasikan pada 
+pasien gagal jantung dengan fraksi ejeksi rendah.3
+
+Waktu pemberian obat juga merupakan hal penting yang harus 
+dipertimbangkan. Pemberian satu atau lebih obat dalam rejimen 
+3 obat pada malam hari mungkin dapat memperbaiki kontrol TD. 
+Namun, diuretik umumnya diberikan pada pagi hari untuk menghindari 
+diuresis nokturnal yang mengganggu tidur. Selain itu, membagi dosis 
+obat yang memiliki waktu paruh <12-15 jam juga dapat memperbaiki 
+kontrol TD. 3
+
+Penyebab tersering tidak terkontrolnya TD adalah kombinasi 
+antihipertensi yang tidak tepat dan/atau dosis pemberiannya yang 
+tidak adekuat. Kepatuhan dalam mengkonsumsi obat juga merupakan 
+parameter yang penting untuk dievaluasi sehingga sebagai bagian 
+dari proses optimalisasi rejimen pengobatan, maka perlu juga 
+dilakukan pencatatan tingkat kepatuhan pasien menggunakan 
+metode pengukuran biokimia dari obat atau metabolitnya di dalam 
+plasma atau urin.3
+
+Jika TD belum terkontrol setelah optimalisasi regimen tiga obat, 
+maka konsultasi dan rujukan ke dokter spesialis terkait dapat 
+dilakukan
+
+Langkah 2. Penggantian jenis diuretik 
+Pemilihan agen diuretik merupakan hal yang sangat penting karena 
+kondisi overvolume dan kegagalan restriksi diet rendah sodium 
+merupakan penyebab tersering terjadinya hipertensi resisten. Pada 
+pasien PGK, efek natriuresis thiazid akan terganggu. HCT tidak 
+menginduksi natriuresis pada LFG < 45 ml/menit/1.73m2, sedangkan 
+diuretik thiazide-like seperti klortalidon dan indapamid masih 
+menginduksi natriuresis pada LFG > 30 ml/menit/1.73m2. Sehingga 
+
+Perhimpunan Dokter Hipertensi Indonesia 29
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+pada pasien dengan penyakit ginjal derajat ringan-sedang, diuretik 
+thiazid-like lebih direkomendasikan. Studi komparatif menunjukkan 
+penurunan tambahan TDS sebesar 7-8 mmHg dengan penggantian 
+HCT menjadi klortalidon dengan dosis harian yang sama. Klortalidon 
+memiliki waktu paruh yang lebih panjang (dosis 12.5-25 mg, 1x/hari), 
+sehingga agen ini dapat mengontrol TD, khususnya TD nokturnal 
+dengan lebih baik. Namun demikian pemakaian klortalidon berkaitan 
+dengan kejadian hipokalemia dan/atau hiponatremia yang lebih tinggi 
+dibandingkan HCT sehingga harus dilakukan pemantauan elektrolit 
+berkala pada pasien yang diberikan klortalidon atau indapamid. 
+Apabila LFG pasien < 30 ml/menit/1.73m2 maka diuretik loop seperti 
+furosemid harus diberikan untuk menggantikan diuretik thiazid/
+thiazid-like.1 
+
+Langkah 3. Penambahan MRA sebagai obat keempat
+Karena sebagian besar kasus hipertensi resisten terkait dengan 
+masalah overvolume (terutama pada pasien PGK), atau tonus 
+simpatis yang tinggi, maka penentuan patogenesis pasien yang 
+tepat akan memudahkan pemilihan golongan terapi keempat. Selain 
+itu, memastikan pilihan agen antihipertensi yang paling efektif dari 
+masing-masing golongan terapi menjadi sangat penting ketika obat 
+keempat ditambahkan (tabel 3).
+
+Tabel 4. Masalah klinis spesifik terkait dengan resistensi 
+pengobatan
+
+Masalah terkait resistensi 
+pengobatan Pertimbangan tatalaksana
+
+Kontrol volume, resolusi edema Thiazid -> klortalidon -> diuretik loop
+Kontrol detak jantung tidak Penyekat β, penyekat α dan β, verapamil, 
+memadai diltiazem
+Level renin dan aldosteron diet rendah garam, hindari kerja shift malam, 
+rendah amiloride
+
+30 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Level renin rendah, namun MRA
+aldosteron normal sampai 
+normal tinggi
+Apakah pembagian dosis obat Evaluasi pola TD berdasarkan ABPM atau 
+akan memperbaiki kontrol TD HBPM
+Kepatuhan pengobatan Evaluasi kepatuhan dan diskusikan dengan 
+dipertanyakan pasien/keluarga secara jujur tanpa menghakimi
+Respon TD terhadap pengobatan Identifikasi efek makanan terhadap TD, durasi 
+di luar waktu kunjungan klinik efek obat, adakah efek samping pengobatan 
+tidak diketahui dengan menggunakan ABPM/HBPM
+Gangguan pernafasan saat Memulai tatalaksana non-farmakologis, baik 
+tidur; tingkat kecemasan yang bersamaan atau terpisah dengan tatalaksana 
+signifikan farmakologis
+
+Diadaptasi dari Mancia et al (2023)1
+
+Studi terbaru menunjukkan efikasi MRA dalam memperbaiki kontrol 
+TD pada pasien hipertensi resisten. Dasar pemikiran patofisiologis 
+efektivitas MRA sebagai agen keempat dalam tatalaksana hipertensi 
+resisten didasarkan pada peningkatan ekspansi volume cairan 
+ekstraselular dan peningkatan level aldosteron pada hipertensi 
+resisten, meskipun tidak mencapai level yang ditemukan pada 
+aldosteronisme primer. 2
+
+Spironolakton memiliki keuntungan pemberian sekali sehari dan 
+dapat diinisiasi mulai dosis 12.5 mg sampai 50 mg setiap hari. 
+Namun demikian penggunaan spironolakton sebagai obat keempat 
+memiliki keterbatasan pada beberapa pasien karena risiko terjadinya 
+hiperkalemia terutama pada pasien PGK dengan LFG < 45 ml/
+mnt/1.73m2 atau nilai potassium dasar > 4.5 mmol/liter. Selain itu 
+penggunaan jangka panjang dalam dosis tinggi dapat menyebabkan 
+ginekomastia dan disfungsi ereksi pada laki-laki serta gangguan 
+ketidakteraturan menstruasi pada wanita. Pada kasus demikian, 
+maka penggunaan eplerenon dapat dipertimbangkan. Karena waktu 
+paruhnya yang lebih pendek, maka eplerenon (50-100 mg) diberikan 
+dua kali sehari untuk mendapatkan efek antihipertensi yang optimal. 3
+
+Perhimpunan Dokter Hipertensi Indonesia 31
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Langkah 4. Penambahan penyekat β 
+Apabila golongan MRA tidak dapat ditoleransi pasien atau terdapat 
+kontraindikasi (PGK derajat 4, LFG < 30 ml/menit/1.73 m2 maka pilihan 
+obat kelima adalah penyekat β yang bersifat kardioselektif (metoprolol 
+atau bisoprolol), kombinasi penyekat α,β (carvedilol) atau penyekat β 
+dengan komponen vasodilatasi (nebivolol), terutama jika detak jantung 
+≥ 70/menit. Penyekat β terutama direkomendasikan apabila terdapat 
+gagal jantung dengan fraksi ejeksi rendah. Jika terdapat kontraindikasi 
+atau penyekat β tidak efektif, maka penyekat α1 seperti doxazosin lepas 
+lambat (4-8 mg/hari) atau agonis adrenerjik α sentral seperti klonidin 
+(0.1-0.3 mg, 2x/hari) dapat dipertimbangkan. Penggunaan klonidin 
+harus mempertimbangkan risiko hipertensi rebound jika pasien tidak 
+patuh dalam mengkonsumsi obat atau setelah obat dihentikan.2 
+
+Langkah 5. Penambahan vasodilator 
+Vasodilator merupakan kelompok obat yang memberikan efek 
+relaksasi pada sel otot polos vaskular sehingga dapat menurunkan 
+TD melalui vasodilatasi dan penurunan resistensi vaskular sistemik. 
+Efek samping vasodilator meliputi aktivasi barorefleks, peningkatan 
+aktivitas sistem simpatis dan sistem RAA sehingga menyebabkan 
+takikardia dan retensi cairan. Hidralazin terkadang masih dapat 
+dipertimbangkan pada beberapa kasus hipertensi resisten yang tidak 
+responsif terhadap berbagai upaya untuk mengontrol TD, namun 
+pemberiannya harus selalu dikombinasikan dengan penyekat β serta 
+diuretik untuk meminimalkan efek samping. Untuk saat ini hidralazin 
+tidak tersedia secara luas di Indonesia. Sementara minoxidil selain 
+dapat meningkatkan tonus simpatis dan retensi cairan juga dapat 
+menginduksi terjadinya hirsutisme, sehingga penggunaannya tidak 
+lagi direkomendasikan. 1
+
+Langkah 6. Pertimbangkan denervasi renal
+(Pembahasan lebih lanjut pada Bab IV)
+
+32 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+C.  Algoritma Diagnosis dan Tatalaksana
+
+Gambar 6. Algoritma evaluasi dan penegakan diagnosis hipertensi 
+resisten. Diadaptasi dari Mandia et al (2023)1
+
+Perhimpunan Dokter Hipertensi Indonesia 33
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Gambar 7. Algoritma tatalaksana hipertensi resisten. Diadaptasi dari 
+Mancia et al (2023)1
+
+*Diuretik ini masih memiliki efikasi pada LFG sampai 30 ml/menit/1.73m2
+**Hati-hati pada LFG < 30 ml/menit/1.73m2 dan/atau nilai K > 4.5 mmol/lt
+***Harus digunakan bersama penyekat ß dan diuretic
+
+34 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Tabel  5. Rekomendasi tatalaksana hipertensi resisten
+
+Rekomendasi COR LOE
+Diagnosis hipertensi resisten tegak apabila didapatkan I C
+TDS ≥ 140 mmHg atau TDD ≥ 90 mmHg, dengan 
+disertai:
+• penggunaan rejimen 3 obat meliputi golongan 
+
+penghambat sistem RAA (ACEI/ARB), CCB, dan 
+diuretik thiazid/thiazide-like dengan dosis maksimal 
+yang direkomendasikan serta dapat ditoleransi 
+oleh pasien
+
+• kontrol TD yang tidak adekuat telah dikonfirmasi 
+dengan ABPM
+
+• berbagai penyebab hipertensi resisten palsu 
+(terutama kepatuhan pengobatan yang buruk) dan 
+hipertensi sekunder telah disingkirkan
+
+Jika ABPM tidak tersedia, maka dapat digunakan HBPM II C
+untuk mengkonfirmasi diagnosis hipertensi resisten.
+Direkomendasikan menatalaksana hipertensi resisten I B
+sebagai suatu kondisi dengan risiko tingg karena 
+seringkali terkait dengan HMOD dan peningkatan risiko 
+KV.
+Pada pasien hipertensi resisten, target TD adalah I B
+< 140/90 mmHg dan < 130/80 mmHg, jika dapat 
+ditoleransi.
+Pasien hipertensi resisten direkomendasikan menjalani I B
+perubahan gaya hidup yang lebih sehat (tatalaksana 
+non-farmakologis).
+Terapi tambahan yang dapat diberikan pada hipertensi II B
+resisten adalah spironolakton (atau golongan MRA 
+lainnya), penyekat β, penyekat α1, agonis α sentral 
+(klonidin)
+Diuretik thiazid/thiazid like direkomendasikan jika LFG ≥ I B
+30 ml/menit/1.73m2.
+Diuretik loop dapat dipertimbangkan jika LFG <45 ml/ I B
+menit/1.73m2 dan harus digunakan jika LFG turun <30 
+ml/menit/1.73m2.
+
+Perhimpunan Dokter Hipertensi Indonesia 35
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Klortalidon (1x12.5-25 mg) dapat digunakan dengan II B
+atau tanpa diuretik loop jika LFG <30 ml/menit/1.73m2.
+Denervasi renal dapat dipertimbangkan sebagai opsi II B
+terapi tambahan pada pasien hipertensi resisten jika 
+LFG > 40 ml/menit/1.73m2.
+Pasien hipertensi resisten harus dimonitor secara ketat. I C
+Monitoring meliputi ABPM berkala dan penilaian HMOD, 
+khususnya fungsi ginjal dan kadar potasium serum. 
+Penggunaan HBPM secara teratur dan pemantauan 
+kepatuhan terhadap pengobatan sangat dianjurkan. 
+
+Diadaptasi dari Mancia et al (2023)1
+
+Simpulan 
+• Tatalaksana hipertensi resisten harus bersifat komprehensif 
+
+meliputi modifikasi gaya hidup (pendekatan non-farmakologis), 
+pemberian farmakoterapi, pemantauan berkala dengan ABPM 
+atau HBPM, serta penilaian HMOD
+
+• Pemberian farmakoterapi awal dengan menggunakan rejimen 
+3 obat yang meliputi golongan penghambat sistem RAA (ACEI/
+ARB), CCB, dan diuretik thiazid/thiazid-like dengan dosis maksimal 
+yang direkomendasikan serta dapat ditoleransi oleh pasien. Jenis 
+diuretik harus sesuai dengan fungsi ginjal (LFG) pasien
+
+• Apabila TD belum terkontrol setelah optimalisasi rejimen 3 obat, 
+maka konsultasi dan rujukan ke dokter spesialis dapat dilakukan.
+
+• Terapi tambahan yang dapat diberikan meliputi golongan MRA 
+(spironolakton atau eplerenon), penyekat β, penyekat α1, agonis 
+α sentral (klonidin), serta vasodilator
+
+• Beberapa jenis vasodilator dapat menimbulkan efek samping 
+takikardia dan retensi cairan sehingga pemberiannya harus 
+dikombinasikan dengan penyekat β dan diuretik
+
+• Target TD yang harus dicapai adalah < 140/90 mmHg, dan < 
+130/80 mmHg jika dapat ditoleransi
+
+36 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+BAB IV 
+PERAN DENERVASI ARTERI RENALIS DALAM TATALAKSANA 
+
+HIPERTENSI RESISTEN
+
+Denervasi arteri renalis (Renal Denervation/RDN) merupakan salah satu 
+pilihan tatalaksana non farmakologis untuk hipertensi resisten yang sudah 
+cukup lama dikenal, awalnya berupa tindakan bedah namun kemudian 
+berkembang menjadi prosedur invasif berbasis kateter. Tindakan ini 
+menargetkan saraf arteri renalis yang berperan dalam pengaturan aktivitas 
+simpatis di ginjal. Beberapa model alat telah dikembangkan untuk tujuan 
+ini dengan efektivitas yang berbeda-beda. Panduan tatalaksana hipertensi 
+oleh European Society of Cardiology/European Society of Hypertension 
+(ESC/ESH) 2018 tidak menyarankan penggunaannya secara rutin di luar 
+konteks penelitian, namun merubah rekomendasi ini pada panduan 
+terbaru tatalaksana hipertensi ESC/ESH 2023.1,40 Amerika Serikat sejauh 
+ini belum memasukkan RDN dalam algoritma tata laksana hipertensi 
+resisten. Penggunaan RDN di Asia telah cukup lama dan luas; konsorsium 
+“Asia Renal Denervation” (yang beranggotakan individu dari Hongkong, 
+Jepang, Korea, Malaysia, Singapore, Taiwan, Thailand dan Vietnam) 
+menyarankan RDN dipertimbangkan sebagai salah satu pilihan terapi 
+inisial baik tersendiri maupun dengan kombinasi terapi medikamentosa.41 
+Di Indonesia, terapi ini telah tersedia secara komersil sejak tahun 2013.
+
+Mekanisme kerja dan rasionalisasi terapi 
+Aktivasi sistem saraf simpatis merupakan salah satu faktor yang berperan 
+dalam mekanisme peningkatan TD. Serabut saraf simpatis aferen dan 
+eferen berjalan disekitar arteri renalis didalam lapisan adventisia ginjal. 
+Nervus aferen simpatis mentransmisikan sinyal dari ginjal (biasanya 
+sebagai respons terhadap cedera) ke hipotalamus, menyebabkan 
+peningkatan arus keluar simpatis dari susunan saraf pusat dan pada 
+akhirnya meningkatkan TD. Efek utama dari saraf simpatis pada ginjal 
+adalah untuk meningkatkan sekresi renin, reabsorbsi sodium di tubulus 
+
+Perhimpunan Dokter Hipertensi Indonesia 37
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+renalis dan menginduksi vasokonstriksi untuk menurunkan aliran darah 
+ke ginjal. Oleh karena itu, penurunan stimulasi simpatis ke ginjal dapat 
+menurunkan  TD  sistemik. 42
+
+Prosedur RDN bertujuan untuk menurunkan overeaktifitas simpatis pada 
+ginjal, yang merupakan faktor utama status hipertensif, melalui ablasi 
+nervus renalis. Peningkatan aktifitas sistem saraf simpatis merupakan salah 
+satu faktor penting patofisiologi hipertensi terutama pada individu dengan 
+obesitas, obstructive sleep apnea (OSA), dan penyakit ginjal kronik (PGK). 
+Saraf simpatis eferen pada ginjal meningkatkan pelepasan renin melalui 
+aktifasi reseptor beta1-adrenergik pada level seluler juksta-glomerular, 
+menurunkan perfusi ginjal dan kecepatan filtrasi glomerulus, meningkatkan 
+reabsorbsi sodium di tubular dan mengakibatkan pergeseran kurva 
+natriuresis- TD kearah kanan. Sebaliknya, peningkatan sinyal saraf sensori 
+aferen pada sistem saraf pusat sebagai respons terhadap iskemia, cedera 
+atau inflamasi, proses fibrosis, dan perubahan lainnya lingkungan di 
+sekitar jaringan, menyebabkan aktifasi refleks simpatis disertai oleh 
+vasokonstriksi perifer, peningkatan  TD  dan perburukan kerusakan organ 
+target (Hypertension-mediated Organ Damage/HMOD).1,43
+
+Rasionalisasi dari Denervasi Renalis adalah untuk memodulasi sinyal 
+berlebih (overactive signaling) antara ginjal dan sistem saraf simpatis di 
+sentral, yang sebagian besar bertanggungjawab terhadap hipereaktifitas 
+simpatis pada hipertensi resisten. Pengenalan denervasi arteri renalis 
+menggunakan perangkat kateter endovascular memungkinkan RDN 
+untuk dilakukan dengan invasi yang minimal. Selain itu, karena target 
+ablasi merupakan serabut saraf aferen dan eferen, RDN juga dapat 
+mengganggu lonjakan aferen dengan demikian menurunkan aktifitas 
+simpatis secara keseluruhan. Denervasi renalis menunjukan penurunan 
+aktifitas simpatis baik di renal maupun seluruh tubuh (sistemik) meskipun 
+tidak pada semua studi. Penelitian meta-analisis terbaru melaporkan 
+adanya suatu hubungan terbatas antara penurunan aktifitas simpatis terkait 
+RDN yang terukur pada mikroneurografi dengan penurunan TD. Hasil ini 
+
+38 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+sesuai dengan kemungkinan bahwa lebih dari sekedar faktor neural yang 
+bertanggungjawab terhadap efek terapetik RDN. 1,43
+
+Indikasi dan kontraindikasi
+
+Seleksi pasien
+Menentukan kandidat ideal untuk RDN memerlukan pertimbangan antara 
+keuntungan dan risiko prosedur yang berfokus pada pasien dengan 
+kebutuhan klinis terbesar pada managemen hipertensinya dengan tetap 
+menyadari pentingnya keputusan bersama dalam menetukan pilihan 
+pengobatan pasien.44
+
+Belum terdapat prediktor yang valid untuk menilai respons  TD  terhadap 
+terapi RDN meskipun beberapa parameter fisiologis menunjukan adanya 
+korelasi. Parameter tersebut dapat dibagi kedalam dua kategori yaitu 
+parameter yang menunjukan kekakuan arterial yang lebih rendah (aortic 
+pulse wave velocity serta indeks augmentasi dan distensibilitas aorta) 
+dan parameter yang berhubungan dengan adanya peningkatan aktifitas 
+simpatis basal (aktifitas renin plasma, peningkatan ambulatory heart 
+rate, dan variabilitas  TD  sistolik basal di malam hari). Belum tersedianya 
+parameter yang berfungsi sebagai prediktor kuat luaran terapi dan semakin 
+bertambahnya bukti ilmiah menjadikan RDN dapat dipertimbangkan 
+penggunaannya pada populasi pasien yang luas. Kelompok pasien yang 
+sesuai merefleksikan panduan terbaru yang cenderung memasukan 
+pasien dengan risiko kardiovaskular tinggi serta mereka yang tidak patuh 
+terhadap pengobatan antihipertensi.40
+
+Indikasi terapi
+Berdasarkan bukti ilmiah dan panduan tatalaksana hipertensi terbaru, 
+RDN diindikasikan pada pasien dengan kriteria sebagai berikut: 
+
+1) Pasien dengan hipertensi resisten, didefinisikan sebagai  TD  sistolik 
+>140 dan diastolik >90 mmHg meskipun sudah mendapatkan 
+terapi 3 jenis obat atau lebih dari kelas yang terbukti efektif 
+
+Perhimpunan Dokter Hipertensi Indonesia 39
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+(angiotensin-converting enzyme inhibitor (ACEI) atau angiotensin II 
+receptor blocker (ARB), penghambat kanal kalsium (CCB), diuretik 
+tiazid, dan beta-blockers) dengan dosis maksimal yang dapat 
+ditoleransi.
+
+2) Pasien dengan hipertensi tak terkontrol meskipun telah mencoba 
+modifikasi gaya hidup dan pengobatan antihipertensi namun 
+tidak toleran terhadap pengobatan tambahan atau tidak bersedia 
+menjalani pengobatan tambahan serta bersedia menjalani terapi 
+denervasi ginjal setelah pengambilan keputusan bersama.
+
+Prioritas dapat diberikan pada pasien dengan risiko kardiovaskular tinggi (misalnya 
+dengan komorbid penyakit arteri coroner, diabetes, riwayat transient ischemic 
+attack/TIA, kejadian serebrovaskular, atau penyakit ginjal kronik) yang 
+mungkin mendapatkan keuntungan terbesar dari penurunan  TD .40,44
+
+Hipertensi refrakter yang telah mendapatkan dosis maksimal antihipertensi 
+juga merupakan indikasi terapi denervasi renalis. Hipertensi refrakter 
+secara umum didefinisikan sebagai kondisi dimana hipertensi belum 
+terkontrol meskipun telah menggunakan >5 jenis obat antihipertensi, 
+termasuk diuretik thiazide dan antagonis reseptor mineral-korikoid. Selain 
+itu, RDN juga dapat dipertimbangkan pada pasien hipertensi resisten 
+dengan bukti kerusakan organ target yang progresif serta pasien yang 
+tidak patuh atau intoleransi terhadap multi-obat.42
+
+Kontraindikasi terapi 
+Dikarenakan masih kurangnya bukti yang tersedia, RDN tidak disarankan 
+untuk dilakukan pada pasien sebagai berikut:
+
+1) Penerima transplantasi ginjal 
+2) Pasien dengan gangguan fungsi ginjal berat (LFG<40 ml/min/1,73 
+
+m3)
+3) Pasien yang membutuhkan hemodialisa
+4) Pasien dengan displasia fibromuscular
+5) Pasien dengan hipertensi sekunder yang belum mendapatkan 
+
+40 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+terapi 
+6) Pasien dengan ginjal yang hanya berfungsi satu44
+
+Pasien dengan LFG <40 ml/min/1,73 m3 sebaiknya dihindarkan dari 
+terapi RDN karena pada sebagian besar penelitian LFG antara 45 dan 
+40 ml/min/1,73 m3 merupakan cut-off yang digunakan sebagai kriteria 
+eksklusi. Pasien dengan hipertensi sekunder akibat stenosis arteri renalis 
+dan pasien yang memiliki diameter arteri renalis <3 mm serta adanya 
+kelainan structural renal sebaiknya dipertimbangkan secara hati-hati 
+untuk RDN karena faktor-faktor tersebut dapat menyulitkan tindakan 
+ablasi untuk dilakukan secara tepat dan mengurangi efek terapi RDN. 
+Selain itu, RDN juga tidak cocok untuk pasien dengan hipertensi sekunder 
+yang disebabkan kehamilan, aldosteronisme primer, atau penyakit katup 
+jantung.40
+
+Perhimpunan Dokter Hipertensi Indonesia 41
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Gambar 8. Pemilihan pasien untuk terapi denervasi ginjal. Diadaptasi 
+dari Schmieder et al 2023.40
+
+42 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Efektifitas dan telaah studi 
+
+Keamanan dan efikasi terapi 
+Meskipun beberapa studi awal menunjukan penurunan TD setelah 
+prosedur RDN, hal ini menimbulkan pertanyaan setelah hasil dari 
+studi SYMPLICITY HTN-3, yang merupakan RCT pertama RDN, di tahun 
+2014.  Namun, pada studi tersebut tidak didapatkan adanya penurunan 
+signifikan  TD  sistolik (TDS) ambulatory 24 jam maupun klinik pasca RDN 
+dibandingkan dengan terapi placebo.40 Penelitian generasi kedua yaitu 
+SPYRAL HTN-OFF MED, suatu RCT multi-center internasional dengan 
+melibatkan 80 pasien hipertensi ringan-berat tanpa terapi antihipertensi, 
+menunjukan bahwa RDN superior dibandingkan plasebo serta mampu 
+menurunkan  TD  secara aman meskipun tanpa obat antihipertensi.40 Data 
+dari studi RADIANCE-HTN menunjukan bahwa respon RDN ultrasonografi 
+serupa pada kelompok dengan dan tanpa terapi antihipertensi yang 
+konsisten pada semua spektrum hipertensi. 40,41 Global SYMPLICITY 
+Registry mendapatkan penurunan bermakna ABPM dan office blood 
+pressure yang memanjang sampai paling tidak 36 bulan pada pasien 
+dengan terapi RDN. Penurunan RDN yang dicapai tidak bergantung 
+pada obat antihipertensi baseline dan tidak mengakibatkan peningkatan 
+preskripsi antihipertensi. Penurunan TD terlihat serupa dan konsisten 
+pada pasien dengan hipertensi resisten berat (TDS>160 mmHg meskipun 
+sudah mendapatkan 3 atau lebih antihipertensi), diabetes tipe 2, lansia, 
+pasien dengan gagal ginjal kronik, dan hipertensi terisolasi.40 
+
+Penelitian klinis awal RDN berulang kali menunjukan efikasi dan keamanan 
+modalitas terapi ini untuk menurunkan TD pada pasien dengan hipertensi 
+resisten. Seluruh studi generasi kedua mendapatkan bahwa RDN secara 
+signifikan menurunkan TD tanpa adanya isu keamanan mayor. Meta-
+analisis terbaru menunjukan bahwa terdapat penurunan TDS ambulatori 
+secara signifikan pada studi RDN generasi kedua dibandingkan studi awal. 
+Beberapa studi pivotal yang sedang berjalan akan memberikan evaluasi 
+dan efikasi RDN lebih lanjut pada populasi pasien hipertensi yang lebih 
+besar.41
+
+Perhimpunan Dokter Hipertensi Indonesia 43
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Rekomendasi 
+Tabel  6. Terapi denervasi arteri renalis sebagai tatalaksana hipertensi 
+resisten
+
+Pernyataan dan Rekomendasi CoR LoE
+Denervasi renalis dapat dipertimbangkan sebagai salah 
+satu pilihan terapi pada pasien dengan LFG >40 ml/ II B
+min/1,73 m2 yang belum terkontrol TD nya meskipun 
+sudah menggunakan kombinasi terapi antihipertensi, atau 
+jika terapi obat mengakibatkan efek samping serius dan 
+menurunkan kualitas kehidupan.
+Denervasi renalis dapat dipertimbangkan sebagai pilihan 
+terapi tambahan pada pasien dengan hipertensi resisten II B
+sejati jika LFG >40 ml/min/1,73 m2.
+Pemilihan pasien yang ditawarkan untuk terapi denervasi 
+renalis harus dilakukan melalui proses pembuatan I C
+keputusan bersama setelah pasien mendapatkan informasi 
+lengkap dan obyektif.
+Denervasi renalis harus dilakukan di sentral khusus yang 
+berpengalaman untuk menjamin pemilihan pasien sesuai I C
+persyaratan dan kelengkapan prosedur denervasi.
+
+Diadaptasi dari Mancia et al (2023)1
+
+Simpulan 
+• Denervasi arteri renalis (RDN) merupakan salah satu pilihan 
+
+terapi nonfarmakologis pada hipertensi resisten
+• Prosedur RDN bertujuan untuk menurunkan overeaktifitas 
+
+simpatis ginjal yang merupakan salah satu faktor utama status 
+hipertensif melalui ablasi nervus renalis
+
+• RDN diindikasikan pada pasien hipertensi resisten yang 
+sesuai dan bersedia untuk menjalani prosedur RDN melalui 
+pengambilan keputusan bersama setelah menerima edukasi 
+yang komprehensif
+
+44 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+REFERENSI 
+
+1. Mancia G, Kreutz R, Brunström M, et al. 2023 ESH Guidelines for the 
+management of arterial hypertension the Task Force for the management of 
+arterial hypertension of the European Society of Hypertension: Endorsed by the 
+International Society of Hypertension (ISH) and the European Renal Associat. 
+J Hypertens. 2023;41(12):1874-2071. doi:10.1097/HJH.0000000000003480
+
+2. Carey RM, Calhoun DA, Bakris GL, et al. Resistant Hypertension: Detection, 
+Evaluation, and Management a Scientific Statement from the American Heart 
+Association. Vol 72.; 2018. doi:10.1161/HYP.0000000000000084
+
+3. Carey RM. Special Article - The Management of Resistant Hypertension: A 
+2020 Update. Vol 63. Elsevier Inc; 2020. doi:10.1016/j.pcad.2020.08.001
+
+4. Sarafidis PA. Epidemiology of Resistant Hypertension. J Clin Hypertens. 
+2011;13(7):523-528. doi:10.1111/j.1751-7176.2011.00445.x
+
+5. Cuspidi C, Macca G, Sampieri L, et al. High prevalence of cardiac and 
+extracardiac target organ damage in refractory hypertension. J Hypertens. 
+2001;19(11):2063-2070. doi:10.1097/00004872-200111000-00018
+
+6. Viera AJ. Resistant Hypertension. J Am Board Fam Med. 2012;25(4):487-495. 
+doi:10.3122/jabfm.2012.04.110275
+
+7. Burkhart P V., Sabaté E. Adherence to Long‐Term Therapies: Evidence for 
+Action. J Nurs Scholarsh. 2003;35(3):207-207. doi:10.1111/j.1547-5069.2003.
+tb00001.x
+
+8. Taitel M, Fensterheim L, Kirkham H, Sekula R, Duncan I. Medication days’ 
+supply, Adherence, wastage, and cost among chronic patients in Medicaid. 
+Medicare Medicaid Res Rev. 2012;2(3):1-13. doi:10.5600/mmrr.002.03.a04
+
+9. Holt EW, Muntner P, Joyce CJ, Webber L, Krousel-Wood MA. Health-related 
+quality of life and antihypertensive medication adherence among older 
+adults. Age Ageing. 2010;39(4):481-487. doi:10.1093/ageing/afq040
+
+10. Pickering TG, Hall JE, Appel LJ, et al. Recommendations for blood 
+pressure measurement in humans and experimental animals: Part 1: Blood 
+pressure measurement in humans - A statement for professionals from 
+the Subcommittee of Professional and Public Education of the American 
+
+Perhimpunan Dokter Hipertensi Indonesia 45
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+Heart Association Co. Circulation. 2005;111(5):697-716. doi:10.1161/01.
+CIR.0000154900.76284.F6
+
+11. Perhimpunan Dokter Hipertensi Indonesia. Konsensus Panduan Pengukuran 
+TD Di Luar Klinik. Published online 2022:1-42.
+
+12. Perhimpunan Dokter Hipertensi Indonesia. Pedoman Pengukuran Tekanan 
+Darah Di Rumah. (Dr. dr. Yuda Turana S., dr. Bambang Widyantoro, Sp.JP, 
+PhD dr. Rarsari Soerarso Pratikto SJ, dr. Eka Harmeiwaty S., dr. Tungul D. 
+Situmorang, Sp. PDK-GH dr. Ni Made Hustrini SPK, eds.). InaSH; 2019.
+
+13. Unger T, Borghi C, Charchar F, et al. 2020 International Society of Hypertension 
+Global Hypertension Practice Guidelines. Hypertension. 2020;75(6):1334-
+1357. doi:10.1161/HYPERTENSIONAHA.120.15026
+
+14. Textor S. Evaluation of secondary hypertension. Accessed January 30, 2024. 
+https://www.uptodate.com/contents/evaluation-of-secondary-hypertension
+
+15. Rossi GP, Bisogni V, Rossitto G, et al. Practice Recommendations for Diagnosis 
+and Treatment of the Most Common Forms of Secondary Hypertension. High 
+Blood Press Cardiovasc Prev. 2020;27(6):547-560. doi:10.1007/s40292-020-
+00415-9
+
+16. Wang TD, Chiang CE, Chao TH, et al. 2022 Guidelines of the Taiwan Society 
+of Cardiology and the Taiwan Hypertension Society for the Management 
+of Hypertension. Acta Cardiol Sin. 2022;38(3):225-325. doi:10.6515/
+ACS.202205_38(3).20220321A
+
+17. Yahr J, Thomas G, Calle J, Taliercio JJ. Resistant hypertension: A 
+stepwise approach. Cleve Clin J Med. 2023;90(2):115-125. doi:10.3949/
+ccjm.90a.22046
+
+18. Sung Kyu Ha MD. Dietary Salt Intake and Hypertension. Korean Soc Electrolyte 
+Metab. 2014;5997:155-186. doi:10.1201/9781351069892
+
+19. Dong OM. Excessive dietary sodium intake and elevated blood pressure: a 
+review of current prevention and management strategies and the emerging 
+role of pharmaconutrigenetics. BMJ Nutr Prev Heal. 2018;1(1):7-16. 
+doi:10.1136/bmjnph-2018-000004
+
+46 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+20. Doroszko A, Janus A, Szahidewicz-Krupska E, Mazur G, Derkacz A. Resistant 
+Hypertension. Adv Clin Exp Med. 2016;25(1):173-183. doi:10.17219/
+acem/58998
+
+21. Graudal NA, Hubeck-Graudal T, Jurgens G. Effects of low sodium diet versus 
+high sodium diet on blood pressure, renin, aldosterone, catecholamines, 
+cholesterol, and triglyceride. Cochrane Database Syst Rev. 2017;2017(4). 
+doi:10.1002/14651858.CD004022.pub4
+
+22. Estruch R. Effects of a Mediterranean-Style Diet on Cardiovascular Risk Factors. 
+Ann Intern Med. 2006;145(1):1. doi:10.7326/0003-4819-145-1-200607040-
+00004
+
+23. Verma N, Rastogi S, Chia Y, et al. Non‐pharmacological management 
+of hypertension. J Clin Hypertens. 2021;23(7):1275-1283. doi:10.1111/
+jch.14236
+
+24. Verma N, Rastogi S, Chia YC, et al. Non-pharmacological management 
+of hypertension. J Clin Hypertens. 2021;23(7):1275-1283. doi:10.1111/
+jch.14236
+
+25. Estruch R, Martínez-González MA, Corella D, et al. Annals of Internal Medicine 
+Article Effects of a Mediterranean-Style Diet on Cardiovascular Risk Factors. 
+Ann Intern Med. 2006;145:1-11.
+
+26. Vamvakis A, Gkaliagkousi E, Triantafyllou A, Gavriilaki E, Douma S. 
+Beneficial effects of nonpharmacological interventions in the management 
+of essential hypertension. JRSM Cardiovasc Dis. 2017;6:204800401668389. 
+doi:10.1177/2048004016683891
+
+27. Erdem Y, Özkan G, Ulusoy Ş, et al. The effect of intermittent fasting on 
+blood pressure variability in patients with newly diagnosed hypertension 
+or prehypertension. J Am Soc Hypertens. 2018;12(1):42-49. doi:10.1016/j.
+jash.2017.11.008
+
+28. Calhoun DA, Jones D, Textor S, et al. Resistant Hypertension: Diagnosis, 
+Evaluation, and Treatment. Hypertension. 2008;51(6):1403-1419. 
+doi:10.1161/HYPERTENSIONAHA.108.189141
+
+29. Whelton SP, Chin A, Xin X, He J. Effect of Aerobic Exercise on Blood 
+Pressure. Ann Intern Med. 2002;136(7):493. doi:10.7326/0003-4819-136-7-
+200204020-00006
+
+Perhimpunan Dokter Hipertensi Indonesia 47
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+30. Brook RD, Appel LJ, Rubenfire M, et al. Beyond Medications and Diet: 
+Alternative Approaches to Lowering Blood Pressure. Hypertension. 
+2013;61(6):1360-1383. doi:10.1161/HYP.0b013e318293645f
+
+31. Zou L, Sasaki J, Wei GX, et al. Effects of Mind–Body Exercises (Tai Chi/Yoga) 
+on Heart Rate Variability Parameters and Perceived Stress: A Systematic 
+Review with Meta-Analysis of Randomized Controlled Trials. J Clin Med. 
+2018;7(11):404. doi:10.3390/jcm7110404
+
+32. Kichukov KN, Dimitrov H V., Nikolova LK, Petrov IS, Tokmakova MP. Non-
+pharmacological methods in the treatment of resistant hypertension. Folia 
+Med (Plovdiv). 2012;54(2):5-12. doi:10.2478/v10153-011-0081-y
+
+33. Bisognano JD, Bakris G, Nadim MK, et al. Baroreflex Activation Therapy 
+Lowers Blood Pressure in Patients With Resistant Hypertension. J Am Coll 
+Cardiol. 2011;58(7):765-773. doi:10.1016/j.jacc.2011.06.008
+
+34. Cogiamanian F, Brunoni AR, Boggio PS, Fregni F, Ciocca M, Priori A. Non-
+invasive brain stimulation for the management of arterial hypertension. Med 
+Hypotheses. 2010;74(2):332-336. doi:10.1016/j.mehy.2009.08.037
+
+35. Rodrigues B, Barboza CA, Moura EG, et al. Transcranial direct current 
+stimulation modulates autonomic nervous system and reduces ambulatory 
+blood pressure in hypertensives. Clin Exp Hypertens. 2021;43(4):320-327. do
+i:10.1080/10641963.2021.1871916
+
+36. Rodrigues B, Barboza CA, Moura EG, et al. Acute and Short-Term Autonomic 
+and Hemodynamic Responses to Transcranial Direct Current Stimulation 
+in Patients With Resistant Hypertension. Front Cardiovasc Med. 2022;9. 
+doi:10.3389/fcvm.2022.853427
+
+37. Lee H, Lee JH, Hwang MH, Kang N. Repetitive transcranial magnetic stimulation 
+improves cardiovascular autonomic nervous system control: A meta-analysis. 
+J Affect Disord. 2023;339:443-453. doi:10.1016/j.jad.2023.07.039
+
+38. Jacobsson F, Himmelmann A, Bergbrant A, Svensson A, Mannheimer C. The 
+effect of transcutaneous electric nerve stimulation in patients with therapy-
+resistant hypertension. J Hum Hypertens. 2000;14(12):795-798. doi:10.1038/
+sj.jhh.1001112
+
+48 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+39. do Amaral Sartori S, Stein C, Coronel CC, Macagnan FE, Plentz RDM. Effects 
+of Transcutaneous Electrical Nerve Stimulation in Autonomic Nervous System 
+of Hypertensive Patients: A Randomized Controlled Trial. Curr Hypertens Rev. 
+2018;14(1):66-71. doi:10.2174/1573402114666180416155528
+
+40. Schmieder R, Burnier M, East C, Tsioufis K, Delaney S. Renal Denervation: 
+A Practical Guide for Health Professionals Managing Hypertension. Interv 
+Cardiol Rev Res Resour. 2023;18. doi:10.15420/icr.2022.38
+
+41. Kario K, Kim BK, Aoki J, et al. Renal Denervation in Asia: Consensus Statement 
+of the Asia Renal Denervation Consortium. Hypertension. 2020;75(3):590-
+602. doi:10.1161/HYPERTENSIONAHA.119.13671
+
+42. Roubsanthisuk W, Kunanon S, Chattranukulchai P, et al. 2022 Renal 
+denervation therapy for the treatment of hypertension: a statement from the 
+Thai Hypertension Society. Hypertens Res. 2023;46(4):898-912. doi:10.1038/
+s41440-022-01133-6
+
+43. Sesa-Ashton G, Nolde JM, Muente I, et al. Catheter-Based Renal Denervation: 
+9-Year Follow-Up Data on Safety and Blood Pressure Reduction in Patients 
+with Resistant Hypertension. Hypertension. 2023;80(4):811-819. doi:10.1161/
+HYPERTENSIONAHA.122.20853
+
+44. Swaminathan R V., East CA, Feldman DN, et al. SCAI Position Statement on 
+Renal Denervation for Hypertension: Patient Selection, Operator Competence, 
+Training and Techniques, and Organizational Recommendations. 
+J Soc Cardiovasc Angiogr Interv. 2023;2(6):101121. doi:10.1016/j.
+jscai.2023.101121
+
+Perhimpunan Dokter Hipertensi Indonesia 49
+
+
+
+Panduan Pengenalan dan Tatalaksana Hipertensi Resisten di Indonesia 2024
+
+50 Perhimpunan Dokter Hipertensi Indonesia
+
+
+
+ISBN 978-623-99494-3-3
+
+9 7 8 6 2 3 9 9 4 9 4 3 3

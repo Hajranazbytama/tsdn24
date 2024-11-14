@@ -1,0 +1,3794 @@
+﻿Kanker Paru 
+Bukan Sel 
+Kecil 
+
+Apa itu
+
+Kanker Paru 
+Bukan Sel Kecil?
+
+Seri Panduan Pasien ESMO 
+berdasarkan Panduan Praktik Klinis ESMO esmo.org 
+
+esmo.org
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Kanker Paru Bukan Sel Kecil (KPBSK) 
+Panduan ESMO untuk Pasien 
+
+Informasi untuk pasien berdasarkan Panduan Praktik Klinis ESMO 
+
+Panduan ini dibuat untuk membantu Anda, teman-teman, keluarga, dan pengasuh Anda, mengerti lebih baik 
+mengenai kanker paru bukan sel kecil (KPBSK) dan penatalaksanaannya. Di dalam panduan ini terdapat informasi 
+mengenai beberapa subtipe KPBSK, penyebab penyakit dan bagaimana mendiagnosisnya, panduan terkini 
+mengenai jenis-jenis terapi yang tersedia, dan kemungkinan efek samping terapi-terapi tersebut.  
+
+Informasi medis yang disediakan dalam dokumen ini didasarkan pada Panduan Praktik Klinis ESMO untuk 
+KPBSK, yang didesain untuk membantu dokter dalam diagnosis dan tata laksana KPBSK stadium awal, stadium 
+lanjut lokal, dan stadium metastasis. Semua Panduan Praktik Klinis ESMO disusun dan ditinjau oleh para ahli 
+menggunakan bukti-bukti terkini yang dikumpulkan dari penelitian, uji klinis, dan pendapat ahli.  
+
+Informasi yang tercakup dalam panduan ini tidak dimaksudkan sebagai pengganti nasihat dokter Anda. Dokter 
+Anda mengetahui seluruh riwayat medis Anda dan akan membantu Anda menentukan tata laksana yang terbaik 
+untuk Anda.  
+
+Kata-kata yang diberi warna dapat Anda cari definisinya di bagian glosarium di akhir dokumen ini. 
+
+Panduan ini disusun dan ditinjau oleh: 
+
+Perwakilan European Society for Medical Oncology (ESMO): David Planchard; Silvia Novello; Solange Peters; 
+Raffaele Califano; Jean-Yves Douillard; Francesca Longo; Claire Bramley; dan Svetlana Jezdic 
+
+Perwakilan European Oncology Nursing Society (EONS): Anita Margulies; Roisin Lawless 
+
+Advokat pasien dari Lung Cancer Europe (LuCE) dan Women Against Lung Cancer in Europe (WALCE): 
+Stefania Vallone 
+
+Buku Panduan Pasien ESMO ini diterjemahkan oleh penerjemah profesional dan ditinjau oleh perwakilan 
+Indonesian Society of Hematology Medical Oncology (ISHMO) Prof. dr. C. Suharti, PhD, SpPD-KHOM dan Prof. 
+dr. Iman Supandiman, SpPD-KHOM dan perwakilan dari Indonesian Cancer Information & Support Cancer (CISC) 
+Jung Lie. 
+
+ISHMO 
+Indonesian Society of 
+Hematology Medical-Oncology 
+
+2 
+
+
+
+ISI 
+PANDUAN 
+
+[Page 2 – right inside cover] 
+
+[Insert speech bubble – ‘Isi Panduan’] 
+
+ [Typesetters – please update TO C page numbers once typeset] 
+
+3 
+3 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Kanker paru: Rangkuman informasi kunci 
+
+Rangkuman ini merupakan tinjauan dari informasi kunci yang terdapat dalam panduan KPBSK. Informasi-informasi 
+di bawah ini akan didiskusikan dengan lebih detail pada halaman-halaman berikutnya. 
+
+Pendahuluan mengenai kanker paru 
+• Kanker paru berasal dari sel-sel di dalam paru yang bertumbuh secara abnormal dan bermultiplikasi
+
+membentuk benjolan atau tumor.
+• Kanker paru bukan sel kecil (KPBSK) merupakan sebuah tipe kanker paru, yang dibedakan dari kanker paru
+
+sel kecil (KPSK) karena sel keduanya tampak berbeda di bawah mikroskop. Tiga subtipe utama KPBSK
+adalah adenokarsinoma, karsinoma sel skuamosa, dan karsinoma paru sel besar (tidak
+berdiferensiasi). Cara mendiagnosis ketiganya sama, tetapi penanganannya dapat berbeda.
+
+• Kanker paru merupakan jenis kanker ketiga paling sering di Eropa; KPBSK sendiri mencakup 85-90%
+keseluruhan kejadian kanker paru. Merokok merupakan faktor risiko terbesar kejadian kanker paru.
+
+• Di Eropa, angka mortalitas kanker paru pada pria sudah menurun, tetapi trennya justru meningkat pada
+wanita. Hal ini menunjukkan perbedaan tren merokok pada dua kelompok tersebut.
+
+Diagnosis KPBSK 
+• Seseorang dapat dicurigai mengidap kanker paru jika terdapat gejala seperti batuk yang persisten atau infeksi
+
+pada rongga dada, sensasi sulit bernapas, suara serak, nyeri dada, atau batuk darah. Gejala lain dapat berupa
+demam, kehilangan nafsu makan, penurunan berat badan tanpa sebab yang jelas, dan kelelahan.
+
+• Setelah menjalani pemeriksaan fisik, dokter Anda akan melakukan pemeriksaan rontgen dan/atau computed
+tomography (CT) scan (atau menggunakan teknologi lainnya seperti positron emission tomography [PET]
+CT scan atau magnetic resonance imaging [MRI]) untuk mengevaluasi posisi dan ekstensi kanker.
+Pemeriksaan lain seperti biopsi (sel atau jaringan diambil dari tumor) akan mengonfirmasi diagnosis KPBSK.
+
+Pilihan terapi untuk KPBSK 
+• Pilihan terapi yang tersedia:
+
+- Pembedahan
+- Kemoterapi – menggunakan obat-obatan antikanker untuk menghancurkan sel kanker. Kemoterapi
+
+dapat diberikan secara tunggal ataupun dengan terapi lainnya.
+- Terapi target – obat-obat jenis baru yang bekerja dengan menghalangi sinyal agar sel kanker tidak
+
+bertumbuh.
+- Imunoterapi – terapi yang digunakan untuk meningkatkan pertahanan alamiah tubuh dalam melawan
+
+sel kanker.
+- Radioterapi – terapi menggunakan dosis radiasi yang terukur untuk menghancurkan sel kanker dan
+
+mencegah pertumbuhannya.
+• Kombinasi berbagai jenis terapi yang berbeda umum dilakukan berdasarkan stadium dan tipe KPBSK serta
+
+kondisi dan komorbiditas (penyakit atau kondisi lain yang sedang dialami) pasien.
+• Kanker dibedakan menjadi beberapa stadium berdasarkan ukuran tumor, keterlibatan kelenjar getah bening
+
+regional, dan apakah tumor tersebut sudah menyebar ke luar paru dan menuju bagian tubuh lainnya.
+Informasi ini digunakan untuk membantu memutuskan terapi mana yang paling baik digunakan.
+
+• KPBSK stadium awal (Stadium I-II)
+- Pembedahan merupakan terapi utama untuk KPBSK stadium awal.
+- Kemoterapi mungkin dapat diberikan setelah pembedahan (disebut sebagai kemoterapi adjuvan) pada
+
+pasien dengan KPBSK stadium II dan stadium III, serta pada beberapa pasien dengan KBPSK stadium
+IB.
+
+4 
+
+
+
+- Radioterapi (stereotactic ablative radiotherapy [SABR] atau radioterapi konvensional) merupakan
+alternatif pembedahan pada pasien yang tidak bisa atau tidak mau melakukan pembedahan.
+
+- Radioterapi dapat diberikan setelah pembedahan (disebut sebagai radioterapi adjuvan) pada pasien
+dengan KPBSK stadium II dan III.
+
+• KPBSK stadium lanjut lokal (Stadium III)
+- Terapi untuk KPBSK stadium lanjut lokal melibatkan beberapa jenis terapi (disebut terapi multimodal).
+- Jika tumor dapat diangkat (reseksi), pilihan terapi dapat berupa:
+
+~ Terapi induksi (terapi inisial diberikan untuk mengecilkan ukuran tumor sebelum melanjutkan ke
+terapi kedua) yang terdiri atas kemoterapi dengan atau tanpa radioterapi, dilanjutkan dengan 
+pembedahan. 
+
+~ Pembedahan yang dilanjutkan dengan kemoterapi dan/atau radioterapi adjuvan. 
+~ Kemoradioterapi (kemoterapi dan radioterapi diberikan secara bersamaan atau berurutan). 
+
+- Jenis terapi—dan terkadang urutan terapi—yang ditawarkan terhadap pasien dengan KPBSK stadium III
+yang dapat direseksi akan tergantung pada kondisi kesehatan pasien cara umum dan komorbiditas
+pasien, dan juga memperhitungkan ekstensi dan kompleksitas proses pembedahan yang dibutuhkan
+untuk menyingkirkan tumor tersebut.
+
+- Pada KPBSK stadium III yang tidak dapat direseksi, kemoradioterapi merupakan jenis terapi yang
+lebih dipilih. Sebagai alternatif, kemoterapi dan radioterapi dapat diberikan secara sekuensial (yang
+satu diberikan setelah yang lainnya) pada pasien yang tidak toleran terhadap terapi gabungan.
+
+- Imunoterapi dapat ditawarkan pada sejumlah pasien dengan KPBSK stadium lanjut lokal yang
+tumornya tidak dapat direseksi, setelah kemoradioterapi dilakukan.
+
+• KPBSK stadium metastasis (Stadium IV)
+- KPBSK disebut sebagai stadium metastasis atau stadium IV jika kanker tersebut sudah menyebar ke
+
+luar paru yang merupakan tempat awal kanker berkembang.
+- Kemungkinan KPBSK stadium metastasis untuk dapat dihilangkan dengan pembedahan atau terapi
+
+radikal dengan radioterapi kecil.
+- Kemoterapi intravena dengan kombinasi dua obat (dengan atau tanpa tambahan terapi target bernama
+
+bevacizumab) merupakan pilihan terapi utama untuk pasien KPBSK metastasis.
+- Pilihan obat yang digunakan akan bergantung pada kondisi kesehatan pasien secara umum dan subtipe
+
+histologis tumor itu sendiri.
+- Pasien dengan ekspresi protein programmed death-ligand 1 (PD-L1) yang tinggi pada tumornya
+
+(ditentukan dengan tes molekuler menggunakan biopsi tumor) dapat diberikan pilihan pertama
+imunoterapi bernama pembrolizumab.
+
+- Pasien yang tumornya mengandung mutasi (perubahan) spesifik pada epidermal growth factor
+receptor (EGFR), BRAF, anaplastic lymphoma kinase (ALK), atau gen ROS1 (ditentukan dengan tes
+molekuler menggunakan biopsi tumor) paling baik ditangani menggunakan terapi target oral yang
+diberikan secara kontinu.
+
+- Setelah 4-6 siklus kemoterapi ganda (dua obat kemoterapi diberikan bersamaan), terapi pemeliharaan
+(terapi untuk mencegah kanker tumbuh kembali) dengan kemoterapi bernama pemetrexed dapat
+diberikan pada pasien dengan kondisi kesehatan yang baik. Terapi target erlotinib dapat ditawarkan
+sebagai terapi pemeliharaan pada pasien yang tumornya memiliki mutasi EGFR.
+
+- Jika kanker tumbuh kembali (disebut kejadian relaps atau kekambuhan), terapi lini kedua atau lini
+ketiga dapat ditawarkan. Terapi lini kedua atau lini ketiga yang sesuai bergantung pada terapi lini
+pertama apa yang sudah diberikan dan bagaimana kondisi kesehatan pasien secara umum. Pilihan
+terapi dapat berupa: kemoterapi (pemetrexed atau docetaxel), imunoterapi (nivolumab,
+pembrolizumab, atau atezolizumab) jika belum diberikan sebagai terapi lini pertama, terapi
+antiangiogenik (nintedanib atau ramucirumab) yang  dikombinasikan dengan docetaxel,  dan  terapi
+target (afatinib, gefitinib, erlotinib, osimertinib, dabrafenib yang dikombinasikan dengan trametinib,
+crizotinib, ceritinib, alectinib, brigatinib, atau lorlatinib) untuk pasien dengan perubahan molekuler.
+
+5 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+~ Pasien yang tumornya memiliki mutasi EGFR dan telah menerima terapi lini pertama dengan 
+erlotinib, gefitinib, atau afatinib, ataupun yang sudah terkonfirmasi mengalami mutasi EGFR 
+T790M, dapat diterapi menggunakan osimertinib. 
+
+~ Pasien yang terkonfirmasi memiliki mutasi BRAF dan telah menerima terapi lini pertama berupa 
+dabrafenib dan trametinib dapat menerima terapi lini kedua berupa kemoterapi berbasis 
+platinum. 
+
+~ Pasien yang tumornya memiliki perubahan ALK dan telah menerima terapi lini pertama berupa 
+crizotinib dapat diterapi menggunakan lini kedua yaitu ceritinib, alectinib, brigatinib, atau 
+lorlatinib jika tersedia.  
+
+Tindak lanjut pascaterapi 
+• Pasien yang sudah menyelesaikan terapi untuk KPBSK stadium I-III akan ditindak lanjut dengan pemeriksaan 
+
+radiologis dan klinis setiap 6 bulan selama 2 tahun pertama dan selanjutnya setiap 1 tahun. 
+• Pasien yang sudah menyelesaikan terapi untuk stadium metastasis akan ditindak lanjut dengan 
+
+pemeriksaan radiologi setiap 6-12 minggu sekali (tergantung kesesuaian pasien untuk terapi selanjutnya) 
+agar terapi lini kedua dapat segera dimulai jika diperlukan. 
+
+ 
+
+  
+
+6 
+
+
+
+Anatomi paru-paru 
+
+Paru-paru merupakan salah satu bagian dari sistem respirasi (pernapasan) manusia, yang terdiri atas: 
+
+• Hidung dan mulut.
+• Trakea (batang tenggorokan).
+• Bronkus (pipa yang bercabang ke masing-masing paru).
+• Paru-paru.
+
+Anatomi sistem respirasi, menunjukkan trakea, bronkus, dan paru-paru. Saat kita bernapas, udara akan mengalir dari hidung 
+ke mulut, melalui trakea, bronkus, dan bronkiolus, sebelum mencapai kantung-kantung udara kecil di dalam paru-paru yang 
+disebut sebagai alveolus – di sini oksigen dari udara dialirkan menuju aliran darah (lihat inset).   
+
+7 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Apa itu kanker paru? 
+
+Kanker paru pada umumnya dimulai dari sel yang melapisi bronkus dan bagian lain dari paru, seperti bronkiolus 
+atau alveolus. Terdapat dua tipe utama kanker paru primer: 
+
+• Kanker paru sel kecil (KPSK): nama tipe kanker ini didapatkan dari ukuran sel-sel penyusunnya yang kecil
+ketika dilihat dengan mikroskop.
+
+• Kanker paru bukan sel kecil (KPBSK): merupakan tipe kanker paru yang lebih umum ditemukan, mencapai
+80-90% dari semua kejadian kanker paru (Planchard dkk., 2018).
+- Panduan ini akan membahas KPBSK secara eksklusif.
+
+Apa saja subtipe KPBSK? 
+Terdapat tiga subtipe histologis KPBSK: 
+
+• Adenokarsinoma: Sebanyak 40% dari semua kejadian kanker paru adalah adenokarsinoma. Tumor ini
+berasal dari sel-sel yang memproduksi mukus yang melapisi saluran napas.
+
+• Karsinoma sel skuamosa (KSS): Mencakup 25-30% dari semua kejadian kanker paru. Tipe kanker ini
+berkembang dari sel-sel yang melapisi saluran napas dan umumnya disebabkan oleh merokok.
+
+• Karsinoma sel besar (tidak berdiferensiasi): Mencakup 10-15% dari seluruh kejadian kanker paru.
+Namanya didapatkan dari bentuk sel-sel penyusunnya saat dilihat menggunakan mikroskop.
+
+8 
+
+
+
+Apa saja gejala kanker paru? 
+
+Beberapa gejala kanker paru yang paling umum, termasuk KPBSK, adalah: 
+
+• Batuk persisten. • Batuk darah.
+• Infeksi rongga dada yang tidak membaik atau • Nyeri dada atau bahu yang tidak membaik.
+
+terjadi berulang kali. • Suara serak.
+• Kesulitan bernapas.
+• Mengi.
+
+Gejala lain yang tidak spesifik adalah: 
+
+• Demam.
+• Kehilangan nafsu makan.
+• Penurunan berat badan tanpa sebab yang jelas.
+• Merasa sangat lelah.
+
+Anda sebaiknya menemui dokter Anda untuk berkonsultasi jika terdapat gejala-gejala di atas. Meskipun begitu, 
+perlu diingat bahwa gejala-gejala ini juga bisa terjadi pada orang-orang yang tidak mengalami kanker paru; gejala-
+gejala ini dapat pula disebabkan oleh kondisi lain. 
+
+9 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Seberapa umum kejadian KPBSK? 
+
+Kanker paru merupakan kanker ketiga paling 
+sering di Eropa 
+
+Pada tahun 2018, jumlah kejadian kanker paru baru yang terdiagnosis di Eropa diperkirakan berjumlah lebih dari 
+470.000 kasus (Ferlay dkk., 2018): 
+
+• 312.000 kasus baru pada laki-laki.
+• 158.000 kasus baru pada wanita.
+
+Di Eropa, kanker paru merupakan kanker kedua tersering pada pria (setelah kanker prostat) dan kanker ketiga 
+tersering pada wanita (setelah kanker payudara dan kanker kolorektal) (Ferlay dkk., 2018). Laju insidens kanker 
+paru lebih tinggi pada negara maju dibandingkan dengan negara berkembang; variasi ini sangat merefleksikan 
+perbedaan pada tingkat dan derajat epidemi tembakau (Torre dkk., 2015). 
+
+Di Eropa, terdapat penurunan angka mortalitas kanker paru pada pria, sementara angka tersebut justru meningkat 
+pada wanita. Hal ini menunjukkan perbedaan tren prevalensi merokok pada kedua kelompok tersebut (Malvezzi 
+dkk., 2016; Planchard dkk., 2018). 
+
+Mayoritas kasus kanker paru didiagnosis pada pasien berusia di atas 65 tahun, dan median usia saat kasus 
+terdiagnosis adalah 70 tahun. 
+
+KPBSK adalah tipe kanker paru yang paling sering 
+ditemukan, mencakup 85-90% dari keseluruhan 
+kasus kanker paru 
+
+KPBSK adalah tipe kanker paru yang paling sering 
+ditemukan, mencakup 85-90% dari keseluruhan 
+kasus kanker paru
+
+10 
+
+
+
+ 
+
+Peta ini menunjukkan perkiraan jumlah kasus baru kanker paru yang terdiagnosis pada tahun 2018 per 100.000 
+populasi tiap wilayah (Ferlay dkk., 2018). 
+
+ 
+
+  
+
+11 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Apa penyebab KPBSK? 
+
+Merokok merupakan faktor risiko terbesar dalam terjadinya 
+kanker paru. Meskipun begitu, terdapat beberapa faktor risiko 
+
+Merokok merupakan faktor 
+lain yang dapat meningkatkan peluang terjadinya kanker paru. 
+
+risiko terbesar untuk kanker 
+Penting diingat bahwa memiliki faktor risiko memang 
+
+paru 
+meningkatkan peluang terjadinya kanker, tetapi tidak berarti 
+hal tersebut akan pasti terjadi. Sama halnya dengan tidak 
+memiliki faktor risiko tidak semerta-merta berarti Anda tidak Merokok merupakan faktor 
+
+mungkin terkena kanker. risiko terbesar untuk kanker
+paru
+
+Merokok 
+Rokok tembakau merupakan penyebab utama kanker paru. 
+Di Eropa, rokok bertanggung jawab terhadap 90% kasus 
+pada pria dan 80% kasus pada wanita (Novello dkk., 2016). 
+Lama seseorang merokok merupakan faktor yang lebih 
+berperan dibandingkan jumlah rokok yang dikonsumsi per 
+hari; oleh karena itu, berhenti merokok sepenuhnya di usia 
+berapa pun dapat menurunkan risiko terjadinya kanker paru 
+lebih baik daripada mengurangi jumlah rokok yang 
+dikonsumsi per hari.  
+
+Merokok pasif 
+Merokok pasif, atau yang sering juga disebut sebagai 
+second-hand smoke atau environmental tobacco smoke, 
+dapat meningkatkan risiko terjadinya KPBSK, meskipun tidak 
+setinggi risiko pada perokok aktif. 
+
+Radon 
+Radon merupakan jenis gas radioaktif yang diproduksi pada 
+proses pemecahan uranium secara alamiah dalam tanah 
+dan batu, terutama granit. Gas ini dapat menembus tanah dan 
+masuk ke rumah-rumah dan bangunan. Pajanan yang 
+berlebihan terhadap kadar radon yang tinggi dapat menjadi 
+faktor penyebab yang signifikan pada pasien kanker paru 
+yang tidak pernah merokok. Hal ini menjadi lebih relevan 
+terutama untuk pekerja tambang di bawah tanah yang dapat 
+terpajan kadar radon yang tinggi di wilayah-wilayah geografis 
+tertentu.  
+
+12 
+
+
+
+ 
+
+Kerentanan genetik  
+Beberapa orang diduga memiliki kerentanan tertentu dalam 
+susunan genetikanya, yang menyebabkan mereka lebih 
+rentan terhadap kanker paru (Bailey-Wilson dkk., 2004). 
+Memiliki keluarga dengan riwayat kanker paru, atau kanker 
+jenis lainnya, dapat meningkatkan risiko terjadinya kanker 
+paru hingga derajat tertentu. Pada orang-orang dengan 
+kerentanan genetik ini, merokok dapat jauh meningkatkan 
+risiko terjadinya kanker paru.  
+
+Polutan lingkungan dan rumah tangga 
+Hal-hal lain yang dapat menjadi faktor risiko terjadinya 
+kanker paru (terutama KPBSK) adalah pajanan terhadap 
+asbestos dan arsenik. Terdapat bukti bahwa kejadian 
+kanker paru lebih tinggi di area kota dibandingkan area 
+pedesaan, meskipun faktor-faktor selain polusi udara dapat 
+berperan pada pola ini. Terdapat juga bukti bahwa polusi 
+udara dalam ruangan yang disebabkan oleh kompor batu 
+bara dapat menjadi faktor yang berperan di beberapa 
+negara (Planchard dkk., 2018). Sebagai contoh, di China 
+terdapat peningkatan kejadian kanker paru pada wanita, 
+meskipun jumlah wanita yang merokok di China tidak setinggi di beberapa negara di Eropa.  
+
+Hasil terkini dari sebuah studi yang menggunakan computed tomography (CT) untuk skrining kanker paru 
+melaporkan terdapat 26% penurunan angka kematian kanker paru setelah 10 tahun penindaklanjutan pada laki-
+laki yang tidak memiliki gejala kanker paru tetapi dinilai memiliki risiko tinggi (De Koning dkk., 2018). Meskipun 
+begitu, saat ini skrining skala besar untuk KPBSK bukan merupakan prosedur rutin pada orang-orang yang 
+memiliki risiko tinggi mendapatkan kanker paru berdasarkan faktor risiko di atas.  
+
+ 
+
+13 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Bagaimana KPBSK didiagnosis?
+
+Kebanyakan pasien dengan KPBSK didiagnosis setelah mereka melaporkan gejala-gejala seperti batuk persisten, 
+infeksi rongga dada yang tidak membaik, dispnea, mengi, batuk darah, nyeri dada atau bahu yang tidak membaik, 
+suara serak, penurunan berat badan yang tidak jelas penyebabnya, nafsu makan menurun, atau kelelahan 
+ekstrem.  
+
+Diagnosis kanker paru ditegakkan berdasarkan hasil beberapa pemeriksaan berikut: 
+
+Pemeriksaan fisik 
+Dokter Anda akan melakukan pemeriksaan fisik pada Anda. Ia 
+akan memeriksa area dada dan kelenjar getah bening pada 
+leher Anda. Jika terdapat kecurigaan ke arah kanker paru, ia akan 
+meminta pemeriksaan foto rontgen dada, atau mungkin CT scan, 
+dan merujuk Anda ke dokter spesialis yang berkompetensi di 
+bidangnya untuk melakukan pemeriksaan lebih lanjut.  
+
+Pencitraan 
+
+Pencitraan digunakan untuk mengonfirmasi 
+kecurigaan pada diagnosis kanker paru, dan untuk 
+menginvestigasi seberapa jauh kanker tersebut 
+
+Beberapa tePkenink cpeintcriatraan  ydanig umnunagkian ndil auknuktaun kad malaehn: gonfirmasi 
+
+• Foto roknetgceun rdiagda/atonra pksa: dDiala kdukiang unnotusk imse mkearnikskae pra rpu-aru, dan untuk 
+paru Amndae unngtuikn mveelishatti gapaas piu ns eyabneg rtearlpihaat  ajabnuorhm akl.a Fnotko er tersebut
+rontgen toraks biasanya merupakan pemeriksaan pertama 
+yang dilakukan, berdasarkan gejala dan pemeriksaan fisik 
+Anda. 
+
+• CT scan toraks dan perut/abdomen atas: Dilakukan dengan
+mengambil beberapa gambar untuk mendapatkan gambaran
+tiga dimensi dari bagian dalam tubuh Anda. Pemeriksaan ini
+membantu dokter spesialis Anda untuk mengumpulkan informasi lebih mengenai tumor di tubuh Anda, seperti
+lokasinya, apakah kelenjar getah bening di sekitarnya sudah terkena, dan apakah kankernya sudah
+menyebar ke area lain di luar paru-paru Anda. Pemeriksaan ini tidak menimbulkan rasa nyeri sama sekali dan
+biasanya memakan waktu 10-30 menit.
+
+• CT scan atau magnetic resonance imaging (MRI) otak: Pemeriksaan ini membantu dokter Anda untuk
+mengonfirmasi atau menyingkirkan kemungkinan kanker Anda menyebar ke otak. MRI menggunakan daya
+magnet yang kuat untuk memberi gambaran yang detail. Anda dapat diberikan injeksi pewarna melalui
+pembuluh darah Anda untuk membantu memunculkan gambaran yang lebih jelas. Proses pemeriksaan ini
+tidak menimbulkan nyeri, tetapi mungkin akan menyebabkan rasa sedikit tidak nyaman karena Anda harus
+
+14 
+
+
+
+ 
+
+berbaring diam di dalam alat MRI tersebut selama kurang lebih 30 menit. Selama pemeriksaan ini Anda dapat 
+berbicara dan mendengar orang yang memeriksa Anda.  
+
+• Positron emission tomography (PET)/CT scan: merupakan kombinasi pemeriksaan CT dan PET scan. 
+PET menggunakan radiasi dosis rendah untuk mengukur aktivitas sel-sel di dalam tubuh Anda, sehingga 
+kombinasi pemeriksaan PET/CT dapat memberikan informasi yang lebih detail mengenai bagian tubuh yang 
+diperiksa. Sebuah obat radioaktif ringan akan diinjeksikan ke pembuluh darah di lengan Anda, kemudian 
+Anda diharuskan beristirahat selama kurang lebih satu jam selama zat tersebut menyebar di tubuh Anda. 
+Pemeriksaannya sendiri akan memakan waktu kurang lebih 30-60 menit, dan meskipun Anda harus berbaring 
+diam selama diperiksa, Anda bisa berbicara dan mendengar orang yang memeriksa Anda. PET/CT scan 
+merupakan pemeriksaan yang cukup sering dilakukan untuk menentukan apakah kanker Anda sudah 
+menyebar ke tulang.  
+
+Histopatologi 
+
+Pemeriksaan biopsi direkomendasikan untuk 
+semua pasien KPBSK karena pemeriksaan tersebut 
+membantu menentukan tata laksana terbaik 
+ 
+
+Pemeriksaan biopsi direkomendasikan untuk  
+
+Histopatolosgei meuruapa pkaans iilmeun y KanPg BmSemKp eklaajarrei sneal-  pemeriksaan tersebut 
+sel dan jaringan tubuh yang terkena penyakit 
+
+membantu menentukan tata laksana terbaik 
+menggunakan mikroskop; biopsi tumor mengacu 
+pada pengambilan sampel sel untuk diperiksa secara 
+detail. Pemeriksaan biopsi direkomendasikan untuk 
+semua pasien untuk mengonfirmasi diagnosis 
+KPBSK, mengidentifikasi subtipe histologis KPBSK, 
+dan untuk mengidentifikasi adanya protein abnormal 
+di dalam sel tumor yang akan membantu menentukan 
+terapi yang terbaik untuk Anda (Planchard dkk., 2018).   
+
+Teknik-teknik biopsi yang dilakukan adalah sebagai berikut:  
+
+• Bronkoskopi: Dokter atau perawat yang sudah terlatih 
+memeriksa bagian dalam saluran napas dan paru-paru Anda 
+menggunakan selang kecil yang dinamakan bronkoskop. 
+Selama prosedur ini dilakukan, Anda akan dibius dengan 
+anestesi lokal. Sampel dari sel-sel di saluran napas atau 
+paru-paru Anda akan diambil (dibiopsi) dalam prosedur ini. 
+
+• Biopsi menggunakan jarum dipandu CT: jika biopsi dinilai 
+sulit dilakukan dengan prosedur bronkoskopi, dokter Anda 
+mungkin akan memilih prosedur ini. Pada prosedur ini, Anda 
+akan dibius dengan anestesi lokal. Sebuah jarum tipis akan 
+dimasukkan melalui kulit Anda hingga ke paru-paru sehingga 
+dokter Anda dapat mengambil sampel sel dari tumor Anda. 
+Prosedur ini hanya membutuhkan waktu beberapa menit.  
+
+15 
+
+
+
+ 
+ 
+
+Kanker Paru Bukan Sel Kecil 
+
+• Endobronchial ultrasound-guided sampling (EBUS): Teknik ini dilakukan untuk mengonfirmasi apakah 
+kanker sudah menyebar ke kelenjar getah bening di sekitarnya, setelah pemeriksaan radiologi 
+memberikan kecurigaan pada hal tersebut. Bronkoskop, yang mengandung probe USG kecil, akan 
+dimasukkan ke dalam saluran napas Anda melalui trakea untuk melihat apakah ada pembesaran di kelenjar 
+getah bening di sekitar area tersebut. Dokter Anda dapat memasukkan jarum melalui bronkoskop tadi untuk 
+mengambil biopsi dari tumor atau dari kelenjar getah bening Anda. Pemeriksaan ini tidak nyeri, tetapi dapat 
+menimbulkan rasa tidak nyaman. Keseluruhan prosedurnya tidak memakan waktu lebih dari satu jam dan 
+Anda bisa pulang setelah prosedur tersebut selesai dilakukan. 
+
+• Oesophageal ultrasound-guided sampling (EUS): Mirip dengan EBUS, prosedur ini juga bertujuan untuk 
+mengonfirmasi apakah kanker sudah menyebar ke kelenjar getah bening di sekitarnya, setelah 
+pemeriksaan radiologis mengungkapkan kemungkinan adanya kanker ini. Perbedaannya dengan EBUS 
+adalah probe USG-nya dimasukkan melalui esofagus.  
+
+• Mediastinoskopi: Prosedur ini bersifat lebih invasif dari EBUS/EUS, tetapi direkomendasikan sebagai 
+pemeriksaan tambahan jika EBUS/EUS tidak dapat mengonfirmasi penyebaran kanker Anda, atau jika 
+kelenjar getah bening yang hendak diperiksa tidak dapat dicapai menggunakan EBUS. Mediastinoskopi 
+dilakukan dengan pembiusan umum dan membutuhkan perawatan singkat di rumah sakit. Sayatan kecil 
+akan dibuat pada kulit Anda di bagian depan leher, kemudian sebuah tabung kecil akan dimasukkan melalui 
+sayatan tersebut hingga mencapai rongga dada Anda. Kamera dengan cahaya yang terpasang pada tabung 
+tadi memperbolehkan dokter Anda melihat ke bagian dalam dada Anda—di area mediastinum—untuk mencari 
+kelenjar getah bening yang abnormal. Area ini biasanya merupakan tempat pertama kanker tersebut akan 
+menyebar. Sampel dari sel atau jaringan kelenjar getah bening akan diambil untuk diperiksa lebih lanjut.   
+
+Tanyakan dokter Anda mengenai detail dari 
+prosedur yang akan Anda lakukan 
+
+  
+
+Sito(pato)logi 
+Histopatologi merupakan pemeriksaan dari jaringan atau sel di laboratorium. Sementara itu, sitologi (atau 
+sitopatologi) merupakan pemeriksaan sel-sel kanker yang terlepas sendiri dari tumornya. Prosedur yang dapat 
+digunakan untuk melakukan metode ini adalah: 
+
+• Bronkoskopi: Bilasan bronkus (larutan garam ringan disiramkan ke permukaan saluran napas) dan 
+pengambilan sekret dapat dilakukan bersamaan dengan prosedur bronkoskopi untuk melihat keberadaan 
+sel kanker.  
+
+• Torakosentesis/drainase pleura: Efusi pleura merupakan berkumpulnya cairan secara abnormal di antara 
+lapisan tipis yang melapisi paru-paru dan rongga dada Anda (pleura). Cairan ini dapat diambil dari rongga 
+pleura melalui prosedur torakosentesis atau drainase pleura untuk kemudian diperiksa di laboratorium untuk 
+melihat keberadaan sel kanker.  
+
+ 
+
+ 
+
+16 
+
+
+
+ 
+
+• Perikardiosentesis/drainase perikardium: Efusi perikardium merupakan berkumpulnya cairan secara 
+abnormal di antara jantung dan kantung yang menyelubunginya (disebut perikardium). Cairan ini dapat 
+diambil dari rongga perikardium melalui prosedur perikardiosentesis untuk kemudian diperiksa di laboratorium 
+untuk melihat keberadaan sel kanker. Prosedur-prosedur ini dilakukan di rumah sakit, biasanya dibantu 
+dengan USG untuk memosisikan jarum di tempat yang benar. Anda akan diberikan anestesi lokal dan 
+pengawasan ketat untuk mencegah terjadinya komplikasi setelah prosedur. 
+
+Dikarenakan posisi paru-paru di dalam tubuh manusia, pengambilan sampel dari sel/jaringan dapat menjadi sulit. 
+Terdapat kemungkinan beberapa pemeriksaan ini harus diulang jika hasil yang ditemukan tidak konklusif. 
+
+ 
+
+ 
+
+  
+
+17 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Bagaimana menentukan terapi yang tepat untuk saya? 
+Setelah diagnosis Anda terkonfirmasi, dokter spesialis kanker Anda akan menentukan rencana terapi Anda 
+dengan memperhitungkan beberapa faktor. Faktor-faktor ini terkait dengan Anda dan kanker itu sendiri. 
+
+Faktor pasien 
+• Usia.
+• Kondisi kesehatan umum.
+• Riwayat kesehatan.
+• Riwayat merokok.
+• Hasil pemeriksaan darah dan radiologi.
+
+Faktor kanker 
+Terapi yang dipilih akan sangat bergantung pada tipe kanker paru apa yang Anda miliki berdasarkan pemeriksaan 
+histopatologi atau sitopatologi, lokasi kankernya, dan apakah kanker tersebut sudah menyebar ke area tubuh lain 
+atau belum berdasarkan pemeriksaan radiologi.  
+
+Penentuan stadium kanker 
+
+Stadium kanker penting diketahui oleh dokter Anda 
+untuk membantu menentukan pilihan terapi terbaik 
+untuk Anda 
+
+Stadium kanker penting diketahui oleh dokter Anda 
+Penentuan usntatduiumk  mkaenmkerb a(antatuu  smtageinnge) ndtiguunkaakann  puinlituhka nm etnedreaskpripi stikearnb aukiukra n dan posisi, serta 
+penyebarannya di dalam tubuh. Kanker diklasifikasikan menjadi stadium menggunakan sistem angka/huruf—
+
+untuk Anda
+stadium IA-IV. Pada umumnya, stadium yang lebih rendah menunjukkan prognosis yang lebih baik. Hal yang 
+diperhatikan dalam menentukan stadium kanker: 
+
+• Ukuran tumor (T).
+• Apakah kanker sudah menyebar ke kelenjar getah bening (N).
+• Apakah kanker sudah bermetastasis (menyebar) ke area lain di dalam paru-paru atau di luar paru-paru
+
+(M).
+
+Staging biasanya dilakukan dua kali: setelah pemeriksaan fisik dan radiologi; serta setelah prosedur pembedahan 
+(pada kasus-kasus tumor yang dapat direseksi).  
+
+18 
+
+
+
+ 
+
+Perbedaan stadium KPBSK dijelaskan dalam tabel berikut. Tabel ini mungkin terlihat rumit, tetapi dokter Anda 
+akan dapat menjelaskan bagian mana dari tabel ini yang berhubungan dengan kanker Anda, dan bagaimana 
+stadium tersebut berpengaruh terhadap pilihan terapi Anda. 
+
+Stadium IA • Ukuran tumor tidak lebih besar dari 3 cm, masih terletak di dalam paru-paru dan 
+(T1-N0-M0) belum menyebar ke kelenjar getah bening sekitar  
+
+Stadium IB • Ukuran tumor 3-4 cm, masih terletak di dalam paru-paru dan belum menyebar ke 
+(T2a-N0-M0) kelenjar getah bening sekitar 
+Stadium IIA • Ukuran tumor 4-5 cm, masih terletak di dalam paru-paru dan belum menyebar ke KPBSK 
+(T2b-N0-M0) kelenjar getah bening sekitar 
+
+stadium 
+Stadium IIB • Ukuran tumor tidak lebih besar dari 5 cm, sudah menyebar ke kelenjar getah awal 
+(T1/2-N1-M0 atau bening sekitar tetapi tidak di area tubuh lain; atau 
+T3-N0-M0) • Ukuran tumor 5-7 cm atau terdapat lebih dari satu tumor di dalam lobus yang 
+
+sama; belum menyebar ke kelenjar getah bening sekitar tetapi bisa menginvasi ke 
+bagian lain dari paru, saluran napas, atau area lain yang dekat dengan paru, 
+misalnya diafragma 
+
+Stadium IIIA • Ukuran tumor tidak lebih besar dari 5 cm, sudah menyebar ke kelenjar getah 
+(T1/2-N2-M0 atau bening sekitar tetapi tidak di area tubuh lain; atau 
+T3-N1-M0 atau • Ukuran tumor 5-7 cm atau terdapat lebih dari satu tumor di dalam lobus yang 
+T4-N0/1-M0)  sama; belum menyebar ke kelenjar getah bening sekitar tetapi bisa menginvasi ke 
+
+bagian lain dari paru, saluran napas, atau area lain yang dekat dengan paru, 
+misalnya diafragma; atau 
+
+• Ukuran tumor lebih besar dari 7 cm dan sudah menginvasi jaringan dan struktur di 
+luar paru-paru, seperti jantung, trakea, atau esofagus, tetapi tidak menyebar jauh ke 
+bagian tubuh lain; atau terdapat lebih dari satu tumor di dua lobus berbeda di satu 
+
+KPBSK 
+paru. Kanker sudah atau belum menyebar ke kelenjar getah bening sekitar 
+
+stadium 
+Stadium IIIB • Ukuran tumor tidak lebih besar dari 5 cm, sudah menyebar ke kelenjar getah 
+
+lanjut lokal 
+(T1/2-N3-M0 bening sekitar tetapi tidak di area tubuh lain; atau 
+
+atau T3-N2-M0 • Ukuran tumor 5-7 cm atau terdapat lebih dari satu tumor di dalam lobus yang 
+
+atau T4-N2-M0) sama; sudah menyebar ke kelenjar getah bening sekitar tetapi bisa menginvasi ke 
+bagian lain dari paru, saluran napas, atau area lain yang dekat dengan paru, seperti 
+diafragma; atau 
+
+• Ukuran tumor lebih besar dari 7 cm dan sudah menginvasi jaringan dan struktur di 
+luar paru-paru, seperti jantung, trakea, atau esofagus, tetapi tidak menyebar jauh ke 
+bagian tubuh lain; atau terdapat lebih dari satu tumor di dua lobus berbeda di satu 
+paru. Kanker sudah menyebar ke kelenjar getah bening area lain 
+
+Stadium IV • Ukuran tumor berapa pun, sudah atau belum menyebar ke kelenjar getah bening. 
+
+(T berapa pun- Kanker terdapat pada kedua paru-paru, sudah menyebar ke bagian tubuh lain KPBSK 
+
+N berapapun- (contoh: hati, kelenjar adrenal, otak, atau tulang) atau kanker sudah menyebabkan stadium 
+
+M1) berkumpulnya cairan di sekitar paru atau jantung yang mengandung sel kanker metastasis 
+
+Sistem AJCC/UICC edisi ke-8 – versi singkat (Planchard dkk., 2018)  
+AJCC, American Joint Committee on Cancer; KPBSK, kanker paru bukan sel kecil; UICC, Union for International Cancer 
+Control 
+
+  
+
+19 
+
+
+
+ 
+ 
+
+Kanker Paru Bukan Sel Kecil 
+
+Jenis KPBSK 
+
+Hasil biopsi  
+Sampel biopsi Anda akan diperiksa di laboratorium untuk 
+menentukan beberapa hal, yaitu: 
+
+• Subtipe histologis (adenokarsinoma, KSS, atau 
+karsinoma sel besar). 
+
+• Grade. 
+• Biologi tumor. 
+
+Subtipe histologis 
+Subtipe histologis dari tumor dapat memengaruhi tipe terapi 
+yang akan Anda terima. Sebagai contoh, karsinoma nonskuamosa  
+dapat diterapi menggunakan beberapa terapi antikanker yang efektif  
+untuk pasien dengan subtipe histologi ini. 
+
+Grade 
+Grade tumor ditentukan berdasarkan perbedaan sel tumor dibandingkan dengan sel paru normal, dan seberapa 
+cepat mereka berkembang. Grade tumor ini akan dinilai dengan angka satu hingga tiga, yang merefleksikan 
+seberapa agresif sel-sel tumor tersebut; semakin tinggi grade, semakin agresif tumornya.  
+
+Pemeriksaan biologis tumor 
+Spesimen jaringan dari KPBSK metastasis tipe nonskuamosa sebaiknya diperiksa untuk melihat keberadaan 
+mutasi spesifik dari gen EGFR. Meskipun mutasi tersebut terbilang langka (kurang lebih 10-20% pada ras 
+Kaukasia dengan adenokarsinoma), deteksi mutasi gen EGFR memiliki implikasi prognosis dan terapeutik yang 
+penting untuk pasien dengan KPBSK metastasis. Pemeriksaan EGFR tidak direkomendasikan untuk pasien 
+dengan diagnosis KSS, kecuali pada pasien yang tidak pernah atau sudah lama berhenti merokok (<15 pack per 
+tahun). Jaringan tersebut sebaiknya juga diperiksa untuk melihat keberadaan mutasi spesifik (disebut sebagai 
+V600E) pada gen BRAF, karena terapi yang sesuai dapat diberikan untuk tumor dengan mutasi ini (Planchard 
+dkk., 2018). Pemeriksaan rutin untuk perubahan pada gen ALK dan ROS1 saat ini merupakan prosedur standar 
+dan sebaiknya dilakukan, jika memungkinkan, bersamaan dengan analisis mutasi EGFR. Perubahan ALK terjadi 
+lebih sering pada orang-orang yang tidak pernah merokok, pasien dengan subtipe adenokarsinoma (5%), dan 
+pada pasien yang usianya relatif muda (<50 tahun). Deteksi perubahan gen ALK memiliki implikasi terapeutik 
+yang penting untuk pasien dengan KPBSK metastasis, karena terdapat obat-obatan khusus yang menargetkan 
+ALK (contoh: crizotinib, ceritinib, dan alectinib) (Planchard dkk., 2018; Novello dkk., 2016). Beberapa inhibitor 
+ALK, termasuk crizotinib, juga menginhibisi ROS1. Oleh karena itu, keberadaan perubahan ROS1 juga 
+memengaruhi pengambilan keputusan untuk terapi pasien KPBSK metastasis (Planchard dkk., 2018).    
+
+Programmed death-ligand 1 (PD-L1): Merupakan protein seluler yang diduga terlibat dalam membantu tumor 
+menghindari deteksi sistem imun tubuh. Jumlah PD-L1 yang terdapat di dalam tumor dapat memengaruhi 
+keputusan untuk mengobati kanker dengan imunoterapi anti-PD-L1. 
+
+  
+
+20 
+
+
+
+ 
+
+Siapa yang dilibatkan dalam perencanaan terapi saya? 
+
+Di kebanyakan rumah sakit, sebuah tim khusus yang berisikan dokter dan tenaga kesehatan lainnya akan 
+merencanakan terapi apa yang dirasa paling baik untuk setiap pasien. Tim yang berisikan tenaga kesehatan 
+multidisiplin ini mencakup beberapa profesi, yaitu:  
+
+• Dokter bedah. 
+• Dokter spesialis onkologi (spesialisasi penanganan medis kanker). 
+• Dokter spesialis onkologi radiasi. 
+• Dokter spesialis paru. 
+• Perawat spesialis. 
+• Dokter spesialis radiologi (atau radiografer) yang terlibat dalam pemeriksaan rontgen dan scan. 
+• Dokter spesialis patologi yang terlibat dalam analisis biopsi tumor Anda. 
+• Spesialis biologi molekuler yang terlibat dalam analisis genetik biopsi tumor Anda. 
+• Spesialis psiko-onkologi untuk membantu menyediakan penilaian psikiatri dan konseling. 
+
+Layanan lain yang mungkin ditawarkan adalah: dietisien, pekerja sosial, perawat komunitas, fisioterapis, psikolog 
+klinis, dan layanan paliatif (untuk manajemen nyeri). Setelah melakukan konsultasi dengan tim multidisiplin, 
+dokter Anda dan juga anggota lain dari tim tersebut, akan berdiskusi dengan Anda terkait rencana terapi terbaik 
+untuk kondisi Anda (Planchard dkk., 2018). Mereka akan menjelaskan mengenai keuntungan dan kemungkinan 
+kerugian yang akan didapatkan dari terapi-terapi tersebut. 
+
+Sangat penting bagi pasien untuk terlibat sepenuhnya dalam pengambilan keputusan untuk terapi—ketika terdapat 
+beberapa pilihan terapi yang tersedia, dokter sebaiknya melibatkan pasien dalam mengambil keputusan untuk 
+dirinya, agar pasien dapat memutuskan sendiri bagaimana kebutuhannya dapat dipenuhi dan apa yang penting 
+untuknya. Hal ini disebut dengan ‘pengambilan keputusan bersama’. 
+
+Penting bagi pasien untuk terlibat sepenuhnya 
+dalam diskusi dan pengambilan keputusan terkait 
+terapi yang akan mereka jalani 
+ 
+
+Penting bagi pasien untuk terlibat sepenuhnya  
+
+Dokter Andda aklanm de ndgiasnk suensain dg ahanti  pmenjagwabm pberitlaanyna akne-pperutatnuyasaan nya tneg rmkuangitk in timbul mengenai terapi 
+Anda. Tiga tpeerrtaanpyaia yna snedge rahaknaa nya nmg edarpeakt mae jmablaantnu iA nda ketika berbicara dengan dokter Anda atau tenaga 
+kesehatan lain yang terlibat dalam penanganan Anda adalah:  
+
+• Apa saja pilihan terapi yang saya miliki? 
+• Apa saja kemungkinan keuntungan dan kerugian dari terapi tersebut? 
+• Seberapa besar kemungkinan saya mendapatkan keuntungan dan efek samping tersebut? 
+
+ 
+
+  
+
+21 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Apa saja pilihan terapi untuk KPBSK? 
+Tujuan terapi 
+Pada KPBSK stadium awal, ketika kanker tersebut masih terbatas pada paru-paru dan masih dianggap dapat 
+disembuhkan, pilihan terapi utamanya adalah reseksi (Postmus dkk., 2017). Untuk KPBSK stadium lanjut lokal, 
+terapi multimodal biasanya akan dipilih untuk mengecilkan ukuran tumor atau pada beberapa kasus dapat 
+menghilangkan kanker sepenuhnya (Eberhardt dkk., 2015). Sementara itu, untuk KPBSK stadium metastasis, 
+ketika kanker sudah menyebar ke bagian tubuh lain dan kesembuhan tidak lagi menjadi pilihan, beberapa terapi 
+antikanker sistemik dapat dipilih untuk memperlambat pertumbuhan tumor dan memperbaiki gejala sekaligus 
+kualitas hidup pasien—hal ini disebut sebagai terapi suportif atau paliatif (Planchard dkk., 2018).  
+
+Ulasan singkat jenis-jenis terapi 
+
+Terapi untuk KPBSK adalah pembedahan, 
+radioterapi, kemoterapi, dan terapi target 
+
+Terapi yang Anda dapatkan akan bergantung pada stadium dan tipe kanker. Selain itu, kondisi kesehatan umum 
+dan pilihan Anda juga akan menjadi faktor penentu terapi saat Anda berdiskusi dengan dokter Anda. Mungkin 
+Anda akan menerima kombinasi beberapa terapi. Jenis-jenis terapi utama untuk KPBSK adalah sebagai berikut:  
+
+• Pembedahan dapat dilakukan untuk menyingkirkan KPBSK jika terdiagnosis pada stadium awal. Tipe operasi
+yang dapat ditawarkan akan bergantung pada ukuran dan lokasi tumor Anda (Postmus dkk., 2017):
+- Reseksi baji atau segmen merupakan pengambilan sebagian kecil paru; dapat dilakukan pada kanker
+
+stadium sangat awal
+- Lobektomi merupakan pengambilan satu lobus paru; merupakan standar terapi pembedahan untuk
+
+KPBSK
+- Pneumonektomi merupakan pengambilan salah satu paru; merupakan prosedur reseksi bedah yang
+
+lebih kompleks dari lobektomi atau reseksi baji (segmen).
+• Kemoterapi bekerja dengan mengganggu jalur sel kanker bertumbuh dan membelah diri. Namun, obat-
+
+obatan kemoterapi juga dapat memengaruhi sel normal. Kemoterapi dapat diberikan sebelum atau sesudah
+pembedahan. Beberapa orang menjalani kemoterapi bersamaan dengan radioterapi—hal ini disebut
+kemoradioterapi. Kemoterapi dapat diberikan untuk mencoba menghilangkan kanker sepenuhnya atau
+untuk memperpanjang usia dan mengontrol gejala (terapi paliatif) (Postmus dkk., 2017; Planchard dkk.,
+2018).
+
+• Terapi target dan terapi antiangiogenik merupakan obat-obatan yang menghalangi jalur sel kanker
+bertumbuh (Novello dkk., 2016).
+
+• Imunoterapi merupakan jenis terapi yang menghalangi jalur inhibisi sistem imun tubuh untuk merespons
+terhadap sel kanker, sehingga membantu reaktivasi sistem imun tubuh untuk mendeteksi dan melawan kanker
+(Novello dkk., 2016).
+
+22 
+
+
+
+ 
+
+• Radioterapi merupakan jenis terapi yang menggunakan radiasi pengion, yang berfungsi menghancurkan 
+DNA sel kanker hingga sel mati. Terapi ini dapat dijadikan alternatif selain pembedahan untuk KPBSK 
+stadium awal. Radioterapi dapat diberikan setelah kemoterapi atau secara bersamaan (kemoradioterapi). 
+Radioterapi juga digunakan untuk mengontrol gejala ketika kanker berkembang semakin lanjut atau sudah 
+menyebar ke bagian tubuh lain. Terdapat beberapa teknik radioterapi, termasuk stereotactic ablative 
+radiotherapy (SABR) (jika tersedia), yang merupakan sejenis terapi radiasi menggunakan sinar eksternal 
+yang menghantarkan radiasi dosis tinggi, spesifik terhadap tumor (Postmus dkk., 2017; Planchard dkk., 
+2018).  
+
+Dokter dan perawat spesialis yang merawat Anda dapat mendiskusikan semua kemungkinan terapi yang tersedia 
+untuk Anda dan akan membantu Anda membuat pilihan terbaik.  
+
+Respons Anda terhadap terapi tersebut kemudian akan dimonitor secara teratur untuk melihat seberapa besar 
+efektivitasnya, dan juga untuk memastikan apakah manfaat yang Anda dapatkan melebihi efek samping yang 
+mungkin timbul. Evaluasi respons tersebut disarankan untuk dilakukan 6-12 minggu setelah pemberian terapi 
+antikanker sistemik pada KPBSK stadium IV. Hal ini akan bergantung pada pemeriksaan radiologi awal yang 
+dilakukan (Novello dkk., 2016; Planchard dkk., 2018).  
+
+  
+
+23 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Pilihan terapi untuk KPBSK stadium awal (I-II) 
+
+KPBSK stadium awal yang terbatas pada satu paru 
+mungkin dapat disembuhkan dengan pembedahan 
+
+Pembedahan merupakan terapi utama untuk KPBSK stadium awal (Postmus dkk., 2017). Prosedurnya 
+melibatkan pengangkatan tumor dan beberapa kelenjar getah bening di sekitarnya. Jumlah kelenjar getah 
+bening yang diangkat bergantung pada jenis prosedur bedah yang dilakukan. Reseksi KPBSK merupakan 
+sebuah operasi besar dan Anda diharuskan untuk berada pada kondisi kesehatan umum yang baik agar dapat 
+menoleransi tindakan tersebut. Teknik operasi yang mungkin dilakukan adalah lobektomi (lebih dipilih) atau 
+reseksi baji (segmen) dan dapat dilakukan secara terbuka ataupun dengan video-assisted thoracic surgery 
+(VATS), bergantung pada preferensi dokter bedah Anda. VATS merupakan teknik yang biasanya dipilih untuk 
+tumor stadium I (Postmus dkk., 2017). 
+
+Kelenjar getah bening yang diangkat pada pembedahan akan diperiksa menggunakan mikroskop untuk melihat 
+apakah terdapat sel kanker di dalamnya. Mengetahui keberadaan sel kanker di dalam kelenjar getah bening 
+akan membantu dokter Anda memutuskan terapi lanjutan untuk Anda, apakah menggunakan kemoterapi 
+adjuvan atau radioterapi (Postmus dkk., 2017). 
+
+Kemoterapi adjuvan biasanya diberikan untuk pasien dengan KPBSK stadium II dan akan dipertimbangkan untuk 
+beberapa pasien dengan penyakit stadium IB. Kondisi kesehatan Anda secara umum setelah prosedur 
+pembedahan akan menjadi faktor pertimbangan dalam memutuskan apakah Anda dapat menerima kemoterapi 
+adjuvan. Kombinasi dua tipe obat biasanya akan dipilih (salah satunya cisplatin), dan Anda mungkin akan 
+menjalani 3 hingga 4 siklus terapi (Postmus dkk., 2017). 
+
+Kemoterapi adjuvan dapat diberikan setelah pembedahan pada pasien dengan KPBSK stadium II (Postmus dkk., 
+2017).  
+
+Pada pasien dengan KPBSK stadium I yang tidak bersedia atau tidak dapat menjalani prosedur pembedahan, 
+SABR dapat menjadi pilihan terapi. Terapi ini akan diberikan pada Anda sebagai pasien rawat jalan selama 3-8 
+kunjungan. Jika tumor Anda lebih besar dari 5 cm dan/atau berlokasi pada bagian tengah paru, dapat dilakukan 
+radioterapi radikal menggunakan jadwal konvensional harian atau jadwal yang dipercepat (Postmus dkk., 2017). 
+
+24 
+
+
+
+ 
+
+Terapi untuk KPBSK stadium awal (I-II)—ringkasan (Postmus dkk., 2017) 
+
+JENIS TERAPI PASIEN DETAIL TERAPI PERTIMBANGAN 
+
+Pembedahan KPBSK stadium I atau • Pilihan teknik operasi: • Risiko pada operasi mayor 
+II - Lobektomi: • Waktu pemulihan (lebih 
+
+Pengangkatan salah satu singkat dengan VATS) 
+lobus paru (lebih dipilih), • Biasanya dapat pulang 3-
+atau 7 hari setelah operasi 
+
+- Reseksi baji atau • Membut uhkan 
+segmen: Hanya manajemen nyeri 
+mengangkat sejumlah pascaoperasi 
+kecil paru (kadang dipilih 
+untuk KPBSK stadium 
+sangat awal) 
+
+• Bisa menggunakan 
+pembedahan terbuka atau 
+VATS 
+
+Kemoterapi KPBSK stadium II, • Kombinasi dua obat biasanya • Perlu pulih dari 
+adjuvan setelah pembedahan diberikan secara intravena pembedahan sebelum 
+
+KPBSK stadium IB (salah satunya cisplatin) memulai kemoterapi 
+setelah pembedahan, • Umumnya, pasien diberikan • Kondisi medis yang 
+jika tumor primer >4 3-4 siklus terapi  menyertai dapat 
+cm  memengaruhi apakah 
+
+(tidak Anda dapat menerima 
+
+direkomendasikan kemoterapi atau tidak  
+
+pada KPBSK stadium 
+IA) 
+
+SABR Dipilih untuk stadium • Lebih presisi dibandingkan • SABR disebut memiliki 
+ I, jika pembedahan radioterapi konvensional; toksisitas yang rendah 
+ tidak dilakukan area-area yang sangat kecil pada pasien dengan 
+  dapat ditargetkan PPOK dan usia tua 
+
+ menggunakan dosis tinggi • Pembedahan dapat 
+ • Waktu terapi yang lebih ditawarkan setelahnya jika 
+ pendek vs radioterapi SABR tidak berhasil atau 
+
+konvensional (dua minggu) jika terjadi komplikasi 
+Radioterapi Tumor berukuran >5 • Konvensional (waktu terapi 4-  
+radikal cm dan/atau berlokasi 7 minggu menggunakan sesi 
+
+di tengah harian dari Senin-Jumat yang 
+
+Dilakukan setelah pendek) atau jadwal 
+
+pembedahan yang dipercepat (menggunakan 
+
+belum komplit jumlah terapi yang lebih 
+banyak dalam waktu yang 
+lebih singkat)  
+
+PPOK, penyakit paru obstruktif kronik; KPBSK, kanker paru bukan sel kecil; SABR, stereotactic ablative 
+radiotherapy; VATS, video-assisted thoracic surgery 
+
+25 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Pilihan terapi untuk KPBSK stadium lanjut lokal (III) 
+
+Tata laksana untuk stadium lanjut lokal dapat 
+melibatkan berbagai jenis terapi 
+
+Tata laksana untuk stadium lanjut lokal dapat 
+melibatkan berbagai jenis terapi
+
+KPBSK stadium lanjut lokal merepresentasikan penyakit yang variasinya sangat luas (lihat stadium IIIA dan IIIB 
+di tabel sistem staging AJCC/UICC) sehingga tidak direkomendasikan prinsip “satu terapi untuk semua” dalam 
+menanganinya. Beberapa pasien dengan KPBSK stadium III dinilai memiliki tumor yang dapat direseksi; artinya, 
+dokter bedah Anda berpikir bahwa ada kemungkinan tumor dapat diangkat secara bedah, baik secara langsung 
+atau setelah kemoterapi (dengan atau tanpa radioterapi). Di sisi lain, beberapa pasien dengan KPBSK stadium 
+III memiliki tumor yang tidak dapat direseksi, yaitu kondisi di mana pembedahan tidak dapat dilakukan karena 
+ukuran/lokasi tumor dan keterlibatan kelenjar getah bening di tengah rongga dada. Cara terbaik menangani 
+KPBSK stadium III adalah dengan mengombinasikan berbagai jenis terapi (pembedahan, kemoterapi, dan/atau 
+radioterapi), yang disebut sebagai terapi multimodal (Postmus dkk., 2017; Eberhardt dkk., 2015). 
+
+Pada pasien yang dinilai memiliki KPBSK stadium III yang dapat direseksi, pada umumnya pilihan terapinya 
+adalah terapi induksi dengan kemoterapi atau kemoradioterapi, kemudian diikuti dengan pembedahan 
+(biasanya lebih dipilih, terutama untuk pasien yang tumornya dapat diangkat penuh dengan lobektomi) atau 
+kemoradioterapi.  
+
+Pada pasien dengan KPBSK stadium III yang tidak dapat direseksi, terapi yang lebih dipilih adalah 
+kemoradioterapi. Selain itu, kemoterapi sekuensial yang diikuti dengan radioterapi dapat diberikan pada 
+pasien yang tidak dapat menoleransi terapi yang dilakukan bersamaan (Postmus dkk., 2017). 
+
+Kemoterapi merupakan bagian integral dari terapi KPBSK stadium III. Pada umumnya, regimen kombinasi terapi 
+berbasis cisplatin (dua obat berbeda) yang akan ditawarkan. Anda akan menjalani 2-4 siklus terapi, kemoterapi 
+dapat diberikan secara tunggal atau sebagai bagian dari kemoradioterapi. Pada beberapa pasien yang 
+diperkirakan memiliki kanker stadium I atau II dan menjalani pembedahan, kemudian dalam prosesnya ditemukan 
+bahwa ternyata stadiumnya adalah stadium III, kemoterapi adjuvan dapat dijadikan pilihan setelah proses 
+pembedahan selesai (Postmus dkk., 2017).  
+
+Jika radioterapi diberikan secara bersamaan dengan kemoterapi untuk KPBSK stadium III, dapat diberikan 
+dengan dosis harian konvensional dan sebaiknya tidak melebihi 7 minggu. Radioterapi dapat diberikan dengan 
+jadwal dipercepat sebagai bagian dari kemoradioterapi praoperasi, tetapi potensi manfaat yang bisa didapatkan 
+dengan pembedahan harus diimbangi dengan pertimbangan potensi toksisitas yang lebih tinggi. Jika diberikan 
+secara berurutan, jadwal radioterapi yang dipercepat dapat diberikan (dosis lebih tinggi diberikan dalam waktu 
+yang lebih singkat) (Postmus dkk., 2017). 
+
+Setelah menjalani terapi lini pertama, agen imunoterapi durvalumab dapat diberikan pada pasien-pasien 
+dengan tumor yang tidak dapat direseksi dan belum berprogresi setelah menjalani kemoradioterapi berbasis 
+platinum, jika tumornya mengandung sejumlah PD-L1 (ditentukan dengan pemeriksaan molekuler dari biopsi 
+tumor) (Imfinzi SPC, 2018).  
+
+26 
+
+
+
+ 
+
+Terapi untuk KPBSK stadium lanjut lokal (III)—ringkasan (Postmus dkk., 2017)  
+
+JENIS TERAPI PASIEN DETAIL TERAPI PERTIMBANGAN 
+
+Pembedahan KPBSK stadium • Dipilih jika reseksi komplit dengan • Luaran terapi akan 
+III yang dapat lobektomi dapat dilakukan, untuk bergantung pada sejauh 
+direseksi menyelamatkan sebanyak mungkin mana keterlibatan 
+
+jaringan paru kelenjar getah bening 
+• Pneumonektomi mungkin yang terletak di tengah 
+
+dibutuhkan (pengangkatan salah rongga dada – dapat 
+satu paru) pada beberapa pasien baru diketahui setelah 
+
+• Dapat ditawarkan setelah terapi pembedahan 
+
+inisial dengan kemoterapi (+/- • Tes fungsi paru 
+radioterapi)—disebut sebagai merupakan hal yang 
+terapi induksi penting dilakukan 
+
+sebelum memutuskan 
+akan melakukan operasi 
+
+Kemoterapi  • Regimen terapi intravena berbasis • Kombinasi terapi 
+cisplatin merupakan pilihan berbasis carboplatin 
+(cisplatin-etoposide atau dapat dipilih jika Anda 
+cisplatin-vinorelbine) memiliki kondisi medis 
+
+• Pada umumnya, terapi diberikan 2-4 lain yang dapat 
+siklus memengaruhi bagaimana 
+
+KPBSK stadium • Jika tumor Anda dinilai dapat Anda menoleransi 
+
+III yang dapat direseksi, kemoterapi dapat kemoterapi 
+
+direseksi diberikan sebelum pembedahan • Efek samping lebih 
+ sebagai terapi induksi (kemoterapi mungkin dapat Anda 
+
++/- radioterapi) rasakan jika kemoterapi 
+
+• Jika Anda sudah menjalani diberikan bersamaan 
+
+pembedahan di awal dan ditemukan dengan radioterapi 
+
+bahwa kanker Anda sudah 
+menyebar ke kelenjar getah 
+bening di rongga dada, Anda 
+mungkin akan ditawarkan 
+kemoterapi adjuvan 
+
+KPBSK stadium • Diberikan bersamaan dengan 
+III yang tidak radioterapi (lebih dipilih) atau 
+dapat direseksi secara berurutan (sebelum 
+ radioterapi) jika terapi bersamaan 
+
+tidak memungkinkan 
+Radioterapi KPBSK stadium • Dapat diberikan pascaoperasi pada  
+
+III yang dapat pasien yang menjalani reseksi 
+direseksi inkomplet 
+ • Jika diberikan praoperasi 
+
+bersamaan dengan kemoterapi, 
+dapat diberikan dengan dosis 
+konvensional atau jadwal 
+dipercepat 
+
+Lihat halaman selanjutnya 
+
+27 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+JENIS TERAPI PASIEN DETAIL TERAPI PERTIMBANGAN 
+
+KPBSK stadium • Dapat diberikan dalam dosis 
+III yang tidak konvensional harian atau sebagai 
+dapat direseksi bagian dari kemoradioterapi 
+ (hingga 7 minggu), atau secara 
+ berurutan (setelah kemoterapi) 
+
+sebagai jadwal dipercepat 
+Imunoterapi KPBSK stadium • Durvalumab dapat ditawarkan jika  
+
+III yang tidak penyakit belum berprogresi setelah 
+dapat direseksi kemoradioterapi (terdapat PD-L1 
+ pada ≥1% dari sel tumor) 
+
+KPBSK, kanker paru bukan sel kecil; PD-L1, programmed death-ligand 1 
+
+28 
+
+
+
+Pilihan terapi untuk KPBSK stadium metastasis (IV) 
+
+Kemoterapi merupakan pilihan terapi utama untuk 
+KPBSK stadium metastasis 
+
+KPBSK metastasis biasanya dianggap tidak dapat dioperasi. Pengangkatan penuh tumor pada stadium ini sulit 
+dilakukan sehingga kesempatan untuk sembuh total tidak dapat ditawarkan. Meskipun begitu, intervensi bedah 
+dapat memperbaiki gejala yang disebabkan oleh penyakit yang menyebar ke bagian tubuh lainnya. Radioterapi 
+juga dapat menjadi pilihan untuk membantu mengontrol gejala yang timbul dari penyebaran penyakit tersebut ke 
+organ lainnya, termasuk ke otak dan ke tulang (Planchard dkk., 2018).  
+
+Terapi antikanker sistemik merupakan pilihan terapi utama untuk KPBSK stadium metastasis, yang bertujuan 
+untuk meningkatkan kualitas hidup pasien dan memperpanjang masa hidupnya. Terdapat berbagai jenis obat yang 
+tersedia dan pilihan mengenai obat mana yang akan dipakai akan bergantung pada kondisi kesehatan umum Anda 
+dan tipe tumor yang Anda miliki (Planchard dkk., 2018).  
+
+Kemoterapi intravena dengan kombinasi dua obat (kemoterapi ganda) merupakan pilihan terapi utama untuk 
+pasien dengan KPBSK metastasis yang tidak mengandung modifikasi spesifik terhadap gen EGFR atau ALK, 
+atau jumlah tinggi protein PD-L1 (ditentukan dari pemeriksaan molekuler menggunakan biopsi tumor). 
+Kemoterapi ganda biasanya terdiri atas satu jenis kemoterapi yang berbasis platinum, ditambah gemcitabine, 
+vinorelbine, atau taxane. Tambahan pemetrexed, atau terapi target bevacizumab, atau agen imunoterapi 
+pembrolizumab juga dapat dipertimbangkan untuk pasien KPBSK tipe nonskuamosa. Pada pasien yang kondisi 
+kesehatannya kurang baik, kemoterapi tunggal menggunakan gemcitabine, vinorelbine, atau docetaxel dapat 
+menjadi pilihan terapi (Planchard dkk., 2018). 
+
+Pasien yang tumornya memiliki mutasi EGFR atau BRAF dan perubahan genetik ALK atau ROS1 sebaiknya 
+ditatalaksana menggunakan terapi target oral. Gefitinib, erlotinib, afatinib, osimertinib, atau erlotinib yang 
+dikombinasikan dengan bevacizumab merupakan pilihan untuk tumor dengan mutasi EGFR. Dabrafenib yang 
+dikombinasikan dengan tramenitib merupakan rekomendasi pilihan terapi untuk pasien dengan mutasi BRAF 
+V600E. Crizotinib, ceritinib, atau alectinib dapat dijadikan pilihan untuk pasien dengan perubahan genetik 
+ALK, dan crizotinib juga dapat direkomendasikan untuk pasien dengan perubahan genetik ROS1 (Planchard 
+dkk., 2018).  
+
+Pasien yang tumornya mengekspresikan jumlah yang tinggi dari protein PD-L1 (ditentukan dengan pemeriksaan 
+molekuler menggunakan biopsi tumor) dapat menerima imunoterapi lini pertama yaitu pembrolizumab 
+(Planchard dkk., 2018). 
+
+Setelah pemberian kemoterapi ganda selama 4-6 siklus, terapi pemeliharaan dengan pemetrexed dapat 
+diberikan pada pasien dengan kondisi kesehatan umum yang baik dengan jenis tumor nonskuamosa untuk 
+memperpanjang efek dari kemoterapi lini pertama tersebut. Erlotinib dapat ditawarkan sebagai terapi 
+pemeliharaan untuk pasien yang tumornya memiliki mutasi EGFR (Planchard dkk., 2018). 
+
+29 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Pilihan terapi lini selanjutnya dapat ditawarkan, bergantung pada terapi lini pertama apa yang Anda terima dan 
+bagaimana kondisi kesehatan Anda secara umum. Pilihan terapi yang dimaksud adalah: kemoterapi 
+(pemetrexed atau docetaxel), imunoterapi (nivolumab, pembrolizumab, atau atezolizumab), terapi 
+antiangiogenik (nintedanib atau ramucirumab) ditambah docetaxel, dan terapi target (afatanib atau 
+erlotinib). Pasien yang tumornya memiliki mutasi EGFR yang sudah menerima terapi lini pertama berupa 
+erlotinib, gefitinib, atau afatinib, dan yang sudah mendapat konfirmasi adanya abnormalitas berupa mutasi 
+T790M, dapat diberikan terapi lini kedua yaitu osimertinib. Pasien dengan mutasi BRAF V600E yang sudah 
+terkonfirmasi yang sudah menerima terapi lini pertama berupa dabrafenib dan tramenitib dapat menerima 
+kemoterapi berbasis platinum lini kedua. Pasien dengan perubahan genetik ALK yang telah menerima terapi 
+lini pertama berupa crizotinib dapat menerima terapi lini kedua dengan ceritinib, alectinib, brigatinib, atau 
+lorlatinib jika tersedia. Pasien dengan perubahan genetik ROS1 yang terkonfirmasi yang sudah menerima terapi 
+lini pertama berupa crizotinib dapat ditawarkan untuk menerima kemoterapi berbasis platinum lini kedua 
+(Planchard dkk., 2018).  
+
+Lihat halaman selanjutnya 
+30 
+
+
+
+ 
+
+Terapi untuk stadium KPBSK metastasis (IV)—ringkasan (Planchard dkk., 2018)  
+
+JENIS TERAPI PASIEN DETAIL TERAPI PERTIMBANGAN 
+
+Kemoterapi Tumor negatif Lini pertama: • Respons terhadap 
+EGFR dan ALK • Regimen intravena berbasis terapi berbasis 
+• Kondisi platinum lebih dipilih (kombinasi platinum, toksisitas, 
+
+kesehatan dua obat termasuk cisplatin atau dan kondisi kesehatan 
+umum baik, carboplatin + gemcitabine, pasien secara umum 
+tidak ada vinorelbine, atau taxane) setelah terapi inisial 
+kondisi medis • Pemetrexed dapat harus menjadi 
+mayor lainnya diinkorporasikan ke dalam pertimbangan ketika 
+
+regimen terapi pada tumor menentukan terapi 
+nonskuamosa pemeliharaan 
+
+• 4-6 siklus (dapat dijadikan pilihan • Pasien dengan kondisi 
+terapi pemeliharaan dengan kesehatan yang buruk 
+agen tunggal pemetrexed setelah sebaiknya tidak di-
+4 siklus) kemoterapi; pilihan 
+
+Lini kedua: terapinya hanyalah 
+
+• Pemetrexed (tipe nonskuamosa) terapi suportif  
+
+atau docetaxel 
+
+• Pasien kurang Lini pertama: 
+fit/usia lanjut • Regimen berbasis carboplatin 
+
+ lebih dipilih; dapat dijadikan terapi 
+tunggal dengan gemcitabine,  
+
+vinorelbine, atau docetaxel 
+Terapi target Mutasi EGFR Lini pertama: • Kebanyakan terapi 
+
+• Gefitinib, erlotinib, afatinib, atau target dapat ditoleransi 
+osimertinib dengan baik, sehingga 
+
+• Erlotinib + bevacizumab dapat dijadikan pilihan 
+Lini kedua: untuk pasien dengan 
+
+• Osimertinib kondisi kesehatan yang 
+
+Mutasi BRAF Lini pertama: kurang baik 
+
+• Dabrafenib + trametinib 
+Perubahan Lini pertama: 
+genetik ALK • Crizotinib, ceritinib, atau 
+
+alectinib 
+Lini kedua: 
+• Ceritinib, alectinib, brigatinib, 
+
+atau lorlatinib setelah lini 
+pertama crizotinib 
+
+Perubahan Lini pertama: 
+genetik ROS1 • Crizotinib 
+
+Terapi target pada Lini pertama: 
+tumor tanpa • Bevacizumab intravena dapat 
+mutasi spesifik ditambahkan pada regimen 
+
+terapi berbasis platinum (tipe 
+
+Lihat halaman selanjutnya 
+
+31 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+JENIS TERAPI PASIEN DETAIL TERAPI PERTIMBANGAN 
+nonskuamosa) pada pasien 
+dengan kondisi kesehatan yang 
+baik 
+
+Lini kedua: 
+• Erlotinib, nintedanib + 
+
+docetaxel (adenokarsinoma), 
+ramucirumab + docetaxel, 
+afatinib 
+
+Imunoterapi  Tumor negatif Lini pertama:  
+EGFR dan ALK • Pembrolizumab (pada pasien 
+• Kondisi dengan tumor positif kuat 
+
+kesehatan terhadap PD-L1) 
+umum baik, • Pembrolizumab dikombinasikan 
+tidak ada dengan pemetrexed dan 
+kondisi medis kemoterapi berbasis platinum 
+mayor lainnya (tipe nonskuamosa) 
+
+Lini kedua: 
+• Nivolumab, pembrolizumab, 
+
+atau atezolizumab (tidak 
+dipengaruhi ekspresi PD-L1) 
+
+Pembedahan Dapat digunakan Prosedur minimal invasif dapat  
+untuk memperbaiki dilakukan, misalnya pemasangan 
+gejala yang stent untuk menghilangkan obstruksi 
+disebabkan oleh saluran napas 
+kanker yang 
+menyebar 
+
+Radioterapi Dapat digunakan • Radioterapi dapat mengontrol  
+untuk memperbaiki gejala untuk metastasis tulang 
+gejala yang dan otak 
+disebabkan oleh • Dapat juga memperbaiki gejala 
+kanker yang yang disebabkan oleh obstruksi 
+menyebar saluran napas 
+
+ALK, anaplastic lymphoma kinase; EGFR, epidermal growth factor receptor; KPBSK, kanker paru bukan sel kecil; 
+PD-L1, programmed death-ligand 1; SCC, squamous cell carcinoma 
+
+32 
+
+
+
+ 
+
+Penyakit oligometastatik 
+Oligometastatik adalah kondisi ketika kanker sudah menyebar di luar lokasi awal tetapi belum bermetastasis 
+secara luas. Jika Anda dinilai memiliki diagnosis oligometastasis sinkronis, terdapat kemungkinan Anda dapat 
+mencapai kesintasan bebas penyakit jangka panjang setelah kemoterapi dan terapi radikal lokal, seperti 
+radioterapi dosis tinggi atau pembedahan; keikutsertaan dalam uji klinis dapat disarankan oleh dokter Anda 
+(Planchard dkk., 2018). Selain itu, jika Anda memiliki sejumlah oligometastasis metakronus yang muncul setelah 
+terapi untuk tumor primer Anda, Anda dapat ditawarkan untuk menjalani terapi dengan radioterapi dosis tinggi 
+atau pembedahan (Planchard dkk., 2018). 
+
+  
+
+ 
+
+33 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Uji klinis 
+
+Dokter Anda dapat menanyakan apakah Anda bersedia untuk terlibat dalam sebuah uji klinis. Uji klinis 
+merupakan penelitian yang dilakukan terhadap pasien untuk (ClinicalTrials.gov, 2017): 
+
+• Menguji terapi baru
+• Menguji kombinasi baru dari terapi yang sudah ada, atau mengubah cara pemberian untuk meningkatkan
+
+efektivitas atau mengurangi efek samping
+• Membandingkan efektivitas obat-obatan yang digunakan untuk memperbaiki gejala
+• Mengetahui bagaimana terapi kanker bekerja.
+
+Uji klinis dapat membantu meningkatkan pengetahuan akan kanker dan mengembangkan terapi baru, dan 
+terdapat beberapa keuntungan jika Anda mengikuti uji klinis tersebut. Anda akan dimonitor secara hati-hati 
+selama dan setelah penelitian, dan terapi jenis baru tersebut dapat membawa keuntungan lebih dibandingkan 
+terapi yang sudah ada sekarang. Meskipun begitu, penting untuk diingat bahwa beberapa terapi baru ternyata 
+tidak sebaik terapi yang sudah ada sekarang, atau memiliki efek samping yang tidak sebanding dengan 
+keuntungannya (ClinicalTrials.gov, 2017). 
+
+Uji klinis dapat membantu meningkatkan 
+pengetahuan akan penyakit dan 
+mengembangkan terapi baru—terdapat beberapa 
+keuntungan jika Anda memutuskan untuk ikut 
+terlibat
+
+Beberapa terapi baru untuk terapi KPBSK saat ini sedang dipelajari dalam uji klinis, termasuk terapi target dan 
+agen imunotUerjaip ki. linis dapat membantu meningkatkan 
+
+pengetahuan akan penyakit dan
+Lorlatinib merupakan terapi target yang baru-baru ini sudah disetujui penggunaannya di Eropa untuk tata 
+laksana KPBmSKe mnegtaesmtasbisa ynanggk paosnit itf eALraK,p sie tbelahr um—elatkesarndaakapna tetr abpei dbeengranp sat u atau lebih inhibitor ALK 
+(EMA, 2019ak).e Juennist ulaning tearnap ji itkarag eAt nyaditua  dmaceommituintiub sjukgaa nba ruun-btauruk in ii kduisett ujui untuk digunakan sebagai 
+terapi lini pertama pada KPBSK stadium lanjut lokal atau metastasis dengan mutasi EGFR (EMA, 2019b). 
+
+terlibat
+Uji klinis juga dapat menginvestigasi beberapa kombinasi dari obat-obatan yang sudah ada saat ini; sebagai 
+contoh, atezolizumab saat ini digunakan sebagai terapi lini kedua untuk KPBSK, tetapi baru-baru ini 
+menunjukkan potensi untuk digunakan sebagai terapi lini pertama untuk KPBSK metastasis nonskuamosa, jika 
+dikombinasikan dengan kemoterapi (Cappuzzo dkk., 2018) dan bevacizumab ditambah kemoterapi (Socinski 
+dkk., 2018a) dan pada KPBSK skuamosa dikombinasikan dengan kemoterapi (Socinski dkk., 2018b). Erlotinib 
+juga menunjukkan potensi untuk digunakan sebagai terapi neoajuvan pada KPBSK stadium lanjut lokal dengan 
+mutasi EGFR (Zhong dkk., 2018). 
+
+Anda memiliki hak untuk menerima atau menolak partisipasi dalam uji klinis tanpa konsekuensi apa pun terhadap 
+kualitas terapi yang akan Anda terima. Jika dokter Anda tidak menanyakan kepada Anda untuk terlibat dalam uji 
+klinis apa pun dan Anda ingin mengetahui lebih lanjut mengenai pilihan ini, Anda dapat menanyakannya kepada 
+dokter Anda (ClinicalTrials.gov, 2017).  
+
+34 
+
+
+
+Intervensi tambahan
+
+Intervensi atau terapi tambahan dapat membantu 
+pasien untuk mengatasi diagnosis, terapi, dan efek 
+jangka panjang KPBSK 
+
+Intervensi atau terapi tambahan dapat membantu 
+Selama perjpalaansaine pne nuynaktitu, kte rmapie anntgikaantkaesr is edbiaaikgnynao mseinsd,a tpeatr iantperiv,e dnsai nta mebfaehkan  yang bertujuan untuk 
+mencegah komplikasi dari penyakit dan terapi, serta untuk memaksimalkan kualitas hidup. Intervensi-intervensi ini 
+
+jangka panjang KPBSK
+mencakup perawatan suportif, paliatif, kelangsungan hidup, dan akhir hayat, yang sebaiknya dikoordinasi oleh 
+sebuah tim multidisiplin (Jordan dkk., 2018). Tanyakan pada dokter atau perawat Anda mengenai intervensi 
+tambahan apa yang tersedia; Anda dan keluarga Anda mungkin akan mendapat dukungan dari berbagai sumber, 
+seperti dietisien, pekerja sosial, pemuka agama, atau terapis okupasi. 
+
+Perawatan suportif 
+Perawatan suportif mencakup manajemen gejala kanker dan efek samping terapi. Terdapat beberapa jenis terapi 
+yang tersedia untuk manajemen KPBSK. Salah satunya adalah obat yang memodifikasi tulang (contoh: asam 
+zoledronat dan denosumab, yang digunakan untuk mengurangi kejadian fraktur pada metastasis tulang), stent 
+(untuk menghilangkan obstruksi saluran napas yang menyebabkan dispnea), manajemen nyeri, dan dukungan 
+nutrisi (Planchard dkk., 2018). Umumnya, perawatan suportif direkomendasikan untuk dilakukan sedini mungkin 
+bersamaan dengan terapi kanker itu sendiri: hal ini dapat meningkatkan kualitas hidup dan suasana hati Anda, 
+serta mengurangi kebutuhan terapi yang agresif (Planchard dkk., 2018). 
+
+Perawatan paliatif 
+Perawatan paliatif merupakan istilah yang digunakan untuk mendeskripsikan intervensi pada penyakit tahap 
+lanjut, termasuk manajemen nyeri dan dukungan untuk menghadapi prognosis, membuat keputusan-keputusan 
+sulit, dan persiapan perawatan akhir hayat. Perawatan paliatif pada kanker paru tahap lanjut dapat mencakup 
+penanganan nyeri, obstruksi saluran napas, dan luka baring. 
+
+Perawatan kelangsungan hidup 
+Perawatan untuk pasien yang bertahan hidup dari kanker mencakup 
+dukungan sosial, edukasi mengenai penyakit, dan rehabilitasi. 
+Sebagai contoh, dukungan psikologis dapat membantu Anda 
+menghadapi kekhawatiran atau ketakutan yang Anda rasakan. 
+Pasien sering merasakan bahwa dukungan psikologis merupakan hal 
+yang esensial dalam menghadapi diagnosis kanker, terapinya, dan 
+konsekuensi emosional yang mungkin timbul. Rencana perawatan 
+untuk penyintas dapat membantu Anda memulihkan kesejahteraan 
+kehidupan personal, profesional, dan sosial Anda.  
+Untuk informasi lebih lanjut dan saran untuk kelangsungan hidup, silakan cek panduan pasien ESMO 
+(https://www.esmo.org/for-patients/patient-guides/survivorship).  
+
+35 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Perawatan akhir hayat 
+Perawatan akhir hayat untuk pasien dengan kanker yang tidak bisa disembuhkan pada umumnya berfokus untuk 
+membuat pasien merasa nyaman dan memperbaiki gejala fisik dan psikologis, seperti sedasi paliatif untuk 
+mengurangi kesadaran dan nyeri, dispnea, delirium, atau kejang (Cherny, 2014). Diskusi mengenai perawatan 
+akhir hayat dapat menjadi suatu hal yang sangat menyedihkan, tetapi dukungan harus selalu tersedia untuk Anda 
+dan keluarga Anda di waktu ini. 
+
+  
+
+36 
+
+
+
+Apa saja kemungkinan efek samping terapi? 
+
+Seperti terapi medis pada umumnya, Anda dapat mengalami 
+efek samping dari terapi antikanker Anda. Efek samping 
+tersering untuk setiap jenis terapi akan dibahas di bawah ini, 
+begitu pula dengan informasi mengenai cara menanganinya. 
+Anda dapat mengalami efek samping selain dari yang 
+didiskusikan di sini. Sampaikan kepada dokter atau perawat 
+spesialis Anda mengenai potensi efek samping yang Anda 
+khawatirkan.  
+
+Dokter mengklasifikasikan efek samping dari terapi kanker apa pun dengan menetapkannya ke dalam beberapa 
+tingkatan dari skala 1-4 berdasarkan keparahannya. Pada umumnya, efek samping tingkat 1 dinilai ringan, 2 
+menengah, 3 berat, dan 4 sangat berat. Meski demikian, kriteria jelas yang digunakan untuk setiap efek samping 
+akan bervariasi, bergantung pada efek samping apa yang sedang dinilai. Tujuannya adalah untuk mengidentifikasi 
+dan mengatasi efek samping apa pun sebelum menjadi berat, sehingga Anda sebaiknya selalu melaporkan gejala 
+yang mengkhawatirkan kepada dokter Anda sesegera mungkin. 
+
+Sampaikan kepada dokter Anda mengenai efek 
+samping yang Anda rasakan terkait terapi yang 
+Anda jalani 
+
+Sampaikan kepada dokter Anda mengenai efek 
+Kelelahan msearumpapkian gha yl yaangg u Amnumd adia rlamsi apaksaien  ytaengr kseadiatn tge mreanpjalia ynia tenragp i kanker. Hal ini dapat muncul 
+karena kanker itu sendiri atau karena terapinya. Dokter atau perawat Anda dapat menyediakan strategi untuk 
+
+Anda jalani
+membatasi dampak kelelahan ini. Hal ini mencakup tidur yang cukup, diet sehat, dan tetap aktif (Cancer.Net, 
+2017). Kehilangan nafsu makan dan penurunan berat badan juga dapat menjadi isu yang muncul akibat kanker 
+itu sendiri ataupun terapinya. Penurunan berat badan yang signifikan, yang mencakup hilangnya massa lemak 
+dan otot, dapat menjadikan Anda lemah, mengurangi mobilitas dan kemandirian, serta menimbulkan ansietas dan 
+depresi (Escamilla dan Jarrett, 2016). Dokter Anda mungkin akan merujuk Anda pada dietisien, yang dapat 
+memeriksa kebutuhan nutrisi Anda dan menyarankan Anda mengenai diet dan suplemen yang mungkin Anda 
+butuhkan. 
+
+Lihat halaman selanjutnya 
+
+37 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Pembedahan 
+Efek samping pascapembedahan kanker dapat bervariasi, bergantung pada lokasi dan jenis pembedahan yang 
+dilakukan, serta kondisi kesehatan Anda secara umum (Cancer.Net, 2018). Efek samping yang umum timbul 
+setelah reseksi paru dirangkum dalam tabel berikut. 
+
+KEMUNGKINAN EFEK PENANGANAN EFEK SAMPING  
+SAMPING 
+
+Nyeri Nyeri atau rasa tidak nyaman setelah pembedahan adalah hal yang umum 
+terjadi dan biasanya dapat dikontrol menggunakan pengobatan antinyeri. 
+Beritahu dokter atau perawat Anda jika Anda merasakan nyeri, sehingga Anda 
+dapat ditangani sesegera mungkin (Cancer.Net, 2018) 
+
+Infeksi Anda akan diajari mengenai cara menurunkan kemungkinan terjadinya infeksi. 
+Tanda-tanda infeksi mencakup kemerahan, teraba hangat, nyeri, dan luka 
+yang merembeskan cairan. Jika Anda merasakan tanda-tanda ini, hubungi 
+dokter atau perawat Anda (Cancer.Net, 2018) 
+
+Kebocoran udara Kebocoran udara merupakan hal yang umum terjadi setelah reseksi paru. 
+jangka panjang Namun, jika hal tersebut masih terjadi setelah 7 hari, risiko komplikasi lain 
+
+dapat meningkat. Dokter bedah Anda akan mengambil langkah-langkah 
+pencegahan untuk meminimalisasi risiko kebocoran udara yang lama (Ziarnik 
+dkk., 2015) 
+
+Pneumonia Risiko pneumonia dapat dikurangi dengan mengikuti saran yang diajukan 
+dokter Anda, seperti melakukan latihan fisioterapi (contoh: batuk), mulai 
+berjalan atau bergerak sesegera mungkin setelah pembedahan, dan tidak 
+merokok. Jika terjadi, pneumonia dapat diterapi dengan antibiotik (Ziarnik 
+dkk., 2015) 
+
+Efek samping yang umum terjadi setelah operasi kanker dan bagaimana mereka dapat ditangani 
+
+  
+
+Lihat halaman selanjutnya 
+
+38 
+
+
+
+ 
+
+Radioterapi 
+Untuk beberapa pasien, radioterapi menimbulkan sedikit hingga tidak ada efek samping sama sekali; namun, 
+untuk beberapa pasien lainnya, dapat timbul efek samping yang berat. Efek samping yang timbul akibat terapi 
+radiasi dapat menghancurkan jaringan sehat dekat area yang diterapi. Efek samping yang timbul bergantung pada 
+lokasi terapi, dosis radiasi, dan kesehatan Anda secara umum. Biasanya, efek samping dapat mulai muncul 2 atau 
+3 minggu setelah terapi dan hilang dalam beberapa minggu setelah terapi terakhir (Cancer.Net, 2016).  
+
+KEMUNGKINAN EFEK PENANGANAN EFEK SAMPING  
+SAMPING 
+
+Kerusakan kulit Efek samping ini biasanya hilang beberapa minggu setelah terapi selesai. Jika 
+(misalnya kulit kering, kerusakan kulit Anda menjadi masalah serius, dokter Anda mungkin akan 
+gatal, lepuh, atau mengubah rencana terapi Anda (Cancer.Net, 2016) 
+terkelupas) 
+Esofagitis Setelah menjalani 2-3 minggu radioterapi di dada Anda, kesulitan menelan, 
+
+rasa panas di dada, atau masalah pencernaan dapat timbul. Hal ini 
+disebabkan karena radioterapi dapat menyebabkan inflamasi pada esofagus. 
+Dokter atau perawat Anda dapat memberi saran mengenai bagaimana Anda 
+dapat menangani gejala-gejala ini dan obat-obatan apa yang dapat diberikan 
+(Macmillan, 2015a) 
+
+Pneumonitis radiasi Pasien yang menjalani radioterapi di area dada dapat mengalami kondisi 
+(batuk, demam, dan yang disebut sebagai pneumonitis radiasi. Hal ini biasanya muncul 2 minggu 
+sensasi dada terasa hingga 6 bulan setelah radioterapi, dan biasanya bersifat sementara. Beritahu 
+penuh) dokter Anda jika Anda merasakan gejala-gejala pneumonitis radiasi 
+
+(Cancer.Net, 2016)  
+
+Efek samping yang umum terjadi setelah radioterapi dan bagaimana mereka dapat ditangani 
+
+  
+
+Lihat halaman selanjutnya 
+
+39 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Kemoterapi 
+Efek samping yang mungkin timbul dari kemoterapi dapat bervariasi, bergantung pada obat apa yang digunakan 
+dan berapa dosisnya—beberapa dapat Anda temukan di bawah ini, tetapi pasien pada umumnya tidak merasakan 
+semua efek samping tersebut. Pasien yang menerima kombinasi obat kemoterapi biasanya mengalami efek 
+samping yang lebih berat dibandingkan yang menerima obat kemoterapi tunggal. Area tubuh utama yang 
+mengalami efek kemoterapi biasanya adalah area di mana sel-sel baru cepat dibuat dan diganti (sumsum tulang, 
+folikel rambut, saluran pencernaan, dan lapisan mulut Anda). Pengurangan jumlah neutrofil (salah satu jenis 
+sel darah putih) dapat menyebabkan neutropenia, yang dapat membuat Anda lebih rentan terhadap infeksi. 
+Beberapa obat kemoterapi dapat memengaruhi fertilitas—jika Anda khawatir mengenai hal ini, bicarakan hal 
+tersebut dengan dokter Anda sebelum Anda memulai terapi. Kebanyakan efek samping kemoterapi bersifat 
+sementara dan dapat dikontrol dengan obat-obatan atau perubahan gaya hidup—dokter atau perawat Anda dapat 
+membantu menanganinya (Macmillan, 2016). 
+
+OBAT KEMUNGKINAN EFEK PENANGANAN EFEK SAMPING 
+KEMOTERAPI SAMPING 
+
+Carboplatin • Anemia • Perhitungan sel darah Anda akan dipantau secara 
+(Macmillan, 2015b) • Kelelahan rutin selama pengobatan Anda untuk mendeteksi 
+
+• Konstipasi neutropenia, anemia, atau trombositopenia – 
+
+• Mual dokter Anda dapat menyesuaikan pengobatan 
+
+• Muntah Anda dengan hasil pemeriksaan dan memberi tahu 
+
+• Neutropenia Anda tentang cara mencegah infeksi.  
+
+• Toksisitas ginjal  • Dokter Anda dapat membantu Anda mencegah 
+
+• Toksisitas hati  atau mengatasi mual, muntah, atau konstipasi.  
+
+• Trombositopenia • Anda akan menjalani pemeriksaan sebelum dan 
+selama pengobatan untuk memeriksa seberapa 
+baik fungsi ginjal dan hati Anda, dan Anda akan 
+diminta untuk minum banyak cairan untuk 
+mencegah kerusakan pada ginjal Anda.  
+
+Cisplatin  • Anemia • Perhitungan sel darah Anda akan dipantau secara 
+(Macmillan, 2015c) • Anoreksia rutin selama pengobatan Anda untuk mendeteksi 
+
+• Diare neutropenia, anemia, atau trombositopenia – 
+
+• Kelelahan dokter Anda dapat menyesuaikan pengobatan 
+
+• Mual/muntah Anda dengan hasil pemeriksaan dan memberi tahu 
+
+• Neuropati perifer Anda tentang cara mencegah infeksi.  
+
+• Neutropenia • Efek pada sistem pencernaan (mual, muntah, 
+
+• Peningkatan risiko diare, perubahan pengecapan) dapat 
+
+trombosis  menyebabkan penurunan nafsu makan 
+(anoreksia). Dokter Anda dapat membantu Anda 
+
+• Penurunan kesuburan 
+untuk mencegah atau mengatasi efek samping ini. 
+
+• Perubahan fungsi ginjal 
+• Laporkan tanda-tanda neuropati perifer (rasa 
+
+• Perubahan pengecapan 
+kesemutan atau mati rasa di tangan atau kaki 
+
+• Tinitus/perubahan 
+Anda) ke dokter Anda agar dokter Anda dapat 
+
+pendengaran 
+membantu Anda mengatasi efek samping ini.  
+
+• Trombositopenia 
+• Anda akan menjalani pemeriksaan sebelum dan 
+
+selama pengobatan untuk memeriksa seberapa 
+baik fungsi ginjal Anda. Anda akan diminta untuk 
+
+Lihat halaman selanjutnya 
+
+40 
+
+
+
+ 
+
+OBAT KEMUNGKINAN EFEK PENANGANAN EFEK SAMPING 
+KEMOTERAPI SAMPING 
+
+minum banyak cairan untuk mencegah kerusakan 
+pada ginjal Anda.  
+
+• Beri tahu dokter Anda jika Anda mengalami 
+perubahan pada pendengaran Anda atau 
+mengalami tinitus. Perubahan pendengaran 
+biasanya bersifat sementara, tetapi kadang-kadang 
+dapat menetap. 
+
+Docetaxel  • Alopesia  • Perhitungan sel darah Anda akan dipantau secara 
+(Taxotere SPC, • Anemia rutin selama pengobatan Anda untuk mendeteksi 
+2016) • Anoreksia neutropenia, anemia, atau trombositopenia – 
+
+• Astenia dokter Anda dapat menyesuaikan pengobatan 
+
+• Diare Anda dengan hasil pemeriksaan dan memberi tahu 
+
+• Edema Anda tentang cara mencegah infeksi. Laporkan 
+
+• Mual gejala demam kepada dokter Anda karena demam 
+merupakan salah satu tanda infeksi. 
+
+• Muntah 
+• Laporkan tanda-tanda neuropati perifer (rasa 
+
+• Neuropati perifer 
+kesemutan atau mati rasa di tangan atau kaki 
+
+• Neutropenia 
+Anda) ke dokter Anda agar dokter Anda dapat 
+
+• Reaksi pada kulit 
+membantu Anda mengatasi efek samping ini.  
+
+• Stomatitis 
+• Efek pada sistem pencernaan (mual, muntah, 
+
+• Trombositopenia 
+diare) dan stomatitis dapat menyebabkan  
+penurunan nafsu makan (anoreksia) atau 
+perasaan lemas (astenia). Dokter Anda dapat 
+membantu Anda untuk mencegah atau mengatasi 
+efek samping ini. 
+
+• Beri tahu dokter Anda jika Anda mengalami reaksi 
+pada kulit atau retensi cairan/pembengkakan 
+(edema) – mereka akan membantu Anda 
+mengatasi efek samping ini.  
+
+• Alopesia dapat terasa mengganggu bagi banyak 
+pasien; dokter Anda akan memberi Anda informasi 
+tentang cara mengatasi efek samping ini. 
+Beberapa rumah sakit dapat menyediakan 
+pendingin kulit kepala untuk mengurangi 
+kerontokan rambut. 
+
+Etoposide • Alopesia  • Perhitungan sel darah Anda akan dipantau secara 
+(Vepesid SPC, • Anemia rutin selama pengobatan Anda untuk mendeteksi 
+2017) • Anoreksia neutropenia, anemia, trombositopenia, atau 
+
+• Astenia leukopenia – dokter Anda dapat menyesuaikan 
+
+• Konstipasi pengobatan Anda dengan hasil pemeriksaan dan 
+
+• Leukopenia memberi tahu Anda tentang cara mencegah 
+
+• Mual infeksi.  
+
+• Muntah • Efek pada sistem pencernaan (konstipasi, mual, 
+muntah) dapat menyebabkan penurunan nafsu 
+
+• Neutropenia 
+makan (anoreksia) atau perasaan 
+
+• Perubahan fungsi hati 
+
+Lihat halaman selanjutnya 
+
+41 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+OBAT KEMUNGKINAN EFEK PENANGANAN EFEK SAMPING 
+KEMOTERAPI SAMPING 
+
+• Trombositopenia kelelahan/astenia. Dokter Anda dapat membantu 
+Anda untuk mencegah atau mengatasi efek 
+samping ini. 
+
+• Anda akan menjalani pemeriksaan sebelum dan 
+selama pengobatan untuk memeriksa seberapa 
+baik fungsi hati Anda.  
+
+• Alopesia dapat terasa mengganggu bagi banyak 
+pasien; dokter Anda akan memberi Anda informasi 
+tentang cara mengatasi efek samping ini. 
+Beberapa rumah sakit dapat menyediakan 
+pendingin kulit kepala untuk mengurangi 
+kerontokan rambut. 
+
+nab-Pacitaxel • Alopesia  • Perhitungan sel darah Anda akan dipantau secara 
+(Abraxane SPC, • Anemia rutin selama pengobatan Anda untuk mendeteksi 
+2018) • Anoreksia neutropenia, anemia, leukopenia, 
+
+• Artralgia trombositopenia, atau limfopenia – dokter Anda 
+
+• Astenia dapat menyesuaikan pengobatan Anda dengan 
+
+• Demam hasil pemeriksaan dan memberi tahu Anda tentang 
+
+• Diare cara mencegah infeksi. Laporkan gejala demam 
+kepada dokter Anda karena demam merupakan 
+
+• Kelelahan 
+salah satu tanda infeksi.  
+
+• Konstipasi 
+• Efek pada sistem pencernaan (mual, muntah, 
+
+• Leukopenia 
+diare, konstipasi, stomatitis) dapat menyebabkan 
+
+• Limfopenia 
+penurunan nafsu makan (anoreksia) atau 
+
+• Mialgia 
+perasaan kelelahan/astenia. Dokter Anda dapat 
+
+• Mual 
+membantu Anda untuk mencegah atau mengatasi 
+
+• Muntah 
+efek samping ini. 
+
+• Neuropati perifer 
+• Beri tahu dokter Anda jika Anda mengalami 
+
+• Neutropenia artralgia, mialgia, atau ruam dan mereka akan 
+• Ruam membantu Anda mengatasi efek samping ini.  
+• Stomatitis • Laporkan tanda-tanda neuropati perifer (rasa 
+• Trombositopenia kesemutan atau mati rasa di tangan atau kaki 
+ Anda) ke dokter Anda agar dokter Anda dapat 
+
+membantu Anda mengatasi efek samping ini. 
+• Alopesia dapat terasa mengganggu bagi banyak 
+
+pasien; dokter Anda akan memberi Anda informasi 
+tentang cara mengatasi efek samping ini. 
+Beberapa rumah sakit dapat menyediakan 
+pendingin kulit kepala untuk mengurangi 
+kerontokan rambut.  
+
+   
+ 
+ 
+
+Lihat halaman selanjutnya 
+
+42 
+
+
+
+ 
+
+OBAT KEMUNGKINAN EFEK PENANGANAN EFEK SAMPING 
+KEMOTERAPI SAMPING 
+Paclitaxel  • Alopesia  • Perhitungan sel darah Anda akan dipantau secara 
+(Paclitaxel SPC, • Anemia rutin selama pengobatan Anda untuk mendeteksi 
+2017) • Artralgia neutropenia, leukopenia, anemia, atau 
+
+• Diare trombositopenia – dokter Anda dapat 
+
+• Gangguan kuku menyesuaikan pengobatan Anda dengan hasil 
+
+• Leukopenia pemeriksaan dan memberi tahu Anda tentang cara 
+
+• Mialgia  mencegah infeksi. Laporkan gejala demam kepada 
+dokter Anda karena demam merupakan salah satu 
+
+• Mual 
+tanda infeksi. Laporkan perdarahan yang 
+
+• Mukositis 
+berkepanjangan atau tidak biasa kepada dokter 
+
+• Muntah 
+Anda karena gejala ini bisa menjadi tanda 
+
+• Neuropati perifer 
+trombositopenia.  
+
+• Neutropenia 
+• Laporkan efek pada sistem pencernaan (mual, 
+
+• Reaksi hipersensitivitas 
+muntah, diare) ke dokter Anda agar mereka dapat 
+
+• Tekanan darah rendah 
+membantu Anda untuk mencegah atau mengatasi 
+
+• Trombositopenia efek samping ini. 
+• Untuk mencegah dan mengobati 
+
+stomatitis/mukositis, Anda dapat menjaga 
+kebersihan mulut dengan menggunakan obat 
+kumur steroid dan pasta gigi ringan. Pasta mulut 
+steroid dapat digunakan untuk mengobati ulserasi. 
+
+ 
+Untuk stomatitis yang lebih berat (Derajat 2 ke 
+atas), dokter Anda dapat menyarankan untuk 
+menurunkan dosis pengobatan atau menunda 
+terapi sampai stomatitis sembuh, tetapi pada 
+kebanyakan kasus, gejalanya akan ringan dan 
+mereda setelah Anda menyelesaikan pengobatan. 
+
+• Laporkan tanda-tanda neuropati perifer ke dokter 
+Anda agar dokter Anda dapat membantu Anda 
+mengatasi efek samping ini.  
+
+• Beri tahu dokter Anda jika Anda mengalami 
+gangguan kuku, artralgia, atau mialgia agar 
+mereka dapat memutuskan cara menangani 
+kondisi-kondisi ini.  
+
+• Alopesia dapat terasa mengganggu bagi banyak 
+pasien; dokter Anda akan memberi Anda informasi 
+tentang cara mengatasi efek samping ini. 
+Beberapa rumah sakit dapat menyediakan 
+pendingin kulit kepala untuk mengurangi 
+kerontokan rambut.  
+
+   
+ 
+ 
+ 
+
+Lihat halaman selanjutnya 
+
+43 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+OBAT KEMUNGKINAN EFEK PENANGANAN EFEK SAMPING 
+KEMOTERAPI SAMPING 
+Pemetrexed  • Anemia • Perhitungan sel darah Anda akan dipantau secara 
+(Alimta SPC, 2018) • Anoreksia rutin selama pengobatan Anda untuk mendeteksi 
+
+• Faringitis neutropenia, anemia, atau leukopenia – dokter 
+
+• Kelelahan Anda dapat menyesuaikan pengobatan Anda 
+
+• Leukopenia dengan hasil pemeriksaan dan memberi tahu Anda 
+
+• Mual tentang cara mencegah infeksi. 
+
+• Neutropenia • Efek pada sistem pencernaan (stomatitis, 
+
+• Ruam faringitis, mual) dapat menyebabkan penurunan 
+nafsu makan (anoreksia). Dokter Anda dapat 
+
+• Stomatitis 
+membantu Anda untuk mencegah atau mengatasi 
+efek samping ini. 
+
+• Beri tahu dokter Anda jika Anda mengalami ruam – 
+mereka akan membantu Anda mengatasi efek 
+samping ini.  
+
+Vinorelbine • Alopesia  • Perhitungan sel darah Anda akan dipantau secara 
+(Vinorelbine SPC, • Anemia rutin selama pengobatan Anda untuk mendeteksi 
+2018) • Esofagitis neutropenia atau anemia – dokter Anda dapat 
+
+• Gangguan saraf  menyesuaikan pengobatan Anda dengan hasil 
+
+• Konstipasi pemeriksaan dan memberi tahu Anda tentang cara 
+
+• Mual mencegah infeksi. 
+
+• Muntah • Laporkan gejala-gejala gangguan saraf (misalnya 
+
+• Neutropenia penurunan refleks, kelemahan pada tungkai bawah 
+dan kaki) ke dokter Anda, yang akan memutuskan 
+
+• Reaksi pada kulit 
+cara menangani efek samping ini.  
+
+• Stomatitis 
+• Dokter Anda akan dapat membantu Anda 
+
+mencegah atau mengatasi efek pada sistem 
+pencernaan (stomatitis, mual, muntah, 
+konstipasi, esofagitis). 
+
+• Beri tahu dokter Anda jika Anda mengalami rasa 
+terbakar atau perubahan kulit pada daerah 
+penyuntikan agar mereka dapat memutuskan cara 
+menangani efek samping ini. 
+
+• Alopesia dapat terasa mengganggu bagi banyak 
+pasien; dokter Anda akan memberi Anda informasi 
+tentang cara mengatasi efek samping ini. 
+Beberapa rumah sakit dapat menyediakan 
+pendingin kulit kepala untuk mengurangi 
+kerontokan rambut. 
+
+Efek samping penting pada kemoterapi (sebagai terapi tunggal) dalam pengobatan KPBSK. Ringkasan Karakteristik 
+Produk (RKP) terbaru untuk masing-masing obat dapat ditemukan di: http://www.ema.europa.eu/ema/.  
+
+ 
+
+Lihat halaman selanjutnya 
+
+44 
+
+
+
+ 
+
+Terapi target dan terapi antiangiogenik 
+Efek samping yang umum pada pasien yang menjalani terapi target atau terapi antiangiogenik adalah efek pada 
+sistem pencernaan (misalnya diare, muntah, mual), gangguan kulit (misalnya ruam, kulit kering, perubahan kuku, 
+perubahan warna), dan hipertensi (tekanan darah tinggi). Banyak efek samping dari terapi target dapat dicegah 
+atau ditangani secara efektif. Selalu beri tahu dokter atau perawat Anda sesegera mungkin jika Anda menyadari 
+adanya efek samping dari penggunaan terapi target atau terapi antiangiogenik. 
+
+TERAPI KEMUNGKINAN EFEK PENANGANAN EFEK SAMPING 
+SAMPING 
+
+Afatinib  • Diare • Efek pada sistem pencernaan (diare, mual, 
+(Giotrif SPC, 2018) • Epistaksis muntah, stomatitis) dapat menyebabkan 
+
+• Kelainan kuku  penurunan nafsu makan (anoreksia). Dokter 
+
+• Mual Anda dapat membantu Anda untuk mencegah 
+
+• Muntah atau mengatasi efek samping ini. 
+
+• Penurunan nafsu makan • Beri tahu dokter Anda jika Anda mengalami 
+
+• Reaksi pada kulit (ruam, epistaksis (mimisan) – mereka akan membantu 
+
+jerawat, kulit kering, Anda mengatasi efek samping ini. 
+
+gatal) • Laporkan reaksi pada kulit atau kelainan kuku ke 
+
+• Stomatitis dokter Anda – mereka akan membantu Anda 
+mengatasi efek samping ini. 
+
+Alectinib  • Edema • Laporkan gejala mual atau konstipasi ke dokter 
+(Alecensa SPC, • Konstipasi Anda agar dokter Anda dapat membantu Anda 
+2018) • Mialgia  mencegah atau mengatasi efek samping ini.  
+
+ 
+• Mual • Beri tahu dokter Anda jika Anda mengalami 
+
+ edema (penumpukan cairan) atau mialgia (nyeri 
+otot) – mereka akan membantu Anda mengatasi 
+efek samping ini. 
+
+Bevacizumab  • Anoreksia • Perhitungan sel darah Anda akan dipantau 
+(Avastin SPC, 2018) • Artralgia  secara rutin selama pengobatan Anda untuk 
+
+• Diare mendeteksi neutropenia, leukopenia, atau 
+
+• Dispnea trombositopenia – dokter Anda dapat 
+
+• Gangguan bicara menyesuaikan pengobatan Anda dengan hasil 
+
+• Gangguan pengecapan pemeriksaan dan memberi tahu Anda tentang 
+
+• Gangguan perdarahan cara mencegah infeksi. 
+
+• Hipertensi • Laporkan tanda-tanda neuropati perifer 
+(kesemutan atau rasa baal pada tangan atau 
+
+• Kelelahan 
+kaki) ke dokter Anda agar dokter Anda dapat 
+
+• Komplikasi penyembuhan 
+membantu Anda mencegah atau mengatasi efek 
+
+luka 
+samping ini. 
+
+• Konstipasi 
+• Pengobatan akan ditunda sampai luka-luka 
+
+• Leukopenia 
+Anda sembuh secara sempurna. 
+
+• Mata berair 
+• Tekanan darah Anda akan dipantau selama 
+
+• Mual 
+pengobatan dan hipertensi akan ditangani 
+
+• Muntah 
+secara tepat. 
+
+• Neuropati perifer 
+ 
+
+ 
+ 
+
+ 
+
+Lihat halaman selanjutnya 
+
+45 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+TERAPI KEMUNGKINAN EFEK PENANGANAN EFEK SAMPING 
+SAMPING 
+
+• Neutropenia • Efek pada sistem pencernaan (stomatitis, 
+• Nyeri kepala konstipasi, diare, mual, muntah) dan gangguan 
+
+• Reaksi pada kulit pengecapan dapat menyebabkan penurunan 
+
+• Rinitis nafsu makan (anoreksia). Dokter Anda dapat 
+
+• Stomatitis membantu Anda untuk mencegah atau 
+
+• Trombositopenia mengatasi efek samping ini. 
+• Beri tahu dokter Anda jika Anda mengalami 
+
+reaksi pada kulit (misalnya ruam, kulit kering, 
+perubahan warna) – mereka akan membantu 
+Anda mengatasi efek samping ini. 
+
+• Laporkan efek samping lainnya, termasuk 
+perubahan penglihatan, dispnea (sesak napas), 
+gangguan bicara, artralgia (nyeri sendi), atau 
+nyeri kepala ke dokter Anda agar dokter Anda 
+dapat membantu Anda mengatasi efek samping 
+tersebut. 
+
+Ceritinib  • Anemia • Perhitungan sel darah Anda akan dipantau 
+(Zykadia SPC, • Diare secara rutin selama pengobatan Anda untuk 
+2018) • Dispepsia, gangguan mendeteksi anemia – dokter Anda dapat 
+
+asam lambung, disfagia menyesuaikan pengobatan Anda dengan hasil 
+
+• Kelelahan pemeriksaan. 
+
+• Konstipasi • Anda akan menjalani pemeriksaan sebelum dan 
+
+• Mual selama pengobatan untuk memeriksa seberapa 
+
+• Muntah baik fungsi hati Anda. 
+
+• Penurunan nafsu makan • Jika Anda mengalami diare, mual, muntah, 
+
+• Perubahan fungsi hati konstipasi, gangguan pencernaan, asam 
+lambung, atau gangguan menelan, dokter Anda 
+
+• Ruam 
+dapat membantu Anda untuk mencegah atau 
+mengatasi efek samping tersebut. 
+
+• Laporkan ruam-ruam pada kulit ke dokter Anda – 
+mereka dapat membantu Anda mengatasi efek 
+samping ini. 
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Lihat halaman selanjutnya 
+
+46 
+
+
+
+ 
+
+TERAPI KEMUNGKINAN EFEK PENANGANAN EFEK SAMPING 
+SAMPING 
+
+Crizotinib  • Anemia • Perhitungan sel darah Anda akan dipantau 
+(Xalkori SPC, 2018) • Bradikardia secara rutin selama pengobatan Anda untuk 
+
+• Diare mendeteksi neutropenia, anemia, atau 
+
+• Edema leukopenia – dokter Anda dapat menyesuaikan 
+
+• Gangguan pengecapan pengobatan Anda dengan hasil pemeriksaan 
+
+• Gangguan penglihatan dan memberi tahu Anda tentang cara mencegah 
+
+• Kelelahan infeksi. 
+
+• Konstipasi • Laporkan tanda-tanda neuropati perifer 
+(kesemutan atau rasa baal pada tangan atau 
+
+• Leukopenia 
+kaki) ke dokter Anda agar dokter Anda dapat 
+
+• Mual 
+membantu Anda mencegah atau mengatasi efek 
+
+• Muntah 
+samping ini.  
+
+• Neuropati perifer 
+• Anda akan menjalani pemeriksaan sebelum dan 
+
+• Neutropenia 
+selama pengobatan untuk memeriksa seberapa 
+
+• Perubahan fungsi hati 
+baik fungsi hati Anda. 
+
+• Pusing 
+• Jika Anda mengalami diare, mual, muntah, 
+
+• Ruam  
+konstipasi, atau gangguan pengecapan, dokter 
+Anda dapat membantu Anda untuk mencegah 
+atau mengatasi efek samping tersebut. 
+
+• Beri tahu dokter Anda jika Anda mengalami 
+gangguan penglihatan, pusing, edema  
+(penumpukan cairan) atau ruam pada kulit – 
+mereka akan membantu Anda mengatasi efek 
+samping ini. 
+
+Dabrafenibb • Artralgia • Efek pada sistem pencernaan (diare, 
+(Tafinlar SPC, • Astenia konstipasi, nyeri perut, mual, muntah) dapat 
+2018) • Batuk menyebabkan penurunan nafsu makan 
+
+• Demam (anoreksia) dan astenia (kelemahan). Dokter 
+
+• Diare Anda dapat membantu Anda untuk mencegah 
+
+• Edema atau mengatasi efek samping ini. 
+
+• Gatal • Anda akan menjalani pemeriksaan sebelum dan 
+
+• Gejala-gejala mirip flu selama pengobatan untuk memeriksa seberapa 
+baik fungsi hati Anda. 
+
+• Hipertensi 
+• Tekanan darah Anda akan dipantau selama 
+
+• Kejang otot 
+pengobatan dan hipertensi akan ditangani 
+
+• Kelelahan 
+secara tepat. 
+
+• Konstipasi 
+• Anda harus segera memberi tahu dokter Anda 
+
+• Kulit kering 
+jika terdapat tanda-tanda perdarahan (misalnya 
+
+• Menggigil 
+mimisan) agar pengobatan Anda dapat 
+
+• Mialgia 
+disesuaikan.  
+
+• Mual 
+• Beri tahu dokter Anda jika Anda mengalami 
+
+• Muntah 
+reaksi pada kulit (misalnya ruam, kulit kering, 
+
+• Nasofaringitis gatal) – mereka akan membantu Anda 
+• Nyeri kepala mengatasi efek samping tersebut. 
+• Nyeri perut 
+
+Lihat halaman selanjutnya 
+
+47 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+TERAPI KEMUNGKINAN EFEK PENANGANAN EFEK SAMPING 
+SAMPING 
+
+• Nyeri tungkai • Beri tahu dokter Anda jika Anda mengalami 
+• Penurunan nafsu makan gejala-gejala mirip flu, termasuk kelelahan, 
+
+• Perdarahan nasofaringitis, rasa menggigil, atau demam.  
+
+• Perubahan fungsi hati • Laporkan efek samping lainnya, termasuk batuk, 
+
+• Pusing kejang otot, artralgia (nyeri sendi), mialgia 
+
+• Ruam (nyeri otot), pembengkakan, nyeri kepala, atau 
+rasa pusing ke dokter Anda agar dokter Anda 
+dapat membantu Anda mengatasi efek samping 
+tersebut. 
+
+Erlotinib  • Anoreksia • Dokter Anda akan memberi tahu Anda tentang 
+(Tarceva SPC, • Batuk cara mencegah infeksi. 
+2018) • Diare • Efek pada sistem pencernaan (diare, mual, 
+
+• Dispnea muntah, stomatitis) dapat menyebabkan 
+
+• Kelelahan penurunan nafsu makan (anoreksia). Dokter 
+
+• Konjungtivitis Anda dapat membantu Anda untuk mencegah 
+
+• Mata kering atau mengatasi efek samping ini. 
+
+• Mual • Beri tahu dokter Anda jika Anda mengalami 
+
+• Muntah gangguan pada mata Anda (misalnya mata 
+kering, konjungtivitis), perburukan dispnea 
+
+• Peningkatan risiko infeksi 
+(sesak napas) atau batuk, atau ruam pada kulit – 
+
+• Ruam 
+mereka akan membantu Anda mengatasi efek 
+
+• Stomatitis 
+samping tersebut. 
+
+Gefitinib  • Anoreksia • Diare dapat menyebabkan penurunan nafsu 
+(Iressa SPC, 2018) • Astenia makan (anoreksia) dan astenia (kelemahan). 
+
+• Diare Dokter Anda akan membantu Anda mencegah 
+
+• Perubahan fungsi hati atau mengatasi efek samping ini.  
+
+• Reaksi pada kulit • Anda akan menjalani pemeriksaan sebelum dan 
+selama pengobatan untuk memeriksa seberapa 
+baik fungsi hati Anda. 
+
+• Beri tahu dokter Anda jika Anda mengalami 
+reaksi pada kulit (misalnya ruam, jerawat, kulit 
+kering, gatal) – mereka akan membantu Anda 
+mengatasi efek samping ini. 
+
+Nintedaniba     • Diare • Perhitungan sel darah Anda akan dipantau 
+(Vargatef SPC, • Mual secara rutin selama pengobatan Anda untuk 
+2018) • Mukositis mendeteksi neutropenia – dokter Anda dapat 
+
+• Muntah menyesuaikan pengobatan Anda dengan hasil 
+
+• Neuropati perifer pemeriksaan dan memberi tahu Anda tentang 
+
+• Neutropenia cara mencegah infeksi. 
+
+• Perubahan fungsi hati • Laporkan tanda-tanda neuropati perifer 
+
+• Ruam  (kesemutan atau rasa baal pada tangan atau 
+kaki) ke dokter Anda agar dokter Anda dapat 
+
+• Stomatitis 
+membantu Anda mencegah atau mengatasi efek 
+samping ini.  
+
+Lihat halaman selanjutnya 
+
+48 
+
+
+
+ 
+
+TERAPI KEMUNGKINAN EFEK PENANGANAN EFEK SAMPING 
+SAMPING 
+
+• Jika Anda mengalami diare, mual, muntah, atau 
+seriawan, dokter Anda akan membantu Anda 
+mencegah atau mengatasi efek samping 
+tersebut.  
+
+• Anda akan menjalani pemeriksaan sebelum dan 
+selama pengobatan untuk memeriksa seberapa 
+baik fungsi hati Anda. 
+
+• Beri tahu dokter Anda jika Anda mengalami 
+ruam kulit – mereka akan membantu Anda 
+mengatasi efek samping ini. 
+
+Osimertinib  • Diare • Perhitungan sel darah Anda akan dipantau 
+(Tagrisso SPC, • Kelainan kuku secara rutin selama pengobatan Anda untuk 
+2018) • Leukopenia mendeteksi neutropenia, leukopenia, atau 
+ • Neutropenia trombositopenia – dokter Anda dapat 
+
+• Reaksi pada kulit (ruam, menyesuaikan pengobatan Anda dengan hasil 
+
+kulit kering, gatal) pemeriksaan dan memberi tahu Anda tentang 
+
+• Stomatitis cara mencegah infeksi. 
+
+• Trombositopenia • Jika Anda mengalami diare atau seriawan, 
+dokter Anda akan membantu Anda mencegah 
+atau mengatasi efek samping ini.  
+
+• Laporkan reaksi pada kulit atau kelainan kuku ke  
+dokter Anda – mereka akan membantu Anda 
+mengatasi efek samping ini. 
+
+Ramucirumaba • Edema  • Perhitungan sel darah Anda akan dipantau 
+(Cyramza SPC, • Epistaksis secara rutin selama pengobatan Anda untuk 
+2018) • Hipertensi mendeteksi neutropenia atau trombositopenia 
+
+• Kelemahan/astenia – dokter Anda dapat menyesuaikan pengobatan 
+
+• Neutropenia Anda dengan hasil pemeriksaan dan memberi 
+
+• Stomatitis tahu Anda tentang cara mencegah infeksi. 
+
+• Trombositopenia • Tekanan darah Anda akan dipantau selama 
+pengobatan dan hipertensi akan ditangani 
+secara tepat. 
+
+• Beri tahu dokter Anda jika Anda mengalami 
+seriawan atau edema (penumpukan cairan), 
+dokter Anda akan membantu Anda mencegah 
+atau mengatasi efek samping ini.  
+
+Trametinibc • Artralgia • Efek pada sistem pencernaan (diare, 
+(Mekinist SPC, • Astenia konstipasi, nyeri otot, mual, muntah) dapat 
+2018) • Batuk menyebabkan penurunan nafsu makan 
+
+• Demam (anoreksia) dan astenia (kelemahan). Dokter 
+
+• Diare Anda dapat membantu Anda untuk mencegah 
+
+• Edema atau mengatasi efek samping ini. 
+
+• Gatal • Anda akan menjalani pemeriksaan sebelum dan 
+
+• Gejala-gejala mirip flu selama pengobatan untuk memeriksa seberapa 
+baik fungsi hati Anda. 
+
+Lihat halaman selanjutnya 
+
+49 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+TERAPI KEMUNGKINAN EFEK PENANGANAN EFEK SAMPING 
+SAMPING 
+
+• Hipertensi • Tekanan darah Anda akan dipantau selama 
+• Kejang otot pengobatan dan hipertensi akan ditangani 
+
+• Kelelahan secara tepat. 
+
+• Konstipasi • Anda harus segera memberi tahu dokter Anda 
+
+• Kulit kering jika terdapat tanda-tanda perdarahan (misalnya 
+
+• Menggigil mimisan) agar pengobatan Anda dapat 
+
+• Mialgia disesuaikan.  
+
+• Mual • Beri tahu dokter Anda jika Anda mengalami 
+
+• Muntah reaksi pada kulit (misalnya ruam, kulit kering, 
+gatal) – mereka akan membantu Anda 
+
+• Nasofaringitis 
+mengatasi efek samping ini. 
+
+• Nyeri kepala 
+• Beri tahu dokter Anda jika Anda mengalami 
+
+• Nyeri perut 
+gejala-gejala mirip flu, termasuk kelelahan, 
+
+• Nyeri tungkai 
+nasofaringitis, rasa menggigil, atau demam.  
+
+• Penurunan nafsu makan 
+• Laporkan efek samping lainnya, termasuk batuk, 
+
+• Perdarahan 
+kejang otot, artralgia (nyeri sendi), mialgia 
+
+• Perubahan fungsi hati 
+(nyeri otot), pembengkakan, nyeri kepala, atau 
+
+• Pusing 
+rasa pusing ke dokter Anda agar dokter Anda 
+
+• Ruam dapat membantu Anda mengatasi efek samping 
+tersebut. 
+
+Efek samping penting pada terapi target dan terapi antiangiogenik dalam pengobatan KPBSK. Ringkasan 
+Karakteristik Produk (RKP) terbaru untuk masing-masing obat dapat ditemukan di: http://www.ema.europa.eu/ema/.  
+
+aDalam kombinasi dengan kemoterapi docetaxel; bDalam kombinasi dengan trametinib; cDalam kombinasi dengan 
+dabrafenib. 
+
+Lihat halaman selanjutnya 
+
+50 
+
+
+
+ 
+
+Imunoterapi 
+Efek samping yang umum pada pasien yang diobati dengan imunoterapi antara lain reaksi pada kulit (misalnya 
+ruam, gatal) dan sistem pencernaan (misalnya diare, mual). Banyak efek samping dari imunoterapi dapat 
+dicegah atau ditangani secara efektif. Selalu beri tahu dokter atau perawat Anda sesegera mungkin jika Anda 
+menemukan efek samping dalam pengobatan imunoterapi.  
+
+Untuk informasi lebih lanjut dan saran tentang efek samping 
+imunoterapi, lihat panduan pasien ESMO tentang efek samping terkait 
+imunoterapi dan penanganannya (https://www.esmo.org/for-
+patients/patient-guides/immunotherapy-side-effects). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TERAPI KEMUNGKINAN EFEK PENANGANAN EFEK SAMPING  
+SAMPING 
+
+Atezolizumab • Artralgia • Efek pada sistem pencernaan (mual, muntah, 
+(Tecentriq SPC, • Astenia diare, perubahan pengecapan) dapat  
+2018) • Batuk menyebabkan penurunan nafsu makan dan 
+
+• Demam astenia. Dokter Anda dapat membantu Anda 
+
+• Diare untuk mencegah atau mengatasi efek samping 
+
+• Dispnea ini. 
+
+• Gatal • Beri tahu dokter Anda jika Anda mengalami 
+
+• Infeksi saluran kemih perburukan dispnea atau batuk, nyeri sendi, 
+gatal, atau ruam – mereka akan membantu Anda 
+
+• Kelelahan 
+mengatasi efek samping tersebut. 
+
+• Mual 
+• Muntah 
+• Nyeri punggung 
+• Penurunan nafsu makan 
+• Ruam 
+
+Durvalumab • Batuk • Beri tahu dokter Anda jika Anda mengalami 
+(Imfinzi SPC, 2018) • Demam gejala-gejala pernapasan. 
+
+• Diare • Fungsi tiroid Anda akan dipantau sebelum dan 
+
+• Gatal selama pengobatan. 
+
+• Hipotiroidisme • Dokter Anda akan membantu Anda mencegah 
+
+• Infeksi saluran atau mengatasi diare atau mual.  
+
+pernapasan atas • Beri tahu dokter Anda jika Anda mengalami ruam 
+
+• Nyeri perut kulit atau gatal – mereka akan membantu Anda 
+
+• Pneumonia mencegah atau mengatasi efek samping ini. 
+
+• Ruam 
+
+Lihat halaman selanjutnya 
+
+51 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+TERAPI KEMUNGKINAN EFEK PENANGANAN EFEK SAMPING  
+SAMPING 
+
+Nivolumab  • Anemia • Perhitungan sel darah Anda akan dipantau 
+(Opdivo SPC, 2018) • Diare secara rutin selama pengobatan Anda untuk 
+ • Gatal  mendeteksi neutropenia, limfopenia, 
+
+• Kelelahan leukopenia, anemia, atau trombositopenia – 
+
+• Leukopenia dokter Anda dapat menyesuaikan pengobatan 
+
+• Limfopenia Anda dengan hasil pemeriksaan dan memberi 
+
+• Mual tahu Anda tentang cara mencegah infeksi. 
+
+• Neutropenia • Anda akan menjalani pemeriksaan sebelum dan 
+selama pengobatan untuk memeriksa seberapa 
+
+• Perubahan fungsi hati 
+baik fungsi hati Anda. 
+
+• Perubahan kadar 
+• Dokter Anda akan membantu Anda mencegah 
+
+mineral dan garam 
+atau mengatasi diare atau mual.  
+
+(hiperkalsemia, 
+hiperkalemia, • Kadar mineral dan garam pada tubuh Anda akan 
+
+hipokalemia, diukur selama pengobatan Anda – pengobatan 
+
+hipomagnesemia, Anda dapat disesuaikan dengan perubahan 
+
+hiponatremia) kadar tersebut. 
+
+• Ruam • Beri tahu dokter Anda jika Anda mengalami ruam 
+kulit atau gatal – mereka akan membantu Anda 
+
+• Trombositopenia 
+mencegah atau mengatasi efek samping ini. 
+
+Pembrolizumab • Artralgia • Dokter Anda akan membantu Anda mencegah 
+(Keytruda SPC, • Diare atau mengatasi diare atau mual.  
+2018) • Gatal • Beri tahu dokter Anda jika Anda mengalami ruam 
+ • Kelelahan  kulit atau gatal atau nyeri sendi – mereka akan 
+ • Mual membantu Anda mencegah atau mengatasi efek 
+
+• Ruam samping ini. 
+
+Efek samping penting pada imunoterapi dalam pengobatan KPBSK. Ringkasan Karakteristik Produk (RKP) terbaru 
+untuk masing-masing obat dapat ditemukan di: http://www.ema.europa.eu/ema/.  
+
+52 
+
+
+
+Apa yang terjadi setelah pengobatan saya selesai? 
+Pertemuan tindak lanjut 
+
+Anda dapat mendiskusikan masalah apa pun yang 
+Anda alami dalam pertemuan tindak lanjut Anda 
+
+Setelah pengobatan Anda selesai, dokter Anda akan mengatur pertemuan tindak lanjut. Anda akan menjalani 
+pemeriksaan rontgen dada dan/atau CT scan secara teratur untuk memastikan tidak ada tumor yang tersisa. 
+Dokter Anda juga akan mengevaluasi komplikasi pengobatan atau efek samping yang terkait dengan operasi, 
+radioterapi, dan/atau pengobatan antikanker sistemik. Frekuensi pertemuan ini akan disesuaikan dengan 
+situasi Anda dan bergantung pada stadium kanker saat Anda pertama kali didiagnosis dan pengobatan yang Anda 
+telah jalani. (Postmus dkk., 2017; Planchard dkk., 2018). 
+
+Rekomendasi 
+• Setelah operasi untuk KPBSK stadium I-III, Anda akan diperiksa setiap 6 bulan selama 2 tahun pertama dan
+
+kemudian setiap tahun setelahnya (Postmus dkk., 2017).
+• Anda mungkin akan menjalani pemeriksaan CT scan setiap 6 bulan, terutama jika Anda cocok untuk
+
+pengobatan penyelamatan jika terdapat komplikasi (Postmus dkk., 2017).
+• Setelah pengobatan untuk penyakit metastasis, bergantung pada kesesuaian kondisi Anda untuk
+
+pengobatan lebih lanjut dan jika diperlukan, dokter Anda akan memeriksa Anda setiap 6-12 minggu sehingga
+terapi lini kedua dapat segera dimulai (Planchard dkk., 2018).
+
+• Jika Anda pernah menjalani terapi multimodal untuk penyakit Stadium III, Anda kemungkinan besar akan
+menjalani pemindaian otak untuk memantau perkembangan metastasis otak, dan Anda mungkin akan
+ditawarkan pengobatan terkait (Eberhardt dkk., 2015).
+
+Bagaimana jika saya membutuhkan pengobatan lebih lanjut? 
+Kanker yang muncul kembali dikenal sebagai kekambuhan. Pengobatan yang akan ditawarkan kepada Anda 
+bergantung pada tingkat kekambuhan. Ketika tumor muncul kembali sebagai kekambuhan di satu tempat, Anda 
+mungkin akan ditawarkan pengobatan seperti operasi pengangkatan tumor atau radioterapi. Namun, pendekatan 
+ini terbatas pada kelompok pasien yang sangat kecil. Tumor yang kambuh biasanya dianggap sebagai kanker 
+metastasis dan Anda biasanya dapat menjalani kemoterapi lebih lanjut dengan obat-obatan yang berbeda, dan 
+beberapa pasien mungkin cocok untuk pengobatan dengan terapi target atau imunoterapi (lihat bagian ‘Pilihan 
+terapi untuk KPBSK stadium metastasis (IV)’ untuk informasi lebih lanjut).  
+
+Dalam beberapa kasus, biopsi tumor berulang dapat dilakukan karena dapat memengaruhi keputusan 
+pengobatan. Kondisi ini dapat terjadi jika Anda telah bebas kanker selama beberapa waktu setelah operasi 
+reseksi. Jika tersedia, pasien yang sebelumnya mendapat pengobatan untuk KPBSK dengan mutasi yang 
+mengaktifkan EGFR dapat menjalani biopsi cair untuk mendeteksi mutasi T790M (dikenal juga sebagai analisis 
+mutasi EGFR plasma). Prosedur ini akan dilakukan dengan menyediakan sedikit sampel darah untuk analisis. 
+Biopsi berulang dapat membantu membedakan kekambuhan penyakit dari tumor paru primer baru (jika 
+kekambuhan terdeteksi di paru-paru) untuk memastikan jenis tumor atau untuk mengulang uji mutasi EGFR jika 
+kanker nonskuamosa terdeteksi (Planchard dkk., 2018). 
+
+53 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Menjaga kesehatan Anda  
+Setelah Anda menjalani pengobatan untuk KPBSK, Anda dapat merasa sangat lelah dan emosional. Anda perlu 
+merawat diri Anda sendiri dan mendapatkan dukungan yang Anda butuhkan. 
+
+• Berhenti merokok: Jika Anda adalah seorang perokok, Anda perlu berhenti merokok sesegera mungkin 
+untuk mengurangi risiko kekambuhan penyakit (Postmus dkk., 2017; Planchard dkk., 2018). Dokter dan 
+perawat Anda dapat menawarkan bantuan untuk berhenti merokok. 
+
+• Beristirahatlah yang banyak ketika Anda memerlukannya: Berikan waktu bagi tubuh Anda untuk pulih dan 
+pastikan Anda beristirahat dengan cukup. Terapi pelengkap, misalnya aromaterapi, dapat membantu Anda 
+bersantai dan mengatasi efek samping dengan lebih baik. Rumah sakit Anda mungkin menawarkan terapi 
+pelengkap; tanyakan kepada dokter Anda untuk informasi detailnya.   
+
+• Makan dengan sehat dan tetap aktif: Makan makanan yang sehat dan tetap aktif dapat membantu 
+meningkatkan kebugaran Anda. Anda dapat memulainya secara perlahan dengan berjalan santai dan 
+kemudian meningkatkan intensitasnya saat Anda mulai merasa lebih baik.  
+
+Delapan rekomendasi berikut dapat membentuk gaya hidup sehat setelah kanker (Wolin dkk., 2013): 
+
+• Tidak merokok. 
+• Hindari merokok secara pasif. 
+• Berolahraga secara teratur. 
+• Hindari penambahan berat badan. 
+• Makan makanan yang sehat. 
+• Minum alkohol secukupnya (jika ada). 
+• Jalin komunikasi dengan teman, keluarga, dan penyintas kanker lainnya. 
+• Jalani pemeriksaan dan skrining rutin. 
+
+Gaya hidup yang sehat dan aktif akan membantu 
+Anda pulih secara fisik dan mental 
+
+  
+
+Olahraga teratur adalah bagian penting dari gaya hidup 
+sehat yang membantu Anda tetap bugar secara fisik 
+dan menghindari penambahan berat badan. Berbagai 
+penelitian telah menunjukkan bahwa program latihan 
+fisik dapat mengurangi kelelahan dan meningkatkan 
+kesejahteraan pasien dengan kanker paru yang tidak 
+dapat dioperasi (Wiskemann dkk., 2018). Anda perlu 
+mendengarkan dengan saksama rekomendasi dari 
+dokter atau perawat Anda dan berbicara dengan 
+mereka tentang kesulitan yang Anda alami saat 
+berolahraga.  
+
+54 
+
+
+
+ 
+
+Dukungan emosional 
+
+Perasaan yang berlebihan umumnya muncul ketika 
+Anda didiagnosis menderita kanker dan ketika Anda 
+telah menjalani pengobatan. Jika Anda merasa 
+cemas atau tertekan, bicarakan dengan dokter atau 
+perawat Anda – mereka dapat merujuk Anda ke 
+konselor spesialis atau psikolog yang memiliki 
+pengalaman menangani masalah emosional pada 
+orang-orang yang menghadapi kanker. Bergabung 
+dengan kelompok dukungan mungkin dapat 
+membantu Anda agar Anda dapat berbicara dengan 
+orang lain yang mengerti secara persis apa yang 
+Anda rasakan. 
+
+Untuk informasi dan saran lebih lanjut tentang cara memulihkan kembali 
+hidup Anda sebaik mungkin setelah pengobatan kanker, lihat panduan 
+pasien ESMO tentang kelangsungan hidup (https://www.esmo.org/for-
+patients/patient-guides/survivorship).  
+
+ 
+
+  
+
+ 
+
+55 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Kelompok dukungan 
+
+Di Eropa, terdapat beberapa kelompok advokasi pasien kanker paru yang membantu pasien dan keluarga mereka 
+untuk mendalami berbagai hal tentang kanker paru. Kelompok-kelompok ini dapat berada di tingkat lokal, nasional, 
+ataupun internasional, dan mereka bekerja untuk memastikan pasien menerima perawatan dan edukasi yang 
+sesuai dan tepat waktu. Kelompok-kelompok ini dapat memberi Anda bahan-bahan yang mungkin Anda perlukan 
+untuk membantu Anda memahami penyakit Anda dengan lebih baik dan untuk mempelajari cara mengatasinya, 
+agar Anda bisa mendapatkan kualitas hidup yang terbaik. 
+
+Anda dapat mengakses informasi dari organisasi-organisasi berikut: 
+
+• Global Lung Cancer Coalition (GLCC): www.lungcancercoalition.org
+• Lung Cancer Europe (LuCE): www.lungcancereurope.eu/
+• Buku edukasi Women Against Lung Cancer in Europe (WALCE):
+
+www.womenagainstlungcancer.eu/?lang=en
+
+56 
+
+
+
+Referensi 
+Bailey-Wilson JE, Amos CI, Pinney SM, et al. A major lung cancer susceptibility locus maps to chromosome 
+6q23-25. Am J Hum Genet 2004;75(3):460–474. 
+
+Cancer.Net. 2016. Side effects of radiation therapy. Available from: http://www.cancer.net/navigating-cancer-
+care/how-cancer-treated/radiation-therapy/side-effects-radiation-therapy. Accessed 20th November 2018. 
+
+Cancer.Net. 2017. Fatigue. Available from: http://www.cancer.net/navigating-cancer-care/side-effects/fatigue. 
+Accessed 20th November 2018. 
+
+Cancer.Net. 2018. Side effects of surgery. Available from: http://www.cancer.net/navigating-cancer-care/how-
+cancer-treated/surgery/side-effects-surgery. Accessed 20th November 2018. 
+
+Cappuzzo F, McCleod M, Hussein M, et al. IMpower130: Progression-free survival (PFS) and safety analysis 
+from a randomised phase III study of carboplatin + nab-paclitaxel (CnP) with or without atezolizumab (atezo) as 
+first-line (1L) therapy in advanced non-squamous NSCLC. Ann Oncol 2018;29(suppl 8):abstr LBA53. 
+
+Cherny NI; ESMO Guidelines Working Group. ESMO Clinical Practice Guidelines for the management of 
+refractory symptoms at the end of life and the use of palliative sedation. Ann Oncol 2014;25(Suppl 3):iii143–
+iii152. 
+
+ClinicalTrials.gov. 2017. Learn about clinical studies. Available from: https://clinicaltrials.gov/ct2/about-
+studies/learn. Accessed 20th November 2018. 
+
+De Koning H, Van Der Aalst C, Ten Haaf K, et al. Effects of volume CT lung cancer screening: Mortality results of 
+the NELSON randomized-controlled population based trial. 2018 World Conference on Lung Cancer. Abstract 
+PL02.05. 
+
+Eberhardt WEE, De Ruysscher D, Weder W, et al. 2nd ESMO Consensus Conference in Lung Cancer: locally 
+advanced stage III non-small-cell lung cancer. Ann Oncol 2015;26:1573–1588. 
+
+Escamilla DM and Jarrett P. The impact of weight loss on patients with cancer. Nurs Times 2016;112(11):20–22. 
+
+European Medicines Agency (EMA). 2019a. Summary of opinion (initial authorisation): Lorviqua (lorlatinib). 
+Available from: https://www.ema.europa.eu/en/medicines/human/summaries-opinion/lorviqua. Accessed 11th 
+March 2019. 
+
+European Medicines Agency (EMA). 2019b. Summary of opinion (initial authorisation): Vizimpro (dacomitinib). 
+Available from: https://www.ema.europa.eu/en/medicines/human/summaries-opinion/vizimpro. Accessed 11th 
+March 2019. 
+
+Ferlay J, Ervik M, Lam F, et al. Global cancer observatory: Cancer Today. Lyon, France: International Agency for 
+Research on Cancer 2018. Available from: https://gco.iarc.fr/today. Accessed 20th November 2018. 
+
+Jordan K, Aapro M, Kaasa S, et al. European Society for Medical Oncology (ESMO) position paper on supportive 
+and palliative care. Ann Oncol 2018;29(1):36–43. 
+
+Macmillan. 2016. Possible side effects of chemotherapy. Available from: 
+http://www.macmillan.org.uk/information-and-support/lung-cancer/non-small-cell-lung-
+cancer/treating/chemotherapy/side-effects-of-chemotherapy/possible-side-effects.html. Accessed 20th November 
+2018. 
+
+Macmillan. 2015a. Possible side effects of radiotherapy. Available from: http://www.macmillan.org.uk/information-
+and-support/lung-cancer/non-small-cell-lung-cancer/treating/radiotherapy/radiotherapy-explained/possible-side-
+effects.html#236381. Accessed 20th November 2018. 
+
+57 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Macmillan. 2015b. Carboplatin. Available from: 
+https://www.macmillan.org.uk/cancerinformation/cancertreatment/treatmenttypes/chemotherapy/individualdrugs/c
+arboplatin.aspx. Accessed 20th November 2018. 
+
+Macmillan. 2015c. Cisplatin. Available from: 
+https://www.macmillan.org.uk/cancerinformation/cancertreatment/treatmenttypes/chemotherapy/individualdrugs/c
+isplatin.aspx. Accessed 20th November 2018. 
+
+Malvezzi M, Carioli G, Bertuccio P, et al. European cancer mortality predictions for the year 2016 with focus on 
+leukaemias. Ann Oncol 2016;27(4):725–731. 
+
+Novello S, Barlesi F, Califano R, et al. Metastatic non-small-cell lung cancer: ESMO Clinical Practice Guidelines 
+for diagnosis, treatment and follow-up. Ann Oncol 2016;27(Suppl 5):v1–v27. 
+
+Planchard D, Popat S, Kerr K, et al. Metastatic non-small cell lung cancer: ESMO Clinical Practice Guidelines for 
+diagnosis, treatment and follow-up. Ann Oncol 2018;29(Suppl 5):iv192–iv237. 
+
+Postmus PE, Kerr KM, Oudkerk M, et al. Early and locally advanced non-small-cell lung cancer (NSCLC): ESMO 
+Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol 2017;28(Suppl 4):iv1–iv21. 
+
+Socinski MA, Jotte RM, Cappuzzo F, et al. Atezolizumab for first-line treatment of metastatic nonsquamous 
+NSCLC. N Engl J Med 2018a;378(24):2288–2301. 
+
+Socinski MA, Rittmeyer A, Shapovalov D, et al. IMpower131: Progression-free survival (PFS) and overall survival 
+(OS) analysis of a randomised phase III study of atezolizumab + carboplatin + paclitaxel or nab-paclitaxel vs 
+carboplatin + nab-paclitaxel in 1L advanced squamous NSCLC. Ann Oncol 2018b;29(suppl 8):abstr LBA65. 
+
+Torre LA, Bray F, Siegel RL, et al. Global cancer statistics, 2012. CA Cancer J Clin 2015;65:87–108. 
+
+Wiskemann J, Titz C, Schmidt M, et al. Effects of physical exercise in non-operable lung cancer patients 
+undergoing palliative treatment. Ann Oncol 2018;29(Suppl 8):Abstr 1480P. 
+
+Wolin KY, Dart H, Colditz GA. Eight ways to stay healthy after cancer: an evidence-based message. Cancer 
+Causes Control 2013;24(5):827–837. 
+
+Zhong W-Z, Wu Y-L, Chen K-N, et al. CTONG 1103: Erlotinib versus gemcitabine plus cisplatin as neo-adjuvant 
+treatment for stage IIIA-N2 EGFR-mutation non-small cell lung cancer (EMERGING): A randomised study. Ann 
+Oncol 2018;29(Suppl 8):Abstr LBA48. 
+
+Ziarnik E, Grogan EL. Post-lobectomy early complications. Thorac Surg Clin 2015;25(3):355–364. 
+
+ 
+
+ 
+
+58 
+
+
+
+GLOSARIUM 
+
+ADENOKARSINOMA ANTIBIOTIK 
+Jenis kanker paru yang paling umum ditemukan; Suatu jenis obat yang digunakan untuk mengobati 
+kanker ini berkembang dari sel penghasil mukus yang dan mencegah infeksi bakteri 
+melapisi saluran pernapasan ANTIBODI MONOKLONAL 
+AFATINIB Suatu jenis terapi target. Antibodi monoklonal 
+Jenis terapi target yang dikenal sebagai mengenali dan menempel pada protein spesifik yang 
+penghambat tirosin kinase yang bekerja dengan diproduksi oleh sel. Setiap antibodi monoklonal 
+memblokir sinyal-sinyal di dalam sel kanker dan mengenali satu protein tertentu. Mereka bekerja 
+menghentikan aksi epidermal growth factor dengan cara yang berbeda-beda bergantung pada 
+receptor sehingga menyebabkan sel-sel kanker protein yang mereka targetkan 
+mati. Obat ini diberikan dalam bentuk tablet sekali ARSENIK 
+sehari Suatu zat alami yang telah digunakan secara luas di 
+AJUVAN (PENGOBATAN) beberapa industri (peleburan tembaga atau timbal; 
+Pengobatan tambahan yang diberikan setelah pertanian/pestisida), tetapi diketahui berhubungan 
+pengobatan utama untuk mengurangi kemungkinan dengan kanker, termasuk kanker paru 
+kekambuhan kanker; biasanya mengacu pada ARTRALGIA 
+radioterapi dan/atau kemoterapi setelah operasi Nyeri pada persendian 
+ALECTINIB ASAM ZOLEDRONAT 
+Jenis terapi target yang dikenal sebagai Suatu jenis bifosfonat yang digunakan untuk 
+penghambat tirosin kinase yang bekerja dengan mengobati kanker yang telah menyebar ke tulang 
+memblokir protein yang dikenal sebagai anaplastic 
+lymphoma kinase. Obat ini hanya bekerja pada sel- ASBESTOS 
+
+sel kanker dengan kelainan pada protein tersebut. Bahan alami berserat yang banyak digunakan 
+
+Obat ini diberikan dua kali sehari dalam bentuk sebagai bahan bangunan. Penggunaannya saat ini 
+
+kapsul oral dilarang di seluruh Eropa karena terkait dengan 
+berbagai penyakit paru, termasuk kanker 
+
+ALOPESIA 
+Rambut rontok ASTENIA 
+
+Perasaan lemah atau kekurangan tenaga yang tidak 
+ALVEOLUS normal 
+Kantung udara kecil dalam paru-paru yang 
+memungkinkan oksigen dan karbon dioksida ATEZOLIZUMAB 
+
+berpindah antara paru-paru dan aliran darah Suatu jenis imunoterapi yang memblokir protein 
+yang dikenal sebagai PD-L1 pada permukaan sel-sel 
+
+ANEMIA imun tertentu yang disebut sel T; kondisi ini akan 
+Suatu kondisi yang ditandai dengan kekurangan mengaktifkan sel T untuk menemukan dan 
+hemoglobin (protein di dalam sel darah merah yang membunuh sel-sel kanker. Obat ini diberikan melalui 
+membawa oksigen ke seluruh tubuh) infus ke pembuluh darah vena di lengan atau dada 
+ANESTESI LOKAL Anda 
+Obat yang menyebabkan hilangnya sensasi nyeri BERBASIS PLATINUM 
+secara reversibel di sekitar tempat penyuntikan Kelas kemoterapi yang mencakup cisplatin dan 
+ANESTESI UMUM carboplatin 
+Obat yang menyebabkan penurunan kesadaran BERSAMAAN 
+secara reversibel Berbagai jenis pengobatan (misalnya kemoterapi 
+ANOREKSIA dan radioterapi) yang diberikan pada waktu 
+Penurunan atau kehilangan nafsu makan bersamaan 
+
+59 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+GLOSARIUM  
+  
+
+BEVACIZUMAB  CARBOPLATIN  
+Suatu terapi target yang digunakan untuk Jenis kemoterapi yang diberikan melalui infus ke 
+mengobati beberapa jenis kanker, termasuk KPBSK pembuluh darah vena di lengan atau dada Anda 
+stadium lanjut. Obat ini merupakan antibodi CERITINIB  
+monoklonal yang menargetkan vascular Jenis terapi target yang bekerja dengan 
+endothelial growth factor dan mencegah sel-sel menghambat protein yang disebut anaplastic 
+kanker mengembangkan suplai darah mereka lymphoma kinase. Obat ini diberikan sekali sehari 
+sendiri, sehingga membantu memperlambat dalam bentuk kapsul kepada pasien yang 
+pertumbuhan tumor sebelumnya mendapat crizotinib 
+BIOPSI CAIR  CISPLATIN  
+Pemeriksaan yang dilakukan pada sampel darah Jenis kemoterapi yang diberikan melalui infus ke 
+atau cairan tubuh lainnya untuk mendeteksi pembuluh darah di lengan atau dada Anda 
+keberadaan zat-zat yang berasal dari tumor 
+sehingga menunjukkan keberadaan kanker COMPUTED TOMOGRAPHY (CT)  
+
+Pemindaian menggunakan rontgen dan komputer 
+BIOPSI  untuk menciptakan gambar detail bagian dalam 
+Suatu prosedur kedokteran di mana sampel kecil sel tubuh Anda 
+atau jaringan diambil untuk pemeriksaan di bawah 
+mikroskop CRIZOTINIB  
+
+Jenis terapi target yang dikenal sebagai 
+BRADIKARDIA  penghambat tirosin kinase yang bekerja dengan 
+Detak jantung lambat yang tidak normal memblokir protein yang disebut anaplastic 
+
+lymphoma kinase. Obat ini hanya bekerja pada sel-
+BRAF  
+
+sel kanker dengan kelainan pada protein tersebut. 
+Gen yang membuat protein terlibat dalam 
+
+Obat ini diberikan sebagai kapsul dua kali sehari 
+pensinyalan dan pertumbuhan sel. BRAF dapat 
+bermutasi dalam sel-sel kanker DABRAFENIB  
+
+Jenis terapi target yang bekerja dengan memblokir 
+BRIGATINIB  
+
+sinyal-sinyal di dalam sel-sel kanker dan 
+Suatu terapi target yang bekerja dengan memblokir 
+
+menghentikan aksi protein yang dibuat oleh gen 
+protein yang disebut anaplastic lymphoma kinase. 
+
+BRAF yang bermutasi. Obat ini diberikan dua kali 
+Obat ini diberikan sekali sehari dalam bentuk tablet 
+
+sehari dalam bentuk tablet 
+kepada pasien yang sebelumnya mendapat 
+crizotinib DACOMITINIB  
+
+Jenis terapi target yang disebut penghambat 
+BRONKIOLUS  
+
+tirosin kinase yang bekerja dengan memblokir 
+Bronkus terbagi menjadi bronkiolus yang lebih 
+
+sinyal-sinyal di dalam sel-sel kanker dan 
+kecil, yang kemudian menuju ke alveolus 
+
+menghentikan aksi epidermal growth factor 
+BRONKOSKOP  receptor, sehingga menyebabkan sel-sel kanker 
+Kabel serat optik tipis yang dimasukkan ke saluran mati. Obat ini diberikan sekali sehari dalam bentuk 
+pernapasan (biasanya melalui hidung atau mulut) tablet 
+
+BRONKOSKOPI  DAPAT DIRESEKSI  
+Sebuah pemeriksaan klinis di mana dokter Anda Dapat diangkat (direseksi) dengan operasi 
+memeriksa saluran pernapasan Anda dengan 
+
+DENOSUMAB  
+menggunakan bronkoskop 
+
+Obat yang digunakan untuk mengobati osteoporosis 
+BRONKUS  dan mencegah patah tulang dan berbagai gangguan 
+Bronkus kanan dan bronkus kiri adalah dua tulang lainnya yang disebabkan oleh metastasis 
+saluran pernapasan utama yang membawa udara ke tulang 
+paru-paru 
+
+  
+  
+
+  
+  
+
+ 
+
+60 
+
+
+
+ 
+
+GLOSARIUM  
+  
+
+DIAFRAGMA  ERLOTINIB  
+
+Otot yang memisahkan rongga dada dari perut; Jenis terapi target yang disebut penghambat tirosin 
+
+diafragma berkontraksi dan berelaksasi saat kita kinase yang bekerja dengan memblokir sinyal-sinyal di 
+
+menghirup dan menghembuskan udar dalam sel-sel kanker dan menghentikan aksi 
+ epidermal growth factor receptor, sehingga 
+DISARTRIA (GANGGUAN BICARA)  menyebabkan sel-sel kanker mati. Obat ini diberikan 
+Artikulasi bicara yang sulit atau tidak jelas (misalnya sekali sehari dalam bentuk tablet 
+cadel, terdengar sengau, serak, atau terlalu keras atau 
+pelan) ESOFAGITIS  
+
+Peradangan pada esofagus 
+DISFAGIA  
+Istilah medis untuk kesulitan menelan ESOFAGUS  
+DISGEUSIA (GANGGUAN PENGECAPAN)  Kerongkongan; saluran yang menghubungkan 
+Perubahan indra pengecapan tenggorokan Anda dengan perut Anda 
+
+DISPEPSIA  ETOPOSIDE  
+Istilah medis untuk gangguan pencernaan  Jenis kemoterapi yang diberikan melalui infus ke 
+
+pembuluh darah di lengan atau dada Anda, atau dalam 
+DISPNEA  bentuk tablet atau kapsul oral 
+Sesak napas 
+
+FAKTOR RISIKO  
+DNA  Sesuatu yang meningkatkan kemungkinan terkena 
+Asam nukleat deoksiribosa, bahan kimia yang penyakit 
+membawa informasi genetik di dalam sel-sel tubuh 
+Anda FARINGITIS  
+
+Peradangan pada faring yang terletak di bagian 
+DOCETAXEL  belakang tenggorokan  
+Jenis kemoterapi yang diberikan melalui infus ke 
+pembuluh darah di lengan atau dada Anda FOLIKEL RAMBUT  
+
+Sebuah kantung kecil di kulit sebagai tempat 
+DURVALUMAB  bertumbuhnya rambut 
+Suatu jenis imunoterapi yang memblokir protein yang 
+dikenal sebagai PD-L1 pada permukaan sel-sel imun GEFITINIB  
+tertentu yang disebut sel T; kondisi ini akan Jenis terapi target yang disebut penghambat tirosin 
+mengaktifkan sel T untuk menemukan dan membunuh kinase yang bekerja dengan memblokir sinyal-sinyal di 
+sel-sel kanker. Obat ini diberikan melalui infus ke dalam sel-sel kanker dan menghentikan aksi 
+pembuluh darah vena di lengan atau dada Anda epidermal growth factor receptor, sehingga 
+
+menyebabkan sel-sel kanker mati. Obat ini diberikan 
+EDEMA  sekali sehari dalam bentuk tablet 
+Penumpukan cairan dalam tubuh yang menyebabkan 
+jaringan yang terkena menjadi bengkak GEMCITABINE  
+
+Jenis kemoterapi yang diberikan melalui infus ke 
+EPIDERMAL GROWTH FACTOR RECEPTOR pembuluh darah di lengan atau dada Anda 
+(EGFR)  
+Suatu protein yang terlibat dalam pertumbuhan dan GEN  
+pembelahan sel. Protein ini ditemukan dalam jumlah Potongan DNA yang bertanggung jawab untuk 
+yang tinggi secara tidak normal pada permukaan membentuk zat-zat yang dibutuhkan tubuh untuk 
+berbagai jenis sel kanker berfungsi 
+
+EPISTAKSIS  GETAH BENING  
+Istilah medis untuk mimisan Cairan yang beredar di seluruh sistem getah bening; 
+
+cairan ini mengandung sel darah putih yang melawan 
+ infeksi 
+ 
+  
+  
+ 
+  
+
+ 
+
+61 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+GLOSARIUM  
+  
+GRADE  KARSINOMA SEL SKUAMOSA (KSS)  
+Grade kanker bergantung pada seberapa berbeda Suatu jenis KPBSK; biasanya terjadi di bagian tengah 
+bentuk sel-sel tumor dari sel-sel normal di bawah paru-paru atau di salah satu bronkus 
+mikroskop dan seberapa cepat mereka tumbuh. Grade KEBOCORAN UDARA  
+terdiri atas satu sampai dengan tiga dan Ketika udara keluar dari saluran pernapasan 
+mencerminkan tingkat agresivitas sel-sel tumor; (bronkiolus, alveolus) dan masuk ke bagian paru-
+semakin tinggi grade, semakin agresif tumornya paru yang biasanya tidak terdapat udara 
+HEPATIS  KEKAMBUHAN  
+Radang pada hati Munculnya kembali kanker 
+HIPERKALEMIA  KELELAHAN 
+Kadar kalium yang sangat tinggi secara abnormal Rasa lelah yang berlebihan 
+dalam darah 
+ KELENJAR ADRENAL 
+HIPERKALSEMIA  
+
+Kelenjar dalam tubuh yang memproduksi hormon 
+Kadar kalsium yang sangat tinggi secara abnormal 
+
+seperti adrenalin dan steroid. Kelenjar tersebut terletak 
+dalam darah 
+
+d i atas ginjal 
+HIPERTENSI  
+
+KELENJAR GETAH BENING REGIONAL  
+Tekanan darah tinggi secara abnormal 
+
+Kelenjar getah bening yang dekat dengan tumor 
+HIPOKALEMIA  
+
+KELENJAR GETAH BENING  
+Kadar kalium yang sangat rendah secara abnormal 
+
+Struktur kecil di seluruh sistem getah bening yang 
+dalam darah 
+
+bekerja sebagai penyaring untuk zat-zat berbahaya 
+HIPOMAGNESEMIA  seperti sel-sel kanker atau bakteri 
+Kadar magnesium yang sangat rendah secara 
+
+KEMORADIOTERAPI  
+abnormal dalam darah 
+
+Kemoterapi dan radioterapi yang diberikan secara 
+HIPONATREMIA  bersamaan 
+Kadar natrium yang sangat rendah secara abnormal 
+
+KEMOTERAPI GANDA  
+dalam darah 
+
+Kombinasi dari dua jenis kemoterapi berbeda yang 
+HIPOTIROIDISME  diberikan pada waktu yang bersamaan 
+Kadar hormon tiroid yang rendah secara abnormal 
+
+KEMOTERAPI  
+IMUNOTERAPI  Suatu jenis pengobatan kanker dengan menggunakan 
+Suatu jenis pengobatan kanker yang merangsang obat-obatan yang membunuh sel-sel kanker dengan 
+sistem imun tubuh untuk melawan kanker cara merusaknya, sehingga mereka tidak dapat 
+
+bereproduksi dan menyebar 
+INTRAVENA  
+Pemberian melalui pembuluh darah vena KOMORBIDITAS  
+
+Berbagai penyakit atau gangguan tambahan yang 
+JADWAL YANG DIPERCEPAT  
+
+dialami pasien secara bersamaan 
+Dosis radiasi yang lebih tinggi diberikan pada setiap 
+pengobatan dan total jadwal pengobatannya lebih KONJUNGTIVITIS  
+sedikit dibandingkan dengan jadwal pada radioterapi Peradangan pada selaput yang melapisi bola mata dan 
+konvensional. Total radiasi yang diberikan berjumlah kelopak mata 
+sama pada setiap jadwal 
+
+LEUKOPENIA  
+KANKER PARU PRIMER  Penurunan jumlah leukosit (sejenis sel darah putih) di 
+Kanker yang pertama kali muncul di paru-paru dalam darah yang meningkatkan risiko infeksi pada 
+
+individu 
+KARSINOMA SEL BESAR (TIDAK 
+BERDIFERENSIASI)   LIMFOPENIA  
+Jenis KPBSK yang tidak terlihat seperti Kadar limfosit (sejenis sel darah putih) yang rendah 
+adenokarsinoma atau karsinoma sel skuamosa di secara abnormal di dalam darah yang meningkatkan 
+bawah mikroskop risiko infeksi pada individu 
+
+62 
+
+
+
+ 
+
+GLOSARIUM  
+  
+LOBEKTOMI  NEUROLOGIS  
+Jenis operasi kanker paru di mana satu lobus paru Berkaitan dengan saraf dan sistem saraf 
+diangkat (paru kanan memiliki tiga lobus dan paru kiri NEUROPATI PERIFER 
+memiliki dua lobus) 
+ Kerusakan pada saraf di ekstremitas tubuh. Gejala-
+LOBUS  gejala dapat meliputi rasa nyeri, sensitivitas, mati rasa, 
+Bagian dari organ (biasanya berbentuk bulat) yang atau kelemahan pada tangan, kaki, atau tungkai 
+tampak seperti terpisah dari bagian organ lainnya 
+
+NEUTROFIL  
+LORLATINIB  Jenis sel darah putih yang berperan penting dalam 
+Jenis terapi target yang bekerja dengan menghambat melawan infeksi 
+protein yang disebut anaplastic lymphoma kinase. 
+
+NEUTROPENIA  
+Obat ini diberikan sekali sehari dalam bentuk tablet 
+
+Kadar neutrofil yang sangat rendah secara abnormal 
+MAGNETIC RESONANCE IMAGING (MRI)  di dalam darah yang meningkatkan risiko infeksi 
+Jenis pemindaian yang menggunakan medan magnet  
+
+NIVOLUMAB  
+yang kuat dan gelombang radio untuk menghasilkan 
+
+Suatu jenis imunoterapi yang memblokir protein yang 
+gambar-gambar detail dari bagian dalam tubuh 
+
+dikenal sebagai PD-L1 pada permukaan sel-sel imun 
+MEROKOK PASIF  tertentu yang disebut sel T; kondisi ini akan 
+Proses menghirup asap rokok oleh orang yang tidak mengaktifkan sel T untuk menemukan dan membunuh 
+aktif merokok sel-sel kanker. Obat ini diberikan melalui infus ke 
+
+pembuluh darah vena di lengan atau dada Anda 
+METASTASIS  
+Tumor atau pertumbuhan kanker yang berasal dari OLIGOMETASTASIS METAKRONUS  
+tumor primer/pertumbuhan di bagian lain dalam tubuh Oligometastasis yang muncul setelah pengobatan 
+
+untuk tumor primer 
+MIALGIA   
+Nyeri pada otot OLIGOMETASTASIS SINKRONUS  
+
+Oligometastasis yang didiagnosis dalam beberapa 
+MUKOSITIS  
+
+bulan setelah tumor primer 
+Peradangan dan ulserasi pada selaput yang melapisi 
+sistem pencernaan OSIMERTINIB  
+
+Jenis terapi target yang disebut penghambat tirosin 
+MUTASI  
+
+kinase yang bekerja dengan memblokir sinyal-sinyal di 
+Sebuah perubahan permanen pada urutan DNA yang 
+
+dalam sel-sel kanker dan menghentikan aksi 
+membentuk gen, sehingga urutannya berbeda dengan 
+
+epidermal growth factor receptor, sehingga 
+yang ditemukan pada kebanyakan orang 
+
+menyebabkan sel-sel kanker mati. Obat ini diberikan 
+MUTASI T790M  sekali sehari dalam bentuk tablet kepada pasien yang 
+Mutasi pada epidermal growth factor receptor (juga sebelumnya mendapat penghambat tirosin kinase 
+dikenal sebagai mutasi Threonine 790 Methionine lainnya 
+[Thr790Met]) 
+
+PACLITAXEL  
+NAB-PACLITAXEL  Jenis kemoterapi yang diberikan melalui infus ke 
+Jenis kemoterapi yang diberikan melalui infus ke pembuluh darah di lengan atau dada Anda 
+pembuluh darah di lengan atau dada Anda. Nab-
+
+PEMBROLIZUMAB  
+Paclitaxel adalah bentuk terikat protein dari paclitaxel 
+
+Suatu jenis imunoterapi yang memblokir protein yang 
+NASOFARINGITIS  dikenal sebagai PD-L1 pada permukaan sel-sel imun 
+Pembengkakan dan peradangan pada saluran hidung tertentu yang disebut sel T; kondisi ini akan 
+dan bagian belakang tenggorokan mengaktifkan sel T untuk menemukan dan membunuh 
+
+sel-sel kanker. Obat ini diberikan melalui infus ke 
+NEOAJUVAN (PENGOBATAN)  
+
+pembuluh darah vena di lengan atau dada Anda 
+Pengobatan yang diberikan sebagai langkah awal 
+untuk mengecilkan tumor sebelum pengobatan utama PEMBULUH DARAH  
+diberikan Struktur (tabung) yang membawa darah melalui 
+ berbagai jaringan dan organ tubuh – termasuk vena, 
+ arteri, dan kapiler 
+
+ 
+
+63 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+GLOSARIUM 
+  
+
+PEMERIKSAAN RADIOLOGI  PENGOBATAN MULTIMODAL 
+
+Pemeriksaan yang menggunakan rontgen atau teknik Suatu pendekatan pengobatan yang mencakup dua 
+
+pencitraan medis lainnya untuk memvisualisasikan atau lebih jenis pengobatan – biasanya beberapa 
+
+tubuh dan organ untuk mendeteksi tanda-tanda kanker kombinasi operasi, kemoterapi, dan radioterapi 
+
+atau kelainan lainnya PENGOBATAN PEMELIHARAAN  
+ 
+
+PEMETREXED  Pengobatan yang diberikan setelah siklus awal 
+
+Jenis obat kemoterapi yang digunakan untuk kemoterapi dengan tujuan untuk mengendalikan 
+
+mengobati KPBSK yang diberikan secara intravena kanker 
+
+(langsung ke dalam aliran darah Anda melalui PENYAKIT OLIGOMETASTATIK 
+pembuluh darah vena di lengan atau dada Anda) (OLIGOMETASTASIS)  
+
+Kanker yang telah menyebar dari tempat asalnya ke 
+PENATAAN ULANG ANAPLASTIC LYMPHOMA tempat/organ lain dalam jumlah terbatas; 
+KINASE (ALK)  perkembangan penyakit dapat terjadi di lokasi-lokasi ini 
+Anaplastic lymphoma kinase adalah protein tetapi tanpa penyebaran ke organ-organ lainnya 
+permukaan sel. Penataan ulang gen ALK merupakan (oligometastasis dapat digambarkan sebagai 
+kelainan yang ditemukan pada beberapa sel kanker, sinkronus atau metakronus) 
+termasuk KPBSK 
+
+PENYAKIT PARU OBSTRUKTIF KRONIK (PPOK)  
+PENATAAN ULANG ROS1   Suatu jenis penyakit paru yang ditandai dengan aliran 
+ROS1 adalah protein permukaan sel. Penataan ulang udara yang buruk dalam jangka panjang. Gejala-gejala 
+gen ROS1 adalah kelainan yang ditemukan pada utamanya meliputi sesak napas dan batuk 
+beberapa sel kanker, termasuk KPBSK 
+
+PERAWAT SPESIALIS  
+PENDINGIN KULIT KEPALA  Seorang perawat yang memiliki spesialisasi dalam 
+Sejenis topi yang mendinginkan kulit kepala sebelum, perawatan pasien dengan kondisi tertentu (misalnya 
+selama, dan sesudah pengobatan untuk mengurangi kanker) 
+efek samping pada folikel rambut 
+
+PERAWATAN PALIATIF  
+PENGHAMBAT TIROSIN KINASE (TKI)  Perawatan pasien dengan penyakit lanjut dan 
+Jenis terapi target yang menghambat tirosin kinase, progresif. Perawatan ini berfokus pada penanganan 
+yaitu zat yang mengirimkan sinyal pertumbuhan ke nyeri, gejala-gejala, dan stres fisik serta emosional 
+berbagai sel tanpa menangani penyebab kondisinya 
+PENGOBATAN ANTIKANKER SISTEMIK  PERAWATAN SUPORTIF  
+Obat-obatan yang menyebar ke seluruh tubuh untuk Perawatan yang menangani nyeri, gejala-gejala, dan 
+mengobati kanker di mana pun mereka berada. stres fisik dan emosional tanpa mengobati kanker itu 
+Pengobatan ini meliputi kemoterapi, terapi hormon, sendiri 
+terapi target, dan imunoterapi 
+
+PERIKARDIUM  
+PENGOBATAN LINI KEDUA  Selaput yang membungkus jantung 
+Pengobatan kedua yang diberikan kepada pasien 
+setelah pengobatan awal (lini pertama) tidak berhasil PLEURA  
+
+atau dihentikan karena terjadinya efek samping atau Salah satu dari dua selaput di sekitar paru-paru. Dua 
+
+masalah lainnya selaput ini disebut pleura viseral dan parietal 
+
+PENGOBATAN LINI KETIGA  PNEUMONEKTOMI  
+
+Pengobatan lini ketiga yang diberikan kepada pasien Operasi pengangkatan paru-paru atau bagian dari 
+
+setelah pengobatan dua lini sebelumnya (lini pertama paru-paru 
+
+dan lini kedua) tidak berhasil atau telah dihentikan PNEUMONIA  
+karena terjadi efek samping atau masalah lainnya Peradangan paru-paru, biasanya disebabkan oleh 
+
+PENGOBATAN LINI PERTAMA  infeksi 
+
+Pengobatan awal yang diberikan kepada pasien  
+
+  
+ 
+
+ 
+
+64 
+
+
+
+ 
+
+GLOSARIUM  
+
+  
+PNEUMONITIS RADIASI  RESEKSI 
+Gejala-gejala batuk, demam, dan rasa penuh di dada Operasi untuk mengangkat jaringan 
+yang biasanya timbul 2 minggu hingga 6 bulan setelah 
+
+RESEKSI BAJI (ATAU SEGMEN)  
+radioterapi tetapi biasanya bersifat sementara 
+ Operasi pengangkatan segmen paru-paru tempat 
+POSITRON EMISSION TOMOGRAPHY (PET)  tumor berada 
+Pencitraan yang menggunakan pewarna dengan  
+
+RESEKSI SEGMEN (ATAU BAJI)   
+pelacak radioaktif yang disuntikkan ke pembuluh 
+
+Operasi pengangkatan segmen paru-paru tempat 
+darah vena di lengan Anda 
+
+tumor berada 
+PROGNOSIS  
+
+RINITIS  
+Kemungkinan hasil dari suatu kondisi medis 
+
+Peradangan selaput di dalam hidung 
+PROGRAMMED DEATH LIGAND-1 (PD-L1)  
+
+RONTGEN  
+Protein seluler yang diduga terlibat dalam membantu 
+
+Pencitraan menggunakan jenis radiasi yang dapat 
+tumor menghindari deteksi oleh sistem imun tubuh 
+
+melewati tubuh yang memungkinkan dokter Anda 
+PRURITUS  melihat ke dalam tubuh Anda 
+Rasa gatal yang parah pada kulit 
+
+SEKUENSIAL  
+RADIASI PENGION  Pengobatan yang diberikan setelah pengobatan 
+Jenis partikel atau gelombang elektromagnetik yang lainnya 
+membawa energi yang cukup untuk mengionisasi atau 
+
+SISTEM GETAH BENING  
+menghilangkan elektron dari atom (misalnya rontgen) 
+
+Jaringan dan organ yang membantu membuang racun, 
+RADIOAKTIF  limbah, dan bahan lain yang tidak diinginkan dari 
+Bahan yang tidak stabil dan secara spontan tubuh. Fungsi utama dari sistem getah bening adalah 
+memancarkan energi (radiasi) untuk mengangkut getah bening, cairan yang  
+
+RADIOTERAPI KONVENSIONAL  mengandung sel-sel darah putih penangkal infeksi, ke 
+
+Mengacu pada radioterapi yang diberikan kepada seluruh tubuh 
+
+tumor sebagai sebagian kecil dari dosis lengkap SISTEM PENCERNAAN  
+selama beberapa sesi – pengobatan biasanya terdiri Sistem organ yang bertanggung jawab memasukkan 
+atas dosis harian kecil selama beberapa minggu dan mengeluarkan makanan dari tubuh dan 
+
+RADIOTERAPI  memanfaatkan makanan untuk menjaga kesehatan 
+
+Pengobatan yang menggunakan radiasi energi tinggi tubuh – termasuk esofagus, lambung, dan usus 
+
+yang biasanya digunakan untuk mengobati kanker SPESIALIS ONKOLOGI  
+
+RAMUCIRUMAB  Seorang dokter yang memiliki spesialisasi dalam 
+
+Jenis terapi target yang memblokir aksi vascular penanganan medis kanker 
+
+endothelial growth factor dan mencegah sel-sel SPESIALIS PATOLOGI  
+kanker mengembangkan suplai darah mereka sendiri, Dokter yang mendiagnosis penyakit dengan 
+sehingga membantu memperlambat pertumbuhan memeriksa sampel sel dan jaringan 
+tumor. Obat ini diberikan melalui infus ke pembuluh 
+
+SPESIALIS RADIOLOGI  
+darah di lengan atau dada Anda dalam kombinasi 
+
+Seorang dokter yang memiliki spesialisasi dalam 
+dengan jenis kemoterapi lainnya 
+
+mendiagnosis dan mengobati penyakit dan cedera 
+REGIMEN  melalui penggunaan teknik pencitraan medis seperti 
+Rencana pengobatan rontgen, computed tomography, magnetic 
+
+RELAPS  resonance imaging, positron emission 
+
+Kembalinya kanker atau penurunan kondisi kesehatan tomography, dan USG 
+
+seseorang STADIUM AWAL (KANKER)  
+
+RENAL  Kanker yang belum menyebar ke kelenjar getah 
+
+Berkaitan dengan ginjal bening atau bagian tubuh lainnya 
+
+  
+  
+
+65 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+GLOSARIUM  
+ 
+
+ 
+STADIUM LANJUT LOKAL  TIDAK DAPAT DIRESEKSI  
+
+Kanker yang telah menyebar dari tempat asalnya ke Tidak dapat diangkat (direseksi) dengan operasi 
+
+jaringan terdekat atau kelenjar getah bening TIM MULTIDISIPLIN 
+ 
+STADIUM METASTASIS  Sekelompok petugas kesehatan yang berasal dari 
+
+Kanker yang telah menyebar dari tempat asalnya berbagai disiplin ilmu (misalnya spesialis onkologi, 
+
+(primer) ke berbagai bagian tubuh perawat spesialis, fisioterapis, spesialis radiologi) 
+yang memberikan layanan khusus kepada pasien. 
+
+STENT  Kegiatan tim dikombinasikan dengan menggunakan 
+Sebuah tabung kecil yang digunakan untuk menjaga rencana perawatan 
+jalan napas atau arteri tetap terbuka  
+
+TINITUS  
+STEREOTACTIC ABLATIVE RADIOTHERAPY Mendengar suara (seperti dering, rengekan, atau 
+(SABR)  dengung) ketika tidak ada suara eksternal di sekitar 
+Jenis radioterapi khusus yang diberikan pada tumor 
+dari berbagai arah menggunakan pemindaian TRAKEA  
+
+terperinci untuk memastikan penargetan yang tepat Batang tenggorokan – tabung lebar dan berongga 
+
+sehingga dosis yang lebih tinggi dapat diberikan dalam yang menghubungkan laring (atau kotak suara) ke 
+
+waktu yang lebih singkat bronkus paru-paru 
+
+STOMATITIS  TRAMETINIB  
+
+Peradangan bagian dalam mulut Jenis terapi target yang bekerja dengan memblokir 
+sinyal-sinyal di dalam sel-sel kanker dan menghentikan 
+
+SUBTIPE HISTOLOGIS  aksi protein yang disebut MEK1 dan MEK2. Obat ini 
+Jenis kanker berdasarkan jenis jaringan tempat kanker diberikan dalam bentuk tablet sekali sehari 
+berasal 
+
+TROMBOSIS  
+SUMSUM TULANG  Pembentukan bekuan darah di dalam pembuluh darah, 
+Sebuah jaringan spons yang ditemukan di dalam menghalangi aliran darah melalui sistem sirkulasi 
+beberapa tulang (misalnya tulang panggul dan paha). darah 
+Jaringan ini mengandung sel-sel punca yang dapat 
+berkembang menjadi sel darah merah, sel darah putih, TROMBOSIT  
+
+atau trombosit Sel-sel darah kecil yang membantu tubuh Anda 
+membentuk gumpalan untuk menghentikan 
+
+TAXANE  perdarahan 
+Kelas kemoterapi yang mencakup paclitaxel dan 
+docetaxel TROMBOSITOPENIA  
+
+Defisiensi trombosit di dalam darah. Kondisi ini 
+TERAPI ANTIANGIOGENIK  menyebabkan perdarahan pada jaringan, memar, dan 
+Suatu jenis terapi yang mengganggu pertumbuhan dan pembekuan darah yang lambat setelah cedera 
+kelangsungan hidup pembuluh darah baru 
+(angiogenesis), yang berperan penting dalam TUMOR  
+
+pertumbuhan dan penyebaran kanker Benjolan atau pertumbuhan sel yang abnormal. Tumor 
+dapat berupa jinak (bukan kanker) atau ganas 
+
+TERAPI INDUKSI  (kanker). Dalam panduan ini, istilah ‘tumor’ mengacu 
+Pengobatan awal dengan kemoterapi dan/atau pada pertumbuhan kanker, kecuali dinyatakan 
+radioterapi untuk mengecilkan tumor sebelum sebaliknya 
+pengobatan kedua yang telah direncanakan (misalnya 
+operasi) TUMOR PRIMER  
+
+Tumor tempat kanker pertama kali mulai tumbuh 
+TERAPI TARGET  
+Jenis pengobatan kanker yang lebih baru yang UJI KLINIS  
+
+menggunakan obat-obatan atau zat lain untuk Sebuah penelitian yang mengevaluasi efek 
+
+mengidentifikasi dan menyerang sel-sel kanker secara pengobatan 
+
+tepat, biasanya dengan sedikit kerusakan pada sel-sel URANIUM  
+normal Unsur radioaktif alami 
+
+  
+
+66 
+
+
+
+GLOSARIUM 
+
+USG 
+Jenis pemindaian medis di mana gelombang suara 
+diubah menjadi gambar oleh komputer 
+
+VASCULAR ENDOTHELIAL GROWTH FACTOR 
+(VEGF) 
+Protein yang diproduksi oleh sel-sel yang merangsang 
+pertumbuhan pembuluh darah baru 
+
+VIDEO-ASSISTED THORACIC SURGERY (VATS)  
+Prosedur pembedahan yang memungkinkan dokter 
+untuk melihat bagian dalam dada dan paru-paru. 
+Prosedur ini merupakan bentuk operasi ‘lubang kunci’ 
+
+VINORELBINE 
+Jenis kemoterapi yang diberikan melalui infus ke 
+pembuluh darah vena di lengan atau dada Anda 
+
+67 
+
+
+
+Kanker Paru Bukan Sel Kecil 
+
+Panduan ini disusun untuk membantu Anda, teman-teman Anda, dan keluarga Anda untuk lebih memahami sifat 
+kanker paru bukan sel kecil (KPBSK) dan pengobatan yang tersedia. Informasi medis yang dijelaskan dalam 
+dokumen ini didasarkan pada pedoman praktik klinis European Society for Medical Oncology (ESMO) untuk 
+penanganan KPBSK stadium awal, lanjut lokal, atau metastasis. Kami menyarankan Anda untuk bertanya 
+kepada dokter Anda tentang pemeriksaan dan jenis pengobatan yang tersedia di negara Anda untuk jenis dan 
+stadium KPBSK Anda.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Panduan ini ditulis oleh Kstorfin Medical Communications Ltd atas nama ESMO. 
+
+© Copyrigt 2019 European Society for Medical Oncology. Semua hak dilindungi undang-undang di seluruh 
+dunia. 
+
+European Society for Medical Oncology (ESMO) 
+Via Ginevra 4 
+6900 Lugano 
+Swiss 
+
+Tel: +41 (0)91 973 19 99 
+Faks.: +41 (0)91 973 19 02 
+E-mail to: patient_guides@esmo.org 
+
+68 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kami dapat membantu Anda memahami kanker paru bukan sel kecil dan pilihan 
+pengobatan yang tersedia. 
+
+ 
+Panduan ESMO untuk Pasien dirancang untuk membantu pasien, kerabat, dan pengasuh 
+mereka untuk memahami sifat dari berbagai jenis kanker dan mengevaluasi pilihan 
+pengobatan terbaik yang tersedia. Informasi medis yang dijelaskan dalam Panduan untuk 
+Pasien didasarkan pada Pedoman Praktik Klinis ESMO, yang dirancang untuk memandu 
+dokter spesialis onkologi dalam diagnosis, tindak lanjut, dan pengobatan berbagai jenis 
+kanker. 
+
+Untuk informasi lebih lanjut, silakan kunjungi www.esmo.org 
+
+69
