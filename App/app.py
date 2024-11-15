@@ -21,7 +21,7 @@ from about_us import about_us_section
 # Sidebar menu
 with st.sidebar:
     selected = option_menu(
-        menu_title='HealthAI',
+        menu_title='PTM-PRe',
         options=[
             'Home',
             'HT Prediction',
@@ -40,7 +40,7 @@ def load_model(model_path):
     return joblib.load(model_path)
 
 # Load models
-model_ht = load_model("../Output Model/model_ht.pkl")
+model_ht = load_model("./Output Model/model_ht.pkl")
 model_dm = load_model("./Output Model/model_dm.pkl")
 model_lc= load_model("./Output Model/model_lc.pkl")
 
@@ -50,9 +50,9 @@ def load_scaler(scaler_path):
     return joblib.load(scaler_path)
 
 # Load scaler
-scaler_ht = load_scaler("./Output_Model/scaler_ht.pkl")
-scaler_dm = load_scaler("./Output_Model/scaler_dm.pkl")
-scaler_lc = load_scaler("./Output_Model/scaler_lc.pkl")
+scaler_ht = load_scaler("./Output Model/scaler_ht.pkl")
+scaler_dm = load_scaler("./Output Model/scaler_dm.pkl")
+scaler_lc = load_scaler("./Output Model/scaler_lc.pkl")
 
 # Daftar penyakit untuk inisialisasi retrievers
 disease_list = ["HT", "DM", "KP"]
@@ -161,29 +161,24 @@ def triple_column_input(inputs):
 def predict_ht():
     st.markdown("<h1 style='text-align: center;'>Prediksi Hipertensi</h1>", unsafe_allow_html=True)
     inputs = {
-        "cp": {"label": "Tipe Sakit Data", "options": [0, 1, 2, 3], "type": "selectbox", 
-               "format_func": lambda x: {0: "Asymptomatic", 1: "Typical Angina", 2: "Atypical Angina", 3: "Non-Anginal"}[x]},
-        "trestbps": {"label": "Trestbps", "min_value": 50.0, "max_value": 200.0, "step": 0.1, "type": "number_input"},
-        "restecg": {"label": "Hasil Resting ECG", "options": [0, 1], "type": "selectbox", 
-                    "format_func": lambda x: "Normal" if x == 0 else "Abnormal"},
-        "thalach": {"label": "Thalach", "min_value": 50.0, "max_value": 250.0, "step": 0.1, "type": "number_input"},
-        "exang": {"label": "Latihan Selama angina", "options": [0, 1], "type": "selectbox", 
+        "cp": {"label": "Tipe Nyeri Data", "options": [0, 1, 2, 3], "type": "selectbox", 
+               "format_func": lambda x: {0: "Tanpa Gejala", 1: "Typical Angina", 2: "Atypical Angina", 3: "Non-Anginal"}[x]},
+        "thalach": {"label": "Detak Jantung Maksimum", "min_value": 50.0, "max_value": 250.0, "step": 0.1, "type": "number_input"},
+        "exang": {"label": "Angina Dipicu Oleh Olahraga", "options": [0, 1], "type": "selectbox", 
                   "format_func": lambda x: "Tidak" if x == 0 else "Ya"},
-        "oldpeak": {"label": "ST Depression", "min_value": 0.0, "max_value": 10.0, "step": 0.1, "type": "number_input"},
-        "slope": {"label": "Kondisi Kesehatan Umum", "options": [0, 1, 2], "type": "selectbox", 
-                  "format_func": lambda x: {0: "Upsloping", 1: "Flat", 2: "Downsloping"}[x]},
-        "ca": {"label": "Jumlah Vessels Utama", "options": [0, 1, 2, 3, 4], "type": "selectbox", 
+        "oldpeak": {"label": "Depresi ST Akibat Olahraga", "min_value": 0.0, "max_value": 10.0, "step": 0.1, "type": "number_input"},
+        "slope": {"label": "Kemiringan segemen ST", "options": [0, 1, 2], "type": "selectbox", 
+                  "format_func": lambda x: {0: "Menanjak", 1: "Datar", 2: "Menurun"}[x]},
+        "ca": {"label": "Jumlah Pembuluh Utama", "options": [0, 1, 2, 3, 4], "type": "selectbox", 
                "format_func": lambda x: str(x)},
-        "thal": {"label": "Thal", "options": [0, 1, 2], "type": "selectbox", 
-                 "format_func": lambda x: {0: "Normal", 1: "Fixed Defect", 2: "Reversable Defect"}[x]}
+        "thal": {"label": "Thalassemia", "options": [0, 1, 2], "type": "selectbox", 
+                 "format_func": lambda x: {0: "Normal", 1: "Cacat Tetap", 2: "Cacat"}[x]}
     }
     triple_column_input(inputs)
 
     if st.button("Prediksi"):
         # Menangkap input pengguna
         cp = st.session_state.cp
-        trestbps = st.session_state.trestbps
-        restecg = st.session_state.restecg
         thalach = st.session_state.thalach
         exang = st.session_state.exang
         oldpeak = st.session_state.oldpeak
@@ -192,8 +187,8 @@ def predict_ht():
         thal = st.session_state.thal
         
         # Membuat DataFrame untuk input
-        input_data = pd.DataFrame([[cp, trestbps, restecg, thalach, exang, oldpeak, slope, ca, thal]], 
-                                  columns=['cp', 'trestbps', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal'])
+        input_data = pd.DataFrame([[cp, thalach, exang, oldpeak, slope, ca, thal]], 
+                                  columns=['cp', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal'])
         
         # Lakukan scaling pada data
         input_data_scaled = scaler_ht.transform(input_data)
@@ -210,8 +205,6 @@ def predict_ht():
         # Menyimpan hasil prediksi di session_state untuk halaman rekomendasi
         st.session_state['ht_prediction'] = {
             "cp": cp,
-            "trestbps": trestbps,
-            "restecg": restecg,
             "thalach": thalach,
             "exang": exang,
             "oldpeak": oldpeak,
@@ -290,6 +283,7 @@ def predict_dm():
             st.session_state.page = 'Recommendation'
             st.rerun()
 
+# Fungsi prediksi KP
 def predict_lungcancer():
     st.markdown("<h1 style='text-align: center;'>Prediksi Kanker Paru-Paru</h1>", unsafe_allow_html=True)
     inputs = {
@@ -309,18 +303,6 @@ def predict_lungcancer():
         "FATIGUE": {"label": "Mengalami Kelelahan?", "options": [1, 2], "type": "selectbox", 
                 "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
         "ALLERGY": {"label": "Memiliki Alergu?", "options": [1, 2], "type": "selectbox", 
-                "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
-        "WHEEZING": {"label": "Mengalami Mengi?", "options": [1, 2], "type": "selectbox", 
-                "format_func": lambda x: "Tidak" if x == 1 else "Ya"},      
-        "ALCOHOL_CONSUMING": {"label": "Konsumsi Alkohol?", "options": [1, 2], "type": "selectbox", 
-                "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
-        "COUGHING": {"label": "Mengalami Batuk?", "options": [1, 2], "type": "selectbox", 
-                "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
-        "SHORTNESS_OF_BREATH": {"label": "Mengalami Sesak Napas?", "options": [1, 2], "type": "selectbox", 
-                "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
-        "SWALLOWING_DIFFICULTY": {"label": "Mengalami Kesulitan Menelan?", "options": [1, 2], "type": "selectbox", 
-                "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
-        "CHEST_PAIN": {"label": "Mengalami Nyeri Dada?", "options": [1, 2], "type": "selectbox", 
                 "format_func": lambda x: "Tidak" if x == 1 else "Ya"}
     }
     triple_column_input(inputs)
@@ -336,21 +318,12 @@ def predict_lungcancer():
         CHRONIC_DISEASE = st.session_state.CHRONIC_DISEASE
         FATIGUE = st.session_state.FATIGUE
         ALLERGY = st.session_state.ALLERGY
-        WHEEZING = st.session_state.WHEEZING
-        ALCOHOL_CONSUMING = st.session_state.ALCOHOL_CONSUMING
-        COUGHING = st.session_state.COUGHING
-        SHORTNESS_OF_BREATH = st.session_state.SHORTNESS_OF_BREATH
-        SWALLOWING_DIFFICULTY = st.session_state.SWALLOWING_DIFFICULTY
-        CHEST_PAIN = st.session_state.CHEST_PAIN
         
         # Membuat DataFrame untuk input
         input_data = pd.DataFrame([[GENDER, AGE, SMOKING, YELLOW_FINGERS, ANXIETY, PEER_PRESSURE, 
-                                    CHRONIC_DISEASE, FATIGUE, ALLERGY, WHEEZING, ALCOHOL_CONSUMING, 
-                                    COUGHING, SHORTNESS_OF_BREATH, SWALLOWING_DIFFICULTY, CHEST_PAIN]], 
-                                  columns=['GENDER', 'AGE', 'SMOKING', 'YELLOW_FINGERS', 'ANXIETY',
-                                           'PEER_PRESSURE', 'CHRONIC DISEASE', 'FATIGUE ', 'ALLERGY ', 'WHEEZING',
-                                           'ALCOHOL CONSUMING', 'COUGHING', 'SHORTNESS OF BREATH',
-                                           'SWALLOWING DIFFICULTY', 'CHEST PAIN'])
+                                    CHRONIC_DISEASE, FATIGUE, ALLERGY]], 
+                                    columns=['GENDER', 'AGE', 'SMOKING', 'YELLOW_FINGERS', 'ANXIETY',
+                                             'PEER_PRESSURE', 'CHRONIC DISEASE', 'FATIGUE ', 'ALLERGY '])
 
         # Lakukan scaling pada data menggunakan scaler yang telah terfit
         input_data_scaled = scaler_lc.transform(input_data)
@@ -371,12 +344,10 @@ def predict_lungcancer():
             "SMOKING": SMOKING,
             "YELLOW_FINGERS": YELLOW_FINGERS,
             "ANXIETY": ANXIETY,
-            "PEER_PRESSURE": PEER_PRESSURE,
+            "PEER_PREASURE": PEER_PRESSURE,
             "CHRONIC_DISEASE": CHRONIC_DISEASE,
-            "ALCOHOL_CONSUMING": ALCOHOL_CONSUMING,
-            "COUGHING": COUGHING,
-            "SWALLOWING_DIFFICULTY": SWALLOWING_DIFFICULTY,
-            "CHEST_PAIN": CHEST_PAIN,
+            "FATIGUE": FATIGUE,
+            "ALLERGY": ALLERGY,
             "hasil_prediksi": hasil_prediksi
         }
         

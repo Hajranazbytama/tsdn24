@@ -6,7 +6,8 @@ def home_section():
     # Judul
     st.markdown(
         """
-        <h1 style="text-align: center; margin-bottom: 20px;">Selamat Datang 🙌😊<br> di Sistem Pemantauan PTM</h1>
+        <h1 style="text-align: center; margin-bottom: 20px;">Selamat Datang 🙌😊</h1>
+        <h3 style="text-align: center; margin-bottom: 20px;">PTM-PRe: Aplikasi Prediksi Penyakit Tidak Menular dan Rekomendasi Personal Berbasis AI</h3>
         """, unsafe_allow_html=True
     )
     st.write("Sistem ini dapat membantu Anda dalam memantau kesehatan Anda pada Penyakit Tidak Menular (PTM)")
@@ -62,52 +63,65 @@ def home_section():
     </div>
     """, unsafe_allow_html=True)
 
-    def show_interactive_chart():
-        # Data dummy untuk grafik kematian
-        tahun = np.arange(2010, 2021)
-        kematian_ppok = np.array([1000, 1200, 1500, 1800, 2000, 2300, 2600, 2900, 3200, 3500, 3800])
-        kematian_dm = np.array([900, 1100, 1400, 1600, 1800, 2100, 2400, 2700, 3000, 3300, 3600])
-        kematian_heart = np.array([800, 1000, 1300, 1500, 1700, 2000, 2300, 2600, 2900, 3200, 3500])
+    st.markdown(
+        """
+        <h3 style="text-align: center; margin-top: 40px;, font-weight:bold;">Perkembangan Prevalensi PTM di Indonesia</h3>
+        """, unsafe_allow_html=True
+    )
 
-        # Membuat grafik interaktif dengan Plotly
+    def show_interactive_chart():
+        # Data prevalensi penyakit yang ada di 2013, 2018, dan SKI 2023
+        tahun = ['2013', '2018', '2023']
+        
+        # Prevalensi penyakit untuk tahun 2013
+        prevalensi_2013 = {
+            'Asma': 4.5, 'Kanker': 3.7, 'Diabetes Melitus': 1.5,
+            'Hipertensi': 9.4, 'Stroke': 7.0, 'Penyakit Jantung': 0.5
+        }
+        
+        # Prevalensi penyakit untuk tahun 2018
+        prevalensi_2018 = {
+            'Asma': 2.4, 'Kanker': 1.79, 'Diabetes Melitus': 1.5,
+            'Hipertensi': 8.36, 'Stroke': 10.9, 'Penyakit Jantung': 1.5
+        }
+        
+        # Prevalensi penyakit untuk SKI 2023
+        prevalensi_ski_2023 = {
+            'Asma': 1.6, 'Kanker': 1.2, 'Diabetes Melitus': 1.7,
+            'Hipertensi': 8.0, 'Stroke': 8.3, 'Penyakit Jantung': 0.85
+        }
+
+        # Penyakit yang ada di ketiga tahun
+        penyakit = list(prevalensi_2013.keys())  # Penyakit yang ada di ketiga tahun
+        
+        # Menyusun data untuk plot
         fig = go.Figure()
 
-        # Menambahkan data PPOK
-        fig.add_trace(go.Scatter(
-            x=tahun, y=kematian_ppok, mode='lines+markers', name='PPOK',
-            marker=dict(size=8), line=dict(width=2)))
-
-        # Menambahkan data Diabetes Melitus
-        fig.add_trace(go.Scatter(
-            x=tahun, y=kematian_dm, mode='lines+markers', name='Diabetes Melitus',
-            marker=dict(size=8), line=dict(width=2)))
-
-        # Menambahkan data Penyakit Jantung
-        fig.add_trace(go.Scatter(
-            x=tahun, y=kematian_heart, mode='lines+markers', name='Penyakit Jantung',
-            marker=dict(size=8), line=dict(width=2)))
+        # Menambahkan data prevalensi setiap penyakit
+        for p in penyakit:
+            # Mengambil nilai prevalensi untuk setiap tahun
+            prevalensi_2013_vals = prevalensi_2013.get(p, 0)
+            prevalensi_2018_vals = prevalensi_2018.get(p, 0)
+            prevalensi_ski_2023_vals = prevalensi_ski_2023.get(p, 0)
+            
+            # Menambahkan garis untuk penyakit tersebut
+            fig.add_trace(go.Scatter(
+                x=tahun, y=[prevalensi_2013_vals, prevalensi_2018_vals, prevalensi_ski_2023_vals], 
+                mode='lines+markers', name=p,
+                marker=dict(size=8), line=dict(width=2)
+            ))
 
         # Menambahkan label dan judul rata tengah
         fig.update_layout(
             xaxis_title="Tahun",
-            yaxis_title="Jumlah Kematian",
-            legend_title="Jenis Penyakit",
-            hovermode="x unified"  # Menampilkan semua data dalam satu tooltip
+            yaxis_title="Prevalensi (%)",
+            legend_title="Nama Penyakit",
+            hovermode="x unified"
         )
 
         # Menampilkan grid
         fig.update_xaxes(showgrid=True, gridwidth=1, gridcolor="LightGrey")
         fig.update_yaxes(showgrid=True, gridwidth=1, gridcolor="LightGrey")
-
-        # Menampilkan judul menggunakan Streamlit dengan sedikit margin bawah
-        st.markdown(
-            """
-            <div style="text-align: center; font-size: 24px; font-weight: bold; margin-top: 20px; margin-bottom: -20px;">
-                Kasus PTM di Indonesia 📈
-            </div>
-            """, 
-            unsafe_allow_html=True
-        )
 
         # Menampilkan grafik di Streamlit
         st.plotly_chart(fig, use_container_width=True)
@@ -116,7 +130,7 @@ def home_section():
         st.markdown(
             """
             <div style="text-align: center; font-size: 12px; color: grey; margin-top: -10px;">
-                Sumber: <a href="https://www.example.com" target="_blank">www.example.com</a>
+                Sumber: Riset Kesehatan Dasar (Riskesdas) 2013, 2018, dan SKI 2023
             </div>
             """, 
             unsafe_allow_html=True
