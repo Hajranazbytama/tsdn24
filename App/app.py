@@ -318,7 +318,7 @@ def predict_lungcancer():
                 "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
         "FATIGUE": {"label": "Mengalami Kelelahan?", "options": [1, 2], "type": "selectbox", 
                 "format_func": lambda x: "Tidak" if x == 1 else "Ya"},
-        "ALLERGY": {"label": "Memiliki Alergu?", "options": [1, 2], "type": "selectbox", 
+        "ALLERGY": {"label": "Memiliki Alergi?", "options": [1, 2], "type": "selectbox", 
                 "format_func": lambda x: "Tidak" if x == 1 else "Ya"}
     }
     triple_column_input(inputs)
