@@ -77,7 +77,7 @@ def load_documents_by_disease(disease):
 def init_recommendation():
     # Load API key dan model
     load_dotenv()
-    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+    GEMINI_API_KEY = st.secret["GEMINI_API_KEY"]
     embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=GEMINI_API_KEY)
     llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=GEMINI_API_KEY)
 
