@@ -65,7 +65,7 @@ def load_documents_by_disease(disease):
     documents = []
     for txt_path in all_txt_paths:
         txt_path = txt_path.replace(os.sep, '/')
-        loader = TextLoader(txt_path)
+        loader = TextLoader(txt_path, encoding='utf-8')
         txt_docs = loader.load()
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
         documents.extend(text_splitter.split_documents(txt_docs))
@@ -395,7 +395,7 @@ def show_recommendation():
         query = f"{pred_data} {additional_info}"
 
         # Mengambil retriever sesuai penyakit yang dipilih
-        disease_key = "HT" if selected_disease == "Hipertensi" else "DM" if selected_disease == "Diabetes" else "Stroke"
+        disease_key = "HT" if selected_disease == "Hipertensi" else "DM" if selected_disease == "Diabetes" else "KP"
         retriever = retrievers[disease_key]
 
         # Mengambil dokumen yang relevan dengan retriever
@@ -410,6 +410,8 @@ def show_recommendation():
         
         # Memusatkan tombol dan hasil rekomendasi
         if st.button("Dapatkan Rekomendasi"):
+            import time
+            time_now = time.time()
             # Menyusun prompt berdasarkan jenis rekomendasi yang dipilih
             if recommendation_type == "Rekomendasi Pengobatan":
                 prompt = generate_treatment_prompt(query, context, selected_disease)
@@ -421,7 +423,7 @@ def show_recommendation():
             # Menghasilkan jawaban menggunakan LLM dengan prompt yang telah disusun
             messages = [HumanMessage(content=prompt)]
             answer = llm(messages=messages)
-
+            st.write(time.time() - time_now)
             # Menampilkan jawaban rekomendasi dengan pemusatan
             st.markdown(f"**Rekomendasi {recommendation_type}:** {answer.content}")
     else:
