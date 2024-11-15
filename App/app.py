@@ -65,14 +65,24 @@ disease_list = ["HT", "DM", "KP"]
 
 # Fungsi untuk memuat dokumen berbasis penyakit dalam format .txt
 def load_documents_by_disease(disease):
-    txt_folder_path = f"./Data/{disease}"
+    """
+    Load documents for a specific disease from the respective folder.
+    """
+    txt_folder_path = os.path.join(os.path.dirname(__file__), "Data", disease)  # Build absolute path
+    if not os.path.exists(txt_folder_path):
+        raise FileNotFoundError(f"Folder not found for disease: {disease} at {txt_folder_path}")
+    
+    # Find all .txt files in the folder
     all_txt_paths = glob.glob(os.path.join(txt_folder_path, "*.txt"))
+    if not all_txt_paths:
+        raise FileNotFoundError(f"No .txt files found for disease: {disease} in {txt_folder_path}")
 
     documents = []
     for txt_path in all_txt_paths:
-        txt_path = txt_path.replace(os.sep, '/')
         loader = TextLoader(txt_path, encoding='utf-8')
         txt_docs = loader.load()
+
+        # Split the documents into manageable chunks
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
         documents.extend(text_splitter.split_documents(txt_docs))
 
