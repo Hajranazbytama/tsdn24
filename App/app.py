@@ -34,25 +34,31 @@ with st.sidebar:
         default_index=0
     )
 
+# Helper function to load models with absolute path
 @st.cache_resource
 def load_model(model_path):
-# Helper function to load model
-    return joblib.load(model_path)
+    abs_path = os.path.join(os.path.dirname(__file__), model_path)  # Build absolute path
+    if not os.path.exists(abs_path):  # Check if the file exists
+        raise FileNotFoundError(f"Model file not found at: {abs_path}")
+    return joblib.load(abs_path)
 
 # Load models
-model_ht = load_model("./Output Model/model_ht.pkl")
-model_dm = load_model("./Output Model/model_dm.pkl")
-model_lc= load_model("./Output Model/model_lc.pkl")
+model_ht = load_model("Output Model/model_ht.pkl")
+model_dm = load_model("Output Model/model_dm.pkl")
+model_lc = load_model("Output Model/model_lc.pkl")
 
+# Helper function to load scalers with absolute path
 @st.cache_resource
 def load_scaler(scaler_path):
-# Helper function to load scaler
-    return joblib.load(scaler_path)
+    abs_path = os.path.join(os.path.dirname(__file__), scaler_path)  # Build absolute path
+    if not os.path.exists(abs_path):  # Check if the file exists
+        raise FileNotFoundError(f"Scaler file not found at: {abs_path}")
+    return joblib.load(abs_path)
 
-# Load scaler
-scaler_ht = load_scaler("./Output Model/scaler_ht.pkl")
-scaler_dm = load_scaler("./Output Model/scaler_dm.pkl")
-scaler_lc = load_scaler("./Output Model/scaler_lc.pkl")
+# Load scalers
+scaler_ht = load_scaler("Output Model/scaler_ht.pkl")
+scaler_dm = load_scaler("Output Model/scaler_dm.pkl")
+scaler_lc = load_scaler("Output Model/scaler_lc.pkl")
 
 # Daftar penyakit untuk inisialisasi retrievers
 disease_list = ["HT", "DM", "KP"]
